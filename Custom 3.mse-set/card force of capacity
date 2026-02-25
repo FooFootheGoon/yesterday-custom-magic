@@ -1,0 +1,41 @@
+﻿mse_version: 2.5.7
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 1
+		chop_bottom: 1
+		frames: universes beyond
+		other_options: auto nyx crowns
+		text_box_mana_symbols: magic-mana-large.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2025-04-06 05:57:58
+	time_modified: 2026-02-25 02:03:57
+	name: Force of Capacity
+	casting_cost: 1RR
+	image: image94.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant ◌̵  Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		<b>As long as it’s not your turn ↦ You may exile a red card from your hand rather than pay this spell’s mana cost.</b> Until the end of your next turn ↦ You may play that card.
+		Exile the top two cards of your library. Until the end of your next turn ↦ You may play those cards.
+	flavor_text: <i-flavor></i-flavor>
+	watermark: custom watermark one
+	card_stamp: flatstamped universes beyond
+	illustrator: Michelle Fus
+	additional_credit_2: Ava's Demon
+	additional_credit_brush_2: flavor
+	card_code_text: — 3rd party card.
+	card_code_text_2: 
+	card_code_text_3: 

@@ -1,0 +1,27 @@
+﻿mse_version: 2.5.7
+card:
+	has_styling: false
+	notes: https://www.artstation.com/artwork/xYZQ9E
+	time_created: 2023-11-19 08:39:00
+	time_modified: 2026-02-23 15:15:31
+	name: Maelstrom Hotspot
+	transformation: extra comedy
+	image: image72
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>◌̵  Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: mythic rare
+	rule_text:
+		<sym-auto>T</sym-auto>, Pay 2 life, sacrifice a Land: Count the number of Basic Land subtypes of the sacrificed Land. Tutor a Land card with a number<soft-line>
+		</soft-line>of Basic Land subtypes equal to<soft-line>
+		</soft-line>that number plus one, then put it onto the battlefield tapped.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Laszlo Pinter (Las Pinter)
+	card_code_text: — 3rd party card.
+	card_code_text_2: — 3rd party card.
+	card_code_text_3: — 3rd party card.
+	copyright: 
+	copyright_2: 
+	copyright_3: 

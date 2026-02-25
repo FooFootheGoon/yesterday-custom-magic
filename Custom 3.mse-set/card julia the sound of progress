@@ -1,0 +1,43 @@
+﻿mse_version: 2.5.7
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 1
+		chop_bottom: 1
+		frames: puma
+		other_options: auto nyx crowns
+		hybrid_name: hybrid
+		text_box_mana_symbols: magic-mana-large.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		https://www.artstation.com/artwork/oO0BqL
+		
+		Michał Sałata
+	time_created: 2023-11-18 13:36:41
+	time_modified: 2026-02-24 20:29:47
+	border_color: rgb(0,0,0)
+	name: Julia, the Sound of Progress
+	casting_cost: U/RU/R
+	card_symbol: alchemy
+	image: image44
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary ◌̵  Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human,</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Warlock,</word-list-class-en><atom-sep> </atom-sep><word-list-class-en>Bard</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		The first time you would create a ᵃTreasure token each turn ⇨ Instead conjure a <u>Power Depot</u> card onto the battlefield. ⇨ It enters untapped and it has “<kw-0><nospellcheck><key>Vanishing <param-number>2</param-number></key></nospellcheck></kw-0>”.
+		<sym-auto>2R/G</sym-auto>, <sym-auto>T</sym-auto>: Create a <u><kw-0><nospellcheck><key>Treasure toke<param-*s>n</u></param-*s></key></nospellcheck></kw-0>.
+		<sym-auto>5G/U</sym-auto>, <sym-auto>T</sym-auto>: <kw-0><nospellcheck><key>Proliferate</key></nospellcheck></kw-0>.
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 1
+	illustrator: Michal Salata
+	card_code_text: — 3rd party card.
+	card_code_text_2: — 3rd party card.
+	card_code_text_3: — 3rd party card.
+	copyright: 
+	copyright_2: 
+	copyright_3: 

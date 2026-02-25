@@ -1,0 +1,44 @@
+﻿mse_version: 2.5.7
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 1
+		chop_bottom: 2
+		frames: puma
+		other_options: auto nyx crowns
+		hybrid_name: gold
+		text_box_mana_symbols: magic-mana-large.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2025-04-04 17:04:56
+	time_modified: 2026-02-23 15:15:15
+	card_color: blue, black, green, hybrid, horizontal, reversed
+	name: Gafudo, Harbinger of Rebirth
+	casting_cost: 2U/BG
+	transformation: extra comedy
+	image: image61.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary ◌̵  Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Dryad,</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Demon</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: mythic rare
+	rule_text:
+		<kw-a><nospellcheck><key>Hexproof</key></nospellcheck></kw-a>
+		<kw-a><nospellcheck><key>Exploit</key></nospellcheck></kw-a> <i-auto>(When this Creature enters; You may sacrifice a Creature.)</i-auto>
+		Whenever a Creature exploits a Creature you own other than itself; At the beginning of the next end step; You may return the exploited card from your graveyard to your hand.
+		Whenever one or more Creature cards leave your graveyard; You may tutor a Land card, then put it into your graveyard.
+	flavor_text: <i-flavor></i-flavor>
+	power: 2/2
+	toughness: 
+	illustrator: DreadJim
+	card_code_text: — 3rd party card.
+	card_code_text_2: 
+	card_code_text_3: 

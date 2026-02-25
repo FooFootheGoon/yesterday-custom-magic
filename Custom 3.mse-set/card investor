@@ -1,0 +1,42 @@
+﻿mse_version: 2.5.7
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 1
+		chop_bottom: 
+		frames: universes beyond
+		other_options: auto nyx crowns
+		text_box_mana_symbols: magic-mana-large.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: https://www.youtube.com/watch?v=irikdxV84X4
+	time_created: 2023-11-23 20:14:33
+	time_modified: 2026-02-25 01:56:25
+	name: Investor
+	casting_cost: 3WB
+	image: image174
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>◌̵  Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Zombie,</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Fungus,</word-list-class-en><atom-sep> </atom-sep><word-list-class-en>Bird</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: mythic rare
+	rule_text:
+		<i>Spore Investment</i> — <sym-auto>G/WB/G</sym-auto>, <sym-auto>T</sym-auto>: Put a “<kw-a><nospellcheck><key>Lifelink</key></nospellcheck></kw-a>” counter and a spore counter on target Creature. Activate at sorcery speed.>
+		Whenever a Creature an opponent controls which has a spore counter on it dies; Return it to the battlefield under your control with a <kw-a><nospellcheck><key>Finality counter</key></nospellcheck></kw-a> on it. It’s a copy of this Creature.<soft-line>
+		</soft-line><i>(If a Creature with a <kw-a><nospellcheck><key>Finality counter</key></nospellcheck></kw-a> would die</i><soft-line>
+		</soft-line><i>⇨ Exile it instead.)</i>
+	flavor_text: <i-flavor></i-flavor>
+	watermark: custom watermark four
+	power: 2
+	toughness: 2
+	card_stamp: universes beyond
+	illustrator: Jess Jackdaw
+	additional_credit_2: Jess Jackdaw
+	additional_credit_brush_2: flavor
+	card_code_text: — 3rd party card.
+	card_code_text_2: — 3rd party card.
+	card_code_text_3: — 3rd party card.
+	copyright: 
+	copyright_2: 
+	copyright_3: 

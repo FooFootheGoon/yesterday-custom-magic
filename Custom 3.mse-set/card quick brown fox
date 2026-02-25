@@ -1,0 +1,38 @@
+﻿mse_version: 2.5.7
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 2
+		chop_bottom: 2
+		frames: 
+		other_options: auto nyx crowns
+		text_box_mana_symbols: magic-mana-large.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: https://www.artstation.com/artwork/rZDA2
+	time_created: 2023-11-18 12:38:45
+	time_modified: 2026-02-22 06:26:38
+	name: Quick Brown Fox
+	casting_cost: 1R
+	image: image28
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>◌̵  Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Fox</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		<kw-0><nospellcheck><key><b>Dash</b> <param-cost><sym-auto>1R</sym-auto></param-cost></key></nospellcheck></kw-0> <i-auto>(You may cast this spell for its Dash cost. If you do ⇨ It gains “<kw-0><nospellcheck><key>Haste</key></nospellcheck></kw-0>”. At the beginning of the next end step; Return it from the battlefield to its owner’s hand.)</i-auto>
+		<b><kw-0><nospellcheck><key>Blitz</b> <param-cost><sym-auto>1R</sym-auto></param-cost></key></nospellcheck></kw-0> <i-auto>(You may cast this spell for its Blitz cost. If you do ⇨ It gains “<kw-0><nospellcheck><key>Haste</key></nospellcheck></kw-0>” and “When this Creature dies; Draw a card”. At the beginning of the next end step; Sacrifice it.)</i-auto>
+		As long as this Creature didn’t die ↦ When it leaves; You may discard a card. If you do, draw a card.
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 1
+	separator: flavor bar
+	illustrator: Evan Raditya Pratomo
+	card_code_text: — 3rd party card.
+	card_code_text_2: — 3rd party card.
+	card_code_text_3: — 3rd party card.
+	copyright: 
+	copyright_2: 
+	copyright_3: 

@@ -1,0 +1,39 @@
+﻿mse_version: 2.5.7
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 1
+		chop_bottom: 1
+		frames: puma
+		other_options: auto nyx crowns
+		hybrid_name: gold
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: https://www.artstation.com/artwork/obdLEL
+	time_created: 2023-11-20 01:04:49
+	time_modified: 2026-02-24 20:45:24
+	card_color: white, blue, black, green, hybrid, radial
+	name: Fleshwisp, the Cleansing
+	casting_cost: G/WWU/BB
+	image: image119
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary ◌̵  Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Skeleton,</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Ox,</word-list-class-en><atom-sep> </atom-sep><word-list-class-en>Demon</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: mythic rare
+	rule_text:
+		<b>⇨ Fleshwisp enters with two -1 counters on it.</b>
+		<kw-0><nospellcheck><key>Backup <param-number>5</param-number></key></nospellcheck></kw-0> <i-auto>(When this Creature enters; Put five +1 counters on target Creature. If that’s another Creature, until end of turn ↦ It gains the following ability.)</i-auto>
+		This Creature gets +2/+2 for each -1 counter on it, and gets -2/-2 for each +1 counter on it.
+	flavor_text: <i-flavor></i-flavor>
+	power: 4
+	toughness: 4
+	illustrator: Katinka Thorondor
+	card_code_text: — 3rd party card.
+	card_code_text_2: — 3rd party card.
+	card_code_text_3: — 3rd party card.
+	copyright: 
+	copyright_2: 
+	copyright_3: 

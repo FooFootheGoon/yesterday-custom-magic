@@ -1,0 +1,33 @@
+﻿mse_version: 2.5.7
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-04-04 18:59:54
+	time_modified: 2026-02-24 22:11:29
+	name: Unco Anglerbeast
+	casting_cost: 2G
+	transformation: extra comedy
+	image: image12.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>◌̵  Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Beast,</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Fish</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		<i>Ability to Climb a Tree</i> — <sym-auto>1GU</sym-auto>, <sym-auto>T</sym-auto>: Tap target Creature. This permanent becomes a |Land — Forest| <i-auto>(It loses all other types and abilities)</i-auto>. Then it gains its other base ability. For as long as this permanent is a Forest ↦ During its controller’s untap step ↦⇨ The targeted Creature doesn’t untap.
+		<i>Out of Water</i> — <sym-auto>X2U</sym-auto>: Until the beginning of your next turn ↦ This permanent becomes a |Creature — Beast, Fish| 3/3 <i-auto>(It loses all other types and abilities)</i-auto>. Then put a +1 counter on this permanent, and it gains its other base ability. X is the number of +1 counters on this permanent.>
+	flavor_text: <i-flavor></i-flavor>
+	watermark: transparent mana symbol green
+	power: 3
+	toughness: 3
+	illustrator: clockbirds
+	card_code_text: — 3rd party card.
+	card_code_text_2: 
+	card_code_text_3: 

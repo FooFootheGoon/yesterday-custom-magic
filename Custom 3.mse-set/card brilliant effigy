@@ -1,0 +1,45 @@
+﻿mse_version: 2.5.7
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 6
+		frames: 
+		other_options: auto nyx crowns
+		text_box_mana_symbols: magic-mana-large.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2025-04-06 06:01:30
+	time_modified: 2026-02-25 02:03:17
+	card_color: blue, artifact, horizontal
+	name: Brilliant Effigy
+	casting_cost: 1UU
+	transformation: extra comedy
+	image: image56.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>◌̵  Artefact</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: Fortification
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: mythic rare
+	rule_text:
+		<kw-a><nospellcheck><key>Fortify <param-cost><sym-auto>1</sym-auto></param-cost></key></nospellcheck></kw-a>
+		Fortify Planeswalker <sym>2</sym>, <sym>T</sym> <i-auto>(<sym-auto>2</sym-auto>, <sym-auto>T</sym-auto>: Attach this Artefact to target Planeswalker you control as though that Planeswalker were a Land. Fortify at sorcery speed.>)</i-auto>
+		<sym-auto>1UU</sym-auto>, <sym-auto>T</sym-auto>, Sacrifice this Artefact: The next time you activate an ability of Fortified permanent, copy it. You may choose new targets for the copy. <i-auto>(Mana abilities can’t be copied. Loyalty abilities are not mana abilities, even if they add mana.)</i-auto>
+	flavor_text: <i-flavor>“Good followers, without Titan, life has no meaning. Titan is the best thing you’ll ever have.”</i-flavor>
+	watermark: custom watermark one
+	separator: flavor bar
+	card_stamp: universes beyond
+	illustrator: Michelle Fus
+	additional_credit_2: Ava's Demon
+	additional_credit_brush_2: flavor
+	card_code_text: — 3rd party card.
+	card_code_text_2: 
+	card_code_text_3: 

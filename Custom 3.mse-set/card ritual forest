@@ -1,0 +1,26 @@
+﻿mse_version: 2.5.7
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-02-23 13:31:53
+	time_modified: 2025-04-17 09:57:50
+	name: Ritual Forest
+	image: image97.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>◌̵  Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		<b>As long as you’ve already played a Land named <u>Ritual Forest</u> this turn ↦ If this Land would enter ⇨ Exile this card instead.</b>
+		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
+		<sym-auto>T</sym-auto>, Return this Land to its owner’s hand: Add <sym-auto>GG</sym-auto>.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Paul Konzen
+	card_code_text: — 3rd party card.
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

@@ -1,0 +1,26 @@
+﻿mse_version: 2.5.7
+card:
+	has_styling: false
+	notes: https://www.deviantart.com/peterkmiecik/art/Undead-Knight-793925341
+	time_created: 2023-11-19 22:57:42
+	time_modified: 2025-04-12 18:04:33
+	name: Forget Me Not
+	casting_cost: 4B
+	image: image113
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>◌̵  Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: mythic rare
+	rule_text:
+		<kw-a><i-auto><nospellcheck><key>Converge</key></nospellcheck></i-auto></kw-a> — You may return a Creature card with mana value X from your graveyard to the battlefield tapped, where X is the number of colours of mana spent to cast this spell.
+		<kw-a><i-auto><nospellcheck><key>Adamant</key></nospellcheck></i-auto></kw-a> — If at least three black mana was spent to cast this spell ↦ You may return a Creature card from your graveyard to the battlefield tapped.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Peter Kmiecik
+	card_code_text: — 3rd party card.
+	card_code_text_2: — 3rd party card.
+	card_code_text_3: — 3rd party card.
+	copyright: 
+	copyright_2: 
+	copyright_3: 

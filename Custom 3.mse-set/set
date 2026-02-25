@@ -1,0 +1,1192 @@
+﻿mse_version: 2.0.2
+game: magic
+game_version: 2024-10-01
+stylesheet: m15-altered
+stylesheet_version: 2024-09-23
+set_info:
+	title: Foo’s custom card bananza
+	copyright: Design — Yesterday
+	set_code: Foo
+	set_language: ENG
+	symbol: symbol3.mse-symbol
+	masterpiece_symbol: 
+	card_language: English (British)
+	mark_errors: yes
+	auto_correct: no
+	automatic_reminder_text: custom
+	card_number_style: 001/099
+	default_stamp: standard
+	custom_watermark_1: CWM-AvasDemon.png,Not found,Ensure the file name is correct in /data/magic-mainframe-extras and reload
+	custom_watermark_2: CWM-KSBD.png,Not found,Ensure the file name is correct in /data/magic-mainframe-extras and reload
+	custom_watermark_3: CWM-ArmelloLogo.png,Not found,Ensure the file name is correct in /data/magic-mainframe-extras and reload
+	custom_watermark_4: CWM-JessJackdaw.png,Not found,Ensure the file name is correct in /data/magic-mainframe-extras and reload
+	custom_super_types: Instant
+	custom_creature_races: Time Lord,,
+styling:
+	magic-m15:
+		color_indicator_dot: yes
+		use_guild_mana_symbols: no
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-adventure:
+		chop_main: 
+		chop_adventure: 9
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-aftermath:
+		grey_hybrid_name: no
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+	magic-m15-altered:
+		chop_top: 1
+		chop_bottom: 1
+		frames: 
+		other_options: auto nyx crowns
+		text_box_mana_symbols: magic-mana-large.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	magic-m15-doublefaced-sparker-exporter:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-future:
+		text_box_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	magic-m15-mainframe-tokens:
+		shrink_name_text: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-meld-colored:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-nyx:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-saga:
+		chapter_textboxes: three
+		snap_chapter_to_box: 
+		chapter_divider_coordinates: 
+		separated_text_size: 
+		custom_chapter_location: 
+		custom_chapter_name: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-spellbook:
+		remove_from_autocount: yes
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+include_file: card honey sucker
+include_file: card taste the knowledge forbidden
+include_file: card grave epiphany
+include_file: card dreamscape hydra
+include_file: card tentacly deluge
+include_file: card amara contingency curtailer
+include_file: card pipsqueak snailkind savior
+include_file: card cadaver cadaverer
+include_file: card being watched
+include_file: card sound master byte
+include_file: card make the pact
+include_file: card 82 white chain disembodied
+include_file: card stymie
+include_file: card inside and out
+include_file: card divinatory do-over
+include_file: card wayward light
+include_file: card voracious wrangler
+include_file: card 23 liminal blossom
+include_file: card diminishing mage
+include_file: card logical fallacy
+include_file: card hare-trigger cat burgler
+include_file: card temperamental landscape
+include_file: card charged mutasphere
+include_file: card machina deum
+include_file: card dissolve the flesh
+include_file: card preem praman nand
+include_file: card sanctimonious affiliation
+include_file: card contain the contemptuous
+include_file: card overshadow
+include_file: card foil the forbidden
+include_file: card sickening degree
+include_file: card disquiet reflection
+include_file: card disinteruption
+include_file: card conjuncture of enlightenment
+include_file: card choke point
+include_file: card pseudoflux titan
+include_file: card quickdraw salvage
+include_file: card crown of thorns
+include_file: card sphinx of black quartz
+include_file: card one foot in the grave
+include_file: card sewage imp
+include_file: card the maw of hunger
+include_file: card chevrolet movie theatre
+include_file: card anthropogenic sun
+include_file: card box of tricks
+include_file: card burning bridge
+include_file: card quick brown fox
+include_file: card julia the sound of progress
+include_file: card voracious mawbeast
+include_file: card water barrier
+include_file: card leyline centrifuge
+include_file: card tiefling with darkvision
+include_file: card freezer burn ritual
+include_file: card quickstorm
+include_file: card the purgatorium nemesis
+include_file: card only natural
+include_file: card starbeach moontide
+include_file: card kings relic
+include_file: card neck of the stonegiants
+include_file: card ocean eyes chronodragon
+include_file: card geostructure induction
+include_file: card fire attack you cant stop
+include_file: card make haste
+include_file: card zombie mutant boss elk token
+include_file: card portable forcefield
+include_file: card irrefutable omen
+include_file: card the eternity denizen
+include_file: card dubious transport beam
+include_file: card the expiration factory
+include_file: card leyline geostructure
+include_file: card topsoil titan
+include_file: card woods of reprieve
+include_file: card maelstrom hotspot
+include_file: card mountain valley kingdom
+include_file: card settlement by the ominous mouth
+include_file: card frostbite hellkite
+include_file: card slipstream shadow manifest
+include_file: card depress
+include_file: card germinate
+include_file: card the rise and the fall
+include_file: card charred forest
+include_file: card cryptomonk
+include_file: card take inventory frantically
+include_file: card no you dont
+include_file: card fleshmancer
+include_file: card bridge to above
+include_file: card grandiose aether burst
+include_file: card ruined prison
+include_file: card become corporeal
+include_file: card two evils
+include_file: card quicksilver golem
+include_file: card dig for answers
+include_file: card frickin nerd orc
+include_file: card the excogitatron
+include_file: card alacritous pixie
+include_file: card graveyard shifting
+include_file: card stop hitting yourself
+include_file: card learned trainee
+include_file: card improving mentor
+include_file: card practiced haemomancer
+include_file: card haunted house
+include_file: card samhain
+include_file: card languish in lunacy
+include_file: card trick or treat
+include_file: card voracious vontail
+include_file: card the calm
+include_file: card ruin
+include_file: card hexplicate
+include_file: card temporal mana surge
+include_file: card petrichor
+include_file: card desert elemental
+include_file: card new outlooks
+include_file: card forget me not
+include_file: card oracle of the pastiche
+include_file: card something fishy
+include_file: card wake-up call
+include_file: card impactful spirit
+include_file: card unfettered exhumation
+include_file: card substantiate
+include_file: card brightbeam the approximation
+include_file: card fleshwisp the cleansing
+include_file: card witching hour
+include_file: card ossification
+include_file: card spiral of knowledge
+include_file: card degenerative lunacy
+include_file: card dinosaur costume
+include_file: card seething regret
+include_file: card helping hand
+include_file: card untapped topography
+include_file: card hexakosioihexekontahexaphobia
+include_file: card unprecedented amplification
+include_file: card matriarch of denomination
+include_file: card dreadhorde dragon token
+include_file: card inversive corruption
+include_file: card 6 juggernaut star
+include_file: card nudge in the right direction
+include_file: card paper soldiers form a wall
+include_file: card ghost in the machine
+include_file: card shift in priorities
+include_file: card vladok unbound
+include_file: card season of frost
+include_file: card essence gorger
+include_file: card vexing resolution
+include_file: card lost time
+include_file: card sleetstorm refuge
+include_file: card the key of kings
+include_file: card nexus the edge of darkness
+include_file: card become incorporated
+include_file: card megan machiavellian mathematician
+include_file: card counterfeit copy
+include_file: card fade into the deep
+include_file: card powerful tome wielder
+include_file: card mog and tirra
+include_file: card ethereal tether
+include_file: card the oarman
+include_file: card kapri-soul
+include_file: card flock of famine
+include_file: card pest piper
+include_file: card weld wyrms
+include_file: card terraptor
+include_file: card speech leech
+include_file: card slaghund
+include_file: card omukade
+include_file: card madtrip
+include_file: card death shroud
+include_file: card kuo-toa psion
+include_file: card trick tree grick
+include_file: card mourners mire
+include_file: card demon beastmaster
+include_file: card death shroud.1
+include_file: card investor
+include_file: card drangeon
+include_file: card campbriar
+include_file: card philcolt predicta
+include_file: card one-armed oni
+include_file: card chained cashe
+include_file: card the flesh weaver
+include_file: card malignant brainburg
+include_file: card imitraitor
+include_file: card gargolem
+include_file: card wild mange
+include_file: card clot fly
+include_file: card smollusk
+include_file: card aberrant sentinel
+include_file: card g.e.e.s.e
+include_file: card slime head
+include_file: card tatzelwurm
+include_file: card flurrycast
+include_file: card tuilelaith the jump-shark
+include_file: card make the pact.1
+include_file: card hulking hive
+include_file: card captain jack harkness
+include_file: card fanciful familiar
+include_file: card amber the far seeker
+include_file: card sana forest sister
+include_file: card mercurio the grinning blade
+include_file: card thane the winter wolf
+include_file: card barnaby screwloose
+include_file: card brun oakbreaker
+include_file: card river the howling arrow
+include_file: card zosha the whirlwind
+include_file: card wip  magna the unbroken
+include_file: card elyssia the wardress of warrens
+include_file: card ghor the wyldkin
+include_file: card sargon the death teller
+include_file: card horace the iron poet
+include_file: card scarlet the bandit king
+include_file: card sylas the fisher of souls
+include_file: card twiss the little lightpaw
+include_file: card hargrave the thunder earl
+include_file: card griotte the butcher baroness
+include_file: card fang the exiled
+include_file: card yordana the devourer
+include_file: card wip  curse of skill
+include_file: card wip  curse of valour
+include_file: card wip  curse of eye
+include_file: card wip  curse of blood
+include_file: card wip  curse of fate
+include_file: card agniya the revenant
+include_file: card nazar the maniac
+include_file: card oxana the sentinel
+include_file: card volodar the wormchanter
+include_file: card the back of your mind
+include_file: card blinding knowledge
+include_file: card fishy ruins
+include_file: card ritual forest
+include_file: card wip
+include_file: card wip.1
+include_file: card immolation sphinx
+include_file: card the angel of secrets
+include_file: card super-duper dreadmaw
+include_file: card iris wildthyme meddler
+include_file: card clot fly.1
+include_file: card magmatic sinkhole
+include_file: card power depot
+include_file: card template
+include_file: card gafudo harbinger of rebirth
+include_file: card smoke and mirrors
+include_file: card splitting migraine
+include_file: card chinxilong the prudent
+include_file: card open-door cottage
+include_file: card shadow exuberance
+include_file: card straw man
+include_file: card the gate to paradise
+include_file: card kizha the spiritual kindling
+include_file: card undercurrent
+include_file: card unco anglerbeast
+include_file: card five-alarm fire
+include_file: card concrete jungle assimilator
+include_file: card behemoth bloodsucker
+include_file: card pan pan the barbarian
+include_file: card treasure golem
+include_file: card abandoned reserve
+include_file: card design-for-digital
+include_file: card wip  the history book
+include_file: card selkie honour guard
+include_file: card group pet project
+include_file: card feast for the king
+include_file: card taken underwing
+include_file: card wip  twill
+include_file: card riddance
+include_file: card takenuma burial ground
+include_file: card gatrikklibon persistent price
+include_file: card pastiche ritual
+include_file: card deathshift
+include_file: card it takes two
+include_file: card factory reset
+include_file: card event apex
+include_file: card dead silence
+include_file: card serpentine sewer-dweller
+include_file: card grand-treader troll
+include_file: card ríastrad
+include_file: card filopore grand reconstructor
+include_file: card the genesis splicer
+include_file: card heath the hoodwinker
+include_file: card red sky in the morning
+include_file: card into the nothing
+include_file: card see the wood for the trees
+include_file: card under the weather
+include_file: card what doesnt kill you
+include_file: card roll over and die
+include_file: card in sheeps clothing
+include_file: card tree of forgotten faces
+include_file: card trade secret
+include_file: card thought process
+include_file: card about town
+include_file: card out of mind
+include_file: card out of sight
+include_file: card yisun the universal lord
+include_file: card flummox
+include_file: card force of capacity
+include_file: card a sign of things to come
+include_file: card brilliant effigy
+include_file: card burning effigy
+include_file: card alma a killjoy
+include_file: card alma i devils advocate
+include_file: card have the stage
+include_file: card illusion assassin
+include_file: card feedback loop
+include_file: card bringer of the glistening dawn
+include_file: card cosmic hallway
+include_file: card vulnarch the front line
+include_file: card rekindle life
+include_file: card impending calamity
+include_file: card the omenpath to nowhere
+include_file: card convergence zone
+include_file: card elysium immense machination
+include_file: card double down
+include_file: card chest transplant
+include_file: card token gesture
+include_file: card father time
+include_file: card mother nature
+include_file: card moondust harvester
+include_file: card quell spell
+include_file: card ambitious graverobber
+include_file: card furtive flabberghaster
+include_file: card haemomancy
+include_file: card persistent slumber
+include_file: card lazarus the smoker
+include_file: card whip of motivation
+include_file: card wip  reverse the order of the stack
+include_file: card he
+include_file: card phantom limb
+include_file: card ximrod machinator menace
+include_file: card betwixt burdens of life
+include_file: card curtail
+include_file: card in the deep end
+include_file: card eupho eternally blinded
+include_file: card play fast and loose
+include_file: card wip.2
+include_file: card wip.3
+include_file: card fanciful familiar token
+include_file: card demon dog token
+include_file: card demon dog token.1
+include_file: card blood token
+include_file: card interior crocodile alligator
+include_file: card pastiche ritual token
+include_file: card shark illusion token
+include_file: card shark illusion token.1
+include_file: card shark illusion token.2
+include_file: card food token
+include_file: card food token.1
+include_file: card shark token
+include_file: card treasure token
+include_file: card dreadhorde dragon
+include_file: card dreadhorde dragon token.1
+include_file: card golem token
+include_file: card plant pest token
+include_file: card plant pest token.1
+include_file: card plant pest token.2
+include_file: card dreadhorde dragon token.2
+include_file: card illusion assassin token
+include_file: card tree of forgotten faces token
+include_file: card zombie army token
+include_file: card zombie mutant boss elk
+include_file: card spirit token
+include_file: card insect token
+include_file: card wip  srai the ashen god token
+include_file: card the parable of the once visionary
+include_file: card cat hydra nightmare
+include_file: card they what become real
+include_file: card mountain desert town
+include_file: card wip.4
+include_file: card lean into it
+include_file: card wip.5
+include_file: card unmaking and remaking yourself as god
+include_file: card wip.6
+include_file: card achilles bartrax
+include_file: card wip  zerdal wicsum
+include_file: card wip  wand of wonder
+include_file: card melecles champion of athreos
+include_file: card kleptos champion of miatros
+include_file: card tasia champion of ephara
+include_file: card persephone and odysseus
+include_file: card miatros champion of pharika
+include_file: card oxizanct champion of arasta
+include_file: card alekos champion of phenax
+include_file: card briammos that one pegasus
+include_file: card wip.7
+include_file: card encroaching stormlands
+include_file: card wip.8
+include_file: card wip.9
+include_file: card wip.10
+include_file: card dimly-lit walkway
+include_file: card mysteriously-shaped fungus
+include_file: card wip.11
+include_file: card wip.12
+include_file: card wip.13
+keyword:
+	keyword: 
+	match: 
+	reminder: 
+	rules: 
+	mode: expert
+keyword:
+	keyword: Devour
+	match: <atom-param>mana</atom-param>Devour <atom-param>number</atom-param>
+	reminder: 
+	rules: 
+	mode: custom
+keyword:
+	keyword: Devour
+	match: <atom-param>*s</atom-param><atom-param>mill</atom-param>Devour <atom-param>number</atom-param>
+	reminder: 
+	rules: 
+	mode: expert
+keyword:
+	keyword: Fading
+	match: Fading <atom-param>number</atom-param>
+	reminder: This {if has_pt() then "Creature" else "permanent"} enters with {english_number_a(param1)} fade counter(s) on it. At the beginning of your upkeep; Remove a fade counter from it. If you can’t ↦ Sacrifice it.
+	rules: 
+	mode: expert
+keyword:
+	keyword: Amplify
+	match: Amplify <atom-param>number</atom-param>
+	reminder: As {this_or_that("Creature")} enters ↦ Put {english_number_a(param1)} +1 counter(s) on it for each {separate_words(spacer: " and/or ", card.sub_type)} card you reveal in your hand.
+	rules: 
+	mode: expert
+keyword:
+	keyword: Fear
+	match: Fear
+	reminder: {this_or_that("Creature", upper:true)} can’t be blocked except by artefact creatures and/or black creatures.
+	rules: 
+	mode: old
+keyword:
+	keyword: Imprint
+	match: Imprint
+	reminder: 
+	rules: When ~ enters; you may exile a [something] from [somewhere].
+	mode: pseudo
+keyword:
+	keyword: Modular
+	match: Modular <atom-param>number</atom-param>
+	reminder: This enters with {english_number_a(param1)} +1 counter(s) on it. When it dies; you may put its +1 counters on target artefact creature.
+	rules: 
+	mode: expert
+keyword:
+	keyword: Sunburst
+	match: Sunburst
+	reminder: This enters with a {if has_pt() then "+1" else "charge"} counter on it for each colour of mana spent to cast it.
+	rules: 
+	mode: expert
+keyword:
+	keyword: Super haste
+	match: Super haste
+	reminder: This may attack the turn before you cast it. (You may have this card enter from your hand, tapped and attacking, during your declare attackers step. If you do, you lose the game at the end of your next turn unless you pay this card’s mana cost during that turn.)
+	rules: 
+	mode: expert
+keyword:
+	keyword: Convoke
+	match: Convoke
+	reminder: Your Creatures can help cast this spell. Each Creature you tap while casting this spell pays for <sym>1</sym> or one mana of that Creature’s colour.
+	rules: 
+	mode: expert
+keyword:
+	keyword: Bloodthirst
+	match: Bloodthirst <atom-param>number</atom-param>
+	reminder: If an opponent was dealt damage this turn, this {if has_pt() then "Creature" else "permanent"} enters with {english_number_a(param1)} +1 counter(s) on it.
+	rules: 
+	mode: expert
+keyword:
+	keyword: Graft
+	match: Graft <atom-param>number</atom-param>
+	reminder: {this_or_that("permanent", upper:true)} enters with {english_number_a(param1)} +1 counter(s) on it. Whenever {if has_pt() then "another" else "a"} Creature enters; you may move a +1 counter from {this_or_that("permanent")} onto it.
+	rules: 
+	mode: expert
+keyword:
+	keyword: Vanishing
+	match: Vanishing <atom-param>number</atom-param>
+	reminder: {this_or_that("permanent", upper:true)} enters with {english_number_a(param1)} time counter(s) on it. At the beginning of your upkeep; remove a time counter from it. When the last is removed; sacrifice it.
+	rules: 
+	mode: expert
+keyword:
+	keyword: Fortify
+	match: Fortify <atom-param>cost</atom-param>
+	reminder: {param1}: Attach to target Land you control. Fortify only as a sorcery. This card enters unattached and stays on the battlefield if the Land leaves.
+	rules: 
+	mode: expert
+keyword:
+	keyword: Evoke
+	match: Evoke <atom-param>cost</atom-param>
+	reminder: You may cast this spell for its evoke cost. If you do ⇨ When it enters; Sacrifice it.
+	rules: 
+	mode: expert
+keyword:
+	keyword: Champion
+	match: Champion <atom-param>a</atom-param> <atom-param>name</atom-param>
+	reminder: When this enters; sacrifice it unless you exile another {param2} you control. When this leaves the battlefield; that card returns to the battlefield.
+	rules: 
+	mode: expert
+keyword:
+	keyword: Hideaway
+	match: Hideaway <atom-param>number</atom-param>
+	reminder: When {this_or_that("type", upper:false)} enters; look at the top {english_number_multiple(param1)} card(s) of your library, exile one face down, then put the rest on the bottom of your library.
+	rules: 
+	mode: expert
+keyword:
+	keyword: Conspire
+	match: Conspire
+	reminder: As you cast this spell, you may tap two untapped creatures you control that share a colour with it. When you do; copy it{ if is_targeted() then " and you may choose a new target for the copy" }.
+	rules: 
+	mode: expert
+keyword:
+	keyword: Devour
+	match: Devour <atom-param>number</atom-param>
+	reminder: As this enters, you may sacrifice any number of creatures. {this_or_that("creature", upper:true)} enters with { if param1.value == "1" then "" else if param1.value == "2" then "twice " else if param1.value == "3" then "thrice " else english_number(param1) + " times " }that many +1/+1 counters on it.
+	rules: 
+	mode: expert
+keyword:
+	keyword: Intimidate
+	match: Intimidate
+	reminder: {this_or_that("creature", upper:true)} can’t be blocked except by artefact creatures and/or creatures that share a colour with it.
+	rules: 
+	mode: old
+keyword:
+	keyword: Landfall
+	match: Landfall
+	reminder: 
+	rules: Landfall — Whenever a land enters under your control; [effect].
+	mode: pseudo
+keyword:
+	keyword: Metalcraft
+	match: Metalcraft
+	reminder: 
+	rules: Metalcraft — As long as you control three or more artefacts, [effect].
+	mode: pseudo
+keyword:
+	keyword: Living weapon
+	match: Living weapon
+	reminder: When this Equipment enters; create a 0/0 black Phyrexian Germ creature token, then attach this to it.
+	rules: 
+	mode: expert
+keyword:
+	keyword: Soulbond
+	match: Soulbond
+	reminder: You may pair this with another unpaired Creature when either enters. They remain paired for as long as you control both of them.
+	rules: 
+	mode: expert
+keyword:
+	keyword: Unleash
+	match: Unleash
+	reminder: You may have this enter with a +1 counter on it. It can't block as long as it has a +1 counter on it.
+	rules: 
+	mode: expert
+keyword:
+	keyword: Evolve
+	match: Evolve
+	reminder: Whenever a Creature enters under your control, if that creature has greater power or toughness than {this_or_that("creature")}; put a +1/+1 counter on {this_or_that("creature")}.
+	rules: 
+	mode: expert
+keyword:
+	keyword: Tribute
+	match: Tribute <atom-param>number</atom-param>
+	reminder: As {this_or_that("creature")} enters, an opponent of your choice may put {english_number_a(param1)} +1/+1 counter(s) on it.
+	rules: 
+	mode: expert
+keyword:
+	keyword: Constellation
+	match: Constellation
+	reminder: 
+	rules: Constellation — Whenever ~ or another enchantment enters under your control; [effect].
+	mode: pseudo
+keyword:
+	keyword: Raid
+	match: Raid
+	reminder: 
+	rules: Raid — When ~ enters, if you attacked with a creature this turn; [effect].
+	mode: pseudo
+keyword:
+	keyword: Exploit
+	match: Exploit
+	reminder: When {this_or_that("creature")} enters; you may sacrifice a creature.
+	rules: 
+	mode: expert
+keyword:
+	keyword: Devoid
+	match: Devoid
+	reminder: This card has no colour.
+	rules: 
+	mode: expert
+keyword:
+	keyword: Rally
+	match: Rally
+	reminder: 
+	rules: Rally -- Whenever ~ or another Ally enters under your control; [effect].
+	mode: pseudo
+keyword:
+	keyword: Converge
+	match: Converge
+	reminder: 
+	rules: Converge -- [effect with X], where X is the number of colours of mana spent to cast ~.
+	mode: pseudo
+keyword:
+	keyword: Investigate
+	match: Investigate
+	reminder: Create a colourless Clue artefact token with "<sym>2</sym>, Sacrifice this artefact: Draw a card."
+	rules: 
+	mode: action
+keyword:
+	keyword: Crew
+	match: Crew <atom-param>number</atom-param>
+	reminder: Tap any number of creatures you control with total power {param1} or greater: This {separate_words(spacer: " ", card.sub_type)} becomes an artefact creature until end of turn.
+	rules: 
+	mode: expert
+keyword:
+	keyword: Fabricate
+	match: Fabricate <atom-param>number</atom-param>
+	reminder: When {this_or_that("permanent")} enters; you may put {english_number_a(param1)} +1/+1 counter(s) on it. If you don't, create {english_number_a(param1)} 1/1 colourless Servo artefact creature token(s).
+	rules: 
+	mode: expert
+keyword:
+	keyword: Partner with
+	match: Partne<atom-param>name</atom-param> with <atom-param>name</atom-param>
+	reminder: When this {if has_pt() then "creature" else "permanent"} enters; target player may put {legend_filter(param2)} into their hand from their library, then shuffle.
+	rules: 
+	mode: expert
+keyword:
+	keyword: Improvise
+	match: Improvise
+	reminder: Your artefacts can help cast this spell. Each artefact you tap after you're done activating mana abilities pays for <sym>1</sym>.
+	rules: 
+	mode: expert
+keyword:
+	keyword: Historic
+	match: historic
+	reminder: Artefacts, legendaries, and Sagas are historic.
+	rules: 
+	mode: action
+keyword:
+	keyword: Treasure token
+	match: Treasure toke<atom-param>*s</atom-param>
+	reminder: {if param1.value == "ns" then "They’re artefacts" else "It’s an artefact"} with "T, Sacrifice this artefact: Add one mana of any colour."
+	rules: 
+	mode: core
+keyword:
+	keyword: Riot
+	match: Riot
+	reminder: {this_or_that("creature", upper:true)} enters with your choice of a +1/+1 counter or haste.
+	rules: 
+	mode: expert
+keyword:
+	keyword: Food token
+	match: Food toke<atom-param>*s</atom-param>
+	reminder: {if param1.value == "ns" then "They’re artefacts" else "It’s an artefact"} with "2, T, Sacrifice this artefact: You gain 3 life."
+	rules: 
+	mode: core
+keyword:
+	keyword: Gold token
+	match: Gold toke<atom-param>*s</atom-param>
+	reminder: {if param1.value == "ns" then "They’re artefacts" else "It’s an artefact"} with "Sacrifice this artefact: Add one mana of any colour."
+	rules: 
+	mode: core
+keyword:
+	keyword: Blood token
+	match: Blood toke<atom-param>*s</atom-param>
+	reminder: {if param1.value == "ns" then "They’re artefacts" else "It’s an artefact"} with "1, T, Discard a card, Sacrifice this artefact: Draw a card."
+	rules: 
+	mode: expert
+keyword:
+	keyword: Alliance
+	match: Alliance
+	reminder: 
+	rules: Alliance — Whenever another creature enters under your control; [effect].
+	mode: pseudo
+keyword:
+	keyword: Squad
+	match: Squad <atom-param>cost</atom-param>
+	reminder: As an additional cost to cast this spell, you may pay {param1} any number of times. When this creature enters; create that many tokens that are copies of it.
+	rules: 
+	mode: expert
+keyword:
+	keyword: Ravenous
+	match: Ravenous
+	reminder: This creature enters with X +1/+1 counters on it. If X is 5 or more, draw a card when it enters.
+	rules: 
+	mode: expert
+keyword:
+	keyword: Powerstone token
+	match: Powerstone toke<atom-param>*s</atom-param>
+	reminder: 
+	rules: 
+	mode: expert
+keyword:
+	keyword: Prototype
+	match: Prototype
+	reminder: You may cast this spell with different mana cost, colour, and size. It keeps its abilities and types.
+	rules: 
+	mode: expert
+keyword:
+	keyword: For Mirrodin!
+	match: For Mirrodin!
+	reminder: When this Equipment enters; create a 2/2 red Rebel creature token, then attach this to it.
+	rules: 
+	mode: expert
+keyword:
+	keyword: Backup
+	match: Backup <atom-param>number</atom-param>
+	reminder: When this creature enters; put {english_number_a(param1)} +1/+1 counter(s) on target creature. If that's another creature, it gains the following abilities until end of turn.
+	rules: 
+	mode: expert
+keyword:
+	keyword: Incubate
+	match: Incubate <atom-param>number</atom-param>
+	reminder: Create an Incubator token with {english_number_a(param1)} +1/+1 counter(s) on it and "[2]: Transform this artefact." It transforms into a 0/0 Phyrexian artefact creature.
+	rules: 
+	mode: action
+keyword:
+	keyword: Bargain
+	match: Bargain
+	reminder: You may sacrifice an artefact, enchantment, or token as you cast this spell.
+	rules: 
+	mode: expert
+keyword:
+	keyword: Celebration
+	match: Celebration
+	reminder: 
+	rules: Celebration — If two or more nonland permanents entered under your turn, [effect].
+	mode: pseudo
+keyword:
+	keyword: Map token
+	match: Map toke<atom-param>*s</atom-param>
+	reminder: {if param1.value == "ns" then "They’re artefacts" else "It’s an artefact"} with "1, T, Sacrifice this artefact: Target creature you control explores. Activate only as a sorcery."
+	rules: 
+	mode: expert
+keyword:
+	keyword: Craft
+	match: Craft with <atom-param>name</atom-param> <atom-param>cost</atom-param>
+	reminder: {rem := param2.value + ", Exile this artefact, Exile ";count := filter_text(param1.value, match:"^(one|two|three|four|five|six|seven|eight|nine|ten|eleven|twelve|thirteen|fourteen|fifteen|sixteen|seventeen|eighteen|nineteen|twenty|thirty|forty|fifty|sixty|seventy|eighty|ninety|[0-9]+)(-(one|two|three|four|five|six|seven|eight|nine))? (or more)?");commas := filter_text(param1.value, match:",");vowel := match(param1.value, match:"^[aeiouAEIOU]");if commas != "" then count := english_number(length(commas)+1);count := replace(count, match:" $", replace:"");if count == param1.value then (rem := rem + param1.value + " other permanents you control and/or cards from your graveyard: ") else if count != "" then (rem := rem + (if count == "one or more" then param1.value else "the " + count) + " from among other permanents you control and/or cards in your graveyard: ") else rem := rem + "another " + param1.value + " you control or " + (if vowel then "an " else "a ") + param1.value + " card from your graveyard: ";rem := rem + "Return this card transformed under its owner's control. Craft only as a sorcery.";rem;}
+	rules: 
+	mode: expert
+keyword:
+	keyword: Junk token
+	match: Junk toke<atom-param>*s</atom-param>
+	reminder: {if param1.value == "ns" then "They’re artefacts" else "It’s an artefact"} with "T, Sacrifice this artefact: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery."
+	rules: 
+	mode: expert
+keyword:
+	keyword: Offering
+	match: <atom-param>prefix</atom-param> offering
+	reminder: You may cast this card any time you could cast an instant by sacrificing a {param1} and paying the difference in mana costs between this and the sacrificed {param1}. Mana cost includes colour.
+	rules: 
+	mode: expert
+keyword:
+	keyword: Afflict
+	match: Afflict <atom-param>number</atom-param>
+	reminder: Whenever {this_or_that("creature")} becomes blocked; defending player loses {param1} life.
+	rules: 
+	mode: expert
+keyword:
+	keyword: Afterlife
+	match: Afterlife <atom-param>number</atom-param>
+	reminder: Whenever {this_or_that("creature")} dies; create {english_number_a(param1)} 1/1 white and black Spirit creature token(s) with flying.
+	rules: 
+	mode: expert
+keyword:
+	keyword: Annihilator
+	match: Annihilator <atom-param>number</atom-param>
+	reminder: Whenever {this_or_that("creature")} attacks; defending player sacrifices {english_number_a(param1)} permanent(s).
+	rules: 
+	mode: expert
+keyword:
+	keyword: Art rampage
+	match: Art rampage <atom-param>number</atom-param>
+	reminder: Whenever this becomes blocked by a creature; it gets +{param1}/+{param1} for each creature in the blocker’s art beyond the first.
+	rules: 
+	mode: expert
+keyword:
+	keyword: Battalion
+	match: Battalion
+	reminder: 
+	rules: Battalion — Whenever ~ and at least two other creatures attack; [effect].
+	mode: pseudo
+keyword:
+	keyword: Battle cry
+	match: Battle cry
+	reminder: Whenever {this_or_that("creature")} attacks; each other attacking creature gets +1/+0 until end of turn.
+	rules: 
+	mode: expert
+keyword:
+	keyword: Blitz
+	match: Blitz <atom-param>cost</atom-param>
+	reminder: If you cast this spell for its blitz cost, it gains haste and "When this creature dies; draw a card". Sacrifice it at the beginning of the next end step.
+	rules: 
+	mode: expert
+keyword:
+	keyword: Bushido
+	match: Bushido <atom-param>number</atom-param>
+	reminder: Whenever {this_or_that("creature")} blocks or becomes blocked; it gets +{param1}/+{param1} until end of turn.
+	rules: 
+	mode: expert
+keyword:
+	keyword: Cascade
+	match: Cascade
+	reminder: When you cast this spell; exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.
+	rules: 
+	mode: expert
+keyword:
+	keyword: Casualty
+	match: Casualty <atom-param>number</atom-param>
+	reminder: As you cast this spell, you may sacrifice a creature with power {param1}{if param1 == "X" then "." else " or greater."} When you do; copy this spell.
+	rules: 
+	mode: expert
+keyword:
+	keyword: Cipher
+	match: Cipher
+	reminder: Then you may exile this spell card encoded on a creature you control. Whenever that creature deals combat damage to a player; its controller may cast a copy of the encoded card without paying its mana cost.
+	rules: 
+	mode: expert
+keyword:
+	keyword: Cumulative upkeep
+	match: Cumulative upkeep <atom-param>cost</atom-param>
+	reminder: At the beginning of your upkeep; put an age counter on {this_or_that("permanent")}, then sacrifice it unless you pay its upkeep cost for each age counter on it.
+	rules: 
+	mode: old
+keyword:
+	keyword: Decayed
+	match: Decayed
+	reminder: {if contains(card.type, match:"Token") then "This creature" else "It"} can't block. When it attacks; sacrifice it at end of combat.
+	rules: 
+	mode: expert
+keyword:
+	keyword: Demonstrate
+	match: Demonstrate
+	reminder: When you cast this spell; you may copy it. If you do, choose an opponent to also copy it.
+	rules: 
+	mode: expert
+keyword:
+	keyword: Dethrone
+	match: Dethrone
+	reminder: Whenever {this_or_that("creature")} attacks the player with the most life or tied for most life; put a +1/+1 counter on it.
+	rules: 
+	mode: expert
+keyword:
+	keyword: Double team
+	match: Double team
+	reminder: When this creature attacks, if it's not a token; conjure a duplicate of it into your hand. Then both cards perpetually lose double team.
+	rules: 
+	mode: expert
+keyword:
+	keyword: Echo
+	match: Echo <atom-param>cost</atom-param>
+	reminder: At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep; sacrifice it unless you pay its echo cost.
+	rules: 
+	mode: expert
+keyword:
+	keyword: Enchant
+	match: Enchant <atom-param>name</atom-param>
+	reminder: Target a {param1} as you cast this. This card enters attached to that {param1}.
+	rules: 
+	mode: core
+keyword:
+	keyword: Enlist
+	match: Enlist
+	reminder: As this creature attacks, you may tap a nonattacking creature you control without summoning sickness. When you do; add its power to this creature's until end of turn.
+	rules: 
+	mode: expert
+keyword:
+	keyword: Enrage
+	match: Enrage
+	reminder: 
+	rules: Enrage - Whenever this creature is dealt damage; [effect].
+	mode: pseudo
+keyword:
+	keyword: Epic
+	match: Epic
+	reminder: For the rest of the game, you can’t cast spells. At the beginning of each of your upkeeps; copy this spell except for its epic ability.{ if is_targeted() then " You may choose a new target for the copy." }
+	rules: 
+	mode: expert
+keyword:
+	keyword: Exalted
+	match: Exalted
+	reminder: Whenever a creature you control attacks alone; that creature gets +1/+1 until end of turn.
+	rules: 
+	mode: expert
+keyword:
+	keyword: Extort
+	match: Extort
+	reminder: Whenever you cast a spell; you may pay [W/B]. If you do, each opponent loses 1 life and you gain that much life.
+	rules: 
+	mode: expert
+keyword:
+	keyword: Fathomless descend
+	match: Fathomless descend
+	reminder: 
+	rules: Fathomless descent - [effect], where X is the number of permanent cards in your graveyard.
+	mode: pseudo
+keyword:
+	keyword: Ferocious
+	match: Ferocious
+	reminder: 
+	rules: Ferocious — [Whenever ~ attacks/When ~ spell resolves]; if you control a creature with power 4 or greater, [effect].
+	mode: pseudo
+keyword:
+	keyword: Flanking
+	match: Flanking
+	reminder: Whenever a creature without flanking blocks {this_or_that("creature")}; the blocking creature gets -1/-1 until end of turn.
+	rules: 
+	mode: expert
+keyword:
+	keyword: Frenzy
+	match: Frenzy <atom-param>number</atom-param>
+	reminder: Whenever {this_or_that("creature")} attacks and isn’t blocked; it gets +{param1}/+0 until end of turn.
+	rules: 
+	mode: expert
+keyword:
+	keyword: Gotcha
+	match: Gotcha
+	reminder: 
+	rules: Gotcha — Whenever an opponent [does something]; you may say “Gotcha!”. If you do, return [something] from your graveyard to your hand.
+	mode: pseudo
+keyword:
+	keyword: Gravestorm
+	match: Gravestorm
+	reminder: When you cast this spell; copy it for each permanent put into a graveyard this turn.{ if is_targeted() then " You may choose new targets for the copies." }
+	rules: 
+	mode: expert
+keyword:
+	keyword: Haunt
+	match: Haunt
+	reminder: When this { if is_spell() then "spell card is put into a graveyard after resolving;" else "creature dies;" } exile it haunting target creature.
+	rules: 
+	mode: expert
+keyword:
+	keyword: Hero's reward
+	match: Hero's Reward
+	reminder: 
+	rules: Hero's Reward — When ~ leaves the battlefield; each player [effect].
+	mode: pseudo
+keyword:
+	keyword: Heroic
+	match: Heroic
+	reminder: 
+	rules: Heroic — Whenever you cast a spell that targets ~; [effect].
+	mode: pseudo
+keyword:
+	keyword: Ingest
+	match: Ingest
+	reminder: Whenever {this_or_that("creature")} deals combat damage to a player; that player exiles the top card of their library.
+	rules: 
+	mode: expert
+keyword:
+	keyword: Inspired
+	match: Inspired
+	reminder: 
+	rules: Inspired — Whenever ~ becomes untapped; [effect].
+	mode: pseudo
+keyword:
+	keyword: Kinship
+	match: Kinship
+	reminder: 
+	rules: Kinship — At the beginning of your upkeep; you may look at the top card of your library. If that card shares a creature type with ~, you may reveal it. If you do, [effect].
+	mode: pseudo
+keyword:
+	keyword: Madness
+	match: Madness <atom-param>cost</atom-param>
+	reminder: If you discard this card, discard it into exile. When you do; cast it for its madness cost or put it into your graveyard.
+	rules: 
+	mode: expert
+keyword:
+	keyword: Magecraft
+	match: Magecraft
+	reminder: 
+	rules: Magecraft — Whenever you cast or copy an instant or sorcery spell; [effect].
+	mode: pseudo
+keyword:
+	keyword: Melee
+	match: Melee
+	reminder: Whenever {this_or_that("creature")} attacks; it gets +1/+1 until end of turn for each opponent you attacked with a creature this combat.
+	rules: 
+	mode: expert
+keyword:
+	keyword: Mentor
+	match: Mentor
+	reminder: Whenever {this_or_that("creature")} attacks; put a +1/+1 counter on target attacking creature with lesser power.
+	rules: 
+	mode: expert
+keyword:
+	keyword: Myriad
+	match: Myriad
+	reminder: Whenever {this_or_that("creature")} attacks; for each opponent other than defending player, you may create a token that's a copy of {this_or_that("creature")} that's tapped and attacking that player or a planeswalker they control. If one or more tokens are created this way, exile the tokens at end of combat.
+	rules: 
+	mode: expert
+keyword:
+	keyword: Pack tactics
+	match: Pack tactics
+	reminder: 
+	rules: Pack tactics — Whenever CARDNAME attacks, if you attacked with creatures with total power 6 or greater this combat; [effect].
+	mode: pseudo
+keyword:
+	keyword: Paradox
+	match: Paradox
+	reminder: 
+	rules: Paradox — Whenever you cast a spell from anywhere other than your hand; [effect].
+	mode: pseudo
+keyword:
+	keyword: Persist
+	match: Persist
+	reminder: When {this_or_that("creature")} dies, if it had no -1/-1 counters on it; return it to the battlefield under its owner’s control with a -1/-1 counter on it.
+	rules: 
+	mode: expert
+keyword:
+	keyword: Poisonous
+	match: Poisonous <atom-param>number</atom-param>
+	reminder: Whenever {this_or_that("creature")} deals combat damage to a player; that player gets {english_number_a(param1)} poison counter(s). A player with ten or more poison counters loses the game.
+	rules: 
+	mode: expert
+keyword:
+	keyword: Radiance
+	match: Radiance
+	reminder: 
+	rules: Radiance — [effect to target permanent or spell and all cards of same card type that share a colour with it]
+	mode: pseudo
+keyword:
+	keyword: Rampage
+	match: Rampage <atom-param>number</atom-param>
+	reminder: Whenever {this_or_that("creature")} becomes blocked; it gets +{param1}/+{param1} until end of turn for each creature blocking it beyond the first.
+	rules: 
+	mode: old
+keyword:
+	keyword: Rebound
+	match: Rebound
+	reminder: If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep; you may cast this card from exile without paying its mana cost.
+	rules: 
+	mode: expert
+keyword:
+	keyword: Recover
+	match: Recover <atom-param>cost</atom-param>
+	reminder: When a creature is put into your graveyard from the battlefield; you may {for_mana_costs(add:"pay ",param1)}. If you do, return this card from your graveyard to your hand. Otherwise, exile this card.
+	rules: 
+	mode: expert
+keyword:
+	keyword: Renown
+	match: Renown <atom-param>number</atom-param>
+	reminder: When {this_or_that("creature")} deals combat damage to a player, if it isn't renowned; put {english_number_a(param1)} +1/+1 counter(s) on it and it becomes renowned.
+	rules: 
+	mode: expert
+keyword:
+	keyword: Replicate
+	match: Replicate <atom-param>cost</atom-param>
+	reminder: When you cast this spell; copy it for each time you paid its replicate cost.{ if is_targeted() then " You may choose new targets for the copies." }
+	rules: 
+	mode: expert
+keyword:
+	keyword: Revolt
+	match: Revolt
+	reminder: 
+	rules: Revolt - [Something], if a permanent you controlled left the battlefield this turn; [effect].
+	mode: pseudo
+keyword:
+	keyword: Ripple
+	match: Ripple <atom-param>number</atom-param>
+	reminder: When you cast this spell; you may reveal the top {english_number_multiple(param1)} card(s) of your library. You may cast any revealed cards with the same name as this spell without paying their mana costs. Put the rest on the bottom of your library.
+	rules: 
+	mode: expert
+keyword:
+	keyword: Soulshift
+	match: Soulshift <atom-param>number</atom-param>
+	reminder: When {this_or_that("creature")} dies; you may return target Spirit card with mana value {param1} or less from your graveyard to your hand.
+	rules: 
+	mode: expert
+keyword:
+	keyword: Storm
+	match: Storm
+	reminder: When you cast this spell; copy it for each spell cast before it this turn.{ if is_targeted() then " You may choose new targets for the copies." }{if not is_spell(card.card_type) then " Copies become tokens."}
+	rules: 
+	mode: expert
+keyword:
+	keyword: Suspend
+	match: Suspend <atom-param>number</atom-param>—<atom-param>cost</atom-param>
+	reminder: Rather than cast this card from your hand,{if has_cc() then " you may" else ""} {for_mana_costs(add:"pay ", param2)} and exile it with {english_number_a(param1)} time counter(s) on it. At the beginning of your upkeep; remove a time counter. When the last is removed, cast it without paying its mana cost.{if has_pt() then " It has haste." }
+	rules: 
+	mode: expert
+keyword:
+	keyword: Training
+	match: Training
+	reminder: Whenever this creature attacks with another creature with greater power; put a +1/+1 counter on this creature.
+	rules: 
+	mode: expert
+keyword:
+	keyword: Undying
+	match: Undying
+	reminder: When {this_or_that("creature")} dies, if it had no +1/+1 counters on it; return it to the battlefield under its owner's control with a +1/+1 counter on it.
+	rules: 
+	mode: expert
+keyword:
+	keyword: Ward
+	match: Ward <atom-param>cost</atom-param>
+	reminder: Whenever {this_or_that("permanent")} becomes the target of a spell or ability an opponent controls; counter it unless that player {for_mana_costs(add:"pays ", non:"", param1, action:true)}.
+	rules: 
+	mode: expert
+keyword:
+	keyword: Monarch
+	match: become the monarch
+	reminder: The monarch draws a card at the beginning of their end step. Whenever the monarch is dealt combat damage by a creature; its controller becomes the monarch.
+	rules: 
+	mode: action
+keyword:
+	keyword: 
+	match: 
+	reminder: 
+	rules: 
+	mode: custom
+keyword:
+	keyword: Devour type
+	match: Devour <atom-param>one_word</atom-param> <atom-param>number</atom-param>
+	reminder: As this enters, you may sacrifice any number of {english_plural(param1.value)}. {this_or_that("creature", upper:true)} enters with { if param2.value == "1" then "" else if param2.value == "2" then "twice " else if param1.value == "3" then "thrice " else english_number(param1) + " times " }that many +1/+1 counters on it.
+	rules: 
+	mode: expert
+keyword:
+	keyword: Devour
+	match: Devour <atom-param>number</atom-param>
+	reminder: As this enters, you may sacrifice any number of creatures. {this_or_that("creature", upper:true)} enters with { if param1.value == "1" then "" else if param1.value == "2" then "twice " else if param1.value == "3" then "thrice " else english_number(param1) + " times " }that many +1/+1 counters on it.
+	rules: 
+	mode: expert
+version_control:
+	type: none
+apprentice_code: 

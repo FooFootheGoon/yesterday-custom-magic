@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.7
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-04-05 18:13:23
+	time_modified: 2025-04-24 21:56:51
+	name: Deathshift
+	casting_cost: 1BB
+	image: image23.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant ◌̵  Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: uncommon
+	rule_text: Destroy target Creature, then return it to the battlefield tapped under its owner’s control.
+	flavor_text: <i-flavor></i-flavor>
+	separator: flavor bar
+	illustrator: Jens Fiedler
+	card_code_text: — 3rd party card.
+	card_code_text_2: 
+	card_code_text_3: 

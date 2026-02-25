@@ -1,0 +1,44 @@
+﻿mse_version: 2.5.7
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 1
+		chop_bottom: 
+		frames: puma, universes beyond
+		other_options: auto nyx crowns
+		hybrid_name: gold
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: https://www.reddit.com/r/armello/comments/d1nioy/volodar_fanart/
+	time_created: 2024-11-07 14:46:19
+	time_modified: 2026-02-25 02:02:39
+	card_color: white, blue, black, hybrid, horizontal
+	name: Volodar, the Wormchanter
+	casting_cost: 2W/BW/BU
+	image: image215
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary ◌̵  Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Dragon,</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Warlock,</word-list-class-en><atom-sep> </atom-sep><word-list-class-en>Hero</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: mythic rare
+	rule_text:
+		When Volodar enters; It becomes night.
+		Whenever it becomes night; Each player creates a <u>Bane token</u>. <i-auto>(They’re black<soft-line></i-auto>
+		</soft-line><i>|Creature — Bird, Demon| 3/3s, that have “<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>” and “This token enters tapped”.)</i>
+		<i>Enthrall</i> — As long as Volodar is tapped ↦ ᶜᵏDemons your opponents control are Goaded.
+	flavor_text: <i-flavor></i-flavor>
+	watermark: custom watermark three
+	power: 3
+	toughness: 3
+	card_stamp: universes beyond
+	illustrator: Travis Fam
+	additional_credit_2: Armello
+	additional_credit_brush_2: flavor
+	card_code_text: — 3rd party card.
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

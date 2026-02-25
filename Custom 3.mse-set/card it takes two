@@ -1,0 +1,33 @@
+﻿mse_version: 2.5.7
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-04-05 18:15:20
+	time_modified: 2025-04-24 21:56:54
+	name: It Takes Two
+	casting_cost: 2U
+	image: image28.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>◌̵  Kindred, Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>ᵏBard,</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>ᵉAura</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: uncommon
+	rule_text:
+		<kw-a><nospellcheck><key>Enchant <param-name>Artefact you control</param-name></key></nospellcheck></kw-a>
+		Enchanted Artefact is a |Creature — Bard| 5/5 in addition to its other types and subtypes.
+		As long as enchanted permanent is a Creature ↦ It has “This permanent is in your <kw-a><nospellcheck><key>party</key></nospellcheck></kw-a>” and “As long as you have at least one other Creature in your <kw-a><nospellcheck><key>party</key></nospellcheck></kw-a> ↦ You have a full <kw-a><nospellcheck><key>party</key></nospellcheck></kw-a>”. <i-auto>(Your <kw-a><nospellcheck><key>party</key></nospellcheck></kw-a> consists of enchanted permanent, and up to one of each a ᶜCleric, ᶜRogue, ᶜWarrior, and ᶜWizard.)</i-auto>
+	flavor_text:
+		<i-flavor>“I roll to seduce the violin.”<soft-line>
+		</soft-line>— <error-spelling:en_GB>Bardicus</error-spelling:en_GB> the Foolish, last words</i-flavor>
+	separator: flavor bar
+	illustrator: borda
+	card_code_text: — 3rd party card.
+	card_code_text_2: 
+	card_code_text_3: 

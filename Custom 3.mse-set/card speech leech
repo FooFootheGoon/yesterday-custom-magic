@@ -1,0 +1,44 @@
+﻿mse_version: 2.5.7
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 2
+		chop_bottom: 6
+		frames: universes beyond
+		other_options: auto nyx crowns
+		text_box_mana_symbols: magic-mana-large.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2023-11-23 18:20:25
+	time_modified: 2026-02-25 01:57:54
+	card_color: green
+	name: Speech Leech
+	casting_cost: 1G
+	transformation: extra comedy
+	image: image158
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>◌̵  Creature</word-list-type-en>
+	sub_type: <word-list-race-en>ᶜShapeshifter,</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>ᵃEquipment</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		<i-auto>(As long as this permanent is an Artefact ↦ It’s an Equipment. As long as this card isn’t on the battlefield ↦ It’s an Equipment card.)</i-auto>
+		Attached Creature gets +1/+1 for each +1 counter on this permanent.
+		Whenever this permanent becomes attached to a Creature; Put a +1 counter on this permanent.
+		<kw-0><nospellcheck><key>Reconfigure <param-cost><sym-auto>G</sym-auto></param-cost></key></nospellcheck></kw-0> <i-auto>(<sym-auto>G</sym-auto>: Attach to target Creature you <i>control, or unattach from a Creature. Reconfigure at sorcery speed. While attached ↦ This isn’t a Creature.)</i-auto></i>
+	flavor_text: <i-flavor></i-flavor>
+	watermark: custom watermark four
+	power: 1
+	toughness: 1
+	card_stamp: flatstamped universes beyond
+	illustrator: Jess Jackdaw
+	additional_credit_2: Jess Jackdaw
+	additional_credit_brush_2: flavor
+	card_code_text: — 3rd party card.
+	card_code_text_2: — 3rd party card.
+	card_code_text_3: — 3rd party card.
+	copyright: 
+	copyright_2: 
+	copyright_3: 

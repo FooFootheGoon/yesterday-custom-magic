@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.7
+card:
+	has_styling: false
+	notes: https://www.artstation.com/artwork/xzlPlm
+	time_created: 2023-11-21 05:23:44
+	time_modified: 2025-03-27 21:41:39
+	name: Degenerative Lunacy
+	casting_cost: 1B
+	image: image125
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>◌̵  Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: uncommon
+	rule_text:
+		<kw-0><nospellcheck><key><b>Escalate</b> <param-cost><sym-auto>1B</sym-auto></param-cost></key></nospellcheck></kw-0> <i-auto>(Pay this cost for each mode chosen beyond the first.)</i-auto>
+		<margin:0:0:5>Choose one or more. You may choose the same mode more than once —</margin:0:0:5>
+		<li><bullet>• </bullet>Target player discards a card.
+		</li><li><bullet>• </bullet>Target player loses 1 life.</li>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Dave Dick
+	card_code_text: — 3rd party card.
+	card_code_text_2: — 3rd party card.
+	card_code_text_3: — 3rd party card.
+	copyright: 
+	copyright_2: 
+	copyright_3: 

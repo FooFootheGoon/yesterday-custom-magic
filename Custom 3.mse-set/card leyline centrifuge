@@ -1,0 +1,30 @@
+﻿mse_version: 2.5.7
+card:
+	has_styling: false
+	notes:
+		https://www.artstation.com/artwork/B1bRRk
+		
+		Activated abilities of lands cost an additional “Tap an untapped land you control” to activate unless they’re mana abilities.
+	time_created: 2023-11-18 18:22:19
+	time_modified: 2025-04-13 19:58:24
+	card_color: land, multicolor
+	name: Leyline Centrifuge
+	image: image46
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>◌̵  Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		<sym-auto>3</sym-auto>, <sym-auto>T</sym-auto>: Add five mana in any combination of colours.
+		Activated abilities of Lands cost an additional “Tap an untapped Land you control” to activate, unless they’re mana abilities.
+	flavor_text: <i-flavor>The Mage Towers were built at the coalescence of the <error-spelling:en_GB>leylines</error-spelling:en_GB>, intending to focus their power on a singular purpose — to the detriment of all others.</i-flavor>
+	separator: flavor bar
+	illustrator: Laszlo Pinter (Las Pinter)
+	card_code_text: — 3rd party card.
+	card_code_text_2: — 3rd party card.
+	card_code_text_3: — 3rd party card.
+	copyright: 
+	copyright_2: 
+	copyright_3: 

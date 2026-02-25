@@ -1,0 +1,33 @@
+﻿mse_version: 2.5.7
+card:
+	has_styling: false
+	notes: https://www.artstation.com/artwork/ybVZQO
+	time_created: 2023-11-18 20:31:50
+	time_modified: 2026-02-23 19:49:18
+	name: Zombie Mutant Boss Elk
+	casting_cost: 3BR
+	card_symbol: tombstone
+	image: image223
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>◌̵  Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Zombie,</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Mutant,</word-list-class-en><atom-sep> </atom-sep><word-list-class-en>Noble,</word-list-class-en><atom-sep> </atom-sep><word-list-class-en>Elk</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		When this Creature dies; You may discard any number of cards. If you do, draw that many cards.
+		When this Creature becomes exiled from the battlefield; You draw two cards and you lose 2 life.
+		<b><kw-0><nospellcheck><key>Unearth <param-cost></b><sym>4B</sym></param-cost></key></nospellcheck></kw-0> <i-auto>(<sym-auto>5B</sym-auto>: Return this card from your graveyard to the battlefield. It gains “<kw-0><nospellcheck><key>Haste</key></nospellcheck></kw-0>”. At the beginning of the next end step; Exile it. If it would leave the battlefield ⇨ Exile it instead. Unearth at sorcery speed.>)</i-auto>
+		<b><kw-0><nospellcheck><key>Encore <param-cost></b><sym>5RR</sym></param-cost></key></nospellcheck></kw-0> <i-auto>(<sym-auto>5RR</sym-auto>, Exile this card from your graveyard: For each opponent, create a token copy which attacks that opponent this turn if able. They gain “<kw-0><nospellcheck><key>Haste</key></nospellcheck></kw-0>”. At the beginning of the next end step; Sacrifice them. Encore at sorcery speed.>)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	power: 4
+	toughness: 4
+	illustrator: SAM RisovaL
+	additional_credit_2: SAM RisovaL
+	additional_credit_brush_2: flavor
+	card_code_text: — 3rd party card.
+	card_code_text_2: — 3rd party card.
+	card_code_text_3: — 3rd party card.
+	copyright: 
+	copyright_2: 
+	copyright_3: 

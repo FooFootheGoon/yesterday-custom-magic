@@ -1,0 +1,43 @@
+﻿mse_version: 2.5.7
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 1
+		chop_bottom: 5
+		frames: puma, universes beyond
+		other_options: auto nyx crowns
+		text_box_mana_symbols: magic-mana-large.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: https://killsixbilliondemons.com/comic/wielder-of-names-2-32/
+	time_created: 2023-11-21 16:33:39
+	time_modified: 2026-02-25 02:10:31
+	card_color: colorless
+	name: Vladok, Unbound
+	casting_cost: 3BB
+	image: image141
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary ◌̵  Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Devil</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: mythic rare
+	rule_text:
+		<kw-0><nospellcheck><key><b>Devoid</b></key></nospellcheck></kw-0> <i-auto>(This card has no colour.)</i-auto>
+		<kw-0><nospellcheck><key>Intimidate</key></nospellcheck></kw-0> <i-auto>(This Creature can’t be blocked, except by Creatures that are Artefacts and/or Creatures that share a colour with this Creature.)</i-auto>
+		Whenever Vladok deals combat damage to a player; That player sacrifices each Creature they control which shares a colour with Vladok.
+		<sym-auto>3</sym-auto>: Vladok becomes the colour of your choice. Activate at sorcery speed.>
+	flavor_text: <i-flavor></i-flavor>
+	watermark: custom watermark two
+	power: 3
+	toughness: 5
+	card_stamp: universes beyond
+	illustrator: Abbadon
+	additional_credit_2: Kill Six Billion Demons
+	additional_credit_brush_2: flavor
+	card_code_text: — 3rd party card.
+	card_code_text_2: — 3rd party card.
+	card_code_text_3: — 3rd party card.
+	copyright: 
+	copyright_2: 
+	copyright_3: 

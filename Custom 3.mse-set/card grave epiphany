@@ -1,0 +1,32 @@
+﻿mse_version: 2.5.7
+card:
+	has_styling: false
+	notes: https://www.artstation.com/artwork/nD4D4
+	time_created: 2023-11-17 04:05:32
+	time_modified: 2025-04-12 18:05:25
+	border_color: rgb(200,200,200)
+	name: Grave Epiphany
+	casting_cost: BBBB
+	image: image3
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>◌̵  Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: rare
+	rule_text:
+		<kw-a><i-auto><nospellcheck><key>Threshold</key></nospellcheck></i-auto></kw-a> — If there are seven or more cards in your graveyard ↦ You draw two cards and you lose 2 life.
+		<kw-a><i-auto><nospellcheck><key>Delirium</key></nospellcheck></i-auto></kw-a> — If there are four or more card types among cards in your graveyard ↦ You draw two cards and you lose 2 life.
+		<i>New Capenna Graveyard Mechanic</i> — If there are five or more mana values among cards in your graveyard ↦ You draw two cards and you lose 2 life.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Jonathan romeo
+	card_code_text: — 3rd party card.
+	card_code_text_2: — 3rd party card.
+	card_code_text_3: — 3rd party card.
+	copyright: 
+	copyright_2: 
+	copyright_3: 

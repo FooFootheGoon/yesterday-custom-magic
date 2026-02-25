@@ -1,0 +1,42 @@
+﻿mse_version: 2.5.7
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 1
+		chop_bottom: 4
+		frames: universes beyond
+		other_options: auto nyx crowns
+		hybrid_name: hybrid
+		text_box_mana_symbols: magic-mana-large.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: https://www.youtube.com/watch?v=kisV9pi0miQ
+	time_created: 2023-11-23 11:32:40
+	time_modified: 2026-02-25 01:57:24
+	name: Pest Piper
+	casting_cost: 2B/GB/G
+	image: image165
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>◌̵  Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Faerie,</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Siren</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: mythic rare
+	rule_text:
+		<i>Summoning Savant </i>— At the beginning of your upkeep; You lose 1 life and create a token which is black and green, is a |Creature — Plant, Pest| </sym>1/1<sym>, and which has “When this token dies; You gain 1 life”.
+		When this Creature dies; Sacrifice each ᶜᵏPest you control.
+		<i>Scintillating Song</i> — <sym-auto>2U/R</sym-auto>, <sym-auto>T</sym-auto>: <kw-a><nospellcheck><key>Goad</key></nospellcheck></kw-a> target Creature. Activate at sorcery speed.>
+	flavor_text: <i-flavor></i-flavor>
+	watermark: custom watermark four
+	power: 1
+	toughness: 1
+	card_stamp: universes beyond
+	illustrator: Jess Jackdaw
+	additional_credit_2: Jess Jackdaw
+	additional_credit_brush_2: flavor
+	card_code_text: — 3rd party card.
+	card_code_text_2: — 3rd party card.
+	card_code_text_3: — 3rd party card.
+	copyright: 
+	copyright_2: 
+	copyright_3: 

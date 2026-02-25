@@ -1,0 +1,36 @@
+﻿mse_version: 2.5.7
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 1
+		chop_bottom: 1
+		frames: 
+		other_options: auto nyx crowns
+		text_box_mana_symbols: magic-mana-large.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: https://www.artstation.com/artwork/neGXe
+	time_created: 2023-11-17 21:06:29
+	time_modified: 2026-02-23 16:03:17
+	name: Overshadow
+	casting_cost: U
+	image: image29
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant ◌̵  Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: mythic rare
+	rule_text:
+		<kw-0><nospellcheck><key><b>Cleave <param-cost><sym>UU</sym></b></param-cost></key></nospellcheck></kw-0> <i-auto>(You may cast this spell for its Cleave cost. If you do ⇨ Remove the words in square brackets.)</i-auto>
+		<b><kw-0><nospellcheck><key>Overload <param-cost></b><sym>UUUU</sym></param-cost></key></nospellcheck></kw-0> <i-auto>(You may cast this spell for its Overload cost. If you do ⇨ Change its text by replacing all instances of “target”, with “each”.)</i-auto>
+		<b><kw-0><nospellcheck><key>Replicate <param-cost></b><sym>UUU</sym></param-cost></key></nospellcheck></kw-0> <i-auto>(As you cast this spell ↦ You may pay <sym>UUU</sym> any number of times. When you cast it; Copy it for each time you paid. You may choose new targets for the copies.)</i-auto>
+		Choose a mana value. When you do; Choose target nonland permanent of the chosen mana value. For each permanent chosen this way, return it to its owner’s hand [unless its controller pays <sym>2</sym>].
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Artem Chebokha
+	card_code_text: — 3rd party card.
+	card_code_text_2: — 3rd party card.
+	card_code_text_3: — 3rd party card.
+	copyright: 
+	copyright_2: 
+	copyright_3: 

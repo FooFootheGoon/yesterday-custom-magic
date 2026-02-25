@@ -1,0 +1,46 @@
+﻿mse_version: 2.5.7
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 1
+		chop_bottom: 1
+		frames: vehicle
+		other_options: auto nyx crowns
+		text_box_mana_symbols: magic-mana-large.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2025-04-05 16:42:17
+	time_modified: 2026-02-23 20:37:15
+	card_color: artifact
+	name: Group Pet Project
+	casting_cost: 3
+	card_symbol: alchemy
+	transformation: extra comedy
+	image: image20.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>◌̵  Artefact</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: ᵃVehicle,<atom-sep> </atom-sep>ᶜᵏConstruct,<atom-sep> </atom-sep>ᶜᵏToy
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: uncommon
+	rule_text:
+		<i-auto>(As long as this permanent is a Creature (or Kindred)</i-auto><i> <b>↦</b> It’s a Construct and a Toy. As long as this card isn’t on the battlefield <b>↦</b><soft-line>
+		</soft-line>It’s a Construct, Toy card.)</i>
+		As long as this permanent is a |Creature — non-Brushwagg| <b>↦</b><soft-line>
+		</soft-line>It gets +1/+1 for each Creature subtype it has.
+		<kw-0><nospellcheck><key>Crew <param-number>2</param-number></key></nospellcheck></kw-0> by non-Brushwagg  <i-auto>(Tap one |Creature — non-Brushwagg| or more which you control, which have total power 2 or greater: Until end of turn ↦ This permanent becomes an |Artefact, Creature|.)</i-auto>
+		Whenever this permanent becomes Crewed; Choose a Creature subtype from among the subtypes of the Creatures that Crewed it this turn. This permanent perpetually gains that Creature subtype.
+	flavor_text: <i-flavor></i-flavor>
+	power: 1/1
+	toughness: 
+	illustrator: Laurent Ta
+	card_code_text: — 3rd party card.
+	card_code_text_2: 
+	card_code_text_3: 

@@ -1,0 +1,30 @@
+﻿mse_version: 2.5.7
+card:
+	has_styling: false
+	notes: https://www.youtube.com/watch?v=IhCVl8Z63D8
+	time_created: 2023-11-19 19:42:15
+	time_modified: 2026-02-24 19:29:15
+	border_color: rgb(200,200,200)
+	name: No You Don’t
+	casting_cost: 2WU
+	image: image84
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>◌̵  Enchantment</word-list-type-en>
+	sub_type: <word-list-enchantment>The</word-list-enchantment><atom-sep> </atom-sep><word-list-enchantment>Fragile</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
+	rarity: uncommon
+	rule_text:
+		<kw-a><i-auto><nospellcheck><key>Gotcha</key></nospellcheck></i-auto></kw-a> — If an opponent says “I cast” and then refers to a spell they control, you may say “</i><kw-a><i-auto><nospellcheck><key>Gotcha</key></nospellcheck></i-auto></kw-a><i>!” and sacrifice this Enchantment.<soft-line>
+		   ╰ </soft-line>When you do; Counter that spell.
+		<kw-a><i-auto><nospellcheck><key>Gotcha</key></nospellcheck></i-auto></kw-a> — If an opponent says “I control” and then refers to a permanent they control, you may say “</i><kw-a><i-auto><nospellcheck><key>Gotcha</key></nospellcheck></i-auto></kw-a><i>!” and sacrifice this Enchantment.<soft-line>
+		   ╰ </soft-line>When you do; That opponent sacrifices that<soft-line>
+		      </soft-line>permanent.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: David Carson
+	card_code_text: — 3rd party card.
+	card_code_text_2: — 3rd party card.
+	card_code_text_3: — 3rd party card.
+	copyright: 
+	copyright_2: 
+	copyright_3: 

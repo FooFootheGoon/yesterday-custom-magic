@@ -1,0 +1,44 @@
+﻿mse_version: 2.5.7
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 3
+		chop_bottom: 3
+		frames: puma
+		other_options: auto nyx crowns
+		text_box_mana_symbols: magic-mana-large.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2025-04-06 13:14:54
+	time_modified: 2026-02-24 20:10:54
+	card_color: blue, black, multicolor, horizontal
+	name: He
+	casting_cost: 
+	card_symbol: tombstone
+	transformation: extra comedy
+	image: image82.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary ◌̵  Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en></word-list-race-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: mythic rare
+	rule_text:
+		<kw-0><nospellcheck><key><b>Transmute</b> <param-cost><sym-auto>1UB</sym-auto></param-cost></key></nospellcheck></kw-0> <i-auto>(<sym-auto>1UB</sym-auto>, Discard this card: Tutor a card which has equal mana value, then put it into your hand. Transmute at sorcery speed.>)</i-auto>
+		<b><kw-a><nospellcheck><key>Transmute <param-cost>the</param-cost></key></nospellcheck></kw-a> dead</b> <sym>2BB</sym> <i-auto>(<sym>2BB</sym>, Exile this card from your graveyard: Tutor a card which has equal mana value, then put it in your graveyard. <kw-a><nospellcheck><key>Transmute <param-cost>the</param-cost></key></nospellcheck></kw-a> dead at sorcery speed.>)</i-auto>
+		<kw-a><nospellcheck><key>Transfigure <param-cost><sym-auto>3UU</sym-auto></param-cost></key></nospellcheck></kw-a> <i-auto>(<sym-auto>3UU</sym-auto>, Sacrifice this Creature: Tutor a Creature card which has the same mana value, then put it onto the battlefield. Transfigure at sorcery speed.>)</i-auto>
+		Each other Creature you control which has a Transmute ability, has “<kw-a><nospellcheck><key>Transfigure <param-cost><sym-auto>3UU</sym-auto></param-cost></key></nospellcheck></kw-a>”. 
+	flavor_text: <i-flavor></i-flavor>
+	power: 5
+	toughness: 5
+	illustrator: cher-ro
+	card_code_text: — 3rd party card.
+	card_code_text_2: 
+	card_code_text_3: 

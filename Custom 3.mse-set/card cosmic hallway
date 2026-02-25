@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.7
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-04-06 10:23:24
+	time_modified: 2025-04-25 07:25:05
+	card_color: white, blue, green, hybrid, vertical
+	name: Cosmic Hallway
+	casting_cost: 2G/WG/U
+	image: image62.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>◌̵  Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: uncommon
+	rule_text: Whenever a Creature card is put into exile from anywhere; You may have its owner shuffle it into their library.
+	flavor_text: <i-flavor>Chase your dreams, but always know the road that will lead you home again.</i-flavor>
+	separator: flavor bar
+	illustrator: Ellysiumn
+	card_code_text: — 3rd party card.
+	card_code_text_2: 
+	card_code_text_3: 

@@ -1,0 +1,40 @@
+﻿mse_version: 2.5.7
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 1
+		chop_bottom: 5
+		frames: universes beyond
+		other_options: auto nyx crowns
+		text_box_mana_symbols: magic-mana-large.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: https://www.youtube.com/watch?v=irikdxV84X4
+	time_created: 2023-11-23 20:23:00
+	time_modified: 2026-02-25 01:54:50
+	name: Drangeon
+	casting_cost: 5UB
+	image: image175
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant ◌̵  Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Dragon,</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Turtle,</word-list-class-en><atom-sep> </atom-sep><word-list-class-en>Zombie</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		When this Creature enters; You take the initiative.
+		Whenever an opponent ventures into the dungeon <i-auto>(or Undercity)</i-auto>; Destroy up to four target Creatures which that player controls. You lose life equal to the total mana value of Creatures destroyed this way.
+	flavor_text: <i-flavor></i-flavor>
+	watermark: custom watermark four
+	power: 5
+	toughness: 5
+	card_stamp: universes beyond
+	illustrator: Jess Jackdaw
+	additional_credit_2: Jess Jackdaw
+	additional_credit_brush_2: flavor
+	card_code_text: — 3rd party card.
+	card_code_text_2: — 3rd party card.
+	card_code_text_3: — 3rd party card.
+	copyright: 
+	copyright_2: 
+	copyright_3: 

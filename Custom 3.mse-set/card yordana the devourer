@@ -1,0 +1,50 @@
+﻿mse_version: 2.5.7
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 2
+		chop_bottom: 2
+		frames: puma, universes beyond
+		other_options: auto nyx crowns
+		legend_crown: standard
+		apply_custom_fonts: yes
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2024-11-06 22:49:42
+	time_modified: 2026-02-25 02:01:00
+	card_color: black, multicolor
+	name: Yordana, the Devourer
+	casting_cost: W/BU/BB/RB/G
+	card_symbol: alchemy
+	image: image212
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	indicator: multicolor
+	super_type: <word-list-type-en>Legendary ◌̵  Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Bear,</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Warlock,</word-list-class-en><atom-sep> </atom-sep><word-list-class-en>Hero</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: mythic rare
+	rule_text:
+		You may cast ᵉCurse spells as though they were Instant.
+		<margin:0:0:5><i>Cauldron Crone </i>— Discard a non-Creature card which is one or more colours: At the beginning of the next end step; Choose a card from Yordana’s spellbook that corresponds in the list below with a colour of the discarded card. Conjure a copy of that card into your hand. Activate at sorcery speed> —</margin:0:0:5>
+		<li><bullet>• </bullet>White — <u>Curse of Valour</u>
+		</li><li><bullet>• </bullet>Blue — <u>Curse of Eye</u>
+		</li><li><bullet>• </bullet>Black — <u>Curse of Skill</u>
+		</li><li><bullet>• </bullet>Red — <u>Curse of Blood</u>
+		</li><li><bullet>• </bullet>Green — <u>Curse of Fate</u></li>
+	flavor_text: <i-flavor></i-flavor>
+	watermark: custom watermark three
+	power: 0
+	toughness: 2
+	card_stamp: universes beyond
+	illustrator: League of Geeks
+	additional_credit_2: Armello
+	additional_credit_brush_2: flavor
+	card_code_text: — 3rd party card.
+	card_code_text_2: — 3rd party card.
+	card_code_text_3: — 3rd party card.
+	copyright: 
+	copyright_2: 
+	copyright_3: 

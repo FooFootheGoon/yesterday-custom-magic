@@ -1,0 +1,53 @@
+﻿mse_version: 2.5.7
+card:
+	stylesheet: m15-saga
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chapter_textboxes: three
+		snap_chapter_to_box: 
+		chapter_divider_coordinates: 
+		reminder_coordinate: 
+		separated_text_size: 
+		reminder_text_size: 
+		alternate_reminder: 
+		custom_chapter_location: 
+		custom_chapter_name: 
+		class_levels: cyber
+		custom_class_bar: 
+		replacement_chapter_location: 
+		chapter_number_coordinates: 
+		custom_chapter_coordinate: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2025-04-23 16:07:39
+	time_modified: 2026-02-24 20:51:22
+	special_text:
+		<i-auto>(As this Enchantment enters ↦ And, at the beginning of your first main phase; Add a         lore counter.)</i-auto>
+		I — Exile target Creature card from a graveyard. <kw-a><nospellcheck><key>Investigate</key></nospellcheck></kw-a>.
+		II — You may exile an Artefact you control. When you do; Exile target Creature you control.
+		III — Exile this permanent, then choose exactly two cards which were exiled with this permanent. Return them to the battlefield under your control, combined into one permanent. ⇨ It enters with a <kw-a><nospellcheck><key>Finality counter</key></nospellcheck></kw-a> on it.
+	border_color: rgb(200,200,200)
+	name: The Parable of the Once Visionary
+	casting_cost: 4C
+	image: image124.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>◌̵  Enchantment</word-list-type-en>
+	sub_type: <word-list-enchantment>Saga</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: mythic rare
+	chapter_text: <i-auto>(As this Enchantment enters ↦ And, at the beginning of your first main phase; Add a         lore counter.)</i-auto>
+	rule_text: 
+	flavor_text: <i-flavor></i-flavor>
+	level_1_text: Exile target Creature card from a graveyard. <kw-a><nospellcheck><key>Investigate</key></nospellcheck></kw-a>.
+	level_2_text: You may exile an Artefact you control. When you do; Exile target Creature you control.
+	level_3_text: Exile this permanent, then choose exactly two cards which were exiled with this permanent. Return them to the battlefield under your control, combined into one permanent. ⇨ It enters with a <kw-a><nospellcheck><key>Finality counter</key></nospellcheck></kw-a> on it.
+	illustrator: Aldo Katayanagi
+	card_code_text: — 3rd party card.
+	card_code_text_2: 
+	card_code_text_3: 

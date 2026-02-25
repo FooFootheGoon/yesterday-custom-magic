@@ -1,0 +1,34 @@
+﻿mse_version: 2.5.7
+card:
+	has_styling: false
+	notes: https://igorrr.bandcamp.com/album/spirituality-and-distortion
+	time_created: 2023-11-18 20:41:47
+	time_modified: 2025-04-25 08:08:11
+	border_color: rgb(200,200,200)
+	name: Irrefutable Omen
+	casting_cost: 1WUB
+	transformation: extra tragedy
+	image: image92.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>◌̵  Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: uncommon
+	rule_text:
+		<kw-0><nospellcheck><key><b>Split second</key></nospellcheck></kw-0> </b><i>(As long as this spell is on the stack, players can’t cast spells or activate abilities that aren’t mana abilities.)</i><b>
+		Alacrity </b><i>(Spells and abilities that don’t have “Alacrity” enter the stack under spells and abilities that have it.)
+		</i><b>As long as this spell is on the stack</b> ↦ Its target can’t leave the battlefield to pay a cost.
+		<b>This spell can’t be countered or redirected, and can target Creatures and Planeswalkers as though spells and abilities did not prevent those permanents from being targeted.</b>
+		Destroy target Creature or Planeswalker. Then if it wasn’t destroyed this way, it dies. <i-auto>(It’s put into its owner’s graveyard from the battlefield.)</i-auto> Then if it didn’t die this way, exile it. Then if it didn’t become exiled this way, shuffle it into its owner’s library. Then if it’s somehow still on the battlefield, flip the fucking table. Everybody loses.
+	flavor_text: <i-flavor></i-flavor>
+	watermark: none
+	power: 
+	toughness: 
+	illustrator: Anato Finnstark
+	card_code_text: — 3rd party card.
+	card_code_text_2: — 3rd party card.
+	card_code_text_3: — 3rd party card.
+	copyright: 
+	copyright_2: 
+	copyright_3: 

@@ -1,0 +1,35 @@
+﻿mse_version: 2.5.7
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 1
+		chop_bottom: 1
+		frames: 
+		other_options: auto nyx crowns
+		text_box_mana_symbols: magic-mana-large.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2025-04-06 11:52:28
+	time_modified: 2026-02-22 13:38:48
+	name: Token Gesture
+	casting_cost: 1UU
+	image: image72.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant ◌̵  Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: uncommon
+	rule_text: If a non-token Creature would enter this turn </sym>⇨ E<sym>xile it instead. Whenever a Creature card becomes exiled this way; Its controller creates a token that’s a copy of that card.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Boukje Elzinga
+	card_code_text: — 3rd party card.
+	card_code_text_2: 
+	card_code_text_3: 

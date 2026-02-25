@@ -1,0 +1,39 @@
+﻿mse_version: 2.5.7
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 1
+		chop_bottom: 1
+		frames: puma
+		other_options: auto nyx crowns
+		text_box_mana_symbols: magic-mana-large.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2025-04-06 04:14:12
+	time_modified: 2025-04-24 21:57:28
+	name: Heath, the Hoodwinker
+	casting_cost: 1BB
+	image: image39.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary ◌̵  Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Human,</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Cat,</word-list-class-en><atom-sep> </atom-sep><word-list-class-en>Villain</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		<sym>4U</sym>, <sym>T</sym>: <kw-a><nospellcheck><key>Scry <param-number>4</param-number></key></nospellcheck></kw-a>, then <kw-a><nospellcheck><key>clash</key></nospellcheck></kw-a> with an opponent. Activate at sorcery speed.> <i-auto>(Each clashing player reveals the top card of their library, then puts that card on the top or bottom. A player wins if their card had a higher mana value.)</i-auto>
+		Whenever you win a <kw-a><nospellcheck><key>clash</key></nospellcheck></kw-a>; You get an experience counter. Then you draw cards and lose life equal to the number of experience counters you have.
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 2
+	illustrator: m0queur
+	card_code_text: — 3rd party card.
+	card_code_text_2: 
+	card_code_text_3: 

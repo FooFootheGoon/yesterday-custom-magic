@@ -1,0 +1,47 @@
+﻿mse_version: 2.5.7
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 1
+		chop_bottom: 1
+		frames: 
+		other_options: auto nyx crowns
+		hybrid_name: grey
+		text_box_mana_symbols: magic-mana-large.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		
+		
+		 
+	time_created: 2025-04-24 09:14:24
+	time_modified: 2026-02-24 19:27:48
+	card_color: blue, black, hybrid, horizontal
+	name: They What Become Real
+	casting_cost: U/BU/BU/B
+	transformation: extra comedy
+	image: image122.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>◌̵  Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Shapeshifter,</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Nightmare</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: mythic rare
+	rule_text:
+		<kw-a><nospellcheck><key><b><kw-0>Unleash</key></nospellcheck></kw-a> <kw-0><nospellcheck><key>shadow</key></nospellcheck></kw-0> </b><i>(You may have this enter “<kw-0><nospellcheck><key>Shadow</key></nospellcheck></kw-0>” “<kw-0><nospellcheck><key>Shadow</key></nospellcheck></kw-0>” counter on it. As long as it has a <kw-0><nospellcheck><key>shadow</key></nospellcheck></kw-0> counter on it ↦ It can’t block.)</i>
+		Renown <kw-0><nospellcheck><key>hexproof</key></nospellcheck></kw-0> <i-auto>(As long as this isn’t Renowned ↦ When it deals combat damage to a player; Put a “<kw-0><nospellcheck><key>Hexproof</key></nospellcheck></kw-0>” counter on this, and it becomes Renowned.)</i-auto>
+		<sym-auto>G/WG/WG/W</sym-auto>: Monstrosity shield <i-auto>(If this isn’t Monstrous, put a <kw-0><nospellcheck><key>Shield counter</key></nospellcheck></kw-0> on it, and it becomes Monstrous.)</i-auto>
+		Whenever one or more counters placed on this Creature; You draw a card and lose 1 life.
+	flavor_text: <i-flavor></i-flavor>
+	power: 1/1
+	toughness: 
+	illustrator: Aldo Katayanagi
+	card_code_text: — 3rd party card.
+	card_code_text_2: 
+	card_code_text_3: 

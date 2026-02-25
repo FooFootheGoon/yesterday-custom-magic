@@ -1,0 +1,34 @@
+﻿mse_version: 2.5.7
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 1
+		chop_bottom: 1
+		frames: 
+		other_options: auto nyx crowns
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: https://www.artstation.com/artwork/D381y
+	time_created: 2023-11-19 20:41:23
+	time_modified: 2026-02-24 20:06:14
+	border_color: rgb(0,0,0)
+	card_color: blue, green, artifact, hybrid, radial
+	name: The Excogitatron
+	casting_cost: G/UG/UG/U
+	image: image99
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary ◌̵  Artefact</word-list-type-en>
+	sub_type: 
+	rarity: rare
+	rule_text: If sub-ability you control triggers ⇨ That ability triggers an additional time. <i-auto>(╰ represents a sub-ability. Reflexive triggers are sub-abilities.)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Dmitrii Ustinov
+	card_code_text: — 3rd party card.
+	card_code_text_2: — 3rd party card.
+	card_code_text_3: — 3rd party card.
+	copyright: 
+	copyright_2: 
+	copyright_3: 

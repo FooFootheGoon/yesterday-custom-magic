@@ -1,0 +1,33 @@
+﻿mse_version: 2.5.7
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-04-06 12:44:12
+	time_modified: 2025-04-25 07:28:43
+	name: Furtive Flabberghaster
+	casting_cost: 1UU
+	image: image77.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>◌̵  Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Insect,</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Skeleton</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: uncommon
+	rule_text:
+		<kw-a><nospellcheck><key>Skulk</key></nospellcheck></kw-a>
+		Whenever this Creature deals combat damage to a player; Draw that many cards, then discard that many cards minus one.
+		<sym-auto>2GG</sym-auto>: Until end of turn ↦ This Creature gets +X/+0, where X is its power.
+	flavor_text: <i-flavor>It’s always the quiet ones...</i-flavor>
+	power: 0
+	toughness: 1
+	separator: flavor bar
+	illustrator: Bubaben
+	card_code_text: — 3rd party card.
+	card_code_text_2: 
+	card_code_text_3: 

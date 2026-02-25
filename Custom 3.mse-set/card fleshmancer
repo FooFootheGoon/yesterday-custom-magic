@@ -1,0 +1,30 @@
+﻿mse_version: 2.5.7
+card:
+	has_styling: false
+	notes: https://www.artstation.com/artwork/JEqDD
+	time_created: 2023-11-19 19:49:06
+	time_modified: 2026-02-23 16:03:34
+	name: Fleshmancer
+	casting_cost: 3B
+	transformation: extra comedy
+	image: image86
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>◌̵  Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Zombie,</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Warlock</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		<kw-0><nospellcheck><key><b>Overload</b> <param-cost><sym-auto>2B</sym-auto></param-cost></key></nospellcheck></kw-0> <i-auto>(You may cast this spell for its Overload cost. If you do ⇨ Change its text by replacing all instances of “target”, with “each”.<i>)</i-auto></i>
+		When this Creature enters; Target player sacrifices a Creature.
+	flavor_text: <i-flavor></i-flavor>
+	watermark: none
+	power: 3
+	toughness: 1
+	illustrator: Herman Ng
+	card_code_text: — 3rd party card.
+	card_code_text_2: — 3rd party card.
+	card_code_text_3: — 3rd party card.
+	copyright: 
+	copyright_2: 
+	copyright_3: 

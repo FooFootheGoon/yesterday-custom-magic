@@ -1,0 +1,30 @@
+﻿mse_version: 2.5.7
+card:
+	has_styling: false
+	notes: https://www.artstation.com/artwork/ZlZdvR
+	time_created: 2026-02-23 16:47:14
+	time_modified: 2026-02-24 22:13:11
+	name: Encroaching Stormlands
+	image: image141.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>◌̵  Land</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-land>Desert</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: uncommon
+	rule_text:
+		<b>⇨ This Land enters tapped.</b>
+		During your untap step ↦⇨ This Land doesn’t untap.
+		During each opponent’s untap step ↦ Untap this Land.
+		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Laszlo Pinter (Las Pinter)
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

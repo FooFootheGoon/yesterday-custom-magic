@@ -1,0 +1,49 @@
+﻿mse_version: 2.5.7
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 1
+		chop_bottom: 1
+		frames: universes beyond
+		other_options: auto nyx crowns
+		text_box_mana_symbols: magic-mana-large.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: https://hyperboleandahalf.blogspot.com/2013/10/menace.html
+	time_created: 2023-11-21 05:31:37
+	time_modified: 2026-02-22 16:28:18
+	border_color: rgb(200,200,200)
+	card_color: red, artifact, horizontal
+	name: Dinosaur Costume
+	casting_cost: R
+	image: image126
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>◌̵  Kindred, Artefact</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>ᵏDinosaur,</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>ᵃEquipment</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: uncommon
+	rule_text:
+		Equipped Creature is a ᶜDinosaur in addition to its other subtypes.
+		At the beginning of combat on your turn; Equipped Creature deals 5 damage to any other target, chosen at random.
+		<kw-a><nospellcheck><key>Equip <param-cost><sym-auto>R</sym-auto></param-cost></key></nospellcheck></kw-a>
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor>Being a dinosaur felt natural. And Powerful. The feeling had been slowly intensifying ever since I put the costume on that morning, and I had to find some way to use it. Any way. Immediately.</i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	separator: flavor bar
+	card_stamp: flatstamped universes beyond
+	illustrator: Allie Brosh
+	additional_credit_2: Hyperbole and a half
+	additional_credit_brush_2: flavor
+	card_code_text: — 3rd party card.
+	card_code_text_2: — 3rd party card.
+	card_code_text_3: — 3rd party card.
+	copyright: 
+	copyright_2: 
+	copyright_3: 

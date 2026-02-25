@@ -1,0 +1,43 @@
+﻿mse_version: 2.5.7
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 4
+		chop_bottom: 4
+		frames: 
+		other_options: auto nyx crowns
+		text_box_mana_symbols: magic-mana-large.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2025-04-06 13:29:04
+	time_modified: 2026-02-24 18:11:55
+	name: Curtail
+	casting_cost: 1BB
+	image: image85.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant ◌̵  Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		<b>When you cast this spell; Any opponent may pay 5 life.
+		</b>╰ When an opponent does; Counter this spell, and<soft-line>
+		    </soft-line>each other opponent gains 5 life.
+		Counter target spell.
+		<b>When this spell becomes countered; You lose 5 life.</b>
+	flavor_text:
+		<i-flavor>“Behold the might of my double-edged sword!”<soft-line>
+		</soft-line>—<error-spelling:en_GB>Eupho</error-spelling:en_GB> the Visionary, last words</i-flavor>
+	separator: flavor bar
+	illustrator: erenarik
+	card_code_text: — 3rd party card.
+	card_code_text_2: 
+	card_code_text_3: 

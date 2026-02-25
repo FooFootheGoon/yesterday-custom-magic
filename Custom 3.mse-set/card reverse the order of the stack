@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.7
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-04-06 13:13:48
+	time_modified: 2025-04-25 07:28:59
+	border_color: rgb(200,200,200)
+	name: Reverse the Order of the Stack
+	casting_cost: 1RR
+	image: image90.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant ◌̵  Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: uncommon
+	rule_text: Reverse the order of the stack.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Paul Konzen
+	card_code_text: — 3rd party card.
+	card_code_text_2: 
+	card_code_text_3: 

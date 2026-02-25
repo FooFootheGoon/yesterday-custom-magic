@@ -1,0 +1,51 @@
+﻿mse_version: 2.5.7
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 2
+		chop_bottom: 2
+		frames: puma
+		legend_crown: standard
+		text_box_mana_symbols: magic-mana-large.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2025-10-16 12:49:30
+	time_modified: 2026-02-25 02:00:47
+	extra_data:
+		magic-m15-altered:
+			vorthos_box: Asmoth’s Theros
+	name: Oxizanct, Champion of Arasta
+	casting_cost: 3WB
+	image: image132.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary ◌̵  Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Lizard,</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Knight,</word-list-class-en><atom-sep> </atom-sep><word-list-class-en>Rogue</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: mythic rare
+	rule_text:
+		<kw-a><nospellcheck><key>First strike</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>Reach</key></nospellcheck></kw-a>
+		Whenever Oxizanct deals damage to a Creature; Tap that Creature, put a <kw-a><nospellcheck><key>Stun counte<param-*s>r</param-*s></key></nospellcheck></kw-a> on it, and remove it from combat.
+		<sym>GG</sym>, Sacrifice a ᶜᵏSpider: Remove up to one counter from target Creature. Untap it. Activate at sorcery speed.>
+		<kw-a><nospellcheck><key>Persist</key></nospellcheck></kw-a>
+		<b><kw-a><nospellcheck><key>Partner</key></nospellcheck></kw-a>—Nyxchange</b> <i-auto>(You can have two Commanders if both have this ability.)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	watermark: none
+	power: 3
+	toughness: 2
+	card_stamp: universes beyond
+	illustrator: League of Geeks
+	additional_credit_2: 
+	additional_credit_brush_2: none
+	card_code_text: — 3rd party card.
+	card_code_text_2: 
+	card_code_text_3: 

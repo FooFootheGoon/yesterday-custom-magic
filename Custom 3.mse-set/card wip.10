@@ -1,0 +1,26 @@
+﻿mse_version: 2.5.7
+card:
+	has_styling: false
+	notes: 
+	time_created: 2026-02-23 16:53:20
+	time_modified: 2026-02-23 16:54:26
+	name: . WIP
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>permanent</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: Non-Equipment
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<kw-a><nospellcheck><key>Living weapon</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>living weapon</key></nospellcheck></kw-a>
+		Whenever a token Creature which you control dies; You draw a card and you lose 2 life.
+	flavor_text: <i-flavor></i-flavor>
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

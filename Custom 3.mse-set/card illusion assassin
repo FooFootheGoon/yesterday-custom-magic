@@ -1,0 +1,32 @@
+﻿mse_version: 2.5.7
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-04-06 10:08:51
+	time_modified: 2025-04-25 07:23:55
+	name: Illusion Assassin
+	casting_cost: 2UB
+	image: image35.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>◌̵  Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Illusion,</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Assassin</word-list-class-en> <soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: uncommon
+	rule_text:
+		<kw-0><nospellcheck><key>Skulk</key></nospellcheck></kw-0> <i-auto>(This Creature can’t be blocked by Creatures with greater power.)</i-auto>
+		<kw-a><nospellcheck><key>Myriad</key></nospellcheck></kw-a> <i-auto>(Whenever this Creature attacks; For each opponent other than defending player, you may create a token that’s a copy of this Creature. They enter tapped and attacking that player, a Planeswalker they control, or a Battle they defend. If one or more tokens are created this way ↦ At end of combat; Exile them.)</i-auto>
+		Whenever a token Creature you control leaves; You may have target player lose 1 life.
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 1
+	illustrator: jameszapata
+	card_code_text: — 3rd party card.
+	card_code_text_2: 
+	card_code_text_3: 
