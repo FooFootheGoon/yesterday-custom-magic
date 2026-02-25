@@ -1,0 +1,15 @@
+# Ignore folders
+/Artwork/
+/Decks/
+/For deletion/
+
+# Ignore the "Custom Watermarks" shortcut/link (or folder, if it becomes one)
+/Custom Watermarks
+
+# Ignore local temp/editor files
+/.git-push.txt.kate-swp
+/git-push.txt
+
+# Ignore local helper scripts/docs
+/foo_lex_mse_to_index.py
+/python application instructions.txt
