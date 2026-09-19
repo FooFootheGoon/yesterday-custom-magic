@@ -1,0 +1,48 @@
+﻿mse_version: 2.5.7
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 
+		chop_bottom: 6
+		frames: puma
+		custom_border_source: 
+		other_options: pokemon evobar, auto nyx crowns
+		text_box_mana_symbols: magic-mana-large.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2026-04-08 22:35:45
+	time_modified: 2026-09-19 21:21:36
+	card_color: colorless
+	name: Xand & Nxor, Painter & Bodyguard
+	alias: "Xand", "Nxor"
+	casting_cost: 22/RR
+	image: image173.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary ◌̵  Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Devil,</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Wizard,</word-list-class-en><atom-sep> </atom-sep><word-list-class-en>Warrior</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: uncommon
+	rule_text:
+		<kw-a><nospellcheck><key><b>Devoid</b></key></nospellcheck></kw-a>, <b>Bandit</b>
+		<i>Wielder of Names — </i>Whenever you choose names, or put name counters on Creatures; <kw-a><nospellcheck><key>Goad</key></nospellcheck></kw-a> up to 1 target Creature.
+		<sym>WW/BB</sym>, <sym-auto>T</sym-auto>: Destroy target tapped Creature. Activate at sorcery speed.>
+		Whenever a Creature an opponent controls dies; You may pay <sym-auto>CC/UU</sym-auto>. If you do, this Creature becomes a copy of that Creature, except it keeps its base abilities.
+	flavor_text: <i-flavor></i-flavor>
+	power: 5
+	toughness: 1
+	illustrator: Abbadon
+	additional_credit_2: Kill Six Billion Demons
+	additional_credit_brush_2: flavor
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

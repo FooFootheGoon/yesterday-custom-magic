@@ -1,15 +1,26 @@
 ﻿mse_version: 2.5.7
 card:
-	has_styling: false
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 1
+		chop_bottom: 1
+		frames: puma
+		custom_border_source: 
+		other_options: pokemon evobar, auto nyx crowns
+		text_box_mana_symbols: magic-mana-large.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
 	notes: 
-	time_created: 2026-02-23 20:53:55
-	time_modified: 2026-02-23 20:56:25
-	name: . WIP
-	image: 
+	time_created: 2026-04-08 22:35:45
+	time_modified: 2026-05-18 10:33:43
+	name: . WIP / 
+	image: image239
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
-	super_type: <word-list-type-en>Legendary </word-list-type-en>
+	super_type: <word-list-type-en>Legendary ◌̵  </word-list-type-en>
 	super_type_2: <word-list-type-en></word-list-type-en>
 	super_type_3: <word-list-type-en></word-list-type-en>
 	super_type_4: <word-list-type-en></word-list-type-en>
@@ -17,15 +28,6 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
-	rarity: mythic rare
-	rule_text:
-		If a card would be put into a graveyard Instead, exile it.
-		<atom-cardname><nospellcheck>. WIP</nospellcheck></atom-cardname> has the names of each card which is exiled with it.
-		For each name this Creature has It gets +1/+1.
-		The “legend rule” doesn’t apply to <atom-cardname><nospellcheck>. WIP</nospellcheck></atom-cardname>.
-	flavor_text: <i-flavor></i-flavor>
-	power: 0
-	toughness: 0
 	illustrator: Abbadon
 	additional_credit_2: Kill Six Billion Demons
 	additional_credit_brush_2: flavor

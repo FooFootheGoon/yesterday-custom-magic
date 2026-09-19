@@ -1,0 +1,46 @@
+﻿mse_version: 2.5.7
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 1
+		chop_bottom: 1
+		frames: puma
+		custom_border_source: 
+		other_options: pokemon evobar, auto nyx crowns
+		text_box_mana_symbols: magic-mana-large.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2026-04-08 22:35:45
+	time_modified: 2026-05-18 11:05:38
+	name: . WIP / Solomon David
+	alias: “God Emperor of the Celestial Empire”, “Grand Master of Ki Rata”, “Bearer of the word Diamond”
+	casting_cost: 4GWU
+	image: image267
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary ◌̵  Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Avatar,</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Monk,</word-list-class-en><atom-sep> </atom-sep><word-list-class-en>Demiurge</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		For each counter on Solomon David ↦ He gets +2/+2.
+		<sym-auto>5G</sym-auto>: Until end of turn ↦ Creatures which your opponents control lose all “<kw-a><nospellcheck><key>Hexproof</key></nospellcheck></kw-a>”, “<kw-a><nospellcheck><key>Shroud</key></nospellcheck></kw-a>”, “Protection”, and “Ward” abilities.
+		<sym-auto>3U</sym-auto>: Move any number of counters from target Creature onto Solomon David.
+		<sym-auto>1W</sym-auto>, Sacrifice Solomon David: Put an “<kw-a><nospellcheck><key>Indestructible</key></nospellcheck></kw-a>” counter on target Creature. For as long as it has that counter ↦ It’s a ᶜᵏDemiurge in addition to its other subtypes, and has “For each counter on this Creature ↦ It gets +1/+1”.
+	flavor_text: <i-flavor></i-flavor>
+	power: 0
+	toughness: 0
+	illustrator: Abbadon
+	additional_credit_2: Kill Six Billion Demons
+	additional_credit_brush_2: flavor
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

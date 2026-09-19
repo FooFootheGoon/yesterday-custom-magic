@@ -12,7 +12,13 @@ card:
 	mainframe_image: 
 	mainframe_image_2: 
 	super_type: <word-list-type-en>◌̵  Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
 	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
 	rarity: rare
 	rule_text: Destroy all |non-Basic <b>◌̵ </b> non-Creature| permanents. For each Land destroyed this way, its controller may tutor a |Basic ◌̵  Land| card, then put it onto the battlefield tapped.
 	flavor_text:

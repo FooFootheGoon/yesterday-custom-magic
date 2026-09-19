@@ -11,7 +11,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2025-04-06 13:29:04
-	time_modified: 2026-02-24 18:11:55
+	time_modified: 2026-09-19 17:17:36
 	name: Curtail
 	casting_cost: 1BB
 	image: image85.png
@@ -30,7 +30,7 @@ card:
 	rule_text:
 		<b>When you cast this spell; Any opponent may pay 5 life.
 		</b>╰ When an opponent does; Counter this spell, and<soft-line>
-		    </soft-line>each other opponent gains 5 life.
+		    </soft-line>each of your other opponents gain 5 life.
 		Counter target spell.
 		<b>When this spell becomes countered; You lose 5 life.</b>
 	flavor_text:

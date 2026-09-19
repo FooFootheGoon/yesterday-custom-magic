@@ -12,7 +12,13 @@ card:
 	mainframe_image: 
 	mainframe_image_2: 
 	super_type: <word-list-type-en>◌̵  Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
 	sub_type: <word-list-enchantment>The</word-list-enchantment><atom-sep> </atom-sep><word-list-enchantment>Fragile</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
 	rarity: uncommon
 	rule_text:
 		<kw-a><i-auto><nospellcheck><key>Gotcha</key></nospellcheck></i-auto></kw-a> — If an opponent says “I cast” and then refers to a spell they control, you may say “</i><kw-a><i-auto><nospellcheck><key>Gotcha</key></nospellcheck></i-auto></kw-a><i>!” and sacrifice this Enchantment.<soft-line>

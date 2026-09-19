@@ -22,7 +22,7 @@ card:
 	rule_text:
 		<kw-a><nospellcheck><key>First strike</key></nospellcheck></kw-a>
 		When this Creature enters; It deals 2 damage to any target.
-		<b><kw-1><nospellcheck><key>Evoke</b>—<param-cost>Exile a red card from your hand</param-cost>.</key></nospellcheck><atom-reminder-expert> <i-auto>(You may cast this spell for its evoke cost. If you do, it’s sacrificed when it enters.)</i-auto></atom-reminder-expert></kw-1>
+		<b><kw-1><nospellcheck><key>Evoke</b>—<param-cost>Exile a red card from your hand</param-cost>.</key></nospellcheck><atom-reminder-expert> <i-auto>(You may cast this spell for its evoke cost. If you do ⇨ When it enters; Sacrifice it.)</i-auto></atom-reminder-expert></kw-1>
 	flavor_text: <i-flavor></i-flavor>
 	power: 3
 	toughness: 2

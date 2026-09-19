@@ -1,0 +1,35 @@
+﻿mse_version: 2.5.7
+card:
+	has_styling: false
+	notes: https://www.artstation.com/artwork/vbQVv6
+	time_created: 2026-02-23 16:48:08
+	time_modified: 2026-09-19 22:13:35
+	card_color: artifact
+	name: Overseer of Scales
+	casting_cost: X4
+	image: image143.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artefact, Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>ᶜGolem,</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>ᶜAdvisor</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		<kw-a><nospellcheck><key><b>Convoke</key></nospellcheck></kw-a> non-Artefact Creatures</b>
+		<b>⇨ This permanent enters with a +1 counter on it, for each tapped |non-Artefact, Creature| which you control.</b>
+		When this permanent dies; you may put its +1 counters on target |non-Artefact, Creature|.
+		Each |non-Artefact, Creature| spell which you cast, has “<kw-a><nospellcheck><key>Improvise</key></nospellcheck></kw-a>”.
+		Each |non-Artefact, Creature| which you control, has “<kw-a><nospellcheck><key>Modular <param-number>X</param-number></key></nospellcheck></kw-a>, where X is the number of tapped |Artefact, Creature| permanents which you control”.
+	flavor_text: <i-flavor></i-flavor>
+	power: 0
+	toughness: 0
+	illustrator: Laszlo Pinter (Las Pinter)
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

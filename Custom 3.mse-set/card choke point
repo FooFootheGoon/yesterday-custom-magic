@@ -11,7 +11,13 @@ card:
 	mainframe_image: 
 	mainframe_image_2: 
 	super_type: <word-list-type-en>◌̵  Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
 	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
 	rarity: mythic rare
 	rule_text:
 		<kw-0><nospellcheck><key><b>Cleave <param-cost></b><sym>WWWW</sym></param-cost></key></nospellcheck></kw-0> <i-auto>(You may cast this spell for its Cleave cost. If you do ⇨ Remove the words in square brackets.)</i-auto>

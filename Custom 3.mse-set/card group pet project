@@ -11,7 +11,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2025-04-05 16:42:17
-	time_modified: 2026-02-23 20:37:15
+	time_modified: 2026-02-25 12:15:31
 	card_color: artifact
 	name: Group Pet Project
 	casting_cost: 3
@@ -38,8 +38,8 @@ card:
 		<kw-0><nospellcheck><key>Crew <param-number>2</param-number></key></nospellcheck></kw-0> by non-Brushwagg  <i-auto>(Tap one |Creature — non-Brushwagg| or more which you control, which have total power 2 or greater: Until end of turn ↦ This permanent becomes an |Artefact, Creature|.)</i-auto>
 		Whenever this permanent becomes Crewed; Choose a Creature subtype from among the subtypes of the Creatures that Crewed it this turn. This permanent perpetually gains that Creature subtype.
 	flavor_text: <i-flavor></i-flavor>
-	power: 1/1
-	toughness: 
+	power: 1
+	toughness: 1
 	illustrator: Laurent Ta
 	card_code_text: — 3rd party card.
 	card_code_text_2: 

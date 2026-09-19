@@ -1,7 +1,7 @@
 {
   "schema": "foo-lex.mse-index",
   "schema_version": 1,
-  "generated_at": "2026-02-25T13:16:04.283678+00:00",
+  "generated_at": "2026-02-26T16:47:10.404760+00:00",
   "set_name": "Custom 3.mse-set",
   "markers": {
     "quality_sep": "|",
@@ -14,7 +14,7 @@
     "replacement_marker": "⇨",
     "sub_ability_marker": "╰"
   },
-  "card_count": 350,
+  "card_count": 360,
   "cards": [
     {
       "id": "card template",
@@ -138,7 +138,7 @@
         "23 Liminal Blossom"
       ],
       "cost": {
-        "casting_cost": "1CRR/W"
+        "casting_cost": "1C/RR/WC/W"
       },
       "rarity": "rare",
       "type": {
@@ -174,7 +174,7 @@
         {
           "face_index": 1,
           "name": "23 Liminal Blossom",
-          "casting_cost": "1CRR/W",
+          "casting_cost": "1C/RR/WC/W",
           "type": {
             "qualitytype": null,
             "supertypes": [
@@ -244,7 +244,7 @@
       "meta": {
         "notes": "https://killsixbilliondemons.com/comic/ksbd-4-57/",
         "time_created": "2023-11-17 19:31:29",
-        "time_modified": "2026-02-25 02:10:17",
+        "time_modified": "2026-02-25 22:38:57",
         "source_file": "card 23 liminal blossom",
         "image": "image51"
       }
@@ -274,8 +274,8 @@
         "type_line_display": "Legendary ◌̵ Creature - Angel"
       },
       "rules": {
-        "raw": "<kw-0><nospellcheck><key><b>Devoid</b></key></nospellcheck></kw-0> <i-auto>(This card has no colour.)</i-auto>\nYou may look at the top card of your library at any time.\nScour the Universe — You may play Lands from the top of your library.\n   ╰ When you play a Land this way; It gains “When this<soft-line>\n</soft-line>      Land is sent to your graveyard from the battlefield; Draw<soft-line>\n</soft-line>      a card”. At the beginning of the next end step; Sacrifice it.\n<i>Speaker for Thorns</i> — You may cast permanent spells from the top of your library, as though they had “Blitz”. The Blitz cost of a spell cast this way is equal to its mana cost. ",
-        "readable": "[b]Devoid[/b] [i](This card has no colour.)[/i]\nYou may look at the top card of your library at any time.\nScour the Universe — You may play Lands from the top of your library.\n╰ When you play a Land this way; It gains “When this\nLand is sent to your graveyard from the battlefield; Draw\na card”. At the beginning of the next end step; Sacrifice it.\n[i]Speaker for Thorns[/i] — You may cast permanent spells from the top of your library, as though they had “Blitz”. The Blitz cost of a spell cast this way is equal to its mana cost.",
+        "raw": "<kw-0><nospellcheck><key><b>Devoid</b></key></nospellcheck></kw-0> <i-auto>(This card has no colour.)</i-auto>\nYou may look at the top card of your library at any time.\n<i>Scour the Universe</i> — You may play Lands from the top of your library.\n   ╰ When you play a Land this way; It gains “When this<soft-line>\n</soft-line>      Land is sent to your graveyard from the battlefield; Draw<soft-line>\n</soft-line>      a card”. At the beginning of the next end step; Sacrifice it.\n<i>Speaker for Thorns</i> — You may cast permanent spells from the top of your library, as though they had “Blitz”. The Blitz cost of a spell cast this way is equal to its mana cost. ",
+        "readable": "[b]Devoid[/b] [i](This card has no colour.)[/i]\nYou may look at the top card of your library at any time.\n[i]Scour the Universe[/i] — You may play Lands from the top of your library.\n╰ When you play a Land this way; It gains “When this\nLand is sent to your graveyard from the battlefield; Draw\na card”. At the beginning of the next end step; Sacrifice it.\n[i]Speaker for Thorns[/i] — You may cast permanent spells from the top of your library, as though they had “Blitz”. The Blitz cost of a spell cast this way is equal to its mana cost.",
         "plain": "Devoid (This card has no colour.)\nYou may look at the top card of your library at any time.\nScour the Universe — You may play Lands from the top of your library.\n╰ When you play a Land this way; It gains “When this\nLand is sent to your graveyard from the battlefield; Draw\na card”. At the beginning of the next end step; Sacrifice it.\nSpeaker for Thorns — You may cast permanent spells from the top of your library, as though they had “Blitz”. The Blitz cost of a spell cast this way is equal to its mana cost.",
         "has_bold": true,
         "has_italics": true,
@@ -308,8 +308,8 @@
             "type_line_display": "Legendary ◌̵ Creature - Angel"
           },
           "rules": {
-            "raw": "<kw-0><nospellcheck><key><b>Devoid</b></key></nospellcheck></kw-0> <i-auto>(This card has no colour.)</i-auto>\nYou may look at the top card of your library at any time.\nScour the Universe — You may play Lands from the top of your library.\n   ╰ When you play a Land this way; It gains “When this<soft-line>\n</soft-line>      Land is sent to your graveyard from the battlefield; Draw<soft-line>\n</soft-line>      a card”. At the beginning of the next end step; Sacrifice it.\n<i>Speaker for Thorns</i> — You may cast permanent spells from the top of your library, as though they had “Blitz”. The Blitz cost of a spell cast this way is equal to its mana cost. ",
-            "readable": "[b]Devoid[/b] [i](This card has no colour.)[/i]\nYou may look at the top card of your library at any time.\nScour the Universe — You may play Lands from the top of your library.\n╰ When you play a Land this way; It gains “When this\nLand is sent to your graveyard from the battlefield; Draw\na card”. At the beginning of the next end step; Sacrifice it.\n[i]Speaker for Thorns[/i] — You may cast permanent spells from the top of your library, as though they had “Blitz”. The Blitz cost of a spell cast this way is equal to its mana cost.",
+            "raw": "<kw-0><nospellcheck><key><b>Devoid</b></key></nospellcheck></kw-0> <i-auto>(This card has no colour.)</i-auto>\nYou may look at the top card of your library at any time.\n<i>Scour the Universe</i> — You may play Lands from the top of your library.\n   ╰ When you play a Land this way; It gains “When this<soft-line>\n</soft-line>      Land is sent to your graveyard from the battlefield; Draw<soft-line>\n</soft-line>      a card”. At the beginning of the next end step; Sacrifice it.\n<i>Speaker for Thorns</i> — You may cast permanent spells from the top of your library, as though they had “Blitz”. The Blitz cost of a spell cast this way is equal to its mana cost. ",
+            "readable": "[b]Devoid[/b] [i](This card has no colour.)[/i]\nYou may look at the top card of your library at any time.\n[i]Scour the Universe[/i] — You may play Lands from the top of your library.\n╰ When you play a Land this way; It gains “When this\nLand is sent to your graveyard from the battlefield; Draw\na card”. At the beginning of the next end step; Sacrifice it.\n[i]Speaker for Thorns[/i] — You may cast permanent spells from the top of your library, as though they had “Blitz”. The Blitz cost of a spell cast this way is equal to its mana cost.",
             "plain": "Devoid (This card has no colour.)\nYou may look at the top card of your library at any time.\nScour the Universe — You may play Lands from the top of your library.\n╰ When you play a Land this way; It gains “When this\nLand is sent to your graveyard from the battlefield; Draw\na card”. At the beginning of the next end step; Sacrifice it.\nSpeaker for Thorns — You may cast permanent spells from the top of your library, as though they had “Blitz”. The Blitz cost of a spell cast this way is equal to its mana cost."
           },
           "flavor": {
@@ -363,7 +363,7 @@
       "meta": {
         "notes": "https://killsixbilliondemons.com/comic/wielder-of-names-2-22/",
         "time_created": "2023-11-21 12:16:36",
-        "time_modified": "2026-02-25 02:10:20",
+        "time_modified": "2026-02-25 22:37:13",
         "source_file": "card 6 juggernaut star",
         "image": "image139"
       }
@@ -601,7 +601,7 @@
       "meta": {
         "notes": "https://killsixbilliondemons.com/comic/wielder-of-names-1-8/",
         "time_created": "2023-11-17 12:32:52",
-        "time_modified": "2026-02-25 02:10:11",
+        "time_modified": "2026-02-25 22:39:15",
         "source_file": "card 82 white chain disembodied",
         "image": "image10"
       }
@@ -2867,6 +2867,113 @@
       }
     },
     {
+      "id": "card anthropogenic moon",
+      "name": "Anthropogenic Moon",
+      "name_key": "anthropogenic moon",
+      "all_names": [
+        "Anthropogenic Moon"
+      ],
+      "cost": {
+        "casting_cost": "WB"
+      },
+      "rarity": "mythic rare",
+      "type": {
+        "qualitytype": null,
+        "supertypes": [
+          "World"
+        ],
+        "types": [
+          "Enchantment"
+        ],
+        "subtypes": [],
+        "type_line_display": "World ◌̵ Enchantment"
+      },
+      "rules": {
+        "raw": "When this Enchantment enters; It becomes night. Then you may have it become day. If you do ⇨ Then, it becomes night. <soft-line>Put a charge counter on this Enchantment. As long as it has a charge counter on it ↦ It can’t become day.</soft-line>",
+        "readable": "When this Enchantment enters; It becomes night. Then you may have it become day. If you do ⇨ Then, it becomes night. Put a charge counter on this Enchantment. As long as it has a charge counter on it ↦ It can’t become day.",
+        "plain": "When this Enchantment enters; It becomes night. Then you may have it become day. If you do ⇨ Then, it becomes night. Put a charge counter on this Enchantment. As long as it has a charge counter on it ↦ It can’t become day.",
+        "has_bold": false,
+        "has_italics": false,
+        "has_underline": false,
+        "uses_conditional_marker": true,
+        "uses_replacement_marker": true,
+        "uses_sub_ability_marker": false
+      },
+      "flavor": {
+        "raw": "<i-flavor>“The” Moon is distant from the Sea –<soft-line>\n</soft-line>And yet, with Amber Hands –<soft-line>\n</soft-line>She leads Him – docile as a Boy –<soft-line>\n</soft-line>Along appointed Sands –“<soft-line>\n—Emily Dickenson</soft-line></i-flavor>",
+        "readable": "[i]“The” Moon is distant from the Sea –\nAnd yet, with Amber Hands –\nShe leads Him – docile as a Boy –\nAlong appointed Sands –“\n—Emily Dickenson[/i]",
+        "plain": "“The” Moon is distant from the Sea –\nAnd yet, with Amber Hands –\nShe leads Him – docile as a Boy –\nAlong appointed Sands –“\n—Emily Dickenson"
+      },
+      "faces": [
+        {
+          "face_index": 1,
+          "name": "Anthropogenic Moon",
+          "casting_cost": "WB",
+          "type": {
+            "qualitytype": null,
+            "supertypes": [
+              "World"
+            ],
+            "types": [
+              "Enchantment"
+            ],
+            "subtypes": [],
+            "type_line_display": "World ◌̵ Enchantment"
+          },
+          "rules": {
+            "raw": "When this Enchantment enters; It becomes night. Then you may have it become day. If you do ⇨ Then, it becomes night. <soft-line>Put a charge counter on this Enchantment. As long as it has a charge counter on it ↦ It can’t become day.</soft-line>",
+            "readable": "When this Enchantment enters; It becomes night. Then you may have it become day. If you do ⇨ Then, it becomes night. Put a charge counter on this Enchantment. As long as it has a charge counter on it ↦ It can’t become day.",
+            "plain": "When this Enchantment enters; It becomes night. Then you may have it become day. If you do ⇨ Then, it becomes night. Put a charge counter on this Enchantment. As long as it has a charge counter on it ↦ It can’t become day."
+          },
+          "flavor": {
+            "raw": "<i-flavor>“The” Moon is distant from the Sea –<soft-line>\n</soft-line>And yet, with Amber Hands –<soft-line>\n</soft-line>She leads Him – docile as a Boy –<soft-line>\n</soft-line>Along appointed Sands –“<soft-line>\n—Emily Dickenson</soft-line></i-flavor>",
+            "readable": "[i]“The” Moon is distant from the Sea –\nAnd yet, with Amber Hands –\nShe leads Him – docile as a Boy –\nAlong appointed Sands –“\n—Emily Dickenson[/i]",
+            "plain": "“The” Moon is distant from the Sea –\nAnd yet, with Amber Hands –\nShe leads Him – docile as a Boy –\nAlong appointed Sands –“\n—Emily Dickenson"
+          },
+          "pt": {
+            "power": null,
+            "toughness": null,
+            "loyalty": null
+          }
+        }
+      ],
+      "credits": {
+        "illustrator": null
+      },
+      "appearance": {
+        "styling_data": {},
+        "stylesheet": null,
+        "frames": null,
+        "overlay": null,
+        "other_options": null,
+        "hybrid_nameplate": null,
+        "transformation": null,
+        "mask": null,
+        "card_symbol": null,
+        "card_stamp": null,
+        "border_color": null,
+        "watermark": null,
+        "separator": null,
+        "icons": [],
+        "is_legendary": false,
+        "colors": [],
+        "is_three_plus_colors": false,
+        "expects_gold_nameplate": false,
+        "has_puma_frame": false,
+        "has_planeshifted_frame": false,
+        "is_ub": false,
+        "is_digital": false,
+        "is_graveyard_marked": false
+      },
+      "meta": {
+        "notes": null,
+        "time_created": "2025-04-14 08:42:14",
+        "time_modified": "2026-02-25 15:21:55",
+        "source_file": "card anthropogenic moon",
+        "image": "image152.png"
+      }
+    },
+    {
       "id": "card anthropogenic sun",
       "name": "Anthropogenic Sun",
       "name_key": "anthropogenic sun",
@@ -2874,27 +2981,29 @@
         "Anthropogenic Sun"
       ],
       "cost": {
-        "casting_cost": "1RRR"
+        "casting_cost": "RRRW"
       },
       "rarity": "mythic rare",
       "type": {
         "qualitytype": null,
-        "supertypes": [],
+        "supertypes": [
+          "World"
+        ],
         "types": [
           "Enchantment"
         ],
         "subtypes": [],
-        "type_line_display": "◌̵ Enchantment"
+        "type_line_display": "World ◌̵ Enchantment"
       },
       "rules": {
-        "raw": "When this Enchantment enters; Conjure a card named <u>Magmatic Sinkhole</u> into your hand. It  can target any target.\nBurn spells you cast can target any target. <i-auto>(A burn spell is a nonpermanent spell that deals damage as part of its effect.)</i-auto>",
-        "readable": "When this Enchantment enters; Conjure a card named [u]Magmatic Sinkhole[/u] into your hand. It can target any target.\nBurn spells you cast can target any target. [i](A burn spell is a nonpermanent spell that deals damage as part of its effect.)[/i]",
-        "plain": "When this Enchantment enters; Conjure a card named Magmatic Sinkhole into your hand. It can target any target.\nBurn spells you cast can target any target. (A burn spell is a nonpermanent spell that deals damage as part of its effect.)",
+        "raw": "When this Enchantment enters; It becomes day. It can’t become night.<soft-line> </soft-line>Conjure a <u>Magmatic Sinkhole</u> card into your hand. ⇨ It can target any target.\n⇨ Burn spells you cast can target any target. <i-auto>(A burn spell is a nonpermanent spell that deals damage as part of its effect.)</i-auto>",
+        "readable": "When this Enchantment enters; It becomes day. It can’t become night. Conjure a [u]Magmatic Sinkhole[/u] card into your hand. ⇨ It can target any target.\n⇨ Burn spells you cast can target any target. [i](A burn spell is a nonpermanent spell that deals damage as part of its effect.)[/i]",
+        "plain": "When this Enchantment enters; It becomes day. It can’t become night. Conjure a Magmatic Sinkhole card into your hand. ⇨ It can target any target.\n⇨ Burn spells you cast can target any target. (A burn spell is a nonpermanent spell that deals damage as part of its effect.)",
         "has_bold": false,
         "has_italics": true,
         "has_underline": true,
         "uses_conditional_marker": false,
-        "uses_replacement_marker": false,
+        "uses_replacement_marker": true,
         "uses_sub_ability_marker": false
       },
       "flavor": {
@@ -2906,20 +3015,22 @@
         {
           "face_index": 1,
           "name": "Anthropogenic Sun",
-          "casting_cost": "1RRR",
+          "casting_cost": "RRRW",
           "type": {
             "qualitytype": null,
-            "supertypes": [],
+            "supertypes": [
+              "World"
+            ],
             "types": [
               "Enchantment"
             ],
             "subtypes": [],
-            "type_line_display": "◌̵ Enchantment"
+            "type_line_display": "World ◌̵ Enchantment"
           },
           "rules": {
-            "raw": "When this Enchantment enters; Conjure a card named <u>Magmatic Sinkhole</u> into your hand. It  can target any target.\nBurn spells you cast can target any target. <i-auto>(A burn spell is a nonpermanent spell that deals damage as part of its effect.)</i-auto>",
-            "readable": "When this Enchantment enters; Conjure a card named [u]Magmatic Sinkhole[/u] into your hand. It can target any target.\nBurn spells you cast can target any target. [i](A burn spell is a nonpermanent spell that deals damage as part of its effect.)[/i]",
-            "plain": "When this Enchantment enters; Conjure a card named Magmatic Sinkhole into your hand. It can target any target.\nBurn spells you cast can target any target. (A burn spell is a nonpermanent spell that deals damage as part of its effect.)"
+            "raw": "When this Enchantment enters; It becomes day. It can’t become night.<soft-line> </soft-line>Conjure a <u>Magmatic Sinkhole</u> card into your hand. ⇨ It can target any target.\n⇨ Burn spells you cast can target any target. <i-auto>(A burn spell is a nonpermanent spell that deals damage as part of its effect.)</i-auto>",
+            "readable": "When this Enchantment enters; It becomes day. It can’t become night. Conjure a [u]Magmatic Sinkhole[/u] card into your hand. ⇨ It can target any target.\n⇨ Burn spells you cast can target any target. [i](A burn spell is a nonpermanent spell that deals damage as part of its effect.)[/i]",
+            "plain": "When this Enchantment enters; It becomes day. It can’t become night. Conjure a Magmatic Sinkhole card into your hand. ⇨ It can target any target.\n⇨ Burn spells you cast can target any target. (A burn spell is a nonpermanent spell that deals damage as part of its effect.)"
           },
           "flavor": {
             "raw": "<i-flavor>“I’ll tell you how the Sun rose -<soft-line><soft-line>\n</soft-line></soft-line>A Ribbon at a time -”<soft-line><soft-line>\n</soft-line></soft-line>—Emily <error-spelling:en_GB>Dickenson</error-spelling:en_GB></i-flavor>",
@@ -2966,7 +3077,7 @@
       "meta": {
         "notes": "{'https': '//gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464084'}",
         "time_created": "2023-11-18 12:13:03",
-        "time_modified": "2026-02-22 15:22:22",
+        "time_modified": "2026-02-25 15:21:49",
         "source_file": "card anthropogenic sun",
         "image": "image53"
       }
@@ -5280,6 +5391,117 @@
       }
     },
     {
+      "id": "card chained cache",
+      "name": "Chained Cache",
+      "name_key": "chained cache",
+      "all_names": [
+        "Chained Cache"
+      ],
+      "cost": {
+        "casting_cost": "3"
+      },
+      "rarity": "uncommon",
+      "type": {
+        "qualitytype": null,
+        "supertypes": [],
+        "types": [
+          "Artefact"
+        ],
+        "subtypes": [],
+        "type_line_display": "◌̵ Artefact"
+      },
+      "rules": {
+        "raw": "<sym-auto>5</sym-auto>, <sym-auto>T</sym-auto>: Sacrifice a Creature, sacrifice this Artefact: Create a token which is a copy of the sacrificed Creature ↦ Except it’s a ᶜNightmare in addition to its other subtypes, and it has “<kw-0><nospellcheck><key>Shadow</key></nospellcheck></kw-0>” and “<kw-0><nospellcheck><key>Shroud</key></nospellcheck></kw-0>”.",
+        "readable": "{5}, {T}: Sacrifice a Creature, sacrifice this Artefact: Create a token which is a copy of the sacrificed Creature ↦ Except it’s a ᶜNightmare in addition to its other subtypes, and it has “Shadow” and “Shroud”.",
+        "plain": "{5}, {T}: Sacrifice a Creature, sacrifice this Artefact: Create a token which is a copy of the sacrificed Creature ↦ Except it’s a ᶜNightmare in addition to its other subtypes, and it has “Shadow” and “Shroud”.",
+        "has_bold": false,
+        "has_italics": false,
+        "has_underline": false,
+        "uses_conditional_marker": true,
+        "uses_replacement_marker": false,
+        "uses_sub_ability_marker": false
+      },
+      "flavor": {
+        "raw": "<i-flavor>Eyes narrowed, the rogue dipped the torch inside and filled its interior with a fervent glow. Empty.<soft-line>\n</soft-line>Entirely empty, save for a simple message scrawled inside,<soft-line>\n</soft-line>“Have you ever danced with your own shadow?”</i-flavor>",
+        "readable": "[i]Eyes narrowed, the rogue dipped the torch inside and filled its interior with a fervent glow. Empty.\nEntirely empty, save for a simple message scrawled inside,\n“Have you ever danced with your own shadow?”[/i]",
+        "plain": "Eyes narrowed, the rogue dipped the torch inside and filled its interior with a fervent glow. Empty.\nEntirely empty, save for a simple message scrawled inside,\n“Have you ever danced with your own shadow?”"
+      },
+      "faces": [
+        {
+          "face_index": 1,
+          "name": "Chained Cache",
+          "casting_cost": "3",
+          "type": {
+            "qualitytype": null,
+            "supertypes": [],
+            "types": [
+              "Artefact"
+            ],
+            "subtypes": [],
+            "type_line_display": "◌̵ Artefact"
+          },
+          "rules": {
+            "raw": "<sym-auto>5</sym-auto>, <sym-auto>T</sym-auto>: Sacrifice a Creature, sacrifice this Artefact: Create a token which is a copy of the sacrificed Creature ↦ Except it’s a ᶜNightmare in addition to its other subtypes, and it has “<kw-0><nospellcheck><key>Shadow</key></nospellcheck></kw-0>” and “<kw-0><nospellcheck><key>Shroud</key></nospellcheck></kw-0>”.",
+            "readable": "{5}, {T}: Sacrifice a Creature, sacrifice this Artefact: Create a token which is a copy of the sacrificed Creature ↦ Except it’s a ᶜNightmare in addition to its other subtypes, and it has “Shadow” and “Shroud”.",
+            "plain": "{5}, {T}: Sacrifice a Creature, sacrifice this Artefact: Create a token which is a copy of the sacrificed Creature ↦ Except it’s a ᶜNightmare in addition to its other subtypes, and it has “Shadow” and “Shroud”."
+          },
+          "flavor": {
+            "raw": "<i-flavor>Eyes narrowed, the rogue dipped the torch inside and filled its interior with a fervent glow. Empty.<soft-line>\n</soft-line>Entirely empty, save for a simple message scrawled inside,<soft-line>\n</soft-line>“Have you ever danced with your own shadow?”</i-flavor>",
+            "readable": "[i]Eyes narrowed, the rogue dipped the torch inside and filled its interior with a fervent glow. Empty.\nEntirely empty, save for a simple message scrawled inside,\n“Have you ever danced with your own shadow?”[/i]",
+            "plain": "Eyes narrowed, the rogue dipped the torch inside and filled its interior with a fervent glow. Empty.\nEntirely empty, save for a simple message scrawled inside,\n“Have you ever danced with your own shadow?”"
+          },
+          "pt": {
+            "power": null,
+            "toughness": null,
+            "loyalty": null
+          }
+        }
+      ],
+      "credits": {
+        "illustrator": "Jess Jackdaw"
+      },
+      "appearance": {
+        "styling_data": {
+          "chop_top": "3",
+          "chop_bottom": "5",
+          "frames": "universes beyond",
+          "other_options": "auto nyx crowns",
+          "text_box_mana_symbols": "magic-mana-large.mse-symbol-font",
+          "level_mana_symbols": "magic-mana-large.mse-symbol-font",
+          "overlay": ""
+        },
+        "stylesheet": null,
+        "frames": "universes beyond",
+        "overlay": null,
+        "other_options": "auto nyx crowns",
+        "hybrid_nameplate": null,
+        "transformation": null,
+        "mask": null,
+        "card_symbol": null,
+        "card_stamp": "flatstamped universes beyond",
+        "border_color": null,
+        "watermark": "custom watermark four",
+        "separator": "flavor bar",
+        "icons": [],
+        "is_legendary": false,
+        "colors": [],
+        "is_three_plus_colors": false,
+        "expects_gold_nameplate": false,
+        "has_puma_frame": false,
+        "has_planeshifted_frame": false,
+        "is_ub": true,
+        "is_digital": false,
+        "is_graveyard_marked": false
+      },
+      "meta": {
+        "notes": "https://www.youtube.com/watch?v=hhzP2Xzo6jg",
+        "time_created": "2023-11-23 21:10:15",
+        "time_modified": "2026-02-25 18:07:16",
+        "source_file": "card chained cache",
+        "image": "image163"
+      }
+    },
+    {
       "id": "card chained cashe",
       "name": "Chained Cashe",
       "name_key": "chained cashe",
@@ -5905,8 +6127,8 @@
             "plain": ""
           },
           "pt": {
-            "power": "4/4",
-            "toughness": null,
+            "power": "4",
+            "toughness": "4",
             "loyalty": null
           }
         }
@@ -5954,7 +6176,7 @@
       "meta": {
         "notes": null,
         "time_created": "2025-04-04 17:30:11",
-        "time_modified": "2026-02-22 13:21:43",
+        "time_modified": "2026-02-25 12:16:38",
         "source_file": "card chinxilong the prudent",
         "image": "image4.png"
       }
@@ -6508,6 +6730,115 @@
         "time_modified": "2026-02-25 01:51:29",
         "source_file": "card contain the contemptuous",
         "image": "image25"
+      }
+    },
+    {
+      "id": "card contaminous segovian octoskull",
+      "name": "Contaminous Segovian Octoskull",
+      "name_key": "contaminous segovian octoskull",
+      "all_names": [
+        "Contaminous Segovian Octoskull"
+      ],
+      "cost": {
+        "casting_cost": "G/U"
+      },
+      "rarity": "",
+      "type": {
+        "qualitytype": null,
+        "supertypes": [],
+        "types": [
+          "Creature"
+        ],
+        "subtypes": [
+          "Octopus",
+          "Skeleton"
+        ],
+        "type_line_display": "◌̵ Creature - Octopus, Skeleton"
+      },
+      "rules": {
+        "raw": "Islandhome <i-auto>(This Creature can’t attack, unless defending player controls an ᴸᵈIsland. When you control no ᴸᵈIslands; Sacrifice this Creature.</i-auto>\n<kw-0><nospellcheck><key>Toxic <param-number>10</param-number></key></nospellcheck></kw-0> <i-auto>(Players who are dealt combat damage by this Creature, also get ten Poison counters.)</i-auto>\n<kw-0><nospellcheck><key>Poisonous <param-number>10</param-number></key></nospellcheck></kw-0>  <i-auto>(Whenever this Creature deals combat damage to a player; That player gets ten Poison counters.)</i-auto>",
+        "readable": "Islandhome [i](This Creature can’t attack, unless defending player controls an ᴸᵈIsland. When you control no ᴸᵈIslands; Sacrifice this Creature.[/i]\nToxic 10 [i](Players who are dealt combat damage by this Creature, also get ten Poison counters.)[/i]\nPoisonous 10 [i](Whenever this Creature deals combat damage to a player; That player gets ten Poison counters.)[/i]",
+        "plain": "Islandhome (This Creature can’t attack, unless defending player controls an ᴸᵈIsland. When you control no ᴸᵈIslands; Sacrifice this Creature.\nToxic 10 (Players who are dealt combat damage by this Creature, also get ten Poison counters.)\nPoisonous 10 (Whenever this Creature deals combat damage to a player; That player gets ten Poison counters.)",
+        "has_bold": false,
+        "has_italics": true,
+        "has_underline": false,
+        "uses_conditional_marker": false,
+        "uses_replacement_marker": false,
+        "uses_sub_ability_marker": false
+      },
+      "flavor": {
+        "raw": "<i-flavor></i-flavor>",
+        "readable": "[i][/i]",
+        "plain": ""
+      },
+      "faces": [
+        {
+          "face_index": 1,
+          "name": "Contaminous Segovian Octoskull",
+          "casting_cost": "G/U",
+          "type": {
+            "qualitytype": null,
+            "supertypes": [],
+            "types": [
+              "Creature"
+            ],
+            "subtypes": [
+              "Octopus",
+              "Skeleton"
+            ],
+            "type_line_display": "◌̵ Creature - Octopus, Skeleton"
+          },
+          "rules": {
+            "raw": "Islandhome <i-auto>(This Creature can’t attack, unless defending player controls an ᴸᵈIsland. When you control no ᴸᵈIslands; Sacrifice this Creature.</i-auto>\n<kw-0><nospellcheck><key>Toxic <param-number>10</param-number></key></nospellcheck></kw-0> <i-auto>(Players who are dealt combat damage by this Creature, also get ten Poison counters.)</i-auto>\n<kw-0><nospellcheck><key>Poisonous <param-number>10</param-number></key></nospellcheck></kw-0>  <i-auto>(Whenever this Creature deals combat damage to a player; That player gets ten Poison counters.)</i-auto>",
+            "readable": "Islandhome [i](This Creature can’t attack, unless defending player controls an ᴸᵈIsland. When you control no ᴸᵈIslands; Sacrifice this Creature.[/i]\nToxic 10 [i](Players who are dealt combat damage by this Creature, also get ten Poison counters.)[/i]\nPoisonous 10 [i](Whenever this Creature deals combat damage to a player; That player gets ten Poison counters.)[/i]",
+            "plain": "Islandhome (This Creature can’t attack, unless defending player controls an ᴸᵈIsland. When you control no ᴸᵈIslands; Sacrifice this Creature.\nToxic 10 (Players who are dealt combat damage by this Creature, also get ten Poison counters.)\nPoisonous 10 (Whenever this Creature deals combat damage to a player; That player gets ten Poison counters.)"
+          },
+          "flavor": {
+            "raw": "<i-flavor></i-flavor>",
+            "readable": "[i][/i]",
+            "plain": ""
+          },
+          "pt": {
+            "power": "-8",
+            "toughness": "-8",
+            "loyalty": null
+          }
+        }
+      ],
+      "credits": {
+        "illustrator": "Tyler Holman"
+      },
+      "appearance": {
+        "styling_data": {},
+        "stylesheet": null,
+        "frames": null,
+        "overlay": null,
+        "other_options": null,
+        "hybrid_nameplate": null,
+        "transformation": null,
+        "mask": null,
+        "card_symbol": null,
+        "card_stamp": null,
+        "border_color": null,
+        "watermark": null,
+        "separator": null,
+        "icons": [],
+        "is_legendary": false,
+        "colors": [],
+        "is_three_plus_colors": false,
+        "expects_gold_nameplate": false,
+        "has_puma_frame": false,
+        "has_planeshifted_frame": false,
+        "is_ub": false,
+        "is_digital": false,
+        "is_graveyard_marked": false
+      },
+      "meta": {
+        "notes": "https://www.artstation.com/artwork/5aleE",
+        "time_created": "2026-02-23 16:46:36",
+        "time_modified": "2026-02-25 14:41:27",
+        "source_file": "card contaminous segovian octoskull",
+        "image": "image147.png"
       }
     },
     {
@@ -9359,123 +9690,6 @@
       }
     },
     {
-      "id": "card dreadhorde dragon",
-      "name": "Dreadhorde Dragon",
-      "name_key": "dreadhorde dragon",
-      "all_names": [
-        "Dreadhorde Dragon"
-      ],
-      "cost": {
-        "casting_cost": "3WWBB"
-      },
-      "rarity": "mythic rare",
-      "type": {
-        "qualitytype": null,
-        "supertypes": [],
-        "types": [
-          "Creature"
-        ],
-        "subtypes": [
-          "Dragon"
-        ],
-        "type_line_display": "◌̵ Creature - Dragon"
-      },
-      "rules": {
-        "raw": "<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>\nWhenever a token Creature which is white enters under your control; You gain life equal to its toughness.\nWhenever a token Creature which is black enters under your control; You draw cards and lose life equal to its power.\n<b><kw-0><nospellcheck><key>Embalm</b> <param-cost><sym-auto>4WW/B</sym-auto></param-cost></key></nospellcheck></kw-0>\n<b>Eternalise</b> <sym>5W/BBB</sym>\n<b><kw-0><nospellcheck><key>Encore <param-cost></b><sym>6WW/BW/BW/BBB</sym></param-cost></key></nospellcheck></kw-0>",
-        "readable": "Flying\nWhenever a token Creature which is white enters under your control; You gain life equal to its toughness.\nWhenever a token Creature which is black enters under your control; You draw cards and lose life equal to its power.\n[b]Embalm[/b] {4WW/B}\n[b]Eternalise[/b] {5W/BBB}\n[b]Encore [/b]{6WW/BW/BW/BBB}",
-        "plain": "Flying\nWhenever a token Creature which is white enters under your control; You gain life equal to its toughness.\nWhenever a token Creature which is black enters under your control; You draw cards and lose life equal to its power.\nEmbalm {4WW/B}\nEternalise {5W/BBB}\nEncore {6WW/BW/BW/BBB}",
-        "has_bold": true,
-        "has_italics": false,
-        "has_underline": false,
-        "uses_conditional_marker": false,
-        "uses_replacement_marker": false,
-        "uses_sub_ability_marker": false
-      },
-      "flavor": {
-        "raw": "<i-flavor></i-flavor>",
-        "readable": "[i][/i]",
-        "plain": ""
-      },
-      "faces": [
-        {
-          "face_index": 1,
-          "name": "Dreadhorde Dragon",
-          "casting_cost": "3WWBB",
-          "type": {
-            "qualitytype": null,
-            "supertypes": [],
-            "types": [
-              "Creature"
-            ],
-            "subtypes": [
-              "Dragon"
-            ],
-            "type_line_display": "◌̵ Creature - Dragon"
-          },
-          "rules": {
-            "raw": "<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>\nWhenever a token Creature which is white enters under your control; You gain life equal to its toughness.\nWhenever a token Creature which is black enters under your control; You draw cards and lose life equal to its power.\n<b><kw-0><nospellcheck><key>Embalm</b> <param-cost><sym-auto>4WW/B</sym-auto></param-cost></key></nospellcheck></kw-0>\n<b>Eternalise</b> <sym>5W/BBB</sym>\n<b><kw-0><nospellcheck><key>Encore <param-cost></b><sym>6WW/BW/BW/BBB</sym></param-cost></key></nospellcheck></kw-0>",
-            "readable": "Flying\nWhenever a token Creature which is white enters under your control; You gain life equal to its toughness.\nWhenever a token Creature which is black enters under your control; You draw cards and lose life equal to its power.\n[b]Embalm[/b] {4WW/B}\n[b]Eternalise[/b] {5W/BBB}\n[b]Encore [/b]{6WW/BW/BW/BBB}",
-            "plain": "Flying\nWhenever a token Creature which is white enters under your control; You gain life equal to its toughness.\nWhenever a token Creature which is black enters under your control; You draw cards and lose life equal to its power.\nEmbalm {4WW/B}\nEternalise {5W/BBB}\nEncore {6WW/BW/BW/BBB}"
-          },
-          "flavor": {
-            "raw": "<i-flavor></i-flavor>",
-            "readable": "[i][/i]",
-            "plain": ""
-          },
-          "pt": {
-            "power": "2",
-            "toughness": "3",
-            "loyalty": null
-          }
-        }
-      ],
-      "credits": {
-        "illustrator": "Sandara Tang"
-      },
-      "appearance": {
-        "styling_data": {
-          "chop_top": "",
-          "chop_bottom": "",
-          "frames": "",
-          "other_options": "auto nyx crowns",
-          "text_box_mana_symbols": "magic-mana-large.mse-symbol-font",
-          "level_mana_symbols": "magic-mana-large.mse-symbol-font",
-          "overlay": ""
-        },
-        "stylesheet": "m15-altered",
-        "frames": null,
-        "overlay": null,
-        "other_options": "auto nyx crowns",
-        "hybrid_nameplate": null,
-        "transformation": null,
-        "mask": null,
-        "card_symbol": "tombstone",
-        "card_stamp": null,
-        "border_color": null,
-        "watermark": null,
-        "separator": null,
-        "icons": [
-          "tombstone"
-        ],
-        "is_legendary": false,
-        "colors": [],
-        "is_three_plus_colors": false,
-        "expects_gold_nameplate": false,
-        "has_puma_frame": false,
-        "has_planeshifted_frame": false,
-        "is_ub": false,
-        "is_digital": false,
-        "is_graveyard_marked": true
-      },
-      "meta": {
-        "notes": "https://www.deviantart.com/sandara/art/Black-dragon-v2-577478744",
-        "time_created": "2023-11-21 11:33:19",
-        "time_modified": "2026-02-22 16:32:02",
-        "source_file": "card dreadhorde dragon",
-        "image": "image65"
-      }
-    },
-    {
       "id": "card dreadhorde dragon.1",
       "name": "Dreadhorde Dragon",
       "name_key": "dreadhorde dragon",
@@ -10412,16 +10626,15 @@
           "Creature"
         ],
         "subtypes": [
-          "Human",
-          "Skeleton",
+          "Shapeshifter",
           "Spellshaper"
         ],
-        "type_line_display": "Legendary ◌̵ Creature - Human, Skeleton, Spellshaper"
+        "type_line_display": "Legendary ◌̵ Creature - Shapeshifter, Spellshaper"
       },
       "rules": {
-        "raw": "<b>⇨ You may have Eupho enter tapped</b>.\nDuring your untap step ↦⇨ Eupho doesn’t untap.\n<sym>CU</sym>, <sym>Q</sym>, Exile a spell you control <i-auto>(it doesn’t resolve)</i-auto>: Exile target Creature spell.\n<sym-auto>CU</sym-auto>, <sym-auto>T</sym-auto>, Exile a Creature card from your hand, and from your graveyard: Copy target Sorcery spell. You<soft-line>\n</soft-line>may choose new targets for the copy.\nWhen Eupho dies; At the beginning of the next end<soft-line>\n</soft-line>step; Return each card which was exiled with him, to their owners’ hands.ś",
-        "readable": "[b]⇨ You may have Eupho enter tapped[/b].\nDuring your untap step ↦⇨ Eupho doesn’t untap.\n{CU}, {Q}, Exile a spell you control [i](it doesn’t resolve)[/i]: Exile target Creature spell.\n{CU}, {T}, Exile a Creature card from your hand, and from your graveyard: Copy target Sorcery spell. You\nmay choose new targets for the copy.\nWhen Eupho dies; At the beginning of the next end\nstep; Return each card which was exiled with him, to their owners’ hands.ś",
-        "plain": "⇨ You may have Eupho enter tapped.\nDuring your untap step ↦⇨ Eupho doesn’t untap.\n{CU}, {Q}, Exile a spell you control (it doesn’t resolve): Exile target Creature spell.\n{CU}, {T}, Exile a Creature card from your hand, and from your graveyard: Copy target Sorcery spell. You\nmay choose new targets for the copy.\nWhen Eupho dies; At the beginning of the next end\nstep; Return each card which was exiled with him, to their owners’ hands.ś",
+        "raw": "<b>⇨ You may have Eupho enter tapped</b>.\nDuring your untap step ↦⇨ Eupho doesn’t untap.\n<sym>CU</sym>, <sym>Q</sym>, Exile a spell you control <i-auto>(it doesn’t resolve)</i-auto>: Exile target Creature spell.\n<sym-auto>CU</sym-auto>, <sym-auto>T</sym-auto>, Exile a Creature card from your hand, and from your graveyard: Copy target Sorcery spell. You<soft-line>\n</soft-line>may choose new targets for the copy.\nWhen Eupho dies; At the beginning of the next end<soft-line>\n</soft-line>step; Return each card which was exiled with it, to their owners’ hands.ś",
+        "readable": "[b]⇨ You may have Eupho enter tapped[/b].\nDuring your untap step ↦⇨ Eupho doesn’t untap.\n{CU}, {Q}, Exile a spell you control [i](it doesn’t resolve)[/i]: Exile target Creature spell.\n{CU}, {T}, Exile a Creature card from your hand, and from your graveyard: Copy target Sorcery spell. You\nmay choose new targets for the copy.\nWhen Eupho dies; At the beginning of the next end\nstep; Return each card which was exiled with it, to their owners’ hands.ś",
+        "plain": "⇨ You may have Eupho enter tapped.\nDuring your untap step ↦⇨ Eupho doesn’t untap.\n{CU}, {Q}, Exile a spell you control (it doesn’t resolve): Exile target Creature spell.\n{CU}, {T}, Exile a Creature card from your hand, and from your graveyard: Copy target Sorcery spell. You\nmay choose new targets for the copy.\nWhen Eupho dies; At the beginning of the next end\nstep; Return each card which was exiled with it, to their owners’ hands.ś",
         "has_bold": true,
         "has_italics": true,
         "has_underline": false,
@@ -10448,16 +10661,15 @@
               "Creature"
             ],
             "subtypes": [
-              "Human",
-              "Skeleton",
+              "Shapeshifter",
               "Spellshaper"
             ],
-            "type_line_display": "Legendary ◌̵ Creature - Human, Skeleton, Spellshaper"
+            "type_line_display": "Legendary ◌̵ Creature - Shapeshifter, Spellshaper"
           },
           "rules": {
-            "raw": "<b>⇨ You may have Eupho enter tapped</b>.\nDuring your untap step ↦⇨ Eupho doesn’t untap.\n<sym>CU</sym>, <sym>Q</sym>, Exile a spell you control <i-auto>(it doesn’t resolve)</i-auto>: Exile target Creature spell.\n<sym-auto>CU</sym-auto>, <sym-auto>T</sym-auto>, Exile a Creature card from your hand, and from your graveyard: Copy target Sorcery spell. You<soft-line>\n</soft-line>may choose new targets for the copy.\nWhen Eupho dies; At the beginning of the next end<soft-line>\n</soft-line>step; Return each card which was exiled with him, to their owners’ hands.ś",
-            "readable": "[b]⇨ You may have Eupho enter tapped[/b].\nDuring your untap step ↦⇨ Eupho doesn’t untap.\n{CU}, {Q}, Exile a spell you control [i](it doesn’t resolve)[/i]: Exile target Creature spell.\n{CU}, {T}, Exile a Creature card from your hand, and from your graveyard: Copy target Sorcery spell. You\nmay choose new targets for the copy.\nWhen Eupho dies; At the beginning of the next end\nstep; Return each card which was exiled with him, to their owners’ hands.ś",
-            "plain": "⇨ You may have Eupho enter tapped.\nDuring your untap step ↦⇨ Eupho doesn’t untap.\n{CU}, {Q}, Exile a spell you control (it doesn’t resolve): Exile target Creature spell.\n{CU}, {T}, Exile a Creature card from your hand, and from your graveyard: Copy target Sorcery spell. You\nmay choose new targets for the copy.\nWhen Eupho dies; At the beginning of the next end\nstep; Return each card which was exiled with him, to their owners’ hands.ś"
+            "raw": "<b>⇨ You may have Eupho enter tapped</b>.\nDuring your untap step ↦⇨ Eupho doesn’t untap.\n<sym>CU</sym>, <sym>Q</sym>, Exile a spell you control <i-auto>(it doesn’t resolve)</i-auto>: Exile target Creature spell.\n<sym-auto>CU</sym-auto>, <sym-auto>T</sym-auto>, Exile a Creature card from your hand, and from your graveyard: Copy target Sorcery spell. You<soft-line>\n</soft-line>may choose new targets for the copy.\nWhen Eupho dies; At the beginning of the next end<soft-line>\n</soft-line>step; Return each card which was exiled with it, to their owners’ hands.ś",
+            "readable": "[b]⇨ You may have Eupho enter tapped[/b].\nDuring your untap step ↦⇨ Eupho doesn’t untap.\n{CU}, {Q}, Exile a spell you control [i](it doesn’t resolve)[/i]: Exile target Creature spell.\n{CU}, {T}, Exile a Creature card from your hand, and from your graveyard: Copy target Sorcery spell. You\nmay choose new targets for the copy.\nWhen Eupho dies; At the beginning of the next end\nstep; Return each card which was exiled with it, to their owners’ hands.ś",
+            "plain": "⇨ You may have Eupho enter tapped.\nDuring your untap step ↦⇨ Eupho doesn’t untap.\n{CU}, {Q}, Exile a spell you control (it doesn’t resolve): Exile target Creature spell.\n{CU}, {T}, Exile a Creature card from your hand, and from your graveyard: Copy target Sorcery spell. You\nmay choose new targets for the copy.\nWhen Eupho dies; At the beginning of the next end\nstep; Return each card which was exiled with it, to their owners’ hands.ś"
           },
           "flavor": {
             "raw": "<i-flavor></i-flavor>",
@@ -10479,7 +10691,7 @@
           "chop_top": "1",
           "chop_bottom": "1",
           "frames": "puma",
-          "other_options": "auto nyx crowns",
+          "other_options": "pokemon evobar, auto nyx crowns",
           "text_box_mana_symbols": "magic-mana-large.mse-symbol-font",
           "level_mana_symbols": "magic-mana-large.mse-symbol-font",
           "overlay": ""
@@ -10487,7 +10699,7 @@
         "stylesheet": null,
         "frames": "puma",
         "overlay": null,
-        "other_options": "auto nyx crowns",
+        "other_options": "pokemon evobar, auto nyx crowns",
         "hybrid_nameplate": null,
         "transformation": null,
         "mask": null,
@@ -10512,7 +10724,7 @@
       "meta": {
         "notes": null,
         "time_created": "2025-04-06 13:32:45",
-        "time_modified": "2026-02-24 22:02:43",
+        "time_modified": "2026-02-26 01:37:51",
         "source_file": "card eupho eternally blinded",
         "image": "image123.png"
       }
@@ -10866,13 +11078,13 @@
         "type_line_display": "◌̵ Creature - Bird, Illusion"
       },
       "rules": {
-        "raw": "<kw-a><nospellcheck><key><b>Offspring</b> <param-cost><sym>1U</sym></param-cost></key></nospellcheck></kw-a> <i-auto>(You may pay an additional <sym>1U</sym> as you cast this spell. If you do ⇨ When this Creature enters; Create a token that’s a 1/1 copy of it.)</i-auto>\n<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a> \nWhenever this Creature deals combat damage to a player; Draw that many cards, then discard a card.",
-        "readable": "[b]Offspring[/b] {1U} [i](You may pay an additional {1U} as you cast this spell. If you do ⇨ When this Creature enters; Create a token that’s a 1/1 copy of it.)[/i]\nFlying\nWhenever this Creature deals combat damage to a player; Draw that many cards, then discard a card.",
-        "plain": "Offspring {1U} (You may pay an additional {1U} as you cast this spell. If you do ⇨ When this Creature enters; Create a token that’s a 1/1 copy of it.)\nFlying\nWhenever this Creature deals combat damage to a player; Draw that many cards, then discard a card.",
+        "raw": "<kw-a><nospellcheck><key><b>Offspring</b> <param-cost><sym>1U</sym></param-cost></key></nospellcheck></kw-a> <i-auto>(As you cast this spell ↦ You may pay an additional <sym>1U</sym>. If you do ⇨ When this Creature enters; Create a token that’s a 1/1 copy of it.)</i-auto>\n<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a> \nWhenever this Creature deals combat damage to a player; Draw that many cards, then discard a card.",
+        "readable": "[b]Offspring[/b] {1U} [i](As you cast this spell ↦ You may pay an additional {1U}. If you do ⇨ When this Creature enters; Create a token that’s a 1/1 copy of it.)[/i]\nFlying\nWhenever this Creature deals combat damage to a player; Draw that many cards, then discard a card.",
+        "plain": "Offspring {1U} (As you cast this spell ↦ You may pay an additional {1U}. If you do ⇨ When this Creature enters; Create a token that’s a 1/1 copy of it.)\nFlying\nWhenever this Creature deals combat damage to a player; Draw that many cards, then discard a card.",
         "has_bold": true,
         "has_italics": true,
         "has_underline": false,
-        "uses_conditional_marker": false,
+        "uses_conditional_marker": true,
         "uses_replacement_marker": true,
         "uses_sub_ability_marker": false
       },
@@ -10899,9 +11111,9 @@
             "type_line_display": "◌̵ Creature - Bird, Illusion"
           },
           "rules": {
-            "raw": "<kw-a><nospellcheck><key><b>Offspring</b> <param-cost><sym>1U</sym></param-cost></key></nospellcheck></kw-a> <i-auto>(You may pay an additional <sym>1U</sym> as you cast this spell. If you do ⇨ When this Creature enters; Create a token that’s a 1/1 copy of it.)</i-auto>\n<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a> \nWhenever this Creature deals combat damage to a player; Draw that many cards, then discard a card.",
-            "readable": "[b]Offspring[/b] {1U} [i](You may pay an additional {1U} as you cast this spell. If you do ⇨ When this Creature enters; Create a token that’s a 1/1 copy of it.)[/i]\nFlying\nWhenever this Creature deals combat damage to a player; Draw that many cards, then discard a card.",
-            "plain": "Offspring {1U} (You may pay an additional {1U} as you cast this spell. If you do ⇨ When this Creature enters; Create a token that’s a 1/1 copy of it.)\nFlying\nWhenever this Creature deals combat damage to a player; Draw that many cards, then discard a card."
+            "raw": "<kw-a><nospellcheck><key><b>Offspring</b> <param-cost><sym>1U</sym></param-cost></key></nospellcheck></kw-a> <i-auto>(As you cast this spell ↦ You may pay an additional <sym>1U</sym>. If you do ⇨ When this Creature enters; Create a token that’s a 1/1 copy of it.)</i-auto>\n<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a> \nWhenever this Creature deals combat damage to a player; Draw that many cards, then discard a card.",
+            "readable": "[b]Offspring[/b] {1U} [i](As you cast this spell ↦ You may pay an additional {1U}. If you do ⇨ When this Creature enters; Create a token that’s a 1/1 copy of it.)[/i]\nFlying\nWhenever this Creature deals combat damage to a player; Draw that many cards, then discard a card.",
+            "plain": "Offspring {1U} (As you cast this spell ↦ You may pay an additional {1U}. If you do ⇨ When this Creature enters; Create a token that’s a 1/1 copy of it.)\nFlying\nWhenever this Creature deals combat damage to a player; Draw that many cards, then discard a card."
           },
           "flavor": {
             "raw": "<i-flavor></i-flavor>",
@@ -10954,7 +11166,7 @@
       "meta": {
         "notes": null,
         "time_created": "2024-11-02 23:48:01",
-        "time_modified": "2025-04-18 10:29:05",
+        "time_modified": "2026-02-25 14:58:10",
         "source_file": "card fanciful familiar",
         "image": "image99.png"
       }
@@ -13473,8 +13685,8 @@
             "plain": ""
           },
           "pt": {
-            "power": "2/2",
-            "toughness": null,
+            "power": "2",
+            "toughness": "2",
             "loyalty": null
           }
         }
@@ -13523,7 +13735,7 @@
       "meta": {
         "notes": null,
         "time_created": "2025-04-04 17:04:56",
-        "time_modified": "2026-02-23 15:15:15",
+        "time_modified": "2026-02-25 12:16:12",
         "source_file": "card gafudo harbinger of rebirth",
         "image": "image61.png"
       }
@@ -13720,8 +13932,8 @@
             "plain": ""
           },
           "pt": {
-            "power": "-1/-1",
-            "toughness": null,
+            "power": "-1",
+            "toughness": "-1",
             "loyalty": null
           }
         }
@@ -13757,7 +13969,7 @@
       "meta": {
         "notes": null,
         "time_created": "2025-04-05 17:28:37",
-        "time_modified": "2026-02-24 20:45:07",
+        "time_modified": "2026-02-25 12:15:11",
         "source_file": "card gatrikklibon persistent price",
         "image": "image26.png"
       }
@@ -14220,6 +14432,125 @@
         "time_modified": "2025-04-18 19:50:43",
         "source_file": "card ghost in the machine",
         "image": "image132"
+      }
+    },
+    {
+      "id": "card goliant bird",
+      "name": "Goliant Bird",
+      "name_key": "goliant bird",
+      "all_names": [
+        "Goliant Bird"
+      ],
+      "cost": {
+        "casting_cost": "3GW"
+      },
+      "rarity": "uncommon",
+      "type": {
+        "qualitytype": null,
+        "supertypes": [],
+        "types": [
+          "Creature"
+        ],
+        "subtypes": [
+          "Giant",
+          "Bird",
+          "Devil"
+        ],
+        "type_line_display": "◌̵ Creature - Giant, Bird, Devil"
+      },
+      "rules": {
+        "raw": "<i-auto>(⇨ This Creature enters with a “Bladed Shriek” Name counter on it. As long as it has that counter ↦ It also has that name.)</i-auto>\n<b>⇨ <kw-0><nospellcheck><key>Tribute <param-number>2</b></param-number></key></nospellcheck></kw-0> <i-auto>(As this Creature enters ⇨ An opponent of your choice may put two +1 counters on it.)</i-auto>\n<kw-0><nospellcheck><key>Flying</key></nospellcheck></kw-0>, <kw-0><nospellcheck><key>Undying</key></nospellcheck></kw-0>",
+        "readable": "[i](⇨ This Creature enters with a “Bladed Shriek” Name counter on it. As long as it has that counter ↦ It also has that name.)[/i]\n[b]⇨ Tribute 2[/b] [i](As this Creature enters ⇨ An opponent of your choice may put two +1 counters on it.)[/i]\nFlying, Undying",
+        "plain": "(⇨ This Creature enters with a “Bladed Shriek” Name counter on it. As long as it has that counter ↦ It also has that name.)\n⇨ Tribute 2 (As this Creature enters ⇨ An opponent of your choice may put two +1 counters on it.)\nFlying, Undying",
+        "has_bold": true,
+        "has_italics": true,
+        "has_underline": false,
+        "uses_conditional_marker": true,
+        "uses_replacement_marker": true,
+        "uses_sub_ability_marker": false
+      },
+      "flavor": {
+        "raw": "<i-flavor>“Beware, my child, the pits of the Deep,<soft-line>\n</soft-line>The things that move unheard,<soft-line>\n</soft-line>The Rake, the Whip, the bladed Shriek,<soft-line>\n</soft-line>And the dreadful Goliant Bird.”<soft-line>\n</soft-line>– Children’s rhyme, Shades</i-flavor>",
+        "readable": "[i]“Beware, my child, the pits of the Deep,\nThe things that move unheard,\nThe Rake, the Whip, the bladed Shriek,\nAnd the dreadful Goliant Bird.”\n– Children’s rhyme, Shades[/i]",
+        "plain": "“Beware, my child, the pits of the Deep,\nThe things that move unheard,\nThe Rake, the Whip, the bladed Shriek,\nAnd the dreadful Goliant Bird.”\n– Children’s rhyme, Shades"
+      },
+      "faces": [
+        {
+          "face_index": 1,
+          "name": "Goliant Bird",
+          "casting_cost": "3GW",
+          "type": {
+            "qualitytype": null,
+            "supertypes": [],
+            "types": [
+              "Creature"
+            ],
+            "subtypes": [
+              "Giant",
+              "Bird",
+              "Devil"
+            ],
+            "type_line_display": "◌̵ Creature - Giant, Bird, Devil"
+          },
+          "rules": {
+            "raw": "<i-auto>(⇨ This Creature enters with a “Bladed Shriek” Name counter on it. As long as it has that counter ↦ It also has that name.)</i-auto>\n<b>⇨ <kw-0><nospellcheck><key>Tribute <param-number>2</b></param-number></key></nospellcheck></kw-0> <i-auto>(As this Creature enters ⇨ An opponent of your choice may put two +1 counters on it.)</i-auto>\n<kw-0><nospellcheck><key>Flying</key></nospellcheck></kw-0>, <kw-0><nospellcheck><key>Undying</key></nospellcheck></kw-0>",
+            "readable": "[i](⇨ This Creature enters with a “Bladed Shriek” Name counter on it. As long as it has that counter ↦ It also has that name.)[/i]\n[b]⇨ Tribute 2[/b] [i](As this Creature enters ⇨ An opponent of your choice may put two +1 counters on it.)[/i]\nFlying, Undying",
+            "plain": "(⇨ This Creature enters with a “Bladed Shriek” Name counter on it. As long as it has that counter ↦ It also has that name.)\n⇨ Tribute 2 (As this Creature enters ⇨ An opponent of your choice may put two +1 counters on it.)\nFlying, Undying"
+          },
+          "flavor": {
+            "raw": "<i-flavor>“Beware, my child, the pits of the Deep,<soft-line>\n</soft-line>The things that move unheard,<soft-line>\n</soft-line>The Rake, the Whip, the bladed Shriek,<soft-line>\n</soft-line>And the dreadful Goliant Bird.”<soft-line>\n</soft-line>– Children’s rhyme, Shades</i-flavor>",
+            "readable": "[i]“Beware, my child, the pits of the Deep,\nThe things that move unheard,\nThe Rake, the Whip, the bladed Shriek,\nAnd the dreadful Goliant Bird.”\n– Children’s rhyme, Shades[/i]",
+            "plain": "“Beware, my child, the pits of the Deep,\nThe things that move unheard,\nThe Rake, the Whip, the bladed Shriek,\nAnd the dreadful Goliant Bird.”\n– Children’s rhyme, Shades"
+          },
+          "pt": {
+            "power": "3",
+            "toughness": "3",
+            "loyalty": null
+          }
+        }
+      ],
+      "credits": {
+        "illustrator": "Abbadon"
+      },
+      "appearance": {
+        "styling_data": {
+          "chop_top": "1",
+          "chop_bottom": "5",
+          "frames": "universes beyond",
+          "other_options": "pokemon evobar, auto nyx crowns",
+          "text_box_mana_symbols": "magic-mana-large.mse-symbol-font",
+          "level_mana_symbols": "magic-mana-large.mse-symbol-font",
+          "overlay": ""
+        },
+        "stylesheet": null,
+        "frames": "universes beyond",
+        "overlay": null,
+        "other_options": "pokemon evobar, auto nyx crowns",
+        "hybrid_nameplate": null,
+        "transformation": null,
+        "mask": null,
+        "card_symbol": null,
+        "card_stamp": "flatstamped universes beyond",
+        "border_color": null,
+        "watermark": "custom watermark two",
+        "separator": null,
+        "icons": [],
+        "is_legendary": false,
+        "colors": [],
+        "is_three_plus_colors": false,
+        "expects_gold_nameplate": false,
+        "has_puma_frame": false,
+        "has_planeshifted_frame": false,
+        "is_ub": true,
+        "is_digital": false,
+        "is_graveyard_marked": false
+      },
+      "meta": {
+        "notes": "https://killsixbilliondemons.com/comic/seeker-of-thrones-5-46/",
+        "time_created": "2026-02-23 20:53:19",
+        "time_modified": "2026-02-25 22:29:42",
+        "source_file": "card goliant bird",
+        "image": "image134.png"
       }
     },
     {
@@ -14740,8 +15071,8 @@
             "plain": ""
           },
           "pt": {
-            "power": "1/1",
-            "toughness": null,
+            "power": "1",
+            "toughness": "1",
             "loyalty": null
           }
         }
@@ -14787,7 +15118,7 @@
       "meta": {
         "notes": null,
         "time_created": "2025-04-05 16:42:17",
-        "time_modified": "2026-02-23 20:37:15",
+        "time_modified": "2026-02-25 12:15:31",
         "source_file": "card group pet project",
         "image": "image20.png"
       }
@@ -15128,6 +15459,121 @@
         "time_modified": "2026-02-25 02:00:20",
         "source_file": "card hargrave the thunder earl",
         "image": "image210"
+      }
+    },
+    {
+      "id": "card hastet-om",
+      "name": "Hastet-Om",
+      "name_key": "hastet-om",
+      "all_names": [
+        "Hastet-Om"
+      ],
+      "cost": {
+        "casting_cost": "1BG"
+      },
+      "rarity": "mythic rare",
+      "type": {
+        "qualitytype": null,
+        "supertypes": [
+          "Legendary"
+        ],
+        "types": [
+          "Artefact"
+        ],
+        "subtypes": [],
+        "type_line_display": "Legendary ◌̵ Artefact"
+      },
+      "rules": {
+        "raw": "<i-auto>(⇨ This Artefact enters with a “The Insatiable Appetite” Name counter on it. As long as it has that counter ↦ It also has that name.)</i-auto>\n<kw-a><nospellcheck><key>Living weapon</key></nospellcheck></kw-a>, <kw-0><nospellcheck><key>living weapon</key></nospellcheck></kw-0> <i-auto>(When this Artefact enters; Create a token that’s a black |Creature — Phyrexian, Germ| </sym>0/0<sym>. Then do it again.)</i-auto>\nWhenever a Creature which you control dies; You draw a card, create a <u><kw-a><nospellcheck><key>Food toke<param-*s>n</u></param-*s></key></nospellcheck></kw-a>, and put a rot counter on Hastet-Om.\nAt the beginning of your end step; For each rot counter on Hastet-Om, you lose 3 life.",
+        "readable": "[i](⇨ This Artefact enters with a “The Insatiable Appetite” Name counter on it. As long as it has that counter ↦ It also has that name.)[/i]\nLiving weapon, living weapon [i](When this Artefact enters; Create a token that’s a black |Creature — Phyrexian, Germ| 0/0. Then do it again.)[/i]\nWhenever a Creature which you control dies; You draw a card, create a [u]Food token[/u], and put a rot counter on Hastet-Om.\nAt the beginning of your end step; For each rot counter on Hastet-Om, you lose 3 life.",
+        "plain": "(⇨ This Artefact enters with a “The Insatiable Appetite” Name counter on it. As long as it has that counter ↦ It also has that name.)\nLiving weapon, living weapon (When this Artefact enters; Create a token that’s a black |Creature — Phyrexian, Germ| 0/0. Then do it again.)\nWhenever a Creature which you control dies; You draw a card, create a Food token, and put a rot counter on Hastet-Om.\nAt the beginning of your end step; For each rot counter on Hastet-Om, you lose 3 life.",
+        "has_bold": false,
+        "has_italics": true,
+        "has_underline": true,
+        "uses_conditional_marker": true,
+        "uses_replacement_marker": true,
+        "uses_sub_ability_marker": false
+      },
+      "flavor": {
+        "raw": "<i-flavor></i-flavor>",
+        "readable": "[i][/i]",
+        "plain": ""
+      },
+      "faces": [
+        {
+          "face_index": 1,
+          "name": "Hastet-Om",
+          "casting_cost": "1BG",
+          "type": {
+            "qualitytype": null,
+            "supertypes": [
+              "Legendary"
+            ],
+            "types": [
+              "Artefact"
+            ],
+            "subtypes": [],
+            "type_line_display": "Legendary ◌̵ Artefact"
+          },
+          "rules": {
+            "raw": "<i-auto>(⇨ This Artefact enters with a “The Insatiable Appetite” Name counter on it. As long as it has that counter ↦ It also has that name.)</i-auto>\n<kw-a><nospellcheck><key>Living weapon</key></nospellcheck></kw-a>, <kw-0><nospellcheck><key>living weapon</key></nospellcheck></kw-0> <i-auto>(When this Artefact enters; Create a token that’s a black |Creature — Phyrexian, Germ| </sym>0/0<sym>. Then do it again.)</i-auto>\nWhenever a Creature which you control dies; You draw a card, create a <u><kw-a><nospellcheck><key>Food toke<param-*s>n</u></param-*s></key></nospellcheck></kw-a>, and put a rot counter on Hastet-Om.\nAt the beginning of your end step; For each rot counter on Hastet-Om, you lose 3 life.",
+            "readable": "[i](⇨ This Artefact enters with a “The Insatiable Appetite” Name counter on it. As long as it has that counter ↦ It also has that name.)[/i]\nLiving weapon, living weapon [i](When this Artefact enters; Create a token that’s a black |Creature — Phyrexian, Germ| 0/0. Then do it again.)[/i]\nWhenever a Creature which you control dies; You draw a card, create a [u]Food token[/u], and put a rot counter on Hastet-Om.\nAt the beginning of your end step; For each rot counter on Hastet-Om, you lose 3 life.",
+            "plain": "(⇨ This Artefact enters with a “The Insatiable Appetite” Name counter on it. As long as it has that counter ↦ It also has that name.)\nLiving weapon, living weapon (When this Artefact enters; Create a token that’s a black |Creature — Phyrexian, Germ| 0/0. Then do it again.)\nWhenever a Creature which you control dies; You draw a card, create a Food token, and put a rot counter on Hastet-Om.\nAt the beginning of your end step; For each rot counter on Hastet-Om, you lose 3 life."
+          },
+          "flavor": {
+            "raw": "<i-flavor></i-flavor>",
+            "readable": "[i][/i]",
+            "plain": ""
+          },
+          "pt": {
+            "power": null,
+            "toughness": null,
+            "loyalty": null
+          }
+        }
+      ],
+      "credits": {
+        "illustrator": "Abbadon"
+      },
+      "appearance": {
+        "styling_data": {
+          "chop_top": "1",
+          "chop_bottom": "1",
+          "frames": "",
+          "other_options": "pokemon evobar, auto nyx crowns",
+          "text_box_mana_symbols": "magic-mana-large.mse-symbol-font",
+          "level_mana_symbols": "magic-mana-large.mse-symbol-font",
+          "overlay": ""
+        },
+        "stylesheet": null,
+        "frames": null,
+        "overlay": null,
+        "other_options": "pokemon evobar, auto nyx crowns",
+        "hybrid_nameplate": null,
+        "transformation": null,
+        "mask": null,
+        "card_symbol": null,
+        "card_stamp": null,
+        "border_color": null,
+        "watermark": null,
+        "separator": null,
+        "icons": [],
+        "is_legendary": true,
+        "colors": [],
+        "is_three_plus_colors": false,
+        "expects_gold_nameplate": false,
+        "has_puma_frame": false,
+        "has_planeshifted_frame": false,
+        "is_ub": false,
+        "is_digital": false,
+        "is_graveyard_marked": false
+      },
+      "meta": {
+        "notes": null,
+        "time_created": "2026-02-23 16:53:20",
+        "time_modified": "2026-02-26 00:35:12",
+        "source_file": "card hastet-om",
+        "image": "image135.png"
       }
     },
     {
@@ -18273,9 +18719,9 @@
         "uses_sub_ability_marker": false
       },
       "flavor": {
-        "raw": "<i-flavor>Some believe that learning is treasure enough.</i-flavor>",
-        "readable": "[i]Some believe that learning is treasure enough.[/i]",
-        "plain": "Some believe that learning is treasure enough."
+        "raw": "<i-flavor>Some believe that learning is ᵃTreasure enough.</i-flavor>",
+        "readable": "[i]Some believe that learning is ᵃTreasure enough.[/i]",
+        "plain": "Some believe that learning is ᵃTreasure enough."
       },
       "faces": [
         {
@@ -18300,9 +18746,9 @@
             "plain": "{T}: Add {C}.\n{T}, Sacrifice this permanent: Add one mana of any colour."
           },
           "flavor": {
-            "raw": "<i-flavor>Some believe that learning is treasure enough.</i-flavor>",
-            "readable": "[i]Some believe that learning is treasure enough.[/i]",
-            "plain": "Some believe that learning is treasure enough."
+            "raw": "<i-flavor>Some believe that learning is ᵃTreasure enough.</i-flavor>",
+            "readable": "[i]Some believe that learning is ᵃTreasure enough.[/i]",
+            "plain": "Some believe that learning is ᵃTreasure enough."
           },
           "pt": {
             "power": null,
@@ -18342,7 +18788,7 @@
       "meta": {
         "notes": "https://www.artstation.com/artwork/e0lrrX",
         "time_created": "2023-11-18 19:43:10",
-        "time_modified": "2025-04-06 17:04:05",
+        "time_modified": "2026-02-25 12:20:07",
         "source_file": "card kings relic",
         "image": "image61"
       }
@@ -18373,9 +18819,9 @@
         "type_line_display": "Legendary ◌̵ Creature - Fox, Spirit"
       },
       "rules": {
-        "raw": "<kw-a><nospellcheck><key>Defender</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>Decayed</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>Ward <param-cost><sym-auto>2</sym-auto></param-cost></key></nospellcheck></kw-a>\nAs long as a permanent card which has “Cumulative upkeep” is in a graveyard <b>↦ </b>For each opponent, each turn ↦ The first non-token Creature which enters under their control, has “Cumulative upkeep”. The same is true for “<kw-a><nospellcheck><key>Decayed</key></nospellcheck></kw-a>”, “<kw-a><nospellcheck><key>Defender</key></nospellcheck></kw-a>”, “Echo”, “Ephemeral”, “Fading”, “<kw-a><nospellcheck><key>Phasing</key></nospellcheck></kw-a>”, and “Vanishing”. Cumulative upkeep costs gained this way are <sym>2</sym>. Echo costs gained this way are equal to the Creature’s mana cost. Creatures that enter with “Fading” or “Vanishing” this way enter with two of those counters.",
-        "readable": "Defender, Decayed, Ward {2}\nAs long as a permanent card which has “Cumulative upkeep” is in a graveyard [b]↦ [/b]For each opponent, each turn ↦ The first non-token Creature which enters under their control, has “Cumulative upkeep”. The same is true for “Decayed”, “Defender”, “Echo”, “Ephemeral”, “Fading”, “Phasing”, and “Vanishing”. Cumulative upkeep costs gained this way are {2}. Echo costs gained this way are equal to the Creature’s mana cost. Creatures that enter with “Fading” or “Vanishing” this way enter with two of those counters.",
-        "plain": "Defender, Decayed, Ward {2}\nAs long as a permanent card which has “Cumulative upkeep” is in a graveyard ↦ For each opponent, each turn ↦ The first non-token Creature which enters under their control, has “Cumulative upkeep”. The same is true for “Decayed”, “Defender”, “Echo”, “Ephemeral”, “Fading”, “Phasing”, and “Vanishing”. Cumulative upkeep costs gained this way are {2}. Echo costs gained this way are equal to the Creature’s mana cost. Creatures that enter with “Fading” or “Vanishing” this way enter with two of those counters.",
+        "raw": "<kw-a><nospellcheck><key>Defender</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>Decayed</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>Ward <param-cost><sym-auto>2</sym-auto></param-cost></key></nospellcheck></kw-a>\nAs long as a permanent card which has “Cumulative upkeep” is in a graveyard <b>↦ </b>For each opponent, each turn ↦ The first non-token Creature which enters under their control, has “Cumulative upkeep”. The same is true for “<kw-a><nospellcheck><key>Decayed</key></nospellcheck></kw-a>”, “<kw-a><nospellcheck><key>Defender</key></nospellcheck></kw-a>”, “Echo”, “Ephemeral”, “Fading”, “<kw-a><nospellcheck><key>Phasing</key></nospellcheck></kw-a>”, and “Vanishing”. Cumulative upkeep costs gained this way are <sym>2</sym>. Echo costs gained this way are equal to that Creature’s mana cost. Creatures which enter with “Fading” or “Vanishing” this way, enter with two of those counters.",
+        "readable": "Defender, Decayed, Ward {2}\nAs long as a permanent card which has “Cumulative upkeep” is in a graveyard [b]↦ [/b]For each opponent, each turn ↦ The first non-token Creature which enters under their control, has “Cumulative upkeep”. The same is true for “Decayed”, “Defender”, “Echo”, “Ephemeral”, “Fading”, “Phasing”, and “Vanishing”. Cumulative upkeep costs gained this way are {2}. Echo costs gained this way are equal to that Creature’s mana cost. Creatures which enter with “Fading” or “Vanishing” this way, enter with two of those counters.",
+        "plain": "Defender, Decayed, Ward {2}\nAs long as a permanent card which has “Cumulative upkeep” is in a graveyard ↦ For each opponent, each turn ↦ The first non-token Creature which enters under their control, has “Cumulative upkeep”. The same is true for “Decayed”, “Defender”, “Echo”, “Ephemeral”, “Fading”, “Phasing”, and “Vanishing”. Cumulative upkeep costs gained this way are {2}. Echo costs gained this way are equal to that Creature’s mana cost. Creatures which enter with “Fading” or “Vanishing” this way, enter with two of those counters.",
         "has_bold": true,
         "has_italics": false,
         "has_underline": false,
@@ -18408,9 +18854,9 @@
             "type_line_display": "Legendary ◌̵ Creature - Fox, Spirit"
           },
           "rules": {
-            "raw": "<kw-a><nospellcheck><key>Defender</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>Decayed</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>Ward <param-cost><sym-auto>2</sym-auto></param-cost></key></nospellcheck></kw-a>\nAs long as a permanent card which has “Cumulative upkeep” is in a graveyard <b>↦ </b>For each opponent, each turn ↦ The first non-token Creature which enters under their control, has “Cumulative upkeep”. The same is true for “<kw-a><nospellcheck><key>Decayed</key></nospellcheck></kw-a>”, “<kw-a><nospellcheck><key>Defender</key></nospellcheck></kw-a>”, “Echo”, “Ephemeral”, “Fading”, “<kw-a><nospellcheck><key>Phasing</key></nospellcheck></kw-a>”, and “Vanishing”. Cumulative upkeep costs gained this way are <sym>2</sym>. Echo costs gained this way are equal to the Creature’s mana cost. Creatures that enter with “Fading” or “Vanishing” this way enter with two of those counters.",
-            "readable": "Defender, Decayed, Ward {2}\nAs long as a permanent card which has “Cumulative upkeep” is in a graveyard [b]↦ [/b]For each opponent, each turn ↦ The first non-token Creature which enters under their control, has “Cumulative upkeep”. The same is true for “Decayed”, “Defender”, “Echo”, “Ephemeral”, “Fading”, “Phasing”, and “Vanishing”. Cumulative upkeep costs gained this way are {2}. Echo costs gained this way are equal to the Creature’s mana cost. Creatures that enter with “Fading” or “Vanishing” this way enter with two of those counters.",
-            "plain": "Defender, Decayed, Ward {2}\nAs long as a permanent card which has “Cumulative upkeep” is in a graveyard ↦ For each opponent, each turn ↦ The first non-token Creature which enters under their control, has “Cumulative upkeep”. The same is true for “Decayed”, “Defender”, “Echo”, “Ephemeral”, “Fading”, “Phasing”, and “Vanishing”. Cumulative upkeep costs gained this way are {2}. Echo costs gained this way are equal to the Creature’s mana cost. Creatures that enter with “Fading” or “Vanishing” this way enter with two of those counters."
+            "raw": "<kw-a><nospellcheck><key>Defender</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>Decayed</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>Ward <param-cost><sym-auto>2</sym-auto></param-cost></key></nospellcheck></kw-a>\nAs long as a permanent card which has “Cumulative upkeep” is in a graveyard <b>↦ </b>For each opponent, each turn ↦ The first non-token Creature which enters under their control, has “Cumulative upkeep”. The same is true for “<kw-a><nospellcheck><key>Decayed</key></nospellcheck></kw-a>”, “<kw-a><nospellcheck><key>Defender</key></nospellcheck></kw-a>”, “Echo”, “Ephemeral”, “Fading”, “<kw-a><nospellcheck><key>Phasing</key></nospellcheck></kw-a>”, and “Vanishing”. Cumulative upkeep costs gained this way are <sym>2</sym>. Echo costs gained this way are equal to that Creature’s mana cost. Creatures which enter with “Fading” or “Vanishing” this way, enter with two of those counters.",
+            "readable": "Defender, Decayed, Ward {2}\nAs long as a permanent card which has “Cumulative upkeep” is in a graveyard [b]↦ [/b]For each opponent, each turn ↦ The first non-token Creature which enters under their control, has “Cumulative upkeep”. The same is true for “Decayed”, “Defender”, “Echo”, “Ephemeral”, “Fading”, “Phasing”, and “Vanishing”. Cumulative upkeep costs gained this way are {2}. Echo costs gained this way are equal to that Creature’s mana cost. Creatures which enter with “Fading” or “Vanishing” this way, enter with two of those counters.",
+            "plain": "Defender, Decayed, Ward {2}\nAs long as a permanent card which has “Cumulative upkeep” is in a graveyard ↦ For each opponent, each turn ↦ The first non-token Creature which enters under their control, has “Cumulative upkeep”. The same is true for “Decayed”, “Defender”, “Echo”, “Ephemeral”, “Fading”, “Phasing”, and “Vanishing”. Cumulative upkeep costs gained this way are {2}. Echo costs gained this way are equal to that Creature’s mana cost. Creatures which enter with “Fading” or “Vanishing” this way, enter with two of those counters."
           },
           "flavor": {
             "raw": "<i-flavor></i-flavor>",
@@ -18468,7 +18914,7 @@
       "meta": {
         "notes": "CDEFPV",
         "time_created": "2025-04-04 18:12:42",
-        "time_modified": "2026-02-23 20:25:55",
+        "time_modified": "2026-02-25 23:35:29",
         "source_file": "card kizha the spiritual kindling",
         "image": "image10.png"
       }
@@ -21018,6 +21464,118 @@
       }
     },
     {
+      "id": "card misinformational neurotransfer",
+      "name": "Misinformational Neurotransfer",
+      "name_key": "misinformational neurotransfer",
+      "all_names": [
+        "Misinformational Neurotransfer"
+      ],
+      "cost": {
+        "casting_cost": "U/RU/RB/GB/G"
+      },
+      "rarity": "mythic rare",
+      "type": {
+        "qualitytype": null,
+        "supertypes": [
+          "Instant"
+        ],
+        "types": [
+          "Sorcery"
+        ],
+        "subtypes": [],
+        "type_line_display": "Instant ◌̵ Sorcery"
+      },
+      "rules": {
+        "raw": "<kw-a><nospellcheck><key>Cleave <param-cost><sym-auto>U/RU/R</sym-auto></param-cost></key></nospellcheck></kw-a>, Cleft <sym>B/GB/G</sym>, Cloven <sym>UBRG</sym>\nUntil end of turn ↦ If a spell or ability which an opponent controls, would cause a [Creature {or] Sorcery} card to leave your graveyard ⇨ Instead of putting it anywhere else, exile it. Then, you may cast it by paying life equal to its mana value, rather than paying its mana cost.",
+        "readable": "Cleave {U/RU/R}, Cleft {B/GB/G}, Cloven {UBRG}\nUntil end of turn ↦ If a spell or ability which an opponent controls, would cause a [Creature {or] Sorcery} card to leave your graveyard ⇨ Instead of putting it anywhere else, exile it. Then, you may cast it by paying life equal to its mana value, rather than paying its mana cost.",
+        "plain": "Cleave {U/RU/R}, Cleft {B/GB/G}, Cloven {UBRG}\nUntil end of turn ↦ If a spell or ability which an opponent controls, would cause a [Creature {or] Sorcery} card to leave your graveyard ⇨ Instead of putting it anywhere else, exile it. Then, you may cast it by paying life equal to its mana value, rather than paying its mana cost.",
+        "has_bold": false,
+        "has_italics": false,
+        "has_underline": false,
+        "uses_conditional_marker": true,
+        "uses_replacement_marker": true,
+        "uses_sub_ability_marker": false
+      },
+      "flavor": {
+        "raw": "<i-flavor></i-flavor>",
+        "readable": "[i][/i]",
+        "plain": ""
+      },
+      "faces": [
+        {
+          "face_index": 1,
+          "name": "Misinformational Neurotransfer",
+          "casting_cost": "U/RU/RB/GB/G",
+          "type": {
+            "qualitytype": null,
+            "supertypes": [
+              "Instant"
+            ],
+            "types": [
+              "Sorcery"
+            ],
+            "subtypes": [],
+            "type_line_display": "Instant ◌̵ Sorcery"
+          },
+          "rules": {
+            "raw": "<kw-a><nospellcheck><key>Cleave <param-cost><sym-auto>U/RU/R</sym-auto></param-cost></key></nospellcheck></kw-a>, Cleft <sym>B/GB/G</sym>, Cloven <sym>UBRG</sym>\nUntil end of turn ↦ If a spell or ability which an opponent controls, would cause a [Creature {or] Sorcery} card to leave your graveyard ⇨ Instead of putting it anywhere else, exile it. Then, you may cast it by paying life equal to its mana value, rather than paying its mana cost.",
+            "readable": "Cleave {U/RU/R}, Cleft {B/GB/G}, Cloven {UBRG}\nUntil end of turn ↦ If a spell or ability which an opponent controls, would cause a [Creature {or] Sorcery} card to leave your graveyard ⇨ Instead of putting it anywhere else, exile it. Then, you may cast it by paying life equal to its mana value, rather than paying its mana cost.",
+            "plain": "Cleave {U/RU/R}, Cleft {B/GB/G}, Cloven {UBRG}\nUntil end of turn ↦ If a spell or ability which an opponent controls, would cause a [Creature {or] Sorcery} card to leave your graveyard ⇨ Instead of putting it anywhere else, exile it. Then, you may cast it by paying life equal to its mana value, rather than paying its mana cost."
+          },
+          "flavor": {
+            "raw": "<i-flavor></i-flavor>",
+            "readable": "[i][/i]",
+            "plain": ""
+          },
+          "pt": {
+            "power": null,
+            "toughness": null,
+            "loyalty": null
+          }
+        }
+      ],
+      "credits": {
+        "illustrator": "Michelle Fus"
+      },
+      "appearance": {
+        "styling_data": {},
+        "stylesheet": null,
+        "frames": null,
+        "overlay": null,
+        "other_options": null,
+        "hybrid_nameplate": null,
+        "transformation": null,
+        "mask": null,
+        "card_symbol": null,
+        "card_stamp": null,
+        "border_color": null,
+        "watermark": "custom watermark one",
+        "separator": null,
+        "icons": [],
+        "is_legendary": false,
+        "colors": [
+          "U",
+          "B",
+          "R",
+          "G"
+        ],
+        "is_three_plus_colors": true,
+        "expects_gold_nameplate": false,
+        "has_puma_frame": false,
+        "has_planeshifted_frame": false,
+        "is_ub": false,
+        "is_digital": false,
+        "is_graveyard_marked": false
+      },
+      "meta": {
+        "notes": null,
+        "time_created": "2025-04-10 12:17:30",
+        "time_modified": "2026-02-25 23:23:34",
+        "source_file": "card misinformational neurotransfer",
+        "image": "image146.png"
+      }
+    },
+    {
       "id": "card mog and tirra",
       "name": "Mog and Tirra",
       "name_key": "mog and tirra",
@@ -21255,6 +21813,117 @@
         "time_modified": "2026-02-24 13:40:51",
         "source_file": "card moondust harvester",
         "image": "image128.png"
+      }
+    },
+    {
+      "id": "card moth-er mech",
+      "name": "MOTH-ER Mech",
+      "name_key": "moth-er mech",
+      "all_names": [
+        "MOTH-ER Mech"
+      ],
+      "cost": {
+        "casting_cost": "5"
+      },
+      "rarity": "uncommon",
+      "type": {
+        "qualitytype": null,
+        "supertypes": [],
+        "types": [
+          "Artefact",
+          "Creature"
+        ],
+        "subtypes": [
+          "ᶜInsect",
+          "ᶜConstruct"
+        ],
+        "type_line_display": "◌̵ Artefact, Creature - ᶜInsect, ᶜConstruct"
+      },
+      "rules": {
+        "raw": "<kw-0><nospellcheck><key>Offspring <param-cost><sym-auto>1</sym-auto></param-cost></key></nospellcheck></kw-0> <i-auto>(As you cast this spell ↦ You may pay an additional <sym-auto>1</sym-auto>. If you do ⇨ When this Creature enters; Create a token that’s a 1/1 copy of it.)</i-auto>\n<kw-0><nospellcheck><key>Skulk</key></nospellcheck></kw-0> <i-auto>(This Creature can’t be blocked by Creatures with greater power.)</i-auto>",
+        "readable": "Offspring {1} [i](As you cast this spell ↦ You may pay an additional {1}. If you do ⇨ When this Creature enters; Create a token that’s a 1/1 copy of it.)[/i]\nSkulk [i](This Creature can’t be blocked by Creatures with greater power.)[/i]",
+        "plain": "Offspring {1} (As you cast this spell ↦ You may pay an additional {1}. If you do ⇨ When this Creature enters; Create a token that’s a 1/1 copy of it.)\nSkulk (This Creature can’t be blocked by Creatures with greater power.)",
+        "has_bold": false,
+        "has_italics": true,
+        "has_underline": false,
+        "uses_conditional_marker": true,
+        "uses_replacement_marker": true,
+        "uses_sub_ability_marker": false
+      },
+      "flavor": {
+        "raw": "<i-flavor></i-flavor>",
+        "readable": "[i][/i]",
+        "plain": ""
+      },
+      "faces": [
+        {
+          "face_index": 1,
+          "name": "MOTH-ER Mech",
+          "casting_cost": "5",
+          "type": {
+            "qualitytype": null,
+            "supertypes": [],
+            "types": [
+              "Artefact",
+              "Creature"
+            ],
+            "subtypes": [
+              "ᶜInsect",
+              "ᶜConstruct"
+            ],
+            "type_line_display": "◌̵ Artefact, Creature - ᶜInsect, ᶜConstruct"
+          },
+          "rules": {
+            "raw": "<kw-0><nospellcheck><key>Offspring <param-cost><sym-auto>1</sym-auto></param-cost></key></nospellcheck></kw-0> <i-auto>(As you cast this spell ↦ You may pay an additional <sym-auto>1</sym-auto>. If you do ⇨ When this Creature enters; Create a token that’s a 1/1 copy of it.)</i-auto>\n<kw-0><nospellcheck><key>Skulk</key></nospellcheck></kw-0> <i-auto>(This Creature can’t be blocked by Creatures with greater power.)</i-auto>",
+            "readable": "Offspring {1} [i](As you cast this spell ↦ You may pay an additional {1}. If you do ⇨ When this Creature enters; Create a token that’s a 1/1 copy of it.)[/i]\nSkulk [i](This Creature can’t be blocked by Creatures with greater power.)[/i]",
+            "plain": "Offspring {1} (As you cast this spell ↦ You may pay an additional {1}. If you do ⇨ When this Creature enters; Create a token that’s a 1/1 copy of it.)\nSkulk (This Creature can’t be blocked by Creatures with greater power.)"
+          },
+          "flavor": {
+            "raw": "<i-flavor></i-flavor>",
+            "readable": "[i][/i]",
+            "plain": ""
+          },
+          "pt": {
+            "power": "5",
+            "toughness": "1",
+            "loyalty": null
+          }
+        }
+      ],
+      "credits": {
+        "illustrator": "Anthony"
+      },
+      "appearance": {
+        "styling_data": {},
+        "stylesheet": null,
+        "frames": null,
+        "overlay": null,
+        "other_options": null,
+        "hybrid_nameplate": null,
+        "transformation": null,
+        "mask": null,
+        "card_symbol": null,
+        "card_stamp": null,
+        "border_color": null,
+        "watermark": null,
+        "separator": null,
+        "icons": [],
+        "is_legendary": false,
+        "colors": [],
+        "is_three_plus_colors": false,
+        "expects_gold_nameplate": false,
+        "has_puma_frame": false,
+        "has_planeshifted_frame": false,
+        "is_ub": false,
+        "is_digital": false,
+        "is_graveyard_marked": false
+      },
+      "meta": {
+        "notes": "https://www.artstation.com/artwork/dydRmW",
+        "time_created": "2026-02-25 02:11:34",
+        "time_modified": "2026-02-25 14:59:59",
+        "source_file": "card moth-er mech",
+        "image": "image150.png"
       }
     },
     {
@@ -23647,6 +24316,117 @@
       }
     },
     {
+      "id": "card overseer of scales",
+      "name": "Overseer of Scales",
+      "name_key": "overseer of scales",
+      "all_names": [
+        "Overseer of Scales"
+      ],
+      "cost": {
+        "casting_cost": "X4"
+      },
+      "rarity": "rare",
+      "type": {
+        "qualitytype": null,
+        "supertypes": [],
+        "types": [
+          "Artefact",
+          "Creature"
+        ],
+        "subtypes": [
+          "Golem",
+          "Advisor"
+        ],
+        "type_line_display": "◌̵ Artefact, Creature - Golem, Advisor"
+      },
+      "rules": {
+        "raw": "<kw-a><nospellcheck><key><b>Convoke</key></nospellcheck></kw-a> non-Artefact Creatures</b>\n<b>⇨ This permanent enters with a +1 counter on it, for each tapped |non-Artefact, Creature| which you control.</b>\nWhen this permanent dies; you may put its +1 counters on target |non-Artefact, Creature|.\nEach |non-Artefact, Creature| spell which you cast, has “<kw-a><nospellcheck><key>Improvise</key></nospellcheck></kw-a>”.\nEach |non-Artefact, Creature| which you control, has “<kw-a><nospellcheck><key>Modular <param-number>X</param-number></key></nospellcheck></kw-a>, where X is the number of tapped |Artefact, Creature| permanents which you control”.",
+        "readable": "[b]Convoke non-Artefact Creatures[/b]\n[b]⇨ This permanent enters with a +1 counter on it, for each tapped |non-Artefact, Creature| which you control.[/b]\nWhen this permanent dies; you may put its +1 counters on target |non-Artefact, Creature|.\nEach |non-Artefact, Creature| spell which you cast, has “Improvise”.\nEach |non-Artefact, Creature| which you control, has “Modular X, where X is the number of tapped |Artefact, Creature| permanents which you control”.",
+        "plain": "Convoke non-Artefact Creatures\n⇨ This permanent enters with a +1 counter on it, for each tapped |non-Artefact, Creature| which you control.\nWhen this permanent dies; you may put its +1 counters on target |non-Artefact, Creature|.\nEach |non-Artefact, Creature| spell which you cast, has “Improvise”.\nEach |non-Artefact, Creature| which you control, has “Modular X, where X is the number of tapped |Artefact, Creature| permanents which you control”.",
+        "has_bold": true,
+        "has_italics": false,
+        "has_underline": false,
+        "uses_conditional_marker": false,
+        "uses_replacement_marker": true,
+        "uses_sub_ability_marker": false
+      },
+      "flavor": {
+        "raw": "<i-flavor></i-flavor>",
+        "readable": "[i][/i]",
+        "plain": ""
+      },
+      "faces": [
+        {
+          "face_index": 1,
+          "name": "Overseer of Scales",
+          "casting_cost": "X4",
+          "type": {
+            "qualitytype": null,
+            "supertypes": [],
+            "types": [
+              "Artefact",
+              "Creature"
+            ],
+            "subtypes": [
+              "Golem",
+              "Advisor"
+            ],
+            "type_line_display": "◌̵ Artefact, Creature - Golem, Advisor"
+          },
+          "rules": {
+            "raw": "<kw-a><nospellcheck><key><b>Convoke</key></nospellcheck></kw-a> non-Artefact Creatures</b>\n<b>⇨ This permanent enters with a +1 counter on it, for each tapped |non-Artefact, Creature| which you control.</b>\nWhen this permanent dies; you may put its +1 counters on target |non-Artefact, Creature|.\nEach |non-Artefact, Creature| spell which you cast, has “<kw-a><nospellcheck><key>Improvise</key></nospellcheck></kw-a>”.\nEach |non-Artefact, Creature| which you control, has “<kw-a><nospellcheck><key>Modular <param-number>X</param-number></key></nospellcheck></kw-a>, where X is the number of tapped |Artefact, Creature| permanents which you control”.",
+            "readable": "[b]Convoke non-Artefact Creatures[/b]\n[b]⇨ This permanent enters with a +1 counter on it, for each tapped |non-Artefact, Creature| which you control.[/b]\nWhen this permanent dies; you may put its +1 counters on target |non-Artefact, Creature|.\nEach |non-Artefact, Creature| spell which you cast, has “Improvise”.\nEach |non-Artefact, Creature| which you control, has “Modular X, where X is the number of tapped |Artefact, Creature| permanents which you control”.",
+            "plain": "Convoke non-Artefact Creatures\n⇨ This permanent enters with a +1 counter on it, for each tapped |non-Artefact, Creature| which you control.\nWhen this permanent dies; you may put its +1 counters on target |non-Artefact, Creature|.\nEach |non-Artefact, Creature| spell which you cast, has “Improvise”.\nEach |non-Artefact, Creature| which you control, has “Modular X, where X is the number of tapped |Artefact, Creature| permanents which you control”."
+          },
+          "flavor": {
+            "raw": "<i-flavor></i-flavor>",
+            "readable": "[i][/i]",
+            "plain": ""
+          },
+          "pt": {
+            "power": "0",
+            "toughness": "0",
+            "loyalty": null
+          }
+        }
+      ],
+      "credits": {
+        "illustrator": "Laszlo Pinter (Las Pinter)"
+      },
+      "appearance": {
+        "styling_data": {},
+        "stylesheet": null,
+        "frames": null,
+        "overlay": null,
+        "other_options": null,
+        "hybrid_nameplate": null,
+        "transformation": null,
+        "mask": null,
+        "card_symbol": null,
+        "card_stamp": null,
+        "border_color": null,
+        "watermark": null,
+        "separator": null,
+        "icons": [],
+        "is_legendary": false,
+        "colors": [],
+        "is_three_plus_colors": false,
+        "expects_gold_nameplate": false,
+        "has_puma_frame": false,
+        "has_planeshifted_frame": false,
+        "is_ub": false,
+        "is_digital": false,
+        "is_graveyard_marked": false
+      },
+      "meta": {
+        "notes": "https://www.artstation.com/artwork/vbQVv6",
+        "time_created": "2026-02-23 16:48:08",
+        "time_modified": "2026-02-25 12:34:32",
+        "source_file": "card overseer of scales",
+        "image": "image143.png"
+      }
+    },
+    {
       "id": "card overshadow",
       "name": "Overshadow",
       "name_key": "overshadow",
@@ -25651,9 +26431,9 @@
         "type_line_display": "Legendary ◌̵ Creature - Demigod, Sphinx"
       },
       "rules": {
-        "raw": "<kw-0><nospellcheck><key><b>Devoid</key></nospellcheck></kw-0> </b><i>(This card has no colour.)</i>\n<b><kw-0><nospellcheck><key>Cleave <param-cost><sym>CCWWBB</sym></b></param-cost></key></nospellcheck></kw-0> <i-auto>(You may cast this spell for its Cleave cost. If you do ⇨ Remove the words in square brackets.<i>)</i-auto></i>\nAs long as this spell was cast ↦ When Preem Praman Nand, Lord Androsphinx of the Gilded Cage enters; Destroy all other non-Land [Creature] permanents which have mana value 2 or less].\n<b><sym>CCBB</sym>: Put Praman Nand from your hand or the command zone onto the battlefield. \u0001Activate at sorcery speed.></b>",
-        "readable": "[b]Devoid [/b][i](This card has no colour.)[/i]\n[b]Cleave {CCWWBB}[/b] [i](You may cast this spell for its Cleave cost. If you do ⇨ Remove the words in square brackets.[i])[/i][/i]\nAs long as this spell was cast ↦ When Preem Praman Nand, Lord Androsphinx of the Gilded Cage enters; Destroy all other non-Land [Creature] permanents which have mana value 2 or less].\n[b]{CCBB}: Put Praman Nand from your hand or the command zone onto the battlefield. Activate at sorcery speed.>[/b]",
-        "plain": "Devoid (This card has no colour.)\nCleave {CCWWBB} (You may cast this spell for its Cleave cost. If you do ⇨ Remove the words in square brackets.)\nAs long as this spell was cast ↦ When Preem Praman Nand, Lord Androsphinx of the Gilded Cage enters; Destroy all other non-Land [Creature] permanents which have mana value 2 or less].\n{CCBB}: Put Praman Nand from your hand or the command zone onto the battlefield. Activate at sorcery speed.>",
+        "raw": "<kw-0><nospellcheck><key><b>Devoid</key></nospellcheck></kw-0> </b><i>(This card has no colour.)</i>\n<b><kw-0><nospellcheck><key>Cleave <param-cost><sym>CCWWBB</sym></b></param-cost></key></nospellcheck></kw-0> <i-auto>(You may cast this spell for its Cleave cost. If you do ⇨ Remove the words in square brackets.<i>)</i-auto></i>\nAs long as this spell was cast ↦ When Praman Nand enters; Destroy all other non-Land [Creature] permanents [which have mana value 2 or less].\n<b><sym>CCBB</sym>: Put Praman Nand from your hand or the command zone onto the battlefield. \u0001Activate at sorcery speed.></b>",
+        "readable": "[b]Devoid [/b][i](This card has no colour.)[/i]\n[b]Cleave {CCWWBB}[/b] [i](You may cast this spell for its Cleave cost. If you do ⇨ Remove the words in square brackets.[i])[/i][/i]\nAs long as this spell was cast ↦ When Praman Nand enters; Destroy all other non-Land [Creature] permanents [which have mana value 2 or less].\n[b]{CCBB}: Put Praman Nand from your hand or the command zone onto the battlefield. Activate at sorcery speed.>[/b]",
+        "plain": "Devoid (This card has no colour.)\nCleave {CCWWBB} (You may cast this spell for its Cleave cost. If you do ⇨ Remove the words in square brackets.)\nAs long as this spell was cast ↦ When Praman Nand enters; Destroy all other non-Land [Creature] permanents [which have mana value 2 or less].\n{CCBB}: Put Praman Nand from your hand or the command zone onto the battlefield. Activate at sorcery speed.>",
         "has_bold": true,
         "has_italics": true,
         "has_underline": false,
@@ -25686,9 +26466,9 @@
             "type_line_display": "Legendary ◌̵ Creature - Demigod, Sphinx"
           },
           "rules": {
-            "raw": "<kw-0><nospellcheck><key><b>Devoid</key></nospellcheck></kw-0> </b><i>(This card has no colour.)</i>\n<b><kw-0><nospellcheck><key>Cleave <param-cost><sym>CCWWBB</sym></b></param-cost></key></nospellcheck></kw-0> <i-auto>(You may cast this spell for its Cleave cost. If you do ⇨ Remove the words in square brackets.<i>)</i-auto></i>\nAs long as this spell was cast ↦ When Preem Praman Nand, Lord Androsphinx of the Gilded Cage enters; Destroy all other non-Land [Creature] permanents which have mana value 2 or less].\n<b><sym>CCBB</sym>: Put Praman Nand from your hand or the command zone onto the battlefield. \u0001Activate at sorcery speed.></b>",
-            "readable": "[b]Devoid [/b][i](This card has no colour.)[/i]\n[b]Cleave {CCWWBB}[/b] [i](You may cast this spell for its Cleave cost. If you do ⇨ Remove the words in square brackets.[i])[/i][/i]\nAs long as this spell was cast ↦ When Preem Praman Nand, Lord Androsphinx of the Gilded Cage enters; Destroy all other non-Land [Creature] permanents which have mana value 2 or less].\n[b]{CCBB}: Put Praman Nand from your hand or the command zone onto the battlefield. Activate at sorcery speed.>[/b]",
-            "plain": "Devoid (This card has no colour.)\nCleave {CCWWBB} (You may cast this spell for its Cleave cost. If you do ⇨ Remove the words in square brackets.)\nAs long as this spell was cast ↦ When Preem Praman Nand, Lord Androsphinx of the Gilded Cage enters; Destroy all other non-Land [Creature] permanents which have mana value 2 or less].\n{CCBB}: Put Praman Nand from your hand or the command zone onto the battlefield. Activate at sorcery speed.>"
+            "raw": "<kw-0><nospellcheck><key><b>Devoid</key></nospellcheck></kw-0> </b><i>(This card has no colour.)</i>\n<b><kw-0><nospellcheck><key>Cleave <param-cost><sym>CCWWBB</sym></b></param-cost></key></nospellcheck></kw-0> <i-auto>(You may cast this spell for its Cleave cost. If you do ⇨ Remove the words in square brackets.<i>)</i-auto></i>\nAs long as this spell was cast ↦ When Praman Nand enters; Destroy all other non-Land [Creature] permanents [which have mana value 2 or less].\n<b><sym>CCBB</sym>: Put Praman Nand from your hand or the command zone onto the battlefield. \u0001Activate at sorcery speed.></b>",
+            "readable": "[b]Devoid [/b][i](This card has no colour.)[/i]\n[b]Cleave {CCWWBB}[/b] [i](You may cast this spell for its Cleave cost. If you do ⇨ Remove the words in square brackets.[i])[/i][/i]\nAs long as this spell was cast ↦ When Praman Nand enters; Destroy all other non-Land [Creature] permanents [which have mana value 2 or less].\n[b]{CCBB}: Put Praman Nand from your hand or the command zone onto the battlefield. Activate at sorcery speed.>[/b]",
+            "plain": "Devoid (This card has no colour.)\nCleave {CCWWBB} (You may cast this spell for its Cleave cost. If you do ⇨ Remove the words in square brackets.)\nAs long as this spell was cast ↦ When Praman Nand enters; Destroy all other non-Land [Creature] permanents [which have mana value 2 or less].\n{CCBB}: Put Praman Nand from your hand or the command zone onto the battlefield. Activate at sorcery speed.>"
           },
           "flavor": {
             "raw": "<i-flavor></i-flavor>",
@@ -25741,7 +26521,7 @@
       "meta": {
         "notes": "https://killsixbilliondemons.com/comic/ksbd-4-68/",
         "time_created": "2023-11-17 20:34:22",
-        "time_modified": "2026-02-25 02:10:26",
+        "time_modified": "2026-02-25 22:40:48",
         "source_file": "card preem praman nand",
         "image": "image47"
       }
@@ -26560,12 +27340,14 @@
       "rarity": "rare",
       "type": {
         "qualitytype": null,
-        "supertypes": [],
+        "supertypes": [
+          "World"
+        ],
         "types": [
           "Enchantment"
         ],
         "subtypes": [],
-        "type_line_display": "◌̵ Enchantment"
+        "type_line_display": "World ◌̵ Enchantment"
       },
       "rules": {
         "raw": "When this Enchantment enters, and at the beginning of your upkeep; Put a doom counter on this Enchantment, then it deals damage equal to the number of doom counters on it to everything. <i-auto>(Each Battle, Creature, Planeswalker, and player.)</i-auto>",
@@ -26579,9 +27361,9 @@
         "uses_sub_ability_marker": false
       },
       "flavor": {
-        "raw": "<i-flavor></i-flavor>",
-        "readable": "[i][/i]",
-        "plain": ""
+        "raw": "<i-flavor>Everyone’s mourning.</i-flavor>",
+        "readable": "[i]Everyone’s mourning.[/i]",
+        "plain": "Everyone’s mourning."
       },
       "faces": [
         {
@@ -26590,12 +27372,14 @@
           "casting_cost": "3RR",
           "type": {
             "qualitytype": null,
-            "supertypes": [],
+            "supertypes": [
+              "World"
+            ],
             "types": [
               "Enchantment"
             ],
             "subtypes": [],
-            "type_line_display": "◌̵ Enchantment"
+            "type_line_display": "World ◌̵ Enchantment"
           },
           "rules": {
             "raw": "When this Enchantment enters, and at the beginning of your upkeep; Put a doom counter on this Enchantment, then it deals damage equal to the number of doom counters on it to everything. <i-auto>(Each Battle, Creature, Planeswalker, and player.)</i-auto>",
@@ -26603,9 +27387,9 @@
             "plain": "When this Enchantment enters, and at the beginning of your upkeep; Put a doom counter on this Enchantment, then it deals damage equal to the number of doom counters on it to everything. (Each Battle, Creature, Planeswalker, and player.)"
           },
           "flavor": {
-            "raw": "<i-flavor></i-flavor>",
-            "readable": "[i][/i]",
-            "plain": ""
+            "raw": "<i-flavor>Everyone’s mourning.</i-flavor>",
+            "readable": "[i]Everyone’s mourning.[/i]",
+            "plain": "Everyone’s mourning."
           },
           "pt": {
             "power": null,
@@ -26645,7 +27429,7 @@
       "meta": {
         "notes": null,
         "time_created": "2025-04-06 04:31:54",
-        "time_modified": "2025-04-24 21:58:07",
+        "time_modified": "2026-02-25 15:22:47",
         "source_file": "card red sky in the morning",
         "image": "image40.png"
       }
@@ -31062,8 +31846,8 @@
             "plain": ""
           },
           "pt": {
-            "power": "2/2",
-            "toughness": null,
+            "power": "2",
+            "toughness": "2",
             "loyalty": null
           }
         }
@@ -31101,7 +31885,7 @@
       "meta": {
         "notes": null,
         "time_created": "2025-04-04 17:59:26",
-        "time_modified": "2025-04-24 21:41:24",
+        "time_modified": "2026-02-25 12:16:07",
         "source_file": "card straw man",
         "image": "image7.png"
       }
@@ -34677,6 +35461,252 @@
       }
     },
     {
+      "id": "card the three magisters",
+      "name": "The Three Magisters",
+      "name_key": "the three magisters",
+      "all_names": [
+        "The Three Magisters"
+      ],
+      "cost": {
+        "casting_cost": "3WUB"
+      },
+      "rarity": "mythic rare",
+      "type": {
+        "qualitytype": null,
+        "supertypes": [
+          "Legendary"
+        ],
+        "types": [
+          "Creature"
+        ],
+        "subtypes": [
+          "Spirit",
+          "Sorcerer"
+        ],
+        "type_line_display": "Legendary ◌̵ Creature - Spirit, Sorcerer"
+      },
+      "rules": {
+        "raw": "<i-auto>(⇨ This Creature enters with “Vax”, “Ando”, and “/placeholder/” Name counters. As long as it has those counters ↦ It also has those names.)</i-auto>\nIf a card would be put into a graveyard, from anywhere other than the battlefield ⇨ Instead, exile it.\nFor each Creature card which is exiled with The Three Magisters ↦ Each other Creature has the names of that card <i-auto>(in addition to its other names)</i-auto>.\nFor each name which each Creature has, beyond the first ↦ It gets -1/-1.",
+        "readable": "[i](⇨ This Creature enters with “Vax”, “Ando”, and “/placeholder/” Name counters. As long as it has those counters ↦ It also has those names.)[/i]\nIf a card would be put into a graveyard, from anywhere other than the battlefield ⇨ Instead, exile it.\nFor each Creature card which is exiled with The Three Magisters ↦ Each other Creature has the names of that card [i](in addition to its other names)[/i].\nFor each name which each Creature has, beyond the first ↦ It gets -1/-1.",
+        "plain": "(⇨ This Creature enters with “Vax”, “Ando”, and “/placeholder/” Name counters. As long as it has those counters ↦ It also has those names.)\nIf a card would be put into a graveyard, from anywhere other than the battlefield ⇨ Instead, exile it.\nFor each Creature card which is exiled with The Three Magisters ↦ Each other Creature has the names of that card (in addition to its other names).\nFor each name which each Creature has, beyond the first ↦ It gets -1/-1.",
+        "has_bold": false,
+        "has_italics": true,
+        "has_underline": false,
+        "uses_conditional_marker": true,
+        "uses_replacement_marker": true,
+        "uses_sub_ability_marker": false
+      },
+      "flavor": {
+        "raw": "<i-flavor></i-flavor>",
+        "readable": "[i][/i]",
+        "plain": ""
+      },
+      "faces": [
+        {
+          "face_index": 1,
+          "name": "The Three Magisters",
+          "casting_cost": "3WUB",
+          "type": {
+            "qualitytype": null,
+            "supertypes": [
+              "Legendary"
+            ],
+            "types": [
+              "Creature"
+            ],
+            "subtypes": [
+              "Spirit",
+              "Sorcerer"
+            ],
+            "type_line_display": "Legendary ◌̵ Creature - Spirit, Sorcerer"
+          },
+          "rules": {
+            "raw": "<i-auto>(⇨ This Creature enters with “Vax”, “Ando”, and “/placeholder/” Name counters. As long as it has those counters ↦ It also has those names.)</i-auto>\nIf a card would be put into a graveyard, from anywhere other than the battlefield ⇨ Instead, exile it.\nFor each Creature card which is exiled with The Three Magisters ↦ Each other Creature has the names of that card <i-auto>(in addition to its other names)</i-auto>.\nFor each name which each Creature has, beyond the first ↦ It gets -1/-1.",
+            "readable": "[i](⇨ This Creature enters with “Vax”, “Ando”, and “/placeholder/” Name counters. As long as it has those counters ↦ It also has those names.)[/i]\nIf a card would be put into a graveyard, from anywhere other than the battlefield ⇨ Instead, exile it.\nFor each Creature card which is exiled with The Three Magisters ↦ Each other Creature has the names of that card [i](in addition to its other names)[/i].\nFor each name which each Creature has, beyond the first ↦ It gets -1/-1.",
+            "plain": "(⇨ This Creature enters with “Vax”, “Ando”, and “/placeholder/” Name counters. As long as it has those counters ↦ It also has those names.)\nIf a card would be put into a graveyard, from anywhere other than the battlefield ⇨ Instead, exile it.\nFor each Creature card which is exiled with The Three Magisters ↦ Each other Creature has the names of that card (in addition to its other names).\nFor each name which each Creature has, beyond the first ↦ It gets -1/-1."
+          },
+          "flavor": {
+            "raw": "<i-flavor></i-flavor>",
+            "readable": "[i][/i]",
+            "plain": ""
+          },
+          "pt": {
+            "power": "6",
+            "toughness": "6",
+            "loyalty": null
+          }
+        }
+      ],
+      "credits": {
+        "illustrator": "Abbadon"
+      },
+      "appearance": {
+        "styling_data": {
+          "chop_top": "1",
+          "chop_bottom": "1",
+          "frames": "puma",
+          "other_options": "pokemon evobar, auto nyx crowns",
+          "text_box_mana_symbols": "magic-mana-large.mse-symbol-font",
+          "level_mana_symbols": "magic-mana-large.mse-symbol-font",
+          "overlay": ""
+        },
+        "stylesheet": null,
+        "frames": "puma",
+        "overlay": null,
+        "other_options": "pokemon evobar, auto nyx crowns",
+        "hybrid_nameplate": null,
+        "transformation": null,
+        "mask": null,
+        "card_symbol": null,
+        "card_stamp": null,
+        "border_color": null,
+        "watermark": null,
+        "separator": null,
+        "icons": [],
+        "is_legendary": true,
+        "colors": [
+          "W",
+          "U",
+          "B"
+        ],
+        "is_three_plus_colors": true,
+        "expects_gold_nameplate": true,
+        "has_puma_frame": true,
+        "has_planeshifted_frame": false,
+        "is_ub": false,
+        "is_digital": false,
+        "is_graveyard_marked": false
+      },
+      "meta": {
+        "notes": "http://killsixbilliondemons.com/comic/wielder-of-names-1-13/",
+        "time_created": "2026-02-23 20:53:55",
+        "time_modified": "2026-02-25 22:26:57",
+        "source_file": "card the three magisters",
+        "image": "image144.png"
+      }
+    },
+    {
+      "id": "card they what became observers",
+      "name": "They What Became Observers",
+      "name_key": "they what became observers",
+      "all_names": [
+        "They What Became Observers"
+      ],
+      "cost": {
+        "casting_cost": "U/BU/BU/B"
+      },
+      "rarity": "mythic rare",
+      "type": {
+        "qualitytype": null,
+        "supertypes": [],
+        "types": [
+          "Creature"
+        ],
+        "subtypes": [
+          "Shapeshifter",
+          "Spellshaper"
+        ],
+        "type_line_display": "◌̵ Creature - Shapeshifter, Spellshaper"
+      },
+      "rules": {
+        "raw": "<kw-a><nospellcheck><key><b><kw-0>Unleash</key></nospellcheck></kw-a> <kw-0><nospellcheck><key>shadow</key></nospellcheck></kw-0> </b><i>(You may have this enter “<kw-0><nospellcheck><key>Shadow</key></nospellcheck></kw-0>” “<kw-0><nospellcheck><key>Shadow</key></nospellcheck></kw-0>” counter on it. As long as it has a <kw-0><nospellcheck><key>shadow</key></nospellcheck></kw-0> counter on it ↦ It can’t block.)</i>\nRenown <kw-0><nospellcheck><key>hexproof</key></nospellcheck></kw-0> <i-auto>(As long as this isn’t Renowned ↦ When it deals combat damage to a player; Put a “<kw-0><nospellcheck><key>Hexproof</key></nospellcheck></kw-0>” counter on this, and it becomes Renowned.)</i-auto>\n<sym-auto>G/WG/WG/W</sym-auto>: Monstrosity shield <i-auto>(If this isn’t Monstrous, put a <kw-0><nospellcheck><key>Shield counter</key></nospellcheck></kw-0> on it, and it becomes Monstrous.)</i-auto>\nWhenever one or more counters placed on this Creature; You draw a card and lose 1 life.",
+        "readable": "[b]Unleash shadow [/b][i](You may have this enter “Shadow” “Shadow” counter on it. As long as it has a shadow counter on it ↦ It can’t block.)[/i]\nRenown hexproof [i](As long as this isn’t Renowned ↦ When it deals combat damage to a player; Put a “Hexproof” counter on this, and it becomes Renowned.)[/i]\n{G/WG/WG/W}: Monstrosity shield [i](If this isn’t Monstrous, put a Shield counter on it, and it becomes Monstrous.)[/i]\nWhenever one or more counters placed on this Creature; You draw a card and lose 1 life.",
+        "plain": "Unleash shadow (You may have this enter “Shadow” “Shadow” counter on it. As long as it has a shadow counter on it ↦ It can’t block.)\nRenown hexproof (As long as this isn’t Renowned ↦ When it deals combat damage to a player; Put a “Hexproof” counter on this, and it becomes Renowned.)\n{G/WG/WG/W}: Monstrosity shield (If this isn’t Monstrous, put a Shield counter on it, and it becomes Monstrous.)\nWhenever one or more counters placed on this Creature; You draw a card and lose 1 life.",
+        "has_bold": true,
+        "has_italics": true,
+        "has_underline": false,
+        "uses_conditional_marker": true,
+        "uses_replacement_marker": false,
+        "uses_sub_ability_marker": false
+      },
+      "flavor": {
+        "raw": "<i-flavor></i-flavor>",
+        "readable": "[i][/i]",
+        "plain": ""
+      },
+      "faces": [
+        {
+          "face_index": 1,
+          "name": "They What Became Observers",
+          "casting_cost": "U/BU/BU/B",
+          "type": {
+            "qualitytype": null,
+            "supertypes": [],
+            "types": [
+              "Creature"
+            ],
+            "subtypes": [
+              "Shapeshifter",
+              "Spellshaper"
+            ],
+            "type_line_display": "◌̵ Creature - Shapeshifter, Spellshaper"
+          },
+          "rules": {
+            "raw": "<kw-a><nospellcheck><key><b><kw-0>Unleash</key></nospellcheck></kw-a> <kw-0><nospellcheck><key>shadow</key></nospellcheck></kw-0> </b><i>(You may have this enter “<kw-0><nospellcheck><key>Shadow</key></nospellcheck></kw-0>” “<kw-0><nospellcheck><key>Shadow</key></nospellcheck></kw-0>” counter on it. As long as it has a <kw-0><nospellcheck><key>shadow</key></nospellcheck></kw-0> counter on it ↦ It can’t block.)</i>\nRenown <kw-0><nospellcheck><key>hexproof</key></nospellcheck></kw-0> <i-auto>(As long as this isn’t Renowned ↦ When it deals combat damage to a player; Put a “<kw-0><nospellcheck><key>Hexproof</key></nospellcheck></kw-0>” counter on this, and it becomes Renowned.)</i-auto>\n<sym-auto>G/WG/WG/W</sym-auto>: Monstrosity shield <i-auto>(If this isn’t Monstrous, put a <kw-0><nospellcheck><key>Shield counter</key></nospellcheck></kw-0> on it, and it becomes Monstrous.)</i-auto>\nWhenever one or more counters placed on this Creature; You draw a card and lose 1 life.",
+            "readable": "[b]Unleash shadow [/b][i](You may have this enter “Shadow” “Shadow” counter on it. As long as it has a shadow counter on it ↦ It can’t block.)[/i]\nRenown hexproof [i](As long as this isn’t Renowned ↦ When it deals combat damage to a player; Put a “Hexproof” counter on this, and it becomes Renowned.)[/i]\n{G/WG/WG/W}: Monstrosity shield [i](If this isn’t Monstrous, put a Shield counter on it, and it becomes Monstrous.)[/i]\nWhenever one or more counters placed on this Creature; You draw a card and lose 1 life.",
+            "plain": "Unleash shadow (You may have this enter “Shadow” “Shadow” counter on it. As long as it has a shadow counter on it ↦ It can’t block.)\nRenown hexproof (As long as this isn’t Renowned ↦ When it deals combat damage to a player; Put a “Hexproof” counter on this, and it becomes Renowned.)\n{G/WG/WG/W}: Monstrosity shield (If this isn’t Monstrous, put a Shield counter on it, and it becomes Monstrous.)\nWhenever one or more counters placed on this Creature; You draw a card and lose 1 life."
+          },
+          "flavor": {
+            "raw": "<i-flavor></i-flavor>",
+            "readable": "[i][/i]",
+            "plain": ""
+          },
+          "pt": {
+            "power": "1",
+            "toughness": "1",
+            "loyalty": null
+          }
+        }
+      ],
+      "credits": {
+        "illustrator": "Aldo Katayanagi"
+      },
+      "appearance": {
+        "styling_data": {
+          "chop_top": "1",
+          "chop_bottom": "1",
+          "frames": "",
+          "other_options": "auto nyx crowns",
+          "hybrid_name": "grey",
+          "text_box_mana_symbols": "magic-mana-large.mse-symbol-font",
+          "level_mana_symbols": "magic-mana-large.mse-symbol-font",
+          "overlay": ""
+        },
+        "stylesheet": null,
+        "frames": null,
+        "overlay": null,
+        "other_options": "auto nyx crowns",
+        "hybrid_nameplate": "grey",
+        "transformation": "extra comedy",
+        "mask": "comedy",
+        "card_symbol": null,
+        "card_stamp": null,
+        "border_color": null,
+        "watermark": null,
+        "separator": null,
+        "icons": [],
+        "is_legendary": false,
+        "colors": [
+          "U",
+          "B"
+        ],
+        "is_three_plus_colors": false,
+        "expects_gold_nameplate": false,
+        "has_puma_frame": false,
+        "has_planeshifted_frame": false,
+        "is_ub": false,
+        "is_digital": false,
+        "is_graveyard_marked": false
+      },
+      "meta": {
+        "notes": null,
+        "time_created": "2025-04-24 09:14:24",
+        "time_modified": "2026-02-26 01:36:29",
+        "source_file": "card they what became observers",
+        "image": "image122.png"
+      }
+    },
+    {
       "id": "card they what become real",
       "name": "They What Become Real",
       "name_key": "they what become real",
@@ -34743,8 +35773,8 @@
             "plain": ""
           },
           "pt": {
-            "power": "1/1",
-            "toughness": null,
+            "power": "1",
+            "toughness": "1",
             "loyalty": null
           }
         }
@@ -34792,7 +35822,7 @@
       "meta": {
         "notes": null,
         "time_created": "2025-04-24 09:14:24",
-        "time_modified": "2026-02-24 19:27:48",
+        "time_modified": "2026-02-25 12:15:37",
         "source_file": "card they what become real",
         "image": "image122.png"
       }
@@ -35040,9 +36070,9 @@
         "type_line_display": "Instant ◌̵ Sorcery"
       },
       "rules": {
-        "raw": "If a non-token Creature would enter this turn </sym>⇨ E<sym>xile it instead. Whenever a Creature card becomes exiled this way; Its controller creates a token that’s a copy of that card.",
-        "readable": "If a non-token Creature would enter this turn ⇨ Exile it instead. Whenever a Creature card becomes exiled this way; Its controller creates a token that’s a copy of that card.",
-        "plain": "If a non-token Creature would enter this turn ⇨ Exile it instead. Whenever a Creature card becomes exiled this way; Its controller creates a token that’s a copy of that card.",
+        "raw": "If a non-token Creature would enter this turn </sym>⇨ Instead, e<sym>xile it. Whenever a Creature card becomes exiled this way; Its controller creates a token that’s a copy of that card.",
+        "readable": "If a non-token Creature would enter this turn ⇨ Instead, exile it. Whenever a Creature card becomes exiled this way; Its controller creates a token that’s a copy of that card.",
+        "plain": "If a non-token Creature would enter this turn ⇨ Instead, exile it. Whenever a Creature card becomes exiled this way; Its controller creates a token that’s a copy of that card.",
         "has_bold": false,
         "has_italics": false,
         "has_underline": false,
@@ -35072,9 +36102,9 @@
             "type_line_display": "Instant ◌̵ Sorcery"
           },
           "rules": {
-            "raw": "If a non-token Creature would enter this turn </sym>⇨ E<sym>xile it instead. Whenever a Creature card becomes exiled this way; Its controller creates a token that’s a copy of that card.",
-            "readable": "If a non-token Creature would enter this turn ⇨ Exile it instead. Whenever a Creature card becomes exiled this way; Its controller creates a token that’s a copy of that card.",
-            "plain": "If a non-token Creature would enter this turn ⇨ Exile it instead. Whenever a Creature card becomes exiled this way; Its controller creates a token that’s a copy of that card."
+            "raw": "If a non-token Creature would enter this turn </sym>⇨ Instead, e<sym>xile it. Whenever a Creature card becomes exiled this way; Its controller creates a token that’s a copy of that card.",
+            "readable": "If a non-token Creature would enter this turn ⇨ Instead, exile it. Whenever a Creature card becomes exiled this way; Its controller creates a token that’s a copy of that card.",
+            "plain": "If a non-token Creature would enter this turn ⇨ Instead, exile it. Whenever a Creature card becomes exiled this way; Its controller creates a token that’s a copy of that card."
           },
           "flavor": {
             "raw": "<i-flavor></i-flavor>",
@@ -35127,7 +36157,7 @@
       "meta": {
         "notes": null,
         "time_created": "2025-04-06 11:52:28",
-        "time_modified": "2026-02-22 13:38:48",
+        "time_modified": "2026-02-25 12:58:48",
         "source_file": "card token gesture",
         "image": "image72.png"
       }
@@ -36307,23 +37337,23 @@
       "type": {
         "qualitytype": null,
         "supertypes": [
-          "Legendary"
+          "World"
         ],
         "types": [
           "Enchantment"
         ],
         "subtypes": [],
-        "type_line_display": "Legendary ◌̵ Enchantment"
+        "type_line_display": "World ◌̵ Enchantment"
       },
       "rules": {
-        "raw": "Each Creature gets -3/-3.",
-        "readable": "Each Creature gets -3/-3.",
-        "plain": "Each Creature gets -3/-3.",
-        "has_bold": false,
+        "raw": "<b>⇨ <kw-0><nospellcheck><key>Vanishing <param-number>2</b></param-number></key></nospellcheck></kw-0>\nEach Creature gets -4/-4.",
+        "readable": "[b]⇨ Vanishing 2[/b]\nEach Creature gets -4/-4.",
+        "plain": "⇨ Vanishing 2\nEach Creature gets -4/-4.",
+        "has_bold": true,
         "has_italics": false,
         "has_underline": false,
         "uses_conditional_marker": false,
-        "uses_replacement_marker": false,
+        "uses_replacement_marker": true,
         "uses_sub_ability_marker": false
       },
       "flavor": {
@@ -36339,18 +37369,18 @@
           "type": {
             "qualitytype": null,
             "supertypes": [
-              "Legendary"
+              "World"
             ],
             "types": [
               "Enchantment"
             ],
             "subtypes": [],
-            "type_line_display": "Legendary ◌̵ Enchantment"
+            "type_line_display": "World ◌̵ Enchantment"
           },
           "rules": {
-            "raw": "Each Creature gets -3/-3.",
-            "readable": "Each Creature gets -3/-3.",
-            "plain": "Each Creature gets -3/-3."
+            "raw": "<b>⇨ <kw-0><nospellcheck><key>Vanishing <param-number>2</b></param-number></key></nospellcheck></kw-0>\nEach Creature gets -4/-4.",
+            "readable": "[b]⇨ Vanishing 2[/b]\nEach Creature gets -4/-4.",
+            "plain": "⇨ Vanishing 2\nEach Creature gets -4/-4."
           },
           "flavor": {
             "raw": "<i-flavor>To a plane that had never seen the likes before, Alma lamented the collateral implications of introducing such potent acid rain. A little.</i-flavor>",
@@ -36390,7 +37420,7 @@
         "watermark": null,
         "separator": "flavor bar",
         "icons": [],
-        "is_legendary": true,
+        "is_legendary": false,
         "colors": [],
         "is_three_plus_colors": false,
         "expects_gold_nameplate": false,
@@ -36403,7 +37433,7 @@
       "meta": {
         "notes": null,
         "time_created": "2025-04-06 05:21:05",
-        "time_modified": "2025-04-24 21:58:16",
+        "time_modified": "2026-02-25 16:58:46",
         "source_file": "card under the weather",
         "image": "image64.png"
       }
@@ -38480,6 +39510,115 @@
       }
     },
     {
+      "id": "card what dwells in the cave",
+      "name": "What Dwells in the Cave",
+      "name_key": "what dwells in the cave",
+      "all_names": [
+        "What Dwells in the Cave"
+      ],
+      "cost": {
+        "casting_cost": "4RR"
+      },
+      "rarity": "rare",
+      "type": {
+        "qualitytype": null,
+        "supertypes": [],
+        "types": [
+          "Enchantment",
+          "Creature"
+        ],
+        "subtypes": [
+          "ᶜBeast"
+        ],
+        "type_line_display": "◌̵ Enchantment, Creature - ᶜBeast"
+      },
+      "rules": {
+        "raw": "<b>⇨ <kw-0><nospellcheck><key>Vanishing <param-number>3</b></param-number></key></nospellcheck></kw-0>\n<b><kw-0><nospellcheck><key>Impending <param-number>3</b></param-number> <param-cost><sym>4RR</sym></param-cost></key></nospellcheck></kw-0> <i-auto>(If you cast this spell for its Impending cost ⇨ It enters with three time counters (in addition to the three time counters from its “Vanishing” ability)</i-auto>, <i>and isn’t a Creature until the last is removed <i-auto>(though it’s also sacrificed when the last is removed)</i-auto>. At the beginning of your end step; Remove a time counter from it.)</i>\n<kw-0><nospellcheck><key>Haste</key></nospellcheck></kw-0>, <kw-a><nospellcheck><key>Trample</key></nospellcheck></kw-a>\nIf a red source which you control would deal damage ⇨ Instead, it deals that much damage plus 1. As long as this permanent is a Creature ↦ Instead ⇨ That source deals that much damage plus 2.",
+        "readable": "[b]⇨ Vanishing 3[/b]\n[b]Impending 3[/b] {4RR} [i](If you cast this spell for its Impending cost ⇨ It enters with three time counters (in addition to the three time counters from its “Vanishing” ability)[/i], [i]and isn’t a Creature until the last is removed [i](though it’s also sacrificed when the last is removed)[/i]. At the beginning of your end step; Remove a time counter from it.)[/i]\nHaste, Trample\nIf a red source which you control would deal damage ⇨ Instead, it deals that much damage plus 1. As long as this permanent is a Creature ↦ Instead ⇨ That source deals that much damage plus 2.",
+        "plain": "⇨ Vanishing 3\nImpending 3 {4RR} (If you cast this spell for its Impending cost ⇨ It enters with three time counters (in addition to the three time counters from its “Vanishing” ability), and isn’t a Creature until the last is removed (though it’s also sacrificed when the last is removed). At the beginning of your end step; Remove a time counter from it.)\nHaste, Trample\nIf a red source which you control would deal damage ⇨ Instead, it deals that much damage plus 1. As long as this permanent is a Creature ↦ Instead ⇨ That source deals that much damage plus 2.",
+        "has_bold": true,
+        "has_italics": true,
+        "has_underline": false,
+        "uses_conditional_marker": true,
+        "uses_replacement_marker": true,
+        "uses_sub_ability_marker": false
+      },
+      "flavor": {
+        "raw": "<i-flavor></i-flavor>",
+        "readable": "[i][/i]",
+        "plain": ""
+      },
+      "faces": [
+        {
+          "face_index": 1,
+          "name": "What Dwells in the Cave",
+          "casting_cost": "4RR",
+          "type": {
+            "qualitytype": null,
+            "supertypes": [],
+            "types": [
+              "Enchantment",
+              "Creature"
+            ],
+            "subtypes": [
+              "ᶜBeast"
+            ],
+            "type_line_display": "◌̵ Enchantment, Creature - ᶜBeast"
+          },
+          "rules": {
+            "raw": "<b>⇨ <kw-0><nospellcheck><key>Vanishing <param-number>3</b></param-number></key></nospellcheck></kw-0>\n<b><kw-0><nospellcheck><key>Impending <param-number>3</b></param-number> <param-cost><sym>4RR</sym></param-cost></key></nospellcheck></kw-0> <i-auto>(If you cast this spell for its Impending cost ⇨ It enters with three time counters (in addition to the three time counters from its “Vanishing” ability)</i-auto>, <i>and isn’t a Creature until the last is removed <i-auto>(though it’s also sacrificed when the last is removed)</i-auto>. At the beginning of your end step; Remove a time counter from it.)</i>\n<kw-0><nospellcheck><key>Haste</key></nospellcheck></kw-0>, <kw-a><nospellcheck><key>Trample</key></nospellcheck></kw-a>\nIf a red source which you control would deal damage ⇨ Instead, it deals that much damage plus 1. As long as this permanent is a Creature ↦ Instead ⇨ That source deals that much damage plus 2.",
+            "readable": "[b]⇨ Vanishing 3[/b]\n[b]Impending 3[/b] {4RR} [i](If you cast this spell for its Impending cost ⇨ It enters with three time counters (in addition to the three time counters from its “Vanishing” ability)[/i], [i]and isn’t a Creature until the last is removed [i](though it’s also sacrificed when the last is removed)[/i]. At the beginning of your end step; Remove a time counter from it.)[/i]\nHaste, Trample\nIf a red source which you control would deal damage ⇨ Instead, it deals that much damage plus 1. As long as this permanent is a Creature ↦ Instead ⇨ That source deals that much damage plus 2.",
+            "plain": "⇨ Vanishing 3\nImpending 3 {4RR} (If you cast this spell for its Impending cost ⇨ It enters with three time counters (in addition to the three time counters from its “Vanishing” ability), and isn’t a Creature until the last is removed (though it’s also sacrificed when the last is removed). At the beginning of your end step; Remove a time counter from it.)\nHaste, Trample\nIf a red source which you control would deal damage ⇨ Instead, it deals that much damage plus 1. As long as this permanent is a Creature ↦ Instead ⇨ That source deals that much damage plus 2."
+          },
+          "flavor": {
+            "raw": "<i-flavor></i-flavor>",
+            "readable": "[i][/i]",
+            "plain": ""
+          },
+          "pt": {
+            "power": "4",
+            "toughness": "4",
+            "loyalty": null
+          }
+        }
+      ],
+      "credits": {
+        "illustrator": "Laszlo Pinter (Las Pinter)"
+      },
+      "appearance": {
+        "styling_data": {},
+        "stylesheet": null,
+        "frames": null,
+        "overlay": null,
+        "other_options": null,
+        "hybrid_nameplate": null,
+        "transformation": null,
+        "mask": null,
+        "card_symbol": null,
+        "card_stamp": null,
+        "border_color": null,
+        "watermark": null,
+        "separator": null,
+        "icons": [],
+        "is_legendary": false,
+        "colors": [],
+        "is_three_plus_colors": false,
+        "expects_gold_nameplate": false,
+        "has_puma_frame": false,
+        "has_planeshifted_frame": false,
+        "is_ub": false,
+        "is_digital": false,
+        "is_graveyard_marked": false
+      },
+      "meta": {
+        "notes": "https://www.artstation.com/artwork/a06gmk",
+        "time_created": "2025-02-23 13:54:30",
+        "time_modified": "2026-02-25 15:06:55",
+        "source_file": "card what dwells in the cave",
+        "image": "image151.png"
+      }
+    },
+    {
       "id": "card whip of motivation",
       "name": "Whip of Motivation",
       "name_key": "whip of motivation",
@@ -38701,6 +39840,113 @@
         "time_modified": "2026-02-23 22:01:27",
         "source_file": "card white chain disembodied",
         "image": "image10"
+      }
+    },
+    {
+      "id": "card wield names",
+      "name": "Wield Names",
+      "name_key": "wield names",
+      "all_names": [
+        "Wield Names"
+      ],
+      "cost": {
+        "casting_cost": "2BB"
+      },
+      "rarity": "",
+      "type": {
+        "qualitytype": null,
+        "supertypes": [
+          "Instant"
+        ],
+        "types": [
+          "Sorcery"
+        ],
+        "subtypes": [],
+        "type_line_display": "Instant ◌̵ Sorcery"
+      },
+      "rules": {
+        "raw": "Choose target Creature. Put any number of Name counters on it from among “Princess”, “Mamoru”, “Moonshine”, “Jagermeister”, “Jack”, “Jack Daniels”, “Timothy”, “Tim”, “Bill”, “Freddy Mercury”, “Blueberry”, “Luna”, and “Esquire”.<soft-line>\n</soft-line>   ╰When you do; For each name that<soft-line>\n     </soft-line>Creature has beyond the first, until end of turn<soft-line>\n     </soft-line>↦ That Creature gets -1/-1.",
+        "readable": "Choose target Creature. Put any number of Name counters on it from among “Princess”, “Mamoru”, “Moonshine”, “Jagermeister”, “Jack”, “Jack Daniels”, “Timothy”, “Tim”, “Bill”, “Freddy Mercury”, “Blueberry”, “Luna”, and “Esquire”.\n╰When you do; For each name that\nCreature has beyond the first, until end of turn\n↦ That Creature gets -1/-1.",
+        "plain": "Choose target Creature. Put any number of Name counters on it from among “Princess”, “Mamoru”, “Moonshine”, “Jagermeister”, “Jack”, “Jack Daniels”, “Timothy”, “Tim”, “Bill”, “Freddy Mercury”, “Blueberry”, “Luna”, and “Esquire”.\n╰When you do; For each name that\nCreature has beyond the first, until end of turn\n↦ That Creature gets -1/-1.",
+        "has_bold": false,
+        "has_italics": false,
+        "has_underline": false,
+        "uses_conditional_marker": true,
+        "uses_replacement_marker": false,
+        "uses_sub_ability_marker": true
+      },
+      "flavor": {
+        "raw": "<i-flavor></i-flavor>",
+        "readable": "[i][/i]",
+        "plain": ""
+      },
+      "faces": [
+        {
+          "face_index": 1,
+          "name": "Wield Names",
+          "casting_cost": "2BB",
+          "type": {
+            "qualitytype": null,
+            "supertypes": [
+              "Instant"
+            ],
+            "types": [
+              "Sorcery"
+            ],
+            "subtypes": [],
+            "type_line_display": "Instant ◌̵ Sorcery"
+          },
+          "rules": {
+            "raw": "Choose target Creature. Put any number of Name counters on it from among “Princess”, “Mamoru”, “Moonshine”, “Jagermeister”, “Jack”, “Jack Daniels”, “Timothy”, “Tim”, “Bill”, “Freddy Mercury”, “Blueberry”, “Luna”, and “Esquire”.<soft-line>\n</soft-line>   ╰When you do; For each name that<soft-line>\n     </soft-line>Creature has beyond the first, until end of turn<soft-line>\n     </soft-line>↦ That Creature gets -1/-1.",
+            "readable": "Choose target Creature. Put any number of Name counters on it from among “Princess”, “Mamoru”, “Moonshine”, “Jagermeister”, “Jack”, “Jack Daniels”, “Timothy”, “Tim”, “Bill”, “Freddy Mercury”, “Blueberry”, “Luna”, and “Esquire”.\n╰When you do; For each name that\nCreature has beyond the first, until end of turn\n↦ That Creature gets -1/-1.",
+            "plain": "Choose target Creature. Put any number of Name counters on it from among “Princess”, “Mamoru”, “Moonshine”, “Jagermeister”, “Jack”, “Jack Daniels”, “Timothy”, “Tim”, “Bill”, “Freddy Mercury”, “Blueberry”, “Luna”, and “Esquire”.\n╰When you do; For each name that\nCreature has beyond the first, until end of turn\n↦ That Creature gets -1/-1."
+          },
+          "flavor": {
+            "raw": "<i-flavor></i-flavor>",
+            "readable": "[i][/i]",
+            "plain": ""
+          },
+          "pt": {
+            "power": null,
+            "toughness": null,
+            "loyalty": null
+          }
+        }
+      ],
+      "credits": {
+        "illustrator": "Abbadon"
+      },
+      "appearance": {
+        "styling_data": {},
+        "stylesheet": null,
+        "frames": null,
+        "overlay": null,
+        "other_options": null,
+        "hybrid_nameplate": null,
+        "transformation": null,
+        "mask": null,
+        "card_symbol": null,
+        "card_stamp": null,
+        "border_color": null,
+        "watermark": null,
+        "separator": null,
+        "icons": [],
+        "is_legendary": false,
+        "colors": [],
+        "is_three_plus_colors": false,
+        "expects_gold_nameplate": false,
+        "has_puma_frame": false,
+        "has_planeshifted_frame": false,
+        "is_ub": false,
+        "is_digital": false,
+        "is_graveyard_marked": false
+      },
+      "meta": {
+        "notes": null,
+        "time_created": "2026-02-25 22:45:21",
+        "time_modified": "2026-02-25 23:04:18",
+        "source_file": "card wield names",
+        "image": "image145.png"
       }
     },
     {
@@ -39062,9 +40308,9 @@
         "type_line_display": "Legendary ◌̵ Artefact, Creature - ᶜConstruct, ᶜArtificer"
       },
       "rules": {
-        "raw": "<b>⇨ Ximrod enters with X +1 counters on it.</b>\nArtefact spells you cast with mana value equal to<soft-line>\n</soft-line>or less than Ximrod’s power can’t be countered.\nWhenever another nontoken Creature or Artefact you control is sent to your graveyard from the battlefield; Choose another target Artefact card with mana value less than or equal to Ximrod’s power. You may return it from your graveyard to your hand.",
-        "readable": "[b]⇨ Ximrod enters with X +1 counters on it.[/b]\nArtefact spells you cast with mana value equal to\nor less than Ximrod’s power can’t be countered.\nWhenever another nontoken Creature or Artefact you control is sent to your graveyard from the battlefield; Choose another target Artefact card with mana value less than or equal to Ximrod’s power. You may return it from your graveyard to your hand.",
-        "plain": "⇨ Ximrod enters with X +1 counters on it.\nArtefact spells you cast with mana value equal to\nor less than Ximrod’s power can’t be countered.\nWhenever another nontoken Creature or Artefact you control is sent to your graveyard from the battlefield; Choose another target Artefact card with mana value less than or equal to Ximrod’s power. You may return it from your graveyard to your hand.",
+        "raw": "<b>⇨ Ximrod enters with X +1 counters on it.</b>\nArtefact spells you cast with mana value equal to<soft-line>\n</soft-line>or less than Ximrod’s power can’t be countered.\nWhenever another nontoken Creature or Artefact you control is sent to your graveyard from the battlefield; Choose another target Artefact card which has mana value less than or equal to Ximrod’s power. You may return it from your graveyard to your hand.",
+        "readable": "[b]⇨ Ximrod enters with X +1 counters on it.[/b]\nArtefact spells you cast with mana value equal to\nor less than Ximrod’s power can’t be countered.\nWhenever another nontoken Creature or Artefact you control is sent to your graveyard from the battlefield; Choose another target Artefact card which has mana value less than or equal to Ximrod’s power. You may return it from your graveyard to your hand.",
+        "plain": "⇨ Ximrod enters with X +1 counters on it.\nArtefact spells you cast with mana value equal to\nor less than Ximrod’s power can’t be countered.\nWhenever another nontoken Creature or Artefact you control is sent to your graveyard from the battlefield; Choose another target Artefact card which has mana value less than or equal to Ximrod’s power. You may return it from your graveyard to your hand.",
         "has_bold": true,
         "has_italics": false,
         "has_underline": false,
@@ -39098,9 +40344,9 @@
             "type_line_display": "Legendary ◌̵ Artefact, Creature - ᶜConstruct, ᶜArtificer"
           },
           "rules": {
-            "raw": "<b>⇨ Ximrod enters with X +1 counters on it.</b>\nArtefact spells you cast with mana value equal to<soft-line>\n</soft-line>or less than Ximrod’s power can’t be countered.\nWhenever another nontoken Creature or Artefact you control is sent to your graveyard from the battlefield; Choose another target Artefact card with mana value less than or equal to Ximrod’s power. You may return it from your graveyard to your hand.",
-            "readable": "[b]⇨ Ximrod enters with X +1 counters on it.[/b]\nArtefact spells you cast with mana value equal to\nor less than Ximrod’s power can’t be countered.\nWhenever another nontoken Creature or Artefact you control is sent to your graveyard from the battlefield; Choose another target Artefact card with mana value less than or equal to Ximrod’s power. You may return it from your graveyard to your hand.",
-            "plain": "⇨ Ximrod enters with X +1 counters on it.\nArtefact spells you cast with mana value equal to\nor less than Ximrod’s power can’t be countered.\nWhenever another nontoken Creature or Artefact you control is sent to your graveyard from the battlefield; Choose another target Artefact card with mana value less than or equal to Ximrod’s power. You may return it from your graveyard to your hand."
+            "raw": "<b>⇨ Ximrod enters with X +1 counters on it.</b>\nArtefact spells you cast with mana value equal to<soft-line>\n</soft-line>or less than Ximrod’s power can’t be countered.\nWhenever another nontoken Creature or Artefact you control is sent to your graveyard from the battlefield; Choose another target Artefact card which has mana value less than or equal to Ximrod’s power. You may return it from your graveyard to your hand.",
+            "readable": "[b]⇨ Ximrod enters with X +1 counters on it.[/b]\nArtefact spells you cast with mana value equal to\nor less than Ximrod’s power can’t be countered.\nWhenever another nontoken Creature or Artefact you control is sent to your graveyard from the battlefield; Choose another target Artefact card which has mana value less than or equal to Ximrod’s power. You may return it from your graveyard to your hand.",
+            "plain": "⇨ Ximrod enters with X +1 counters on it.\nArtefact spells you cast with mana value equal to\nor less than Ximrod’s power can’t be countered.\nWhenever another nontoken Creature or Artefact you control is sent to your graveyard from the battlefield; Choose another target Artefact card which has mana value less than or equal to Ximrod’s power. You may return it from your graveyard to your hand."
           },
           "flavor": {
             "raw": "<i-flavor></i-flavor>",
@@ -39157,7 +40403,7 @@
       "meta": {
         "notes": null,
         "time_created": "2025-04-06 13:22:06",
-        "time_modified": "2026-02-24 20:44:49",
+        "time_modified": "2026-02-26 01:35:56",
         "source_file": "card ximrod machinator menace",
         "image": "image89.png"
       }
@@ -39659,7 +40905,7 @@
       }
     },
     {
-      "id": "card zombie mutant boss elk",
+      "id": "card zombie mutant boss elk.1",
       "name": "Zombie Mutant Boss Elk",
       "name_key": "zombie mutant boss elk",
       "all_names": [
@@ -39769,121 +41015,6 @@
         "notes": "https://www.artstation.com/artwork/ybVZQO",
         "time_created": "2023-11-18 20:31:50",
         "time_modified": "2026-02-23 19:49:18",
-        "source_file": "card zombie mutant boss elk",
-        "image": "image223"
-      }
-    },
-    {
-      "id": "card zombie mutant boss elk.1",
-      "name": "Zombie Mutant Boss Elk",
-      "name_key": "zombie mutant boss elk",
-      "all_names": [
-        "Zombie Mutant Boss Elk"
-      ],
-      "cost": {
-        "casting_cost": "3BR"
-      },
-      "rarity": "uncommon",
-      "type": {
-        "qualitytype": null,
-        "supertypes": [],
-        "types": [
-          "Creature"
-        ],
-        "subtypes": [
-          "Zombie",
-          "Mutant",
-          "Noble",
-          "Elk"
-        ],
-        "type_line_display": "◌̵ Creature - Zombie, Mutant, Noble, Elk"
-      },
-      "rules": {
-        "raw": "When this Creature dies; You may discard any number of cards. If you do, draw that many cards.\nWhen this Creature becomes exiled from the battlefield; You draw two cards and you lose 2 life.\n<b><kw-0><nospellcheck><key>Unearth <param-cost></b><sym>4B</sym></param-cost></key></nospellcheck></kw-0> <i-auto>(<sym-auto>5B</sym-auto>: Return this card from your graveyard to the battlefield. It gains “<kw-0><nospellcheck><key>Haste</key></nospellcheck></kw-0>”. At the beginning of the next end step; Exile it. If it would leave the battlefield ⇨ Exile it instead. \u0001Unearth at sorcery speed.>)</i-auto>\n<b><kw-0><nospellcheck><key>Encore <param-cost></b><sym>5RR</sym></param-cost></key></nospellcheck></kw-0> <i-auto>(<sym-auto>5RR</sym-auto>, Exile this card from your graveyard: For each opponent, create a token copy that attacks that opponent this turn if able. They gain “<kw-0><nospellcheck><key>Haste</key></nospellcheck></kw-0>”. At the beginning of the next end step; Sacrifice them. \u0001Encore at sorcery speed.>)</i-auto>",
-        "readable": "When this Creature dies; You may discard any number of cards. If you do, draw that many cards.\nWhen this Creature becomes exiled from the battlefield; You draw two cards and you lose 2 life.\n[b]Unearth [/b]{4B} [i]({5B}: Return this card from your graveyard to the battlefield. It gains “Haste”. At the beginning of the next end step; Exile it. If it would leave the battlefield ⇨ Exile it instead. Unearth at sorcery speed.>)[/i]\n[b]Encore [/b]{5RR} [i]({5RR}, Exile this card from your graveyard: For each opponent, create a token copy that attacks that opponent this turn if able. They gain “Haste”. At the beginning of the next end step; Sacrifice them. Encore at sorcery speed.>)[/i]",
-        "plain": "When this Creature dies; You may discard any number of cards. If you do, draw that many cards.\nWhen this Creature becomes exiled from the battlefield; You draw two cards and you lose 2 life.\nUnearth {4B} ({5B}: Return this card from your graveyard to the battlefield. It gains “Haste”. At the beginning of the next end step; Exile it. If it would leave the battlefield ⇨ Exile it instead. Unearth at sorcery speed.>)\nEncore {5RR} ({5RR}, Exile this card from your graveyard: For each opponent, create a token copy that attacks that opponent this turn if able. They gain “Haste”. At the beginning of the next end step; Sacrifice them. Encore at sorcery speed.>)",
-        "has_bold": true,
-        "has_italics": true,
-        "has_underline": false,
-        "uses_conditional_marker": false,
-        "uses_replacement_marker": true,
-        "uses_sub_ability_marker": false
-      },
-      "flavor": {
-        "raw": "<i-flavor></i-flavor>",
-        "readable": "[i][/i]",
-        "plain": ""
-      },
-      "faces": [
-        {
-          "face_index": 1,
-          "name": "Zombie Mutant Boss Elk",
-          "casting_cost": "3BR",
-          "type": {
-            "qualitytype": null,
-            "supertypes": [],
-            "types": [
-              "Creature"
-            ],
-            "subtypes": [
-              "Zombie",
-              "Mutant",
-              "Noble",
-              "Elk"
-            ],
-            "type_line_display": "◌̵ Creature - Zombie, Mutant, Noble, Elk"
-          },
-          "rules": {
-            "raw": "When this Creature dies; You may discard any number of cards. If you do, draw that many cards.\nWhen this Creature becomes exiled from the battlefield; You draw two cards and you lose 2 life.\n<b><kw-0><nospellcheck><key>Unearth <param-cost></b><sym>4B</sym></param-cost></key></nospellcheck></kw-0> <i-auto>(<sym-auto>5B</sym-auto>: Return this card from your graveyard to the battlefield. It gains “<kw-0><nospellcheck><key>Haste</key></nospellcheck></kw-0>”. At the beginning of the next end step; Exile it. If it would leave the battlefield ⇨ Exile it instead. \u0001Unearth at sorcery speed.>)</i-auto>\n<b><kw-0><nospellcheck><key>Encore <param-cost></b><sym>5RR</sym></param-cost></key></nospellcheck></kw-0> <i-auto>(<sym-auto>5RR</sym-auto>, Exile this card from your graveyard: For each opponent, create a token copy that attacks that opponent this turn if able. They gain “<kw-0><nospellcheck><key>Haste</key></nospellcheck></kw-0>”. At the beginning of the next end step; Sacrifice them. \u0001Encore at sorcery speed.>)</i-auto>",
-            "readable": "When this Creature dies; You may discard any number of cards. If you do, draw that many cards.\nWhen this Creature becomes exiled from the battlefield; You draw two cards and you lose 2 life.\n[b]Unearth [/b]{4B} [i]({5B}: Return this card from your graveyard to the battlefield. It gains “Haste”. At the beginning of the next end step; Exile it. If it would leave the battlefield ⇨ Exile it instead. Unearth at sorcery speed.>)[/i]\n[b]Encore [/b]{5RR} [i]({5RR}, Exile this card from your graveyard: For each opponent, create a token copy that attacks that opponent this turn if able. They gain “Haste”. At the beginning of the next end step; Sacrifice them. Encore at sorcery speed.>)[/i]",
-            "plain": "When this Creature dies; You may discard any number of cards. If you do, draw that many cards.\nWhen this Creature becomes exiled from the battlefield; You draw two cards and you lose 2 life.\nUnearth {4B} ({5B}: Return this card from your graveyard to the battlefield. It gains “Haste”. At the beginning of the next end step; Exile it. If it would leave the battlefield ⇨ Exile it instead. Unearth at sorcery speed.>)\nEncore {5RR} ({5RR}, Exile this card from your graveyard: For each opponent, create a token copy that attacks that opponent this turn if able. They gain “Haste”. At the beginning of the next end step; Sacrifice them. Encore at sorcery speed.>)"
-          },
-          "flavor": {
-            "raw": "<i-flavor></i-flavor>",
-            "readable": "[i][/i]",
-            "plain": ""
-          },
-          "pt": {
-            "power": "4",
-            "toughness": "4",
-            "loyalty": null
-          }
-        }
-      ],
-      "credits": {
-        "illustrator": "SAM RisovaL"
-      },
-      "appearance": {
-        "styling_data": {},
-        "stylesheet": null,
-        "frames": null,
-        "overlay": null,
-        "other_options": null,
-        "hybrid_nameplate": null,
-        "transformation": null,
-        "mask": null,
-        "card_symbol": "tombstone",
-        "card_stamp": null,
-        "border_color": null,
-        "watermark": null,
-        "separator": null,
-        "icons": [
-          "tombstone"
-        ],
-        "is_legendary": false,
-        "colors": [],
-        "is_three_plus_colors": false,
-        "expects_gold_nameplate": false,
-        "has_puma_frame": false,
-        "has_planeshifted_frame": false,
-        "is_ub": false,
-        "is_digital": false,
-        "is_graveyard_marked": true
-      },
-      "meta": {
-        "notes": "https://www.artstation.com/artwork/ybVZQO",
-        "time_created": "2023-11-18 20:31:50",
-        "time_modified": "2025-04-18 19:50:11",
         "source_file": "card zombie mutant boss elk.1",
         "image": "image223"
       }

@@ -1,0 +1,132 @@
+﻿mse_version: 2.5.7
+card:
+	has_styling: false
+	notes:
+		1. Keyword abilities
+		Regular Magic
+		
+		A–H: Afterlife · Annihilator · Awaken · Banding · Bargain · Battle cry · Bestow · Bloodthirst · Boast · Bushido · Buyback · Cascade · Champion · Changeling · Cipher · Compleated · Craft · Demonstrate · Disguise · Disturb · Dredge · Enlist · Entwine · Epic · Exalted · Exhaust · Extort · Firebending · Flanking · For Mirrodin! · Foretell · Freerunning · Frenzy · Fuse · Hidden agenda · Hideaway
+		
+		I–R: Increment · Job select · Landwalk · Level up · Living metal · Melee · Miracle · Mobilise (officially Mobilize) · More Than Meets the Eye · Morph · Mutate · Ninjutsu · Outlast · Paradigm · Plot · Power-up · Prototype · Prowess · Prowl · Ravenous · Read ahead · Rebound · Reinforce · Riot · Ripple
+		
+		S–W: Sneak · Solved · Soulshift · Space sculptor · Spectacle · Spree · Squad · Station · Storied · Storm · Sunburst · Surge · Teamwork · Tiered · Undaunted · Warp · Web-slinging
+		
+		Silver / Acorn
+		
+		Alpha strike · Art menace · Augment · Blurry · Denimwalk · Gobble · Just a second · Knightlifelink · Loose lips · Rangeling · Squirrellink · Super haste · Triple strike · Typelink · Undeathtouch · Visit
+		
+		Digital
+		
+		Double team · Specialise / Specialize
+		
+		“Visit” comes from the Un-set Attraction system; cards using that system have differing legality. Triple strike and Specialise stay here because you explicitly want a mere reference to count as unused. 
+		magic.wizards.com
+		+1
+		2. Keyword actions
+		Regular Magic
+		
+		Abandon · Adapt · Airbend · Blight · Bolster · Collect evidence · Convert · Detain · Earthbend · Empower Jace / Empower X · Endure · Explore · Fateseal · Forage · Harness · Incubate · Learn · Meld · Populate · Prepare · Recruit · Set in motion · Suspect · The Ring tempts you · Time travel · Waterbend
+		
+		Silver / Acorn
+		
+		Assemble · Ban · Combine · Crank · Hide · Jump · Open an Attraction · Roll to visit your Attractions · Stare down · Switch
+		
+		Digital
+		
+		Draft from a spellbook · Heist · Incorporate
+		
+		Prepare is officially a keyword action, as confirmed in the Secrets of Strixhaven release notes. 
+		magic.wizards.com
+		+1
+		3. Ability words
+		Regular Magic
+		
+		A–H: Alliance · Battalion · Bloodrush · Celebration · Chroma · Cohort · Constellation · Council’s dilemma · Coven · Descend 4 · Descend 8 · Disappear · Domain · Eerie · Eminence · Fateful hour · Fathomless descent · Ferocious · Flurry · Formidable · Grandeur · Hellbent · Heroic
+		
+		I–R: Infusion · Inspired · Join forces · Kinship · Landfall · Lieutenant · Morbid · Opus · Pack tactics · Paradox · Parley · Radiance · Raid · Rally · Repartee · Rulebreaker
+		
+		S–W: Secret council · Strive · Survival · Sweep · Undergrowth · Valiant · Vivid · Void · Will of the council
+		
+		Silver / Acorn
+		
+		Best in show · Gear up
+		
+		Rulebreaker debuted on new Commander cards in Mystery Booster Commander Edition. Those are regular cards, rather than playtest cards, so it gets a regular-mechanic label. 
+		magic.wizards.com
+		+1
+		4. Other mechanics
+		
+		This category contains counters, tokens, subtypes, designations and wider game systems. It also has a provisional holding section for playtest mechanics whose precise rules classification we haven't checked individually.
+		
+		Counters
+		Regular Magic
+		
+		Hone counters
+		
+		Silver / Acorn
+		
+		Ticket counters
+		
+		Playtest
+		
+		Manabond counters
+		
+		Tokens
+		Regular Magic
+		
+		Heartwood tokens · Lander tokens · Mutagen tokens
+		
+		Subtypes
+		Regular Magic
+		
+		Plan — enchantment subtype
+		
+		Custom; digital-themed
+		
+		Chorus — a subtype appearing in your export. This is your custom subtype, not an established Arena mechanic. I'm retaining it here because you asked to keep the remaining digital-related entries marked unused.
+		
+		Designations and other named technology
+		Regular Magic
+		
+		Enduring story · ∞ (Infinity)
+		
+		Digital
+		
+		Boon · Intensity / Intensify · Spellbook
+		
+		Silver / Acorn systems and themes
+		Silver / Acorn
+		
+		Contraptions · Sprockets · Attraction decks and Attractions · Stickers · Half mana and fractional values · Artist-matters · Watermark-matters · Hat and physical-object interactions · Outside assistance · Minigames and prizes
+		
+		Mystery Booster playtest mechanics
+		Playtest · 2019
+		
+		Aggressive · Bank · Challenge · Firstest strike · Four-faced · Gunk · Interplanar · Kinfall · Landship · Legacy · Megalegendary · Motivate · Ransom · Reflect · Requirement · Reverse miracle · Scrycast · Spark · Spellmorph · Tasty · Underdog · Upgrade
+		
+		Also tracked: experimental card-token designs and enchantment lands.
+		
+		Playtest · Mystery Booster 2
+		
+		Annihinfect · Assist kicker · Bedtime story · Buddy list · Construct a building · Coststorm · Daunt · Deworded · Flashforward · Forbidden · Grazing type · Hope · Land casualty · Library ninjutsu · Multicleave · Negamorph · Nimble · Partner with itself · Pass the ball · Planeswalkerwalk · Positioning · Proliferatelink · Scryfall · Shackle · Sinecure · Spaceship · Teach · Thoughtweft
+		
+		These are retained as a playtest holding list, pending individual classification into keyword abilities, actions, ability words or other mechanics. They aren't all inherently “other” mechanics. Mystery Booster 2's release notes explicitly caution that its playtest cards can require generous rules assumptions.
+	time_created: 2026-09-19 21:46:58
+	time_modified: 2026-09-19 22:15:16
+	name: Unused mechanics
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Cheat sheet | ◌̵  </word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: 
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	partition_select: before normal 0
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

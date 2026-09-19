@@ -13,7 +13,13 @@ card:
 	mainframe_image: 
 	mainframe_image_2: 
 	super_type: <word-list-type-en>◌̵  Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
 	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
 	rarity: uncommon
 	rule_text:
 		<kw-0><nospellcheck><key><b>Split second</key></nospellcheck></kw-0> </b><i>(As long as this spell is on the stack, players can’t cast spells or activate abilities that aren’t mana abilities.)</i><b>

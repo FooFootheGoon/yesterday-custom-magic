@@ -5,15 +5,18 @@ card:
 		chop_top: 1
 		chop_bottom: 1
 		frames: puma
-		other_options: auto nyx crowns
+		other_options: pokemon evobar, auto nyx crowns
 		text_box_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: 
+	notes:
+		https://aldo-art.com/ghostall
+		 
 	time_created: 2025-04-06 13:32:45
-	time_modified: 2026-02-24 22:02:43
+	time_modified: 2026-02-26 17:41:37
 	card_color: blue, multicolor
 	name: Eupho, Eternally Blinded
+	alias: "It What Became Blind", "It What Became Wise".
 	casting_cost: CCUU
 	image: image123.png
 	image_2: 
@@ -23,7 +26,7 @@ card:
 	super_type_2: <word-list-type-en></word-list-type-en>
 	super_type_3: <word-list-type-en></word-list-type-en>
 	super_type_4: <word-list-type-en></word-list-type-en>
-	sub_type: <word-list-race-en>Human,</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Skeleton,</word-list-class-en><atom-sep> </atom-sep><word-list-class-en>Spellshaper</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type: <word-list-race-en>Shapeshifter,</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Spellshaper</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
@@ -35,7 +38,7 @@ card:
 		<sym-auto>CU</sym-auto>, <sym-auto>T</sym-auto>, Exile a Creature card from your hand, and from your graveyard: Copy target Sorcery spell. You<soft-line>
 		</soft-line>may choose new targets for the copy.
 		When Eupho dies; At the beginning of the next end<soft-line>
-		</soft-line>step; Return each card which was exiled with him, to their owners’ hands.ś
+		</soft-line>step; Return each card which was exiled with it, to their owners’ hands.ś
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 4

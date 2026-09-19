@@ -11,10 +11,10 @@ card:
 		overlay: 
 	notes: https://killsixbilliondemons.com/comic/ksbd-4-68/
 	time_created: 2023-11-17 20:34:22
-	time_modified: 2026-02-25 02:10:26
+	time_modified: 2026-02-25 22:40:48
 	card_color: colorless
 	name: Preem Praman Nand
-	alias: ... Lord Androsphinx of the Gilded Cage
+	alias: "Preem Praman Nand, Lord Androsphinx of the Gilded Cage"
 	casting_cost: CCBB
 	transformation: extra comedy
 	image: image47
@@ -27,7 +27,7 @@ card:
 	rule_text:
 		<kw-0><nospellcheck><key><b>Devoid</key></nospellcheck></kw-0> </b><i>(This card has no colour.)</i>
 		<b><kw-0><nospellcheck><key>Cleave <param-cost><sym>CCWWBB</sym></b></param-cost></key></nospellcheck></kw-0> <i-auto>(You may cast this spell for its Cleave cost. If you do ⇨ Remove the words in square brackets.<i>)</i-auto></i>
-		As long as this spell was cast ↦ When Preem Praman Nand, Lord Androsphinx of the Gilded Cage enters; Destroy all other non-Land [Creature] permanents which have mana value 2 or less].
+		As long as this spell was cast ↦ When Praman Nand enters; Destroy all other non-Land [Creature] permanents [which have mana value 2 or less].
 		<b><sym>CCBB</sym>: Put Praman Nand from your hand or the command zone onto the battlefield. Activate at sorcery speed.></b>
 	flavor_text: <i-flavor></i-flavor>
 	watermark: custom watermark two

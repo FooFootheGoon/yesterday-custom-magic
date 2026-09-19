@@ -14,9 +14,11 @@ card:
 	super_type: <word-list-type-en>◌̵  Sorcery</word-list-type-en>
 	super_type_2: <word-list-type-en></word-list-type-en>
 	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
 	sub_type: <word-list-spell></word-list-spell>
 	sub_type_2: 
 	sub_type_3: 
+	sub_type_4: 
 	rarity: rare
 	rule_text:
 		<kw-a><i-auto><nospellcheck><key>Threshold</key></nospellcheck></i-auto></kw-a> — If there are seven or more cards in your graveyard ↦ You draw two cards and you lose 2 life.

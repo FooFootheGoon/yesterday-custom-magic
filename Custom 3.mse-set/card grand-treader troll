@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-04-06 03:43:02
-	time_modified: 2025-04-24 21:57:10
+	time_modified: 2026-09-19 17:56:33
 	name: Grand-Treader Troll
 	casting_cost: 4G
 	image: image33.png
@@ -21,9 +21,9 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-a><nospellcheck><key>Trample</key></nospellcheck></kw-a>
-		<i>Renew </i>— <sym-auto>2G</sym-auto>, Exile this card from your graveyard: Put a <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a> counter on target Creature. Activate at sorcery speed.>
+		<i>Renew </i>— <sym-auto>2G</sym-auto>, Exile this card from your graveyard: Put a “<kw-a><nospellcheck><key>Trample</key></nospellcheck></kw-a>” counter on target Creature. Activate at sorcery speed.>
 		<kw-a><nospellcheck><key>Scavenge <param-cost><sym-auto>3G</sym-auto></param-cost></key></nospellcheck></kw-a> <i-auto>(Exile this card from your graveyard: Put a number of +1 counters equal to this card’s power on target Creature. Scavenge at sorcery speed.>)</i-auto>
-		<i>Renew </i>— <sym-auto>4G</sym-auto>, Exile this card from your graveyard: Put three +1 counters and a <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a> counter on target Creature. Activate at sorcery speed.>
+		<i>Renew </i>— <sym-auto>4G</sym-auto>, Exile this card from your graveyard: Put three +1 counters and a “<kw-a><nospellcheck><key>Trample</key></nospellcheck></kw-a>” counter on target Creature. Activate at sorcery speed.>
 	flavor_text: <i-flavor></i-flavor>
 	power: 3
 	toughness: 3

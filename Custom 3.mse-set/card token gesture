@@ -11,7 +11,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2025-04-06 11:52:28
-	time_modified: 2026-02-22 13:38:48
+	time_modified: 2026-02-25 12:58:48
 	name: Token Gesture
 	casting_cost: 1UU
 	image: image72.png
@@ -27,7 +27,7 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rarity: uncommon
-	rule_text: If a non-token Creature would enter this turn </sym>⇨ E<sym>xile it instead. Whenever a Creature card becomes exiled this way; Its controller creates a token that’s a copy of that card.
+	rule_text: If a non-token Creature would enter this turn </sym>⇨ Instead, e<sym>xile it. Whenever a Creature card becomes exiled this way; Its controller creates a token that’s a copy of that card.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Boukje Elzinga
 	card_code_text: — 3rd party card.

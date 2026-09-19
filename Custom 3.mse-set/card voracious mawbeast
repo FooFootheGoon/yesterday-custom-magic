@@ -24,7 +24,7 @@ card:
 	rule_text:
 		<b>⇨ <kw-0><nospellcheck><key>Devour <param-one_word>Artefact</param-one_word> <param-number>3</b></param-number></key></nospellcheck></kw-0> <i-auto>(As this Creature enters ⇨ You may sacrifice any number of Artefacts. This Creature enters with thrice that many +1 counters on it.)</i-auto>
 		This Creature gets -X/-X, where X is the number of Artefact cards in your graveyard.
-		<i><b><kw-0><nospellcheck><key>Forecast </i>— <param-action><sym>GG</sym></param-action>, Reveal <param-name>this card</param-name> from your hand</b>: <param-action>Create a <kw-a><u>Food token</u></param-action>.</key></nospellcheck></kw-0> <i-auto>(It’s an Artefact, which has<soft-line></i-auto>
+		<i><b><kw-0><nospellcheck><key>Forecast </i>— <param-action><sym><kw-0>GG</sym></param-action>, Reveal <param-name>this card</param-name> from your hand</b>: <param-action><kw-0>Create a <kw-a><u>Food token</u></param-action>.</key></nospellcheck></kw-0> <i-auto>(It’s an Artefact, which has<soft-line></i-auto>
 		</soft-line><i>“<sym-auto>2</sym-auto>, <sym-auto>T</sym-auto>, Sacrifice this token: You gain 3 life”. Activate a forecast ability only during your upkeep, and only once each turn.>)</i>
 	flavor_text: <i-flavor></i-flavor>
 	power: 2

@@ -1,0 +1,32 @@
+﻿mse_version: 2.5.7
+card:
+	has_styling: false
+	notes: https://www.artstation.com/artwork/5aleE
+	time_created: 2026-02-23 16:46:36
+	time_modified: 2026-04-06 12:49:50
+	name: Contaminous Segovian Octoskull
+	casting_cost: G/U
+	image: image147.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Octopus,</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Skeleton</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		Islandhome <i-auto>(This Creature can’t attack, unless defending player controls an ᴸᵈIsland. When you control no ᴸᵈIslands; Sacrifice this Creature.</i-auto>
+		<kw-0><nospellcheck><key>Toxic <param-number>8</param-number></key></nospellcheck></kw-0> <i-auto>(Players who are dealt combat damage by this Creature, also get eight Poison counters.)</i-auto>
+		<kw-0><nospellcheck><key>Poisonous <param-number>8</param-number></key></nospellcheck></kw-0> <i-auto>(Whenever this Creature deals combat damage to a player; That player gets eight Poison counters.)</i-auto>
+		<kw-0><nospellcheck><key>Infect</key></nospellcheck></kw-0> <i-auto>(This Creature deals damage to Creatures in the form of -1 counters, and to players in the form of Poison counters.)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	power: -8
+	toughness: -8
+	illustrator: Tyler Holman
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

@@ -10,7 +10,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2025-03-12 12:19:36
-	time_modified: 2026-02-24 20:25:27
+	time_modified: 2026-02-25 16:59:47
 	border_color: rgb(0,0,0)
 	card_color: artifact, land, multicolor
 	name: Power Depot
@@ -26,8 +26,8 @@ card:
 		<b>⇨ This permanent enters tapped --or untapped--.</b>
 		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
 		<sym-auto>T</sym-auto>: Add one mana of any colour. Spend this mana only to cast Artefact spells or activate abilities of Artefacts.
-		<b><kw-0><nospellcheck><key>Modular <param-number>1</b></param-number></key></nospellcheck></kw-0> <i-auto>(This permanent enters with a +1 counter on it. When it is put into a graveyard from the battlefield; you may put its +1 counters on target |Artefact, Creature|.)</i-auto>
-		--<b><kw-0><nospellcheck><key>Vanishing <param-number>2</param-number></key></nospellcheck></kw-0>--<i> </b>(This permanent enters with two time counters on it. At the beginning of your upkeep; Remove a time counter from it. When the last is removed; Sacrifice it.)</i>
+		<b>⇨ <kw-0><nospellcheck><key>Modular <param-number>1</b></param-number></key></nospellcheck></kw-0> <i-auto>(This permanent enters with a +1 counter on it. When it is put into a graveyard from the battlefield; You may put its +1 counters on target |Artefact, Creature|.)</i-auto>
+		<b>--⇨ <kw-0><nospellcheck><key>Vanishing <param-number>2</param-number></key></nospellcheck></kw-0>--<i> </b>(This permanent enters with two time counters on it. At the beginning of your upkeep; Remove a time counter from it. When the last is removed; Sacrifice it.)</i>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: James Paick
 	custom_card_number: 

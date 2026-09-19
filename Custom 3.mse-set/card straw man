@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-04-04 17:59:26
-	time_modified: 2025-04-24 21:41:24
+	time_modified: 2026-02-25 12:16:07
 	card_color: blue, artifact, horizontal
 	name: Straw Man
 	casting_cost: 3U
@@ -24,8 +24,8 @@ card:
 		You and other permanents you control that have “Ward” or “<kw-a><nospellcheck><key>Shroud</key></nospellcheck></kw-a>” lose those abilities, can’t have or gain those abilities, and gain “<kw-a><nospellcheck><key>Hexproof</key></nospellcheck></kw-a>”.
 		<i>Ad hominem </i>— Whenever a Creature attacks you, a Planeswalker you control, or a Battle you defend; Until end of turn ↦ that Creature gets -1/-0.
 	flavor_text: <i-flavor></i-flavor>
-	power: 2/2
-	toughness: 
+	power: 2
+	toughness: 2
 	illustrator: Jason Rainville
 	card_code_text: — 3rd party card.
 	card_code_text_2: 

@@ -1,0 +1,46 @@
+﻿mse_version: 2.5.7
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 1
+		chop_bottom: 4
+		frames: puma
+		custom_border_source: 
+		other_options: pokemon evobar, auto nyx crowns
+		text_box_mana_symbols: magic-mana-large.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2026-04-08 22:35:45
+	time_modified: 2026-05-18 13:07:37
+	name: . WIP / Zaid
+	alias: "The Heir", "Twin Sword Warrior"
+	casting_cost: 2WW
+	image: image166.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary ◌̵  Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Human,</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Rogue,</word-list-class-en><atom-sep> </atom-sep><word-list-class-en>Noble</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: uncommon
+	rule_text:
+		Zaid enters with your choice of a “<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>” counter or a “<kw-a><nospellcheck><key>Double strike</key></nospellcheck></kw-a>” counter on him.
+		At the beginning of each player’s upkeep; Until end of turn ↦ That player gains control of Zaid, he gains “<kw-a><nospellcheck><key>Haste</key></nospellcheck></kw-a>”, and he can’t attack his owner.
+		Whenever Zaid deals combat damage to a player; Choose target permanent. Zaid’s owner may remove a counter of their choice from it.
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 2
+	illustrator: Abbadon
+	additional_credit_2: Kill Six Billion Demons
+	additional_credit_brush_2: flavor
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

@@ -12,7 +12,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2025-04-05 16:48:15
-	time_modified: 2025-04-24 21:43:21
+	time_modified: 2026-09-19 17:59:29
 	card_color: black, red, hybrid, vertical
 	name: Feast for the King
 	casting_cost: 2/RBB
@@ -30,8 +30,8 @@ card:
 	sub_type_4: 
 	rarity: uncommon
 	rule_text:
-		As long as you control a |Legendary ◌̵  Creature| or a |Creature — Noble| <b>↦</b> If a Creature an opponent controls would be destroyed <b>⇨</b> Instead you gain control of it and it becomes an |Artefact — Food|<soft-line>
-		</soft-line><i>(It loses all other types and subtypes)</i> and gains “<sym-auto>2</sym-auto>, <sym-auto>T</sym-auto>, Sacrifice this Artefact: You gain 3 life”.
+		As long as you control a |Legendary ◌̵  Creature| or a |Creature — Noble| <b>↦</b> If a Creature an opponent controls would die <b>⇨</b> Instead you gain control of it, it becomes an |Artefact — Food|<soft-line>
+		</soft-line><i>(It loses all other types and subtypes),</i> and it gains “<sym-auto>2</sym-auto>, <sym-auto>T</sym-auto>, Sacrifice this Artefact: You gain 3 life”.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Ognjen Sporin
 	additional_credit_2: Ognjen Sporin

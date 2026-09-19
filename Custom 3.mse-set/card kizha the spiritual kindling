@@ -12,7 +12,7 @@ card:
 		overlay: 
 	notes: CDEFPV
 	time_created: 2025-04-04 18:12:42
-	time_modified: 2026-02-23 20:25:55
+	time_modified: 2026-02-25 23:35:29
 	card_color: white, blue, red, multicolor, horizontal, reversed
 	name: Kizha, the Spiritual Kindling
 	casting_cost: 2/RW/UW/U
@@ -31,7 +31,7 @@ card:
 	rarity: mythic rare
 	rule_text:
 		<kw-a><nospellcheck><key>Defender</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>Decayed</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>Ward <param-cost><sym-auto>2</sym-auto></param-cost></key></nospellcheck></kw-a>
-		As long as a permanent card which has “Cumulative upkeep” is in a graveyard <b>↦ </b>For each opponent, each turn ↦ The first non-token Creature which enters under their control, has “Cumulative upkeep”. The same is true for “<kw-a><nospellcheck><key>Decayed</key></nospellcheck></kw-a>”, “<kw-a><nospellcheck><key>Defender</key></nospellcheck></kw-a>”, “Echo”, “Ephemeral”, “Fading”, “<kw-a><nospellcheck><key>Phasing</key></nospellcheck></kw-a>”, and “Vanishing”. Cumulative upkeep costs gained this way are <sym>2</sym>. Echo costs gained this way are equal to the Creature’s mana cost. Creatures that enter with “Fading” or “Vanishing” this way enter with two of those counters.
+		As long as a permanent card which has “Cumulative upkeep” is in a graveyard <b>↦ </b>For each opponent, each turn ↦ The first non-token Creature which enters under their control, has “Cumulative upkeep”. The same is true for “<kw-a><nospellcheck><key>Decayed</key></nospellcheck></kw-a>”, “<kw-a><nospellcheck><key>Defender</key></nospellcheck></kw-a>”, “Echo”, “Ephemeral”, “Fading”, “<kw-a><nospellcheck><key>Phasing</key></nospellcheck></kw-a>”, and “Vanishing”. Cumulative upkeep costs gained this way are <sym>2</sym>. Echo costs gained this way are equal to that Creature’s mana cost. Creatures which enter with “Fading” or “Vanishing” this way, enter with two of those counters.
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
 	toughness: 1

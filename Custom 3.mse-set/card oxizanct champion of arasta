@@ -13,7 +13,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2025-10-16 12:49:30
-	time_modified: 2026-02-25 02:00:47
+	time_modified: 2026-04-06 12:53:11
 	extra_data:
 		magic-m15-altered:
 			vorthos_box: Asmoth’s Theros
@@ -33,9 +33,9 @@ card:
 	sub_type_4: 
 	rarity: mythic rare
 	rule_text:
-		<kw-a><nospellcheck><key>First strike</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>Reach</key></nospellcheck></kw-a>
-		Whenever Oxizanct deals damage to a Creature; Tap that Creature, put a <kw-a><nospellcheck><key>Stun counte<param-*s>r</param-*s></key></nospellcheck></kw-a> on it, and remove it from combat.
-		<sym>GG</sym>, Sacrifice a ᶜᵏSpider: Remove up to one counter from target Creature. Untap it. Activate at sorcery speed.>
+		<kw-a><nospellcheck><key>Fear</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>First strike</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>Reach</key></nospellcheck></kw-a>
+		Whenever Oxizanct deals combat damage to a Creature; Put a <kw-a><nospellcheck><key>Stun counte<param-*s>r</param-*s></key></nospellcheck></kw-a> on that Creature, and remove it from combat.
+		<sym>GG</sym>, Sacrifice a ᶜᵏSpider: Remove up to one counter from target Creature. Activate at sorcery speed.>
 		<kw-a><nospellcheck><key>Persist</key></nospellcheck></kw-a>
 		<b><kw-a><nospellcheck><key>Partner</key></nospellcheck></kw-a>—Nyxchange</b> <i-auto>(You can have two Commanders if both have this ability.)</i-auto>
 	flavor_text: <i-flavor></i-flavor>

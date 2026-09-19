@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: https://www.artstation.com/artwork/e0lrrX
 	time_created: 2023-11-18 19:43:10
-	time_modified: 2025-04-06 17:04:05
+	time_modified: 2026-02-25 12:20:07
 	card_color: artifact, land, multicolor
 	name: King's Relic
 	image: image61
@@ -11,11 +11,17 @@ card:
 	mainframe_image: 
 	mainframe_image_2: 
 	super_type: <word-list-type-en>◌̵  Artefact, Land</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
 	sub_type: <word-list-land>ᵃTreasure</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
 	rule_text:
 		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
 		<sym-auto>T</sym-auto>, Sacrifice this permanent: Add one mana of any colour.
-	flavor_text: <i-flavor>Some believe that learning is treasure enough.</i-flavor>
+	flavor_text: <i-flavor>Some believe that learning is ᵃTreasure enough.</i-flavor>
 	separator: flavor bar
 	illustrator: Gavin O'Donnell
 	card_code_text: — 3rd party card.

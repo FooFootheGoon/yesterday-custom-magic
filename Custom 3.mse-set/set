@@ -16,7 +16,7 @@ set_info:
 	automatic_reminder_text: custom
 	card_number_style: 001/099
 	default_stamp: standard
-	custom_watermark_1: CWM-AvasDemon.png,Not found,Ensure the file name is correct in /data/magic-mainframe-extras and reload
+	custom_watermark_1: data/magic-mainframe-extras/CWM-AvasDemon.png,Not found,Ensure the file name is correct in /data/magic-mainframe-extras and reload
 	custom_watermark_2: CWM-KSBD.png,Not found,Ensure the file name is correct in /data/magic-mainframe-extras and reload
 	custom_watermark_3: CWM-ArmelloLogo.png,Not found,Ensure the file name is correct in /data/magic-mainframe-extras and reload
 	custom_watermark_4: CWM-JessJackdaw.png,Not found,Ensure the file name is correct in /data/magic-mainframe-extras and reload
@@ -40,6 +40,7 @@ styling:
 		chop_top: 1
 		chop_bottom: 1
 		frames: 
+		custom_border_source: 
 		other_options: auto nyx crowns
 		text_box_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
@@ -49,6 +50,10 @@ styling:
 		overlay: 
 	magic-m15-future:
 		text_box_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	magic-m15-mainframe-dfc:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	magic-m15-mainframe-tokens:
 		shrink_name_text: 
@@ -84,7 +89,7 @@ include_file: card cadaver cadaverer
 include_file: card being watched
 include_file: card sound master byte
 include_file: card make the pact
-include_file: card 82 white chain disembodied
+include_file: card white chain disembodied
 include_file: card stymie
 include_file: card inside and out
 include_file: card divinatory do-over
@@ -136,7 +141,7 @@ include_file: card ocean eyes chronodragon
 include_file: card geostructure induction
 include_file: card fire attack you cant stop
 include_file: card make haste
-include_file: card zombie mutant boss elk token
+include_file: card zombie mutant boss elk
 include_file: card portable forcefield
 include_file: card irrefutable omen
 include_file: card the eternity denizen
@@ -205,7 +210,7 @@ include_file: card untapped topography
 include_file: card hexakosioihexekontahexaphobia
 include_file: card unprecedented amplification
 include_file: card matriarch of denomination
-include_file: card dreadhorde dragon token
+include_file: card dreadhorde dragon
 include_file: card inversive corruption
 include_file: card 6 juggernaut star
 include_file: card nudge in the right direction
@@ -248,7 +253,7 @@ include_file: card drangeon
 include_file: card campbriar
 include_file: card philcolt predicta
 include_file: card one-armed oni
-include_file: card chained cashe
+include_file: card chained cache
 include_file: card the flesh weaver
 include_file: card malignant brainburg
 include_file: card imitraitor
@@ -300,7 +305,7 @@ include_file: card blinding knowledge
 include_file: card fishy ruins
 include_file: card ritual forest
 include_file: card wip
-include_file: card wip.1
+include_file: card what dwells in the cave
 include_file: card immolation sphinx
 include_file: card the angel of secrets
 include_file: card super-duper dreadmaw
@@ -402,14 +407,14 @@ include_file: card curtail
 include_file: card in the deep end
 include_file: card eupho eternally blinded
 include_file: card play fast and loose
-include_file: card wip.2
-include_file: card wip.3
-include_file: card fanciful familiar token
+include_file: card misinformational neurotransfer
+include_file: card anthropogenic moon
+include_file: card fanciful familiar.1
 include_file: card demon dog token
 include_file: card demon dog token.1
 include_file: card blood token
 include_file: card interior crocodile alligator
-include_file: card pastiche ritual token
+include_file: card pastiche ritual.1
 include_file: card shark illusion token
 include_file: card shark illusion token.1
 include_file: card shark illusion token.2
@@ -417,29 +422,29 @@ include_file: card food token
 include_file: card food token.1
 include_file: card shark token
 include_file: card treasure token
-include_file: card dreadhorde dragon
-include_file: card dreadhorde dragon token.1
+include_file: card dreadhorde dragon.1
+include_file: card dreadhorde dragon.2
 include_file: card golem token
 include_file: card plant pest token
 include_file: card plant pest token.1
 include_file: card plant pest token.2
-include_file: card dreadhorde dragon token.2
-include_file: card illusion assassin token
-include_file: card tree of forgotten faces token
+include_file: card dreadhorde dragon.3
+include_file: card illusion assassin.1
+include_file: card tree of forgotten faces.1
 include_file: card zombie army token
-include_file: card zombie mutant boss elk
+include_file: card zombie mutant boss elk.1
 include_file: card spirit token
 include_file: card insect token
-include_file: card wip  srai the ashen god token
+include_file: card wip  srai the ashen god
 include_file: card the parable of the once visionary
 include_file: card cat hydra nightmare
-include_file: card they what become real
+include_file: card they what became observers
 include_file: card mountain desert town
-include_file: card wip.4
+include_file: card wip.1
 include_file: card lean into it
-include_file: card wip.5
+include_file: card wip.2
 include_file: card unmaking and remaking yourself as god
-include_file: card wip.6
+include_file: card they what became bulwarks
 include_file: card achilles bartrax
 include_file: card wip  zerdal wicsum
 include_file: card wip  wand of wonder
@@ -451,16 +456,64 @@ include_file: card miatros champion of pharika
 include_file: card oxizanct champion of arasta
 include_file: card alekos champion of phenax
 include_file: card briammos that one pegasus
-include_file: card wip.7
+include_file: card contaminous segovian octoskull
 include_file: card encroaching stormlands
-include_file: card wip.8
-include_file: card wip.9
-include_file: card wip.10
+include_file: card overseer of scales
+include_file: card wip.3
+include_file: card hastet-om
 include_file: card dimly-lit walkway
 include_file: card mysteriously-shaped fungus
-include_file: card wip.11
-include_file: card wip.12
-include_file: card wip.13
+include_file: card goliant bird
+include_file: card wip.4
+include_file: card moth-er mech
+include_file: card the three magisters
+include_file: card wielder of names
+include_file: card pseudo
+include_file: card wip  alma 1
+include_file: card gog-agog bearer of the word beast
+include_file: card wip gog-agogs ult
+include_file: card incubus
+include_file: card jadis
+include_file: card wip discover 0
+include_file: card jagganoth
+include_file: card lucky felicia door opener
+include_file: card xand  nxor painter  bodyguard
+include_file: card charon shepherd of the dead
+include_file: card suuze the acrobat
+include_file: card cat master obstacle remover
+include_file: card vigilant gaze
+include_file: card wip  a continuous cutting motion
+include_file: card princess
+include_file: card yabalchoath
+include_file: card ciocie cioelle
+include_file: card himself
+include_file: card solomon david bearer of the word diamond
+include_file: card mathangi mantra
+include_file: card zaid the heir
+include_file: card mammon bearer of the word tower
+include_file: card mottom bearer of the word glory
+include_file: card layla brimstone gun witch
+include_file: card white chain seeker of atonement
+include_file: card wip blood flower curse binding of immortal souls
+include_file: card aspected chaos the fool
+include_file: card oscar badstar leader
+include_file: card 1-11 mechanical specialist
+include_file: card kill six billion demons
+include_file: card white chain seeker of atonement.1
+include_file: card white chain in the flesh
+include_file: card mathangi mantra.1
+include_file: card unused mechanics
+include_file: card eris-lo kai
+include_file: card hrotomos
+include_file: card ingsvid geas knight
+include_file: card kierinsaval the golden feather
+include_file: card yash
+include_file: card meng blue-bellied
+include_file: card saar red-tusked
+include_file: card yanyi
+include_file: card amoto soreen
+include_file: card monkey
+include_file: card etlin da
 keyword:
 	keyword: 
 	match: 
@@ -1185,6 +1238,12 @@ keyword:
 	keyword: Devour
 	match: Devour <atom-param>number</atom-param>
 	reminder: As this enters, you may sacrifice any number of creatures. {this_or_that("creature", upper:true)} enters with { if param1.value == "1" then "" else if param1.value == "2" then "twice " else if param1.value == "3" then "thrice " else english_number(param1) + " times " }that many +1/+1 counters on it.
+	rules: 
+	mode: expert
+keyword:
+	keyword: Impending
+	match: Impending <atom-param>number</atom-param>—<atom-param>cost</atom-param>
+	reminder: If you cast this spell for its impending cost, it enters with {english_number_a(param1)} time counter(s) and isn't a creature until the last is removed. At the beginning of your end step, remove a time counter from it.
 	rules: 
 	mode: expert
 version_control:

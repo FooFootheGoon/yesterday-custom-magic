@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: https://www.artstation.com/artwork/V2EbvX
 	time_created: 2025-04-24 09:02:09
-	time_modified: 2026-02-24 12:26:42
+	time_modified: 2026-09-19 17:13:24
 	name: Cat Hydra Nightmare
 	casting_cost: 2/W2/WW/BW/B2/B2/B
 	image: image139.png
@@ -24,7 +24,7 @@ card:
 		<kw-a><i-auto><nospellcheck><key>Corrupted</key></nospellcheck></i-auto></kw-a> — As long as an opponent has three or more Poison counters ↦ At the beginning of your end step; Return target Creature card which has mana value X or less, from your graveyard to the battlefield, where X is the greatest number of Poison counters among your opponents.
 		As long as an opponent has lost 3 or more life this turn ↦ At the beginning of your end step; Return target Creature card which has mana value X or less, from your graveyard to the battlefield, where X is the greatest amount of life lost among your opponents this turn.
 	flavor_text: <i-flavor></i-flavor>
-	power: 3
+	power: 2
 	toughness: 6
 	illustrator: Katinka Thorondor
 	partition_select: after main set Z

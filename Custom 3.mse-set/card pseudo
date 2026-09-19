@@ -1,0 +1,41 @@
+﻿mse_version: 2.5.7
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 1
+		chop_bottom: 1
+		frames: puma
+		custom_border_source: 
+		other_options: auto nyx crowns
+		text_box_mana_symbols: magic-mana-large.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2026-04-06 13:00:49
+	time_modified: 2026-09-19 21:12:19
+	name: Pseud(o)
+	casting_cost: 2UU
+	image: image154.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary ◌̵  Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Alien,</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Dragon,</word-list-class-en><atom-sep> </atom-sep><word-list-class-en>Artificer</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		<kw-0><nospellcheck><key>Flying</key></nospellcheck></kw-0>, <kw-0><nospellcheck><key>Bands with other <param-name>Creatures which have minimap counters</param-name></key></nospellcheck></kw-0>
+		<i>Uplink </i>— When <atom-cardname><nospellcheck>Pseud(o)</nospellcheck></atom-cardname> enters; Put a minimap counter on up to two target Creatures.
+		<sym-auto>6</sym-auto>: Blink or Flicker <atom-cardname><nospellcheck>Pseud(o)</nospellcheck></atom-cardname>. <i-auto>(To Blink a permanent, exile it, then return it to the battlefield. To Flicker a permanent, exile it. At the beginning of the next end step; Return it to the battlefield.)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 1
+	illustrator: Nintendo
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

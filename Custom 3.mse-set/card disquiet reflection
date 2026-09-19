@@ -26,7 +26,7 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-a><nospellcheck><key><b>Delve</b></key></nospellcheck></kw-a>
-		<b><kw-a><nospellcheck><key>Escape</b>—<param-cost><sym-auto>5UB</sym-auto></param-cost></key></nospellcheck></kw-a>
+		<b><kw-a><nospellcheck><key>Escape</b>—<param-cost><kw-A>5UB</param-cost></key></nospellcheck></kw-a>
 		When you cast this spell; You lose life equal to the total mana value of cards exiled with its <kw-a><nospellcheck><key>Delve</key></nospellcheck></kw-a> ability.<b>
 		You may have this permanent enter as a copy of any permanent card from among cards exiled with its <kw-a><nospellcheck><key>Delve</key></nospellcheck></kw-a> ability.</b>
 	flavor_text: <i-flavor></i-flavor>

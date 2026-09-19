@@ -11,10 +11,10 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2025-04-04 17:30:11
-	time_modified: 2026-02-22 13:21:43
-	card_color: blue, black, green, hybrid, vertical, reversed
+	time_modified: 2026-09-19 18:05:42
+	card_color: white, blue, green, hybrid, radial
 	name: Chinxilong, the Prudent
-	casting_cost: 3B/GU
+	casting_cost: 3G/WU
 	image: image4.png
 	image_2: 
 	mainframe_image: 
@@ -35,8 +35,8 @@ card:
 		<li><bullet>• </bullet>Scry that many cards plus one.
 		</li><li><bullet>• </bullet>Surveil that many cards plus one.</li>
 	flavor_text: <i-flavor></i-flavor>
-	power: 4/4
-	toughness: 
+	power: 4
+	toughness: 4
 	illustrator: Nikola Matkovic
 	card_code_text: — 3rd party card.
 	card_code_text_2: 

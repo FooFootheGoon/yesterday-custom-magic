@@ -7,7 +7,11 @@ card:
 	time_created: 2025-04-24 09:18:57
 	time_modified: 2026-02-24 13:32:48
 	special_text:
-		
+		<kw-1><nospellcheck><key>Escalate <param-cost><sym-auto>B/R</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(Pay this cost for each mode chosen beyond the first.)</i-auto></atom-reminder-expert></kw-1>
+		Choose one or more —
+		<li><bullet>• </bullet>Chaos ensues.
+		</li><li><bullet>• </bullet><kw-a><nospellcheck><key><param-prefix>Planes</param-prefix>walk</key></nospellcheck></kw-a>, then chaos ensues.
+		</li><li><bullet>• </bullet>Chaos ensues.</li>
 		I — Chaos ensues.
 		II — <kw-a><nospellcheck><key><param-prefix>Planes</param-prefix>walk</key></nospellcheck></kw-a>, then chaos ensues.
 		III — Chaos ensues, then chaos ensues.

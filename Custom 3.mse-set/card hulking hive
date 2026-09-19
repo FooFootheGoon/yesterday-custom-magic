@@ -28,7 +28,7 @@ card:
 	sub_type_4: 
 	rarity: mythic rare
 	rule_text:
-		<kw-a><nospellcheck><key><b>Emerge from <param-name>|Creature </param-name>—<param-cost> non-Insect|</b> <sym>4B/GB/GB/G</sym></param-cost></key></nospellcheck></kw-a>
+		<kw-a><nospellcheck><key><b>Emerge from <param-name>|Creature </param-name>—<param-cost> <kw-A>non-Insect|</b> <sym>4B/GB/GB/G</sym></param-cost></key></nospellcheck></kw-a>
 		<i><b>Host Hive Larvae</i></b> — As long as you control an ᶜᵏInsect ↦ You may cast this spell from your graveyard for its Emerge cost.<b>
 		</b><kw-a><nospellcheck><key>Vigilance</key></nospellcheck></kw-a>
 		<i>Insect Cloud</i> — <sym-auto>XBB/GG</sym-auto>, <sym-auto>T</sym-auto>: Create X tokens which are green |Creature — Insect| 1/1s, which have “<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>”. Activate at sorcery speed.>

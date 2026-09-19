@@ -5,15 +5,16 @@ card:
 		chop_top: 1
 		chop_bottom: 
 		frames: puma, universes beyond
-		other_options: auto nyx crowns
+		other_options: pokemon evobar, auto nyx crowns
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes: https://killsixbilliondemons.com/comic/wielder-of-names-1-8/
 	time_created: 2023-11-17 12:32:52
-	time_modified: 2026-02-23 22:01:27
+	time_modified: 2026-05-19 22:35:57
 	card_color: colorless
 	name: White Chain, Disembodied
+	alias: "White Chain", "82 White Chain Born in Emptiness Returns to Subdue Evil"
 	casting_cost: CCWU
 	transformation: extra comedy
 	image: image10
@@ -33,11 +34,12 @@ card:
 		<i>Exordium</i> — As long as it’s not your main phase ↦ Whenever you cast a non-Instant spell; Draw four cards, then discard three cards. Triggers only once each turn cycle.> <i-auto>(For example, if it triggers on an opponent’s turn, <i>it doesn’t trigger again until that<soft-line></i-auto>
 		</soft-line>player’s next turn.)</i>
 	flavor_text: <i-flavor></i-flavor>
+	watermark: custom watermark two
 	power: 3
 	toughness: 3
 	card_stamp: universes beyond
 	illustrator: Abbadon
-	additional_credit_2: KSBD
+	additional_credit_2: Kill Six Billion Demons
 	additional_credit_brush_2: flavor
 	card_code_text: — 3rd party card.
 	card_code_text_2: — 3rd party card.

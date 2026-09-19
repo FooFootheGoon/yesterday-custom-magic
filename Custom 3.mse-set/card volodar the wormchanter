@@ -12,7 +12,7 @@ card:
 		overlay: 
 	notes: https://www.reddit.com/r/armello/comments/d1nioy/volodar_fanart/
 	time_created: 2024-11-07 14:46:19
-	time_modified: 2026-02-25 02:02:39
+	time_modified: 2026-09-19 18:09:47
 	card_color: white, blue, black, hybrid, horizontal
 	name: Volodar, the Wormchanter
 	casting_cost: 2W/BW/BU
@@ -26,7 +26,7 @@ card:
 	rule_text:
 		When Volodar enters; It becomes night.
 		Whenever it becomes night; Each player creates a <u>Bane token</u>. <i-auto>(They’re black<soft-line></i-auto>
-		</soft-line><i>|Creature — Bird, Demon| 3/3s, that have “<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>” and “This token enters tapped”.)</i>
+		</soft-line><i>|Creature — Bird, Demon| 3/3s, which have “<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>” and “This token enters tapped”.)</i>
 		<i>Enthrall</i> — As long as Volodar is tapped ↦ ᶜᵏDemons your opponents control are Goaded.
 	flavor_text: <i-flavor></i-flavor>
 	watermark: custom watermark three
