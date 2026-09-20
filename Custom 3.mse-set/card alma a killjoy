@@ -11,9 +11,10 @@ card:
 		overlay: 
 	notes: m0queur
 	time_created: 2025-04-06 06:06:59
-	time_modified: 2025-04-25 07:23:17
+	time_modified: 2026-09-20 01:16:20
+	card_color: white, blue, hybrid, vertical
 	name: Alma A, Killjoy
-	casting_cost: WU
+	casting_cost: WW/U
 	image: image58.png
 	image_2: 
 	mainframe_image: 

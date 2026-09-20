@@ -12,7 +12,7 @@ card:
 		text_box_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: 
+	notes: Back side of "White Chain, Seeker of Atonement"
 	time_created: 2026-04-08 22:35:45
 	time_modified: 2026-09-19 21:45:49
 	card_color: colorless

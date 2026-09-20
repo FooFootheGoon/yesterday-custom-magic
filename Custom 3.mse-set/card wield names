@@ -3,9 +3,9 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2026-02-25 22:45:21
-	time_modified: 2026-04-06 12:45:33
+	time_modified: 2026-09-20 01:10:07
 	name: Wield Names
-	casting_cost: 2BB
+	casting_cost: 3BB
 	image: image145.png
 	image_2: 
 	mainframe_image: 
@@ -22,8 +22,8 @@ card:
 		Choose target Creature. Put any number of<soft-line>
 		</soft-line>Name counters on it from among “Princess”, “Mamoru”, “Moonshine”, “Jagermeister”, “Jack”, “Jack Daniels”, “Timothy”, “Tim”, “Bill”, “Freddy Mercury”, “Blueberry”, “Luna”, and “Esquire”.<soft-line>
 		</soft-line>   ╰When you do; For each name that<soft-line>
-		     </soft-line>Creature has beyond the first, until end of turn<soft-line>
-		     </soft-line>↦ That Creature gets -1/-1.
+		     </soft-line>Creature has beyond the first ↦ Until end<soft-line>
+		     </soft-line>of turn ↦ That Creature gets -1/-1.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Abbadon
 	additional_credit_2: Kill Six Billion Demons
