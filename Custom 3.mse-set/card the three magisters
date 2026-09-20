@@ -9,7 +9,10 @@ card:
 		text_box_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: http://killsixbilliondemons.com/comic/wielder-of-names-1-13/
+	notes:
+		http://killsixbilliondemons.com/comic/wielder-of-names-1-13/
+		
+		There’s a bit of a tonal whiplash with this card being a really good counter to most of the KSBD cards, despite the characters being so inconsequential.
 	time_created: 2026-02-23 20:53:55
 	time_modified: 2026-02-25 22:26:57
 	card_color: white, blue, black, multicolor, horizontal

@@ -17,10 +17,10 @@ card:
 		
 		https://scryfall.com/search?as=grid&order=name&page=6&q=%28oracle%3Achoose+oracle%3Acard%29+-o%3A%E2%80%9Cchoose+one+%E2%80%94%E2%80%9C+-o%3Adiscard+-o%3A%E2%80%9Cchoose+one+or+more+%E2%80%94%E2%80%9C+-o%3A%E2%80%9Cchoose+one+or+both+%E2%80%94%E2%80%9C&unique=cards
 	time_created: 2025-04-06 06:23:21
-	time_modified: 2025-04-25 07:23:21
+	time_modified: 2026-09-20 11:41:53
 	card_color: white, black, red, multicolor, horizontal
 	name: Alma I, Devil's Advocate
-	casting_cost: R/WWWWW/B
+	casting_cost: R/WR/WWW/BW/B
 	image: image59.png
 	image_2: 
 	mainframe_image: 
