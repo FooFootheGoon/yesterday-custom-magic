@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: https://www.artstation.com/artwork/YKoNDw
 	time_created: 2025-04-24 09:15:07
-	time_modified: 2026-02-24 20:33:44
+	time_modified: 2026-09-20 13:07:26
 	card_color: red, land, multicolor
 	name: Mountain Desert Town
 	image: image127.png
@@ -27,7 +27,6 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	watermark: transparent mana symbol red
 	illustrator: Laszlo Pinter (Las Pinter)
-	partition_select: after main set Z
 	card_code_text: — 3rd party card.
 	card_code_text_2: 
 	card_code_text_3: 

@@ -1,0 +1,39 @@
+﻿mse_version: 2.5.7
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 1
+		chop_bottom: 1
+		frames: universes beyond
+		other_options: auto nyx crowns
+		text_box_mana_symbols: magic-mana-large.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: https://avasdemon.com/pages.php#0638
+	time_created: 2023-11-19 20:06:41
+	time_modified: 2026-02-25 02:03:12
+	name: Become Corporeal
+	casting_cost: WW
+	image: image90
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>◌̵  Enchantment</word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	rarity: uncommon
+	rule_text:
+		When this Enchantment enters; Tap each ᶜᵏSpirit and ᶜᵏIllusion you don’t control.
+		Each ᵉAura you control which has “<kw-a><nospellcheck><key>Enchant <param-name>Creature”,  has “<kw-a>Equip <sym>X</sym>, where X is this Enchantment’s mana value”.</param-name></key></nospellcheck></kw-a>
+	flavor_text: <i-flavor>“If I were an ugly, alien ghost... what would my host look like...?”</i-flavor>
+	watermark: custom watermark one
+	separator: flavor bar
+	card_stamp: flatstamped universes beyond
+	illustrator: Michelle Fus
+	additional_credit_2: Ava's Demon
+	additional_credit_brush_2: flavor
+	card_code_text: — 3rd party card.
+	card_code_text_2: — 3rd party card.
+	card_code_text_3: — 3rd party card.
+	copyright: 
+	copyright_2: 
+	copyright_3: 

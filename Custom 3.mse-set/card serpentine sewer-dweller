@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-04-05 18:32:23
-	time_modified: 2025-04-24 21:57:07
+	time_modified: 2026-09-21 22:37:49
 	name: Serpentine Sewer-Dweller
 	casting_cost: 3GG
 	image: image32.png
@@ -19,7 +19,7 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rarity: uncommon
-	rule_text: When this Creature enters; Until end of turn ↦ Each Creature you control gains “Whenever this Creature deals combat damage to another Creature; Tap that Creature and put a <kw-0><nospellcheck><key>stun counte<param-*s>r</param-*s></key></nospellcheck></kw-0> on it”.
+	rule_text: When this Creature enters; Until end of turn ↦ Each Creature you control gains “Whenever this Creature deals combat damage to another Creature; Tap that Creature and put a <kw-a><nospellcheck><key>Stun counte<param-*s>r</param-*s></key></nospellcheck></kw-a> on it”.
 	flavor_text: <i-flavor></i-flavor>
 	power: 3
 	toughness: 4

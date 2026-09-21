@@ -1,0 +1,37 @@
+﻿mse_version: 2.5.7
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 1
+		chop_bottom: 1
+		frames: 
+		other_options: auto nyx crowns
+		hybrid_name: hybrid
+		text_box_mana_symbols: magic-mana-large.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: https://www.artstation.com/artwork/kD86K2
+	time_created: 2023-11-19 21:16:35
+	time_modified: 2026-02-23 19:59:30
+	name: Improving Mentor
+	casting_cost: 3R/W
+	image: image98
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>◌̵  Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Bird,</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Soldier</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		<kw-0><nospellcheck><key>Evolve</key></nospellcheck></kw-0> <i-auto>(If a Creature has greater power or toughness than this Creature ↦ When that Creature enters under your control; Put a +1 counter on this Creature.)</i-auto>
+		<kw-0><nospellcheck><key>Mentor</key></nospellcheck></kw-0> <i-auto>(Whenever this Creature <i>attacks; Put a +1 counter on target attacking Creature which has lesser power.)</i-auto></i>
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 1
+	illustrator: Cindy Avelino
+	card_code_text: — 3rd party card.
+	card_code_text_2: — 3rd party card.
+	card_code_text_3: — 3rd party card.
+	copyright: 
+	copyright_2: 
+	copyright_3: 

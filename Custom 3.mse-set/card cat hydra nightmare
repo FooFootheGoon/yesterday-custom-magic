@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: https://www.artstation.com/artwork/V2EbvX
 	time_created: 2025-04-24 09:02:09
-	time_modified: 2026-09-19 17:13:24
+	time_modified: 2026-09-20 13:07:02
 	name: Cat Hydra Nightmare
 	casting_cost: 2/W2/WW/BW/B2/B2/B
 	image: image139.png
@@ -27,7 +27,6 @@ card:
 	power: 2
 	toughness: 6
 	illustrator: Katinka Thorondor
-	partition_select: after main set Z
 	card_code_text: — 3rd party card.
 	card_code_text_2: 
 	card_code_text_3: 

@@ -1,0 +1,43 @@
+﻿mse_version: 2.5.7
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 
+		chop_bottom: 
+		frames: universes beyond
+		other_options: auto nyx crowns
+		text_box_mana_symbols: magic-mana-large.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: https://www.youtube.com/watch?v=BraYqeJF9to
+	time_created: 2023-11-24 00:01:26
+	time_modified: 2026-02-25 01:58:02
+	name: Tatzelwurm
+	casting_cost: RWW
+	transformation: extra comedy
+	image: image189
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>◌̵  Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Dragon,</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Beast</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		<kw-a><nospellcheck><key>Soulbond</key></nospellcheck></kw-a> with Human <i-auto>(When this Creature enters, or when another unpaired |Creature — Human| enters; You may pair them. They become unpaired if either leaves.)</i-auto>
+		As long as this Creature is paired with a Human ↦ This Creature gets +2/+2 and has “<kw-a><nospellcheck><key>First strike</key></nospellcheck></kw-a>”.
+		At the beginning of your upkeep; Sacrifice a ᵃFood. If you can’t ⇨ Tap this Creature, and it becomes<soft-line>
+		</soft-line>unpaired.
+	flavor_text: <i-flavor></i-flavor>
+	watermark: custom watermark four
+	power: 3
+	toughness: 3
+	card_stamp: universes beyond
+	illustrator: Jess Jackdaw
+	additional_credit_2: Jess Jackdaw
+	additional_credit_brush_2: flavor
+	card_code_text: — 3rd party card.
+	card_code_text_2: — 3rd party card.
+	card_code_text_3: — 3rd party card.
+	copyright: 
+	copyright_2: 
+	copyright_3: 

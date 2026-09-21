@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-04-10 12:17:30
-	time_modified: 2026-02-25 23:23:34
+	time_modified: 2026-09-20 13:07:47
 	card_color: blue, black, red, green, hybrid, radial
 	name: Misinformational Neurotransfer
 	casting_cost: U/RU/RB/GB/G
@@ -28,7 +28,6 @@ card:
 	illustrator: Michelle Fus
 	additional_credit_2: Ava's Demon
 	additional_credit_brush_2: flavor
-	partition_select: after main set Z
 	card_code_text: — 3rd party card.
 	card_code_text_2: 
 	card_code_text_3: 

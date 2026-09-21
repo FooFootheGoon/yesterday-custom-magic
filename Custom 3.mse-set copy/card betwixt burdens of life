@@ -1,0 +1,42 @@
+﻿mse_version: 2.5.7
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 1
+		chop_bottom: 1
+		frames: 
+		other_options: auto nyx crowns
+		text_box_mana_symbols: magic-mana-large.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2025-04-06 13:23:38
+	time_modified: 2026-02-23 17:27:20
+	name: Betwixt Burdens of Life
+	casting_cost: 4GG
+	transformation: extra comedy
+	image: image84.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary ◌̵  Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: mythic rare
+	rule_text:
+		Whenever a |Land, Non-Creature| is sent to your graveyard from the battlefield; Return that card to<soft-line>
+		</soft-line>the battlefield under your control. It’s a |Land, Creature — ᴸᵈForest, ᶜDryad| </sym>1/1<sym>, and it loses all<soft-line>
+		</soft-line>other abilities. <i-auto>(It has <i>“<sym>T</sym>: Add <sym-auto>G</sym-auto>”, and is affected<soft-line></i-auto>
+		</soft-line>by summoning sickness. It keeps its name.)</i>
+		Whenever a |Land, Creature| which you control dies;<soft-line>
+		</soft-line>You may tutor a card with with the same name, then put it onto the battlefield tapped. <i-auto>(Search your library for that card. Shuffle afterwards.)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: rodmendez
+	card_code_text: — 3rd party card.
+	card_code_text_2: 
+	card_code_text_3: 

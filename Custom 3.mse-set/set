@@ -137,7 +137,7 @@ include_file: card only natural
 include_file: card starbeach moontide
 include_file: card kings relic
 include_file: card neck of the stonegiants
-include_file: card ocean eyes chronodragon
+include_file: card oceaneyes chronodragon
 include_file: card geostructure induction
 include_file: card fire attack you cant stop
 include_file: card make haste
@@ -441,7 +441,7 @@ include_file: card cat hydra nightmare
 include_file: card they what became observers
 include_file: card mountain desert town
 include_file: card wip.1
-include_file: card lean into it
+include_file: card reveal the story of your evil deeds
 include_file: card wip.2
 include_file: card unmaking and remaking yourself as god
 include_file: card they what became bulwarks
@@ -473,7 +473,7 @@ include_file: card gog-agog bearer of the word beast
 include_file: card wip gog-agogs ult
 include_file: card incubus
 include_file: card jadis
-include_file: card wip discover 0
+include_file: card wip.4
 include_file: card jagganoth
 include_file: card lucky felicia door opener
 include_file: card xand  nxor painter  bodyguard
@@ -512,6 +512,27 @@ include_file: card yanyi
 include_file: card amoto soreen
 include_file: card monkey
 include_file: card etlin da
+include_file: card firestorm the artist
+include_file: card alien demon cat
+include_file: card wip.5
+include_file: card they what
+include_file: card wip.6
+include_file: card wip.7
+include_file: card wip.8
+include_file: card wip.9
+include_file: card wip.10
+include_file: card wip.11
+include_file: card wip.12
+include_file: card they what.1
+include_file: card they what.2
+include_file: card wip.13
+include_file: card wip.14
+include_file: card wip.15
+include_file: card wip.16
+include_file: card wip.17
+include_file: card wip.18
+include_file: card wip.19
+include_file: card wip.20
 keyword:
 	keyword: 
 	match: 

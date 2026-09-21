@@ -1,0 +1,36 @@
+﻿mse_version: 2.5.7
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-02-23 23:18:09
+	time_modified: 2025-04-16 03:26:50
+	name: Super-Duper Dreadmaw
+	casting_cost: 4GG
+	transformation: extra comedy
+	image: image91.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>◌̵  Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Dinosaur</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: uncommon
+	rule_text:
+		<kw-a><nospellcheck><key>Trample</key></nospellcheck></kw-a>
+		<kw-0><nospellcheck><key>Trample over <param-name>Planeswalker toward player, Planeswalker, or Battle.</param-name></key></nospellcheck></kw-0> <i-auto>(While assigning combat damage to a Planeswalker ↦ This Creature can deal excess combat damage to the controller of that Planeswalker, to another Planeswalker that player controls, or to a Battle that player defends.)</i-auto>
+		<kw-0><nospellcheck><key>Trample over <param-name>Battle toward player, Planeswalker, or Battle.</param-name></key></nospellcheck></kw-0>
+	flavor_text: <i-flavor></i-flavor>
+	power: 6
+	toughness: 6
+	illustrator: jarold Sng
+	card_code_text: — 3rd party card.
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

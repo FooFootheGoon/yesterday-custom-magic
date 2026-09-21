@@ -11,7 +11,7 @@ card:
 		overlay: 
 	notes: https://x.com/WolfdawgArt/status/1265296776363495426
 	time_created: 2024-11-04 00:47:05
-	time_modified: 2026-02-25 02:01:16
+	time_modified: 2026-09-20 13:08:08
 	card_color: white
 	name: . WIP / Magna, the Unbroken
 	casting_cost: 2WW
@@ -34,7 +34,6 @@ card:
 	illustrator: WolfdawgArt
 	additional_credit_2: Armello
 	additional_credit_brush_2: flavor
-	partition_select: after main set Z
 	card_code_text: — 3rd party card.
 	card_code_text_2: 
 	card_code_text_3: 

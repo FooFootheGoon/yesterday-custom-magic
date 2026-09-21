@@ -1,0 +1,36 @@
+﻿mse_version: 2.5.7
+card:
+	has_styling: false
+	notes: https://www.artstation.com/artwork/XoyKa
+	time_created: 2023-11-17 04:25:10
+	time_modified: 2026-02-23 15:15:09
+	name: Cadaver Cadaverer
+	casting_cost: 2H/BB
+	transformation: extra comedy
+	image: image8
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>◌̵  Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Fungus,</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Horror</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		<i-auto>(<sym-auto>H/B</sym-auto> can be paid with <sym>B</sym> or 2 life.)</i-auto>
+		<sym>2H/BB</sym>, <sym-auto>T</sym-auto>, Exile a Creature card from your graveyard: Tutor a Creature card with mana value equal to 1 plus the mana value of the exiled card, then put it into your graveyard. Activate at sorcery speed.>
+	flavor_text: <i-flavor></i-flavor>
+	watermark: none
+	power: 3
+	toughness: 3
+	illustrator: Mark Fonzen
+	card_code_text: — 3rd party card.
+	card_code_text_2: — 3rd party card.
+	card_code_text_3: — 3rd party card.
+	copyright: 
+	copyright_2: 
+	copyright_3: 

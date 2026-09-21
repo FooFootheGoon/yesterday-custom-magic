@@ -1,0 +1,48 @@
+﻿mse_version: 2.5.7
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 1
+		chop_bottom: 1
+		frames: puma
+		other_options: pokemon evobar, auto nyx crowns
+		text_box_mana_symbols: magic-mana-large.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		http://killsixbilliondemons.com/comic/wielder-of-names-1-13/
+		
+		There’s a bit of a tonal whiplash with this card being a really good counter to most of the KSBD cards, despite the characters being so inconsequential.
+	time_created: 2026-02-23 20:53:55
+	time_modified: 2026-02-25 22:26:57
+	card_color: white, blue, black, multicolor, horizontal
+	name: The Three Magisters
+	alias: "Vax", "Ando", "/placeholder/"
+	casting_cost: 3WUB
+	image: image144.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary ◌̵  Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Spirit,</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Sorcerer</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: mythic rare
+	rule_text:
+		<i-auto>(⇨ This Creature enters with “Vax”, “Ando”, and “/placeholder/” Name counters. As long as it has those counters ↦ It also has those names.)</i-auto>
+		If a card would be put into a graveyard, from anywhere other than the battlefield ⇨ Instead, exile it.
+		For each Creature card which is exiled with The Three Magisters ↦ Each other Creature has the names of that card <i-auto>(in addition to its other names)</i-auto>.
+		For each name which each Creature has, beyond the first ↦ It gets -1/-1.
+	flavor_text: <i-flavor></i-flavor>
+	power: 6
+	toughness: 6
+	illustrator: Abbadon
+	additional_credit_2: Kill Six Billion Demons
+	additional_credit_brush_2: flavor
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

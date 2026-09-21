@@ -1,0 +1,33 @@
+﻿mse_version: 2.5.7
+card:
+	has_styling: false
+	notes: https://www.artstation.com/artwork/YebGGd
+	time_created: 2023-11-19 22:10:06
+	time_modified: 2026-02-22 16:10:55
+	name: Trick or Treat
+	casting_cost: 2WW
+	image: image106
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>◌̵  Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: uncommon
+	rule_text: Whenever a Creature you control deals combat damage to a player; Create a <u><kw-0><nospellcheck><key>Food toke<param-*s>n</u></param-*s></key></nospellcheck></kw-0>. <i-auto>(It’s an Artefact with “<sym-auto>2</sym-auto>, <sym-auto>T</sym-auto>, Sacrifice this token: You gain 3 life.”)</i-auto>
+	flavor_text:
+		<i-flavor>Even dressed to the nines, feeling spooky and slick,<soft-line>
+		</soft-line>Still nothing’s more scary than the answer, “Trick”.</i-flavor>
+	separator: flavor bar
+	illustrator: Naka Isurita
+	card_code_text: — 3rd party card.
+	card_code_text_2: — 3rd party card.
+	card_code_text_3: — 3rd party card.
+	copyright: 
+	copyright_2: 
+	copyright_3: 

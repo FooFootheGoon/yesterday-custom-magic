@@ -1,0 +1,48 @@
+﻿mse_version: 2.5.7
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 1
+		chop_bottom: 1
+		frames: puma
+		custom_border_source: 
+		other_options: pokemon evobar, auto nyx crowns
+		text_box_mana_symbols: magic-mana-large.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2026-04-08 22:35:45
+	time_modified: 2026-05-19 12:42:21
+	card_color: colorless
+	name: . WIP / Cio
+	alias: “Ciocie Cioelle”, “Estrella”, “Von Maximus the Third”
+	casting_cost: UB
+	image: image265
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary ◌̵  Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Devil,</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Rogue</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		<kw-a><nospellcheck><key><b>Devoid</key></nospellcheck></kw-a>
+		</b>Whenever you cast a colourless spell; Name a card.<b>
+		</b>Whenever a Creature that was named this turn enters; Draw a card, then discard a card.
+		<sym-auto>UB</sym-auto>, <sym-auto>T</sym-auto>: Copy target triggered ability from a <kw-a><nospellcheck><key>Historic</key></nospellcheck></kw-a> source, which tha control.
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 1
+	illustrator: Abbadon
+	additional_credit_2: Kill Six Billion Demons
+	additional_credit_brush_2: flavor
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

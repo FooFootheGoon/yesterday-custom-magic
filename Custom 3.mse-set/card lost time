@@ -11,9 +11,10 @@ card:
 		overlay: 
 	notes: https://www.deviantart.com/andrejzt/art/Time-901654651
 	time_created: 2023-11-23 09:33:41
-	time_modified: 2026-02-22 12:54:12
+	time_modified: 2026-09-21 20:03:27
 	name: Lost Time
 	casting_cost: U
+	card_symbol: tombstone
 	image: image143
 	image_2: 
 	mainframe_image: 
@@ -24,7 +25,8 @@ card:
 	rule_text:
 		Draw a card.
 		<b><kw-0><nospellcheck><key>Cycling</b> <param-cost><sym-auto>1R</sym-auto></param-cost></key></nospellcheck></kw-0> <i-auto>(<sym-auto>1R</sym-auto>, Discard this card: Draw a card.)</i-auto>
-		<kw-0><nospellcheck><key>Madness <param-cost><sym-auto>1U</sym-auto></param-cost></key></nospellcheck></kw-0> <i-auto>(If you discard this card ⇨ Discard it into exile. When you do; Cast it for its Madness cost or put it into your graveyard.)</i-auto>
+		<b>Mayhem</b> <sym>1U</sym> <i-auto>(As long as you discarded this card this turn ↦ You may cast this card from your graveyard for <sym>1U</sym>.<soft-line></i-auto>
+		</soft-line><i>Timing rules still apply.)</i>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: AndrejZT
 	card_code_text: — 3rd party card.

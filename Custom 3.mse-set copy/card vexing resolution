@@ -1,0 +1,37 @@
+﻿mse_version: 2.5.7
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 1
+		chop_bottom: 
+		frames: planeshifted
+		other_options: auto nyx crowns
+		text_box_mana_symbols: magic-mana-large.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: https://www.deviantart.com/calderamoon/art/The-Spell-515260823
+	time_created: 2023-11-22 15:49:28
+	time_modified: 2025-04-11 20:47:58
+	card_color: green
+	name: Vexing Resolution
+	image: image140
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>◌̵  Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: uncommon
+	rule_text:
+		<b>This spell can’t be countered.
+		<kw-a><nospellcheck><key>Splice onto <param-name>Creature</param-name> <param-cost><sym-auto>GG</sym-auto></param-cost></key></nospellcheck></kw-a> </b><i>(As you cast a Creature spell ↦ You may reveal this card from your hand and pay <sym>GG</sym>. If you do ⇨ Add this card’s effects to that spell.)</i><b>
+		<kw-a><nospellcheck><key>Splice onto <param-name>Sorcery</param-name> <param-cost><sym>R/GR/G</sym></b></param-cost></key></nospellcheck></kw-a>
+		<b><kw-0><nospellcheck><key>Cycling</b> <param-cost><sym-auto>1R</sym-auto></param-cost></key></nospellcheck></kw-0> <i-auto>(<sym-auto>1R</sym-auto>, Discard this card: Draw a card.)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	separator: flavor bar
+	illustrator: calderamoon
+	card_code_text: — 3rd party card.
+	card_code_text_2: — 3rd party card.
+	card_code_text_3: — 3rd party card.
+	copyright: 
+	copyright_2: 
+	copyright_3: 

@@ -1,0 +1,41 @@
+﻿mse_version: 2.5.7
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 1
+		chop_bottom: 1
+		frames: 
+		other_options: auto nyx crowns
+		hybrid_name: gold
+		text_box_mana_symbols: magic-mana-large.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2025-04-05 16:48:15
+	time_modified: 2026-09-19 17:59:29
+	card_color: black, red, hybrid, vertical
+	name: Feast for the King
+	casting_cost: 2/RBB
+	image: image21.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>◌̵  Kindred, Enchantment </word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>ᵏGoblin</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: uncommon
+	rule_text:
+		As long as you control a |Legendary ◌̵  Creature| or a |Creature — Noble| <b>↦</b> If a Creature an opponent controls would die <b>⇨</b> Instead you gain control of it, it becomes an |Artefact — Food|<soft-line>
+		</soft-line><i>(It loses all other types and subtypes),</i> and it gains “<sym-auto>2</sym-auto>, <sym-auto>T</sym-auto>, Sacrifice this Artefact: You gain 3 life”.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Ognjen Sporin
+	additional_credit_2: Ognjen Sporin
+	additional_credit_brush_2: flavor
+	card_code_text: — 3rd party card.
+	card_code_text_2: 
+	card_code_text_3: 

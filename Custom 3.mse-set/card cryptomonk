@@ -13,7 +13,7 @@ card:
 		overlay: 
 	notes: https://www.artstation.com/artwork/28X5Ke
 	time_created: 2023-11-19 13:17:31
-	time_modified: 2026-02-24 20:45:53
+	time_modified: 2026-09-20 13:07:33
 	card_color: artifact
 	name: Cryptomonk
 	casting_cost: 6
@@ -33,7 +33,6 @@ card:
 	power: 1
 	toughness: 1
 	illustrator: Guillem H. Pongiluppi
-	partition_select: after main set Z
 	card_code_text: — 3rd party card.
 	card_code_text_2: — 3rd party card.
 	card_code_text_3: — 3rd party card.

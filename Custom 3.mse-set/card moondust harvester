@@ -11,7 +11,7 @@ card:
 		overlay: 
 	notes: https://www.artstation.com/artwork/1nby82
 	time_created: 2025-04-06 12:25:32
-	time_modified: 2026-02-24 13:40:51
+	time_modified: 2026-09-20 13:09:19
 	name: Moondust Harvester
 	casting_cost: WUU
 	image: image128.png
@@ -35,7 +35,6 @@ card:
 	power: 1
 	toughness: 2
 	illustrator: Katinka Thorondor
-	partition_select: after main set Z
 	card_code_text: — 3rd party card.
 	card_code_text_2: 
 	card_code_text_3: 

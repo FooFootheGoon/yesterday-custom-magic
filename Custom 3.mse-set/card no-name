@@ -2,9 +2,13 @@
 card:
 	has_styling: false
 	notes: 
-	time_created: 2026-02-25 22:53:01
-	time_modified: 2026-02-25 22:53:01
+	time_created: 2026-09-21 19:59:25
+	time_modified: 2026-09-21 19:59:46
 	image: 
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
+	rule_text:
+		<kw-a><nospellcheck><key>Assist</key></nospellcheck></kw-a> Kicker
+		<kw-a><nospellcheck><key>Demonstrate</key></nospellcheck></kw-a>
+	flavor_text: <i-flavor></i-flavor>

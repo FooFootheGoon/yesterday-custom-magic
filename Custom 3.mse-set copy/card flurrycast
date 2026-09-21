@@ -1,0 +1,38 @@
+﻿mse_version: 2.5.7
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 1
+		chop_bottom: 1
+		frames: lesson
+		other_options: auto nyx crowns
+		text_box_mana_symbols: magic-mana-large.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: https://www.artstation.com/artwork/oOe9E4
+	time_created: 2023-11-24 00:20:49
+	time_modified: 2026-02-22 19:29:54
+	card_color: red, green, multicolor, horizontal
+	name: Flurrycast
+	casting_cost: 2RG
+	transformation: extra comedy
+	image: image190
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant ◌̵  Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: uncommon
+	rule_text:
+		<kw-0><nospellcheck><key><b>Split second</b></key></nospellcheck></kw-0> <i-auto>(As long as this spell is on the stack ↦ Players can’t cast spells or activate abilities that aren’t mana abilities.)</i-auto>
+		<b>This spell costs <sym-auto>2R</sym-auto> less to cast if it targets a spell or ability you control.</b>
+		You may choose new targets for target spell or ability. Then, as long as it’s a spell ↦ It gains “<kw-a><nospellcheck><key>Split second</key></nospellcheck></kw-a>”. As long as it’s an ability ↦ It gains “╰<kw-a><nospellcheck><key>Split second</key></nospellcheck></kw-a>”.<soft-line>
+		</soft-line><i>(╰ represents a sub-ability.)</i>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Seth Pargin
+	card_code_text: — 3rd party card.
+	card_code_text_2: — 3rd party card.
+	card_code_text_3: — 3rd party card.
+	copyright: 
+	copyright_2: 
+	copyright_3: 

@@ -1,0 +1,43 @@
+﻿mse_version: 2.5.7
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 1
+		chop_bottom: 1
+		frames: puma
+		other_options: auto nyx crowns
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: https://www.artstation.com/artwork/xYA2a2
+	time_created: 2023-11-17 04:18:49
+	time_modified: 2026-02-22 05:12:17
+	name: Amara, Contingency Curtailer
+	casting_cost: 1W
+	image: image6
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary ◌̵  Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Human,</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Cleric</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: uncommon
+	rule_text: Your opponents can’t win the game, and you can’t lose the game except by having 0 or less life.
+	flavor_text:
+		<i-flavor>A shady friend — for Torrid days —<soft-line>
+		</soft-line>Is easier to find —<soft-line>
+		</soft-line>Than one of higher temperature<soft-line>
+		</soft-line>For Frigid — hour of Mind —</i-flavor>
+	power: 2
+	toughness: 2
+	separator: flavor bar
+	illustrator: Pauline Voß
+	card_code_text: — 3rd party card.
+	card_code_text_2: — 3rd party card.
+	card_code_text_3: — 3rd party card.
+	copyright: 
+	copyright_2: 
+	copyright_3: 

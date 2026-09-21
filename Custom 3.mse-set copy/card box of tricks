@@ -1,0 +1,34 @@
+﻿mse_version: 2.5.7
+card:
+	has_styling: false
+	notes: https://www.artstation.com/artwork/eaaz5w
+	time_created: 2023-11-18 12:20:13
+	time_modified: 2025-04-13 11:30:42
+	card_color: blue, red, artifact, multicolor, horizontal
+	name: Box of Tricks
+	casting_cost: UR
+	image: image19
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>◌̵  Artefact</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: Treasure 
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: uncommon
+	rule_text:
+		<sym-auto>U/R</sym-auto>: Add <sym-auto>U</sym-auto> or <sym-auto>R</sym-auto>. Spend this mana only to cast a Sorcery spell.
+		<sym-auto>T</sym-auto>, Sacrifice this Artefact: Add one mana of any colour.
+		At the beginning of the end step; Sacrifice this Artefact.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Friborz yousefi
+	card_code_text: — 3rd party card.
+	card_code_text_2: — 3rd party card.
+	card_code_text_3: — 3rd party card.
+	copyright: 
+	copyright_2: 
+	copyright_3: 

@@ -1,0 +1,32 @@
+﻿mse_version: 2.5.7
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-04-14 08:42:14
+	time_modified: 2026-09-19 17:15:35
+	name: Anthropogenic Moon
+	casting_cost: WB
+	image: image152.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>World ◌̵  Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: mythic rare
+	rule_text: When this Enchantment enters; It becomes night. Then you may have it become day. If you do ⇨ Then, it becomes night. <soft-line>Put a charge counter on this Enchantment. As long as it has a charge counter on it ↦ It can’t become day.</soft-line>
+	flavor_text:
+		<i-flavor>“The Moon is distant from the Sea –<soft-line>
+		</soft-line>And yet, with Amber Hands –<soft-line>
+		</soft-line>She leads Him – docile as a Boy –<soft-line>
+		</soft-line>Along appointed Sands –“<soft-line>
+		—Emily Dickenson</soft-line></i-flavor>
+	partition_select: after main set Z
+	card_code_text: — 3rd party card.
+	card_code_text_2: 
+	card_code_text_3: 

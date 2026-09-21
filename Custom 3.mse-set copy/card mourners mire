@@ -1,0 +1,44 @@
+﻿mse_version: 2.5.7
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 3
+		chop_bottom: 6
+		frames: universes beyond
+		other_options: auto nyx crowns
+		text_box_mana_symbols: magic-mana-large.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2023-11-23 19:49:31
+	time_modified: 2026-02-25 01:57:10
+	border_color: rgb(0,0,0)
+	name: Mourner’s Mire
+	casting_cost: 3BB
+	image: image173
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant ◌̵  Creature</word-list-type-en>
+	sub_type: <word-list-race-en>ᴵTrap,</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>ᶜZombie</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		<b>If exactly one Creature is attacking you ⇨ You may pay <sym>1BB</sym> rather than pay this spell’s mana cost.</b>
+		<i>Baleful Bite</i> — <kw-a><nospellcheck><key>Deathtouch</key></nospellcheck></kw-a>
+	flavor_text:
+		<i-flavor>It preys on grief, and hides itself in fresh grave dirt.<soft-line>
+		</soft-line>Once the Mourner’s Mire senses something above it, it ensnares the victim using its jaw-like limbs, and wraps the prey in a toothy embrace.</i-flavor>
+	watermark: custom watermark four
+	power: 2
+	toughness: 2
+	separator: flavor bar
+	card_stamp: flatstamped universes beyond
+	illustrator: Jess Jackdaw
+	additional_credit_2: Jess Jackdaw
+	additional_credit_brush_2: flavor
+	card_code_text: — 3rd party card.
+	card_code_text_2: — 3rd party card.
+	card_code_text_3: — 3rd party card.
+	copyright: 
+	copyright_2: 
+	copyright_3: 

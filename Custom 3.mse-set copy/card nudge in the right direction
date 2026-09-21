@@ -1,0 +1,43 @@
+﻿mse_version: 2.5.7
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 1
+		chop_bottom: 1
+		frames: universes beyond
+		other_options: auto nyx crowns
+		text_box_mana_symbols: magic-mana-large.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		https://killsixbilliondemons.com/comic/ksbd-4-67-2/
+		Kill Six Billion Demons
+	time_created: 2023-11-21 05:55:32
+	time_modified: 2026-02-25 01:51:45
+	name: Nudge in the Right Direction
+	casting_cost: 2U/RU/R
+	transformation: extra comedy
+	image: image142
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>◌̵  Enchantment</word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	rarity: mythic rare
+	rule_text:
+		<kw-a><nospellcheck><key><b><kw-0>Cleave</b> <param-cost><sym-auto>2W/BW/BU/RU/R</sym-auto></param-cost></key></nospellcheck></kw-a>
+		<b>Cloven</b> <sym>2W/BW/BW/BU/RU/RU/R</sym>
+		Non-Land [Sorcery] cards in your graveyard have “<kw-0><nospellcheck><key>Jump-start</key></nospellcheck></kw-0>”. If you cast a permanent spell this way, rather than being exiled ⇨ It enters with a <kw-0><nospellcheck><key>Finality counter</key></nospellcheck></kw-0> on it. It gains “<kw-0><nospellcheck><key>Haste</key></nospellcheck></kw-0>” and “At the beginning of the end step; Exile this permanent”.
+		{At the beginning of the end step; Exile this Enchantment.}
+	flavor_text: <i-flavor></i-flavor>
+	watermark: custom watermark two
+	card_stamp: universes beyond
+	illustrator: Abbadon
+	additional_credit_2: Kill Six Billion Demons
+	additional_credit_brush_2: flavor
+	card_code_text: — 3rd party card.
+	card_code_text_2: — 3rd party card.
+	card_code_text_3: — 3rd party card.
+	copyright: 
+	copyright_2: 
+	copyright_3: 

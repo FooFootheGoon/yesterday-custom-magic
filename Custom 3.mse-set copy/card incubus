@@ -1,0 +1,47 @@
+﻿mse_version: 2.5.7
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		frames: puma
+		custom_border_source: 
+		other_options: pokemon evobar, auto nyx crowns
+		text_box_mana_symbols: magic-mana-large.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2026-04-08 22:35:45
+	time_modified: 2026-09-19 22:55:25
+	name: Incubus
+	alias: "The Laughing God", "The Glitter God", "Bearer of the word Flame", "Lord of the Golden Army", "Sword King of the Middle Army"
+	casting_cost: 1BBB/RB/R
+	image: image158.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary ◌̵  Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Avatar,</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Demiurge</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		<kw-a><nospellcheck><key>Ward—<param-cost>Discard a Creature card</param-cost></key></nospellcheck></kw-a>
+		Whenever a player pays life, or discards cards; Put that many +1 counters on Incubus.
+		Pay </sym>5<sym> or more life: <kw-a><nospellcheck><key>Regenerate</key></nospellcheck></kw-a> Incubus. Activate only once each turn.>
+		Discard 1 or more cards: Until end of turn ↦ Incubus can’t be blocked except by X or more Creatures, where X is 1 plus the number of cards discarded this way. Activate once each turn.>
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 1
+	illustrator: Abbadon
+	additional_credit_2: Kill Six Billion Demons
+	additional_credit_brush_2: flavor
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

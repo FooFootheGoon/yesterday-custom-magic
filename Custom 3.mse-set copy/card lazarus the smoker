@@ -1,0 +1,47 @@
+﻿mse_version: 2.5.7
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 1
+		chop_bottom: 7
+		frames: puma, universes beyond
+		other_options: auto nyx crowns
+		text_box_mana_symbols: magic-mana-large.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2025-04-06 12:59:29
+	time_modified: 2026-02-23 19:35:57
+	card_color: white, blue, green, multicolor, horizontal
+	name: Lazarus, the Smoker
+	casting_cost: 1GWU
+	transformation: extra tragedy
+	image: image80.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary ◌̵  Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Zombie,</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Mutant</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: mythic rare
+	rule_text:
+		Each Creature which doesn’t have a counter on it, has “Stun lock”.  <i-auto>(When that Creature dies, if it had no counters on it; Return it to the battlefield under its owner’s control, tapped and with a <kw-a><nospellcheck><key>Stun counte<param-*s>r</param-*s></key></nospellcheck></kw-a> on it. If a permanent with a <kw-a><nospellcheck><key>Stun counte<param-*s>r</param-*s></key></nospellcheck></kw-a> would become untapped ⇨ Remove one from it instead.)</i-auto><i>
+		</i><sym>W/UW/U</sym>, <sym-auto>T</sym-auto>: Put a <kw-a><nospellcheck><key>Stun counte<param-*s>r</param-*s></key></nospellcheck></kw-a> on another target Creature.
+		<sym-auto>G/WG/W</sym-auto>, <sym-auto>Q</sym-auto>: Until end of turn ↦ Target Creature which has a <kw-a><nospellcheck><key>Stun counte<param-*s>r</param-*s></key></nospellcheck></kw-a> on it, gains “<kw-a><nospellcheck><key>Hexproof</key></nospellcheck></kw-a>”.
+		<sym-auto>G/UG/U</sym-auto>, <sym>Q</sym>: Counter target triggered ability.
+	flavor_text: <i-flavor>“And then I startled the witch.”</i-flavor>
+	power: 1
+	toughness: 1
+	separator: flavor bar
+	card_stamp: universes beyond
+	illustrator: Queen Dedede
+	additional_credit_2: Queen-Dedede, Valve
+	additional_credit_brush_2: flavor
+	card_code_text: — 3rd party card.
+	card_code_text_2: 
+	card_code_text_3: 

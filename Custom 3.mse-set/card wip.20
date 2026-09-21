@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.7
+card:
+	has_styling: false
+	notes: 
+	time_created: 2026-09-21 23:04:58
+	time_modified: 2026-09-21 23:07:19
+	name: . WIP
+	casting_cost: 3
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>◌̵  Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<kw-1><nospellcheck><key>Ripple <param-number>1</param-number></key></nospellcheck><atom-reminder-expert> <i-auto>(When you cast this spell; you may reveal the top<param-number></param-number> card of your library. You may cast any revealed cards with the same name as this spell without paying their mana costs. Put the rest on the bottom of your library.)</i-auto></atom-reminder-expert></kw-1>
+		You lose 1 life.
+		<b>Innumerable </b><i>(A deck can have any number of cards named <u><atom-cardname><nospellcheck>. WIP</nospellcheck></atom-cardname>.</u>)</i>
+	flavor_text: <i-flavor></i-flavor>
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

@@ -1,0 +1,37 @@
+﻿mse_version: 2.5.7
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 1
+		chop_bottom: 3
+		frames: 
+		other_options: auto nyx crowns
+		text_box_mana_symbols: magic-mana-large.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: https://www.artstation.com/artwork/K8XYGs
+	time_created: 2023-11-17 21:12:06
+	time_modified: 2026-02-22 10:59:56
+	card_color: black, red, multicolor, horizontal
+	name: Foil the Forbidden
+	casting_cost: 2BBRR
+	transformation: extra tragedy
+	image: image30
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>◌̵  Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: rare
+	rule_text:
+		<kw-0><nospellcheck><key><b>Cleave <param-cost></b><sym>BB</sym></param-cost></key></nospellcheck></kw-0>, C<b>left </b><sym>2RR</sym> <i-auto>(You may cast this spell for its Cleave cost. If you do ⇨ Remove the words in square brackets. If you cast it for its Cleft cost ⇨ Remove the words in squiggly brackets.)</i-auto>
+		Destroy {target Enchantment you don’t control [and} target Artefact].
+		For each Artefact destroyed this way, this spell deals damage equal to that Artefact’s mana value to that Artefact’s controller. You lose life equal to the mana value of each Enchantment destroyed this way.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Tiago Sousa
+	card_code_text: — 3rd party card.
+	card_code_text_2: — 3rd party card.
+	card_code_text_3: — 3rd party card.
+	copyright: 
+	copyright_2: 
+	copyright_3: 

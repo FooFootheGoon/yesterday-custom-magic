@@ -1,0 +1,41 @@
+﻿mse_version: 2.5.7
+card:
+	stylesheet: m15-future
+	stylesheet_version: 2024-06-06
+	has_styling: false
+	notes: https://www.avasdemon.com/pages.php#0386
+	time_created: 2023-11-19 23:44:31
+	time_modified: 2026-02-25 02:07:12
+	extra_data:
+		magic-m15-future:
+			future_node: artifact
+	card_color: blue, artifact, horizontal
+	name: Something Fishy
+	casting_cost: 2U
+	type_symbol: artifact
+	image: image116
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant ◌̵  Artefact</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: uncommon
+	rule_text:
+		<kw-a><i-auto><nospellcheck><key>Imprint</key></nospellcheck></i-auto></kw-a> — When this Artefact enters; You may exile a Sorcery card from a graveyard.
+		<kw-a><i-auto><nospellcheck><key>Imprint</key></nospellcheck></i-auto></kw-a> — <sym-auto>2U</sym-auto>, <sym-auto>T</sym-auto>: Exile target Sorcery card from a graveyard.
+		<sym-auto>Q</sym-auto>: Counter target spell if it has the same name as a card exiled with this Artefact.
+	flavor_text: <i-flavor></i-flavor>
+	watermark: custom watermark one
+	card_stamp: flatstamped universes beyond
+	illustrator: Michelle Fus
+	additional_credit_2: Ava's Demon
+	additional_credit_brush_2: flavor
+	card_code_text: — 3rd party card.
+	card_code_text_2: — 3rd party card.
+	card_code_text_3: — 3rd party card.
+	copyright: 
+	copyright_2: 
+	copyright_3: 

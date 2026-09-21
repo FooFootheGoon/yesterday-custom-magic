@@ -1,0 +1,43 @@
+﻿mse_version: 2.5.7
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 1
+		chop_bottom: 1
+		frames: puma
+		custom_border_source: 
+		other_options: auto nyx crowns
+		text_box_mana_symbols: magic-mana-large.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: https://www.artstation.com/artwork/YGkVZX
+	time_created: 2026-09-20 14:01:15
+	time_modified: 2026-09-21 19:18:57
+	name: Firestorm, the Artist
+	casting_cost: 3RW
+	image: image194.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary ◌̵  Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Dog,</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Elemental</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		<kw-a><nospellcheck><key>Intimidate</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>Vigilance</key></nospellcheck></kw-a>, Aggressive <i-auto>(During your turn, there is an additional combat phase after the first, and only creatures which have Aggressive may attack during it.)</i-auto>
+		Creatures which you control which are blue, have “Aggressive” and “<kw-a><nospellcheck><key>Vigilance</key></nospellcheck></kw-a>”.
+		Firebending 2 <i>
+		</i><sym>4</sym>: Until end of turn ↦ Target Creature becomes blue, and isn’t an Artefact.<soft-line>
+		╰ Waterbend</soft-line>
+	flavor_text: <i-flavor></i-flavor>
+	power: 5
+	toughness: 2
+	illustrator: Katinka Thorondor
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

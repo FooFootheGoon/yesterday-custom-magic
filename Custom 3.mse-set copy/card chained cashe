@@ -1,0 +1,41 @@
+﻿mse_version: 2.5.7
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 3
+		chop_bottom: 5
+		frames: universes beyond
+		other_options: auto nyx crowns
+		text_box_mana_symbols: magic-mana-large.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: https://www.youtube.com/watch?v=hhzP2Xzo6jg
+	time_created: 2023-11-23 21:10:15
+	time_modified: 2026-02-25 01:54:07
+	card_color: artifact
+	name: Chained Cashe
+	casting_cost: 3
+	image: image163
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>◌̵  Artefact</word-list-type-en>
+	sub_type: 
+	rarity: uncommon
+	rule_text: <sym-auto>5</sym-auto>, <sym-auto>T</sym-auto>: Sacrifice a Creature, sacrifice this Artefact: Create a token which is a copy of the sacrificed Creature ↦ Except it’s a ᶜNightmare in addition to its other subtypes, and it has “<kw-0><nospellcheck><key>Shadow</key></nospellcheck></kw-0>” and “<kw-0><nospellcheck><key>Shroud</key></nospellcheck></kw-0>”.
+	flavor_text:
+		<i-flavor>Eyes narrowed, the rogue dipped the torch inside and filled its interior with a fervent glow. Empty.<soft-line>
+		</soft-line>Entirely empty, save for a simple message scrawled inside,<soft-line>
+		</soft-line>“Have you ever danced with your own shadow?”</i-flavor>
+	watermark: custom watermark four
+	separator: flavor bar
+	card_stamp: flatstamped universes beyond
+	illustrator: Jess Jackdaw
+	additional_credit_2: Jess Jackdaw
+	additional_credit_brush_2: flavor
+	card_code_text: — 3rd party card.
+	card_code_text_2: — 3rd party card.
+	card_code_text_3: — 3rd party card.
+	copyright: 
+	copyright_2: 
+	copyright_3: 

@@ -1,0 +1,41 @@
+﻿mse_version: 2.5.7
+card:
+	stylesheet: m15-aftermath
+	stylesheet_version: 2024-05-27
+	has_styling: true
+	styling_data:
+		grey_hybrid_name: yes
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+	notes: https://www.avasdemon.com/pages.php#2181
+	time_created: 2023-11-21 16:57:09
+	time_modified: 2025-03-28 09:59:53
+	name: Season of Frost
+	name_2: Season of Death
+	casting_cost: 1W/UW/U
+	casting_cost_2: 3BB
+	card_symbol: tombstone
+	image: image147
+	image_2: image_22
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>◌̵  Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en>◌̵  Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: <word-list-spell></word-list-spell>
+	rarity: rare
+	rule_text: Tap each Creature. 
+	rule_text_2:
+		<kw-1><nospellcheck><key><b>Aftermath</b></key></nospellcheck><atom-reminder-expert> <i-auto>(Cast this spell only from your graveyard. Then exile it.)</i-auto></atom-reminder-expert></kw-1>
+		Destroy all tapped Creatures.
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	card_stamp: universes beyond
+	illustrator: Michelle Fus
+	additional_credit_2: Ava's Demon
+	additional_credit_brush_2: flavor
+	card_code_text: — 3rd party card.
+	card_code_text_2: — 3rd party card.
+	card_code_text_3: — 3rd party card.
+	copyright: 
+	copyright_2: 
+	copyright_3: 

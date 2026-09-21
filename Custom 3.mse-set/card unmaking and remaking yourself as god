@@ -22,7 +22,7 @@ card:
 		overlay: 
 	notes: r1
 	time_created: 2025-04-24 16:37:30
-	time_modified: 2026-02-23 22:00:51
+	time_modified: 2026-09-20 13:08:27
 	special_text:
 		
 		I, II, III — <sym>r1</sym> Discard your hand.
@@ -65,7 +65,6 @@ card:
 	level_3_text: ​
 	level_4_text: 
 	illustrator: Aldo Katayanagi
-	partition_select: after main set Z
 	card_code_text: — 3rd party card.
 	card_code_text_2: 
 	card_code_text_3: 

@@ -14,7 +14,7 @@ card:
 		https://aldo-art.com/ghostall
 		 
 	time_created: 2025-04-24 09:14:24
-	time_modified: 2026-02-26 15:18:12
+	time_modified: 2026-09-21 20:05:14
 	card_color: blue, black, hybrid, horizontal
 	name: They What Became Observers
 	casting_cost: U/BU/BU/B
@@ -33,9 +33,9 @@ card:
 	sub_type_4: 
 	rarity: mythic rare
 	rule_text:
-		<kw-a><nospellcheck><key><b><kw-0>Unleash</key></nospellcheck></kw-a> <kw-a><nospellcheck><key>skulk</key></nospellcheck></kw-a> </b><i>(You may have this enter with a “<kw-a><nospellcheck><key>Skulk</key></nospellcheck></kw-a>” counter on it. As long as it has a “<kw-a><nospellcheck><key>Skulk</key></nospellcheck></kw-a>” counter on it ↦ It can’t block.)</i>
-		Renown <kw-a><nospellcheck><key>shadow</key></nospellcheck></kw-a> <i-auto>(As long as this isn’t Renowned ↦ When it deals combat damage to a player; Put a “<kw-a><nospellcheck><key>Shadow</key></nospellcheck></kw-a>” counter on this, and it becomes Renowned.)</i-auto>
-		<kw-0><nospellcheck><key>Dethrone</key></nospellcheck></kw-0> stun  <i-auto>(Whenever this Creature attacks the player with the most life or tied for most life; Put a <kw-0><nospellcheck><key>Stun counte<param-*s>r</param-*s></key></nospellcheck></kw-0> on it.)</i-auto>
+		<kw-a><nospellcheck><key><b><kw-0>Unleash</key></nospellcheck></kw-a> <kw-a><nospellcheck><key>Skulk</key></nospellcheck></kw-a> </b><i>(You may have this enter with a “<kw-a><nospellcheck><key>Skulk</key></nospellcheck></kw-a>” counter on it. As long as it has a “<kw-a><nospellcheck><key>Skulk</key></nospellcheck></kw-a>” counter on it ↦ It can’t block.)</i>
+		Renown <kw-a><nospellcheck><key>Shadow</key></nospellcheck></kw-a> <i-auto>(As long as this isn’t Renowned ↦ When it deals combat damage to a player; Put a “<kw-a><nospellcheck><key>Shadow</key></nospellcheck></kw-a>” counter on this, and it becomes Renowned.)</i-auto>
+		<kw-0><nospellcheck><key>Dethrone</key></nospellcheck></kw-0> Stun  <i-auto>(Whenever this Creature attacks the player with the most life or tied for most life; Put a <kw-0><nospellcheck><key>Stun counte<param-*s>r</param-*s></key></nospellcheck></kw-0> on it.)</i-auto>
 		Whenever one or more counters placed on this Creature; You draw a card and you lose 2 life.
 	flavor_text: <i-flavor></i-flavor>
 	power: 1

@@ -1,0 +1,39 @@
+﻿mse_version: 2.5.7
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 1
+		chop_bottom: 3
+		frames: universes beyond
+		other_options: auto nyx crowns
+		text_box_mana_symbols: magic-mana-large.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: https://killsixbilliondemons.com/comic/ksbd-3-47/
+	time_created: 2023-11-18 01:51:23
+	time_modified: 2026-02-25 01:52:54
+	name: Quickdraw Salvage
+	casting_cost: 3RR
+	image: image38
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>◌̵  Enchantment</word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	rarity: mythic rare
+	rule_text:
+		<kw-a><i-auto><nospellcheck><key>Metalcraft</key></nospellcheck></i-auto></kw-a> — <b>As long as you control three or more Artefacts ↦⇨ You may pay <sym>3W</sym> rather than pay this spell’s mana cost.</b>
+		As long as <sym-auto>R</sym-auto> was spent to cast this spell ↦ When this Enchantment enters; Destroy all Artefacts.
+		Whenever an Artefact you control is put into a graveyard from the battlefield; Choose target Artefact card in your graveyard with lesser mana value. Return it to your hand.
+	flavor_text: <i-flavor></i-flavor>
+	watermark: custom watermark two
+	card_stamp: universes beyond
+	illustrator: Abbadon
+	additional_credit_2: Kill Six Billion Demons
+	additional_credit_brush_2: flavor
+	card_code_text: — 3rd party card.
+	card_code_text_2: — 3rd party card.
+	card_code_text_3: — 3rd party card.
+	copyright: 
+	copyright_2: 
+	copyright_3: 

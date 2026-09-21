@@ -1,0 +1,33 @@
+﻿mse_version: 2.5.7
+card:
+	has_styling: false
+	notes: https://www.artstation.com/artwork/vJZvv3
+	time_created: 2023-11-19 08:33:36
+	time_modified: 2026-02-24 20:32:44
+	name: Woods of Reprieve
+	image: image71
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>◌̵  Land</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-land>Forest</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: uncommon
+	rule_text:
+		<b>⇨ This Land enters tapped.
+		</b><i>(<sym-auto>T</sym-auto>: Add <sym-auto>G</sym-auto>.)</i>
+		As long as you’ve played another Land named <u>Woods of Reprieve</u> this turn, and you played this Land ↦ When this Land enters; Draw a card.
+	flavor_text: <i-flavor></i-flavor>
+	watermark: transparent mana symbol green
+	illustrator: Laszlo Pinter (Las Pinter)
+	card_code_text: — 3rd party card.
+	card_code_text_2: — 3rd party card.
+	card_code_text_3: — 3rd party card.
+	copyright: 
+	copyright_2: 
+	copyright_3: 

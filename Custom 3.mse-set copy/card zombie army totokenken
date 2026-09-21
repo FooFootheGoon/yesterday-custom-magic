@@ -1,0 +1,25 @@
+﻿mse_version: 2.5.7
+card:
+	stylesheet: m15-mainframe-tokens
+	stylesheet_version: 2025-01-11
+	has_styling: false
+	notes: 
+	time_created: 2025-04-18 19:41:47
+	time_modified: 2026-02-23 16:35:58
+	card_color: black
+	name: Zombie Army Totokenken
+	image: image116.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Token | ◌̵  Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Zombie,</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Army</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	power: 0
+	toughness: 0
+	illustrator: Sandara Tang
+	card_code_text: — 3rd party token.
+	card_code_text_2: 
+	card_code_text_3: 

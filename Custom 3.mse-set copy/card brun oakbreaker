@@ -1,0 +1,39 @@
+﻿mse_version: 2.5.7
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 1
+		chop_bottom: 
+		frames: puma, universes beyond
+		other_options: auto nyx crowns
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2024-11-03 19:24:22
+	time_modified: 2026-02-25 01:59:58
+	card_color: blue, red, green, multicolor, vertical
+	name: Brun, Oakbreaker
+	casting_cost: 2U/RGG
+	image: image199
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary ◌̵  Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Bear,</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Berserker,</word-list-class-en><atom-sep> </atom-sep><word-list-class-en>Hero</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text: <i>Scarcaster</i> — Whenever you cast a  Sorcery spell; Until end of turn ↦ Brun gets +1/+0. He fights up to one target Creature.
+	flavor_text: <i-flavor></i-flavor>
+	watermark: custom watermark three
+	power: 3
+	toughness: 5
+	card_stamp: universes beyond
+	illustrator: League of Geeks
+	additional_credit_2: Armello
+	additional_credit_brush_2: flavor
+	card_code_text: — 3rd party card.
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

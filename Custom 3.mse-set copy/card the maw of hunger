@@ -1,0 +1,41 @@
+﻿mse_version: 2.5.7
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 1
+		chop_bottom: 1
+		frames: 
+		other_options: auto nyx crowns
+		legend_crown: standard
+		hybrid_name: hybrid
+		text_box_mana_symbols: magic-mana-large.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: https://www.artstation.com/artwork/RnPWm
+	time_created: 2023-11-18 11:04:05
+	time_modified: 2026-02-23 20:40:58
+	card_color: white, black, red, artifact, horizontal
+	name: The Maw of Hunger
+	casting_cost: 2/RW/BW/B
+	transformation: extra tragedy
+	image: image50
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary ◌̵  Artefact</word-list-type-en>
+	sub_type: 
+	rarity: mythic rare
+	rule_text:
+		If a Creature would die ⇨ Instead exile it.
+		As long as there are ten or more Creature cards  which are exiled with The Maw of Hunger ↦ At the beginning of your upkeep; Sacrifice it, and create a token named <u>Srai, the Ashen God</u>, which is a red |Legendary ◌̵  Creature — Skeleton, God| </sym>10/10<sym>, which has “Firebreathing”, “<kw-a><nospellcheck><key>Haste</key></nospellcheck></kw-a>”, “Trailblazer”, and “<kw-a><nospellcheck><key>Trample</key></nospellcheck></kw-a>”. <i-auto>(A Creature which has “Firebreathing” has <i>“<sym>R</sym>: Until end of turn ↦ This Creature gets +1/+0”. As long as a Creature which has “Trailblazer” is attacking ↦ Defending player can’t block, unless they block that Creature.)</i-auto></i>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Finnian MacManus
+	additional_credit_2: Finnian MacManus
+	additional_credit_brush_2: flavor
+	partition_select: after main set Z
+	card_code_text: — 3rd party card.
+	card_code_text_2: — 3rd party card.
+	card_code_text_3: — 3rd party card.
+	copyright: 
+	copyright_2: 
+	copyright_3: 

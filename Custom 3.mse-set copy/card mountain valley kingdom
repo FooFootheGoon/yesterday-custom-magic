@@ -1,0 +1,34 @@
+﻿mse_version: 2.5.7
+card:
+	has_styling: false
+	notes: https://www.artstation.com/artwork/Ze3ryZ
+	time_created: 2023-11-19 09:05:30
+	time_modified: 2026-02-24 22:13:30
+	card_color: white, blue, red, green, land, horizontal
+	name: Mountain Valley Kingdom
+	image: image73
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>◌̵  Land</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-land>Mountain,</word-list-land><atom-sep> </atom-sep><word-list-land>Forest,</word-list-land><atom-sep> </atom-sep><word-list-land>Plains,</word-list-land><atom-sep> </atom-sep><word-list-land>Island</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: uncommon
+	rule_text:
+		<i-auto>(<sym-auto>T</sym-auto>: Add <sym-auto>R</sym-auto>, <sym-auto>G</sym-auto>, <sym-auto>W</sym-auto>, or <sym-auto>U</sym-auto>.)</i-auto>
+		During your untap step ↦⇨ This Land doesn’t untap.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Laszlo Pinter (Las Pinter)
+	additional_credit_2: Laszlo Pinter (Las Pinter)
+	additional_credit_brush_2: flavor
+	card_code_text: — 3rd party card.
+	card_code_text_2: — 3rd party card.
+	card_code_text_3: — 3rd party card.
+	copyright: 
+	copyright_2: 
+	copyright_3: 

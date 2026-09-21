@@ -1,9 +1,18 @@
 ﻿mse_version: 2.5.7
 card:
-	has_styling: false
+	has_styling: true
+	styling_data:
+		chop_top: 2
+		chop_bottom: 2
+		frames: 
+		custom_border_source: 
+		other_options: auto nyx crowns
+		text_box_mana_symbols: magic-mana-large.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
 	notes: https://aldo-art.com/ghostall
 	time_created: 2025-04-24 19:27:34
-	time_modified: 2026-02-26 15:05:49
+	time_modified: 2026-09-21 21:36:29
 	name: They What Became Bulwarks
 	casting_cost: 2GW
 	transformation: extra comedy
@@ -11,7 +20,7 @@ card:
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
-	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type: <word-list-type-en>◌̵  Creature</word-list-type-en>
 	super_type_2: <word-list-type-en></word-list-type-en>
 	super_type_3: <word-list-type-en></word-list-type-en>
 	super_type_4: <word-list-type-en></word-list-type-en>
@@ -21,14 +30,13 @@ card:
 	sub_type_4: 
 	rarity: rare
 	rule_text:
-		<sym-auto>G/W</sym-auto>: Shield <kw-a><nospellcheck><key>monstrosity <param-number>1</param-number></key></nospellcheck></kw-a> <i-auto>(If this isn’t Monstrous, put a <kw-a><nospellcheck><key>Shield counter</key></nospellcheck></kw-a> on it, and it becomes Monstrous.)</i-auto>
-		<sym-auto>G/WG/W</sym-auto>: Ward <kw-a><nospellcheck><key>monstrosity <param-number>2</param-number></key></nospellcheck></kw-a> <i-auto>(If this isn’t Monstrous, put two “Ward” counters on it, and it becomes Monstrous. It has two instances of <kw-a><nospellcheck><key>Ward <param-cost><sym-auto>1</sym-auto></param-cost></key></nospellcheck></kw-a>.)</i-auto>
-		<sym-auto>G/WG/WG/W</sym-auto>: Absorb <kw-a><nospellcheck><key>monstrosity <param-number>3</param-number></key></nospellcheck></kw-a> <i-auto>(If this isn’t Monstrous, put three “Absorb” counters on it, and it becomes Monstrous. It has three instances of <kw-a><nospellcheck><key>Absorb <param-number>1</param-number></key></nospellcheck></kw-a>.)</i-auto>
+		<sym-auto>G/W</sym-auto>: <kw-a><nospellcheck><key>Hexproof</key></nospellcheck></kw-a> <kw-a><nospellcheck><key>Monstrosity <param-number>1</param-number></key></nospellcheck></kw-a> <i-auto>(As long as this Creature isn’t Monstrous ↦ Put a “<kw-a><nospellcheck><key>Hexproof</key></nospellcheck></kw-a>” counter on it, and it becomes Monstrous.)</i-auto>
+		<sym-auto>G/WG/W</sym-auto>: Shield <kw-a><nospellcheck><key>Monstrosity <param-number>2</param-number></key></nospellcheck></kw-a> <i-auto>(As long as this Creature isn’t Monstrous ↦ Put 2 <kw-a><nospellcheck><key>Shield counters</key></nospellcheck></kw-a> on it, and it becomes Monstrous. If it would be dealt damage or destroyed ⇨ Instead remove a <kw-a><nospellcheck><key>Shield counter</key></nospellcheck></kw-a> from it.)</i-auto>
+		<sym-auto>G/WG/WG/W</sym-auto>: Regeneration <kw-a><nospellcheck><key>Monstrosity <param-number>3</param-number></key></nospellcheck></kw-a> <i-auto>(As long as this Creature isn’t Monstrous ↦ Put 3 Regeneration counters on it, and it becomes Monstrous. If it would be destroyed ⇨ Instead tap it, remove it from combat, heal all damage on it, and remove a Regeneration counter from it.)</i-auto>
 	flavor_text: <i-flavor></i-flavor>
 	power: 7
 	toughness: 2
 	illustrator: Aldo Katayanagi
-	partition_select: after main set Z
 	card_code_text: — 3rd party card.
 	card_code_text_2: 
 	card_code_text_3: 

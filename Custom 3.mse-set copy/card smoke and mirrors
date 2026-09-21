@@ -1,0 +1,27 @@
+﻿mse_version: 2.5.7
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-04-04 17:07:05
+	time_modified: 2026-02-24 20:31:14
+	name: Smoke and Mirrors
+	casting_cost: U
+	image: image98.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>◌̵  Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text: <b>⇨ You may have this Enchantment enter tapped as a copy of any tapped |Enchantment, non-Creature| on the battlefield.</b>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Paul Konzen
+	card_code_text: — 3rd party card.
+	card_code_text_2: 
+	card_code_text_3: 

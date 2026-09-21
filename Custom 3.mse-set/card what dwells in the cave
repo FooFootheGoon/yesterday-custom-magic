@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: https://www.artstation.com/artwork/a06gmk
 	time_created: 2025-02-23 13:54:30
-	time_modified: 2026-09-19 18:08:54
+	time_modified: 2026-09-20 13:09:43
 	name: What Dwells in the Cave
 	casting_cost: 4RR
 	image: image151.png
@@ -28,7 +28,6 @@ card:
 	power: 4
 	toughness: 4
 	illustrator: Laszlo Pinter (Las Pinter)
-	partition_select: after main set Z
 	card_code_text: — 3rd party card.
 	card_code_text_2: 
 	card_code_text_3: 

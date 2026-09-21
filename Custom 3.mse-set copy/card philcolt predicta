@@ -1,0 +1,46 @@
+﻿mse_version: 2.5.7
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 1
+		chop_bottom: 
+		frames: universes beyond
+		other_options: auto nyx crowns
+		text_box_mana_symbols: magic-mana-large.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: https://www.youtube.com/watch?v=hhzP2Xzo6jg
+	time_created: 2023-11-23 20:34:32
+	time_modified: 2026-02-25 01:57:29
+	card_color: white, artifact, horizontal
+	name: Philcolt Predicta
+	casting_cost: 2WWW
+	image: image177
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>◌̵  Artefact, Creature</word-list-type-en>
+	sub_type: <word-list-race-en>ᶜHorse,</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>ᶜConstruct,</word-list-class-en><atom-sep> </atom-sep><word-list-class-en>ᶜHorror</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		If a Creature an opponent controls would die ⇨ Exile it instead. Whenever a Creature card becomes exiled this way; Choose one —
+		<li><bullet>• </bullet>This permanent’s base power and toughness become equal to that card’s power and toughness.
+		</li><li><bullet>• </bullet>Put a +1 counter on this permanent.</li>
+	flavor_text:
+		<i-flavor>Amplify your dying signal.<soft-line>
+		</soft-line>Discard your flesh prison.<soft-line>
+		</soft-line>Walk with us.</i-flavor>
+	watermark: custom watermark four
+	power: 2
+	toughness: 2
+	separator: flavor bar
+	card_stamp: universes beyond
+	illustrator: Jess Jackdaw
+	additional_credit_2: Jess Jackdaw
+	additional_credit_brush_2: flavor
+	card_code_text: — 3rd party card.
+	card_code_text_2: — 3rd party card.
+	card_code_text_3: — 3rd party card.
+	copyright: 
+	copyright_2: 
+	copyright_3: 

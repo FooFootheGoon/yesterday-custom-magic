@@ -1,0 +1,51 @@
+﻿mse_version: 2.5.7
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 3
+		frames: puma
+		legend_crown: standard
+		text_box_mana_symbols: magic-mana-large.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: https://www.tumblr.com/ovopack/185429918620/tabibito
+	time_created: 2025-10-16 12:49:30
+	time_modified: 2026-02-24 22:09:45
+	extra_data:
+		magic-m15-altered:
+			vorthos_box: Asmoth’s Theros
+	name: Miatros, Champion of Pharika
+	casting_cost: 1GU
+	transformation: extra comedy
+	image: image232
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary ◌̵  Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Mouse,</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Artificer,</word-list-class-en><atom-sep> </atom-sep><word-list-class-en>Cleric</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		<kw-a><i-auto><nospellcheck><key>Corrupted</key></nospellcheck></i-auto></kw-a> — As long as an opponent has three or more Poison counters ↦ During each of those players’ untap steps ↦ Untap Miatros.
+		<sym-auto>T</sym-auto>: <kw-a><nospellcheck><key>Regenerate</key></nospellcheck></kw-a> target Creature.
+		<sym-auto>T</sym-auto>: Put a “Firebreathing” counter on target Creature. <i-auto>(It has “<sym-auto>R</sym-auto>: Until end of turn ↦ This Creature gets +1/+0”.)</i-auto>
+		<b><kw-a><nospellcheck><key>Partner</key></nospellcheck></kw-a>—Nyxchange</b> <i-auto>(You can have two Commanders if both have this ability.)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	watermark: none
+	power: 0
+	toughness: 2
+	card_stamp: universes beyond
+	illustrator: ovopack
+	additional_credit_2: Coodles
+	additional_credit_brush_2: flavor
+	card_code_text: — 3rd party card.
+	card_code_text_2: 
+	card_code_text_3: 

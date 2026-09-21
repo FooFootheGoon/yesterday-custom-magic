@@ -1,0 +1,33 @@
+﻿mse_version: 2.5.7
+card:
+	has_styling: false
+	notes: https://www.artstation.com/artwork/g8JEre
+	time_created: 2023-11-18 20:27:21
+	time_modified: 2026-02-24 20:30:56
+	name: Make Haste
+	casting_cost: R
+	image: image58
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>◌̵  Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: uncommon
+	rule_text:
+		<b>⇨ This Enchantment enters with two “<kw-a><nospellcheck><key>Haste</key></nospellcheck></kw-a>” counters on it.</b>
+		<sym-auto>T</sym-auto>: Move a “<kw-a><nospellcheck><key>Haste</key></nospellcheck></kw-a>” counter from this Enchantment onto target Creature.
+		<sym-auto>T</sym-auto>, Tap an untapped Creature you control: Move a “<kw-a><nospellcheck><key>Haste</key></nospellcheck></kw-a>” counter from the Creature tapped this way onto this Enchantment.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Andrew Porter
+	card_code_text: — 3rd party card.
+	card_code_text_2: — 3rd party card.
+	card_code_text_3: — 3rd party card.
+	copyright: 
+	copyright_2: 
+	copyright_3: 

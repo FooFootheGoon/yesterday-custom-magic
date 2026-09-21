@@ -1,0 +1,49 @@
+﻿mse_version: 2.5.7
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 1
+		chop_bottom: 
+		frames: puma, universes beyond
+		other_options: pokemon evobar, auto nyx crowns
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: https://killsixbilliondemons.com/comic/wielder-of-names-1-8/
+	time_created: 2023-11-17 12:32:52
+	time_modified: 2026-05-19 22:35:57
+	card_color: colorless
+	name: White Chain, Disembodied
+	alias: "White Chain", "82 White Chain Born in Emptiness Returns to Subdue Evil"
+	casting_cost: CCWU
+	transformation: extra comedy
+	image: image10
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary ◌̵  Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Angel</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: mythic rare
+	rule_text:
+		<kw-0><nospellcheck><key><b>Devoid</b></key></nospellcheck></kw-0> <i-auto>(This card has no colour.)</i-auto>
+		<kw-0><i-auto><nospellcheck><key>Addendum</key></nospellcheck></i-auto></kw-0> — As long as it’s your main phase ↦ Whenever you cast an Instant spell; Draw a card, then discard a card. Triggers only once each phase.>
+		<i>Exordium</i> — As long as it’s not your main phase ↦ Whenever you cast a non-Instant spell; Draw four cards, then discard three cards. Triggers only once each turn cycle.> <i-auto>(For example, if it triggers on an opponent’s turn, <i>it doesn’t trigger again until that<soft-line></i-auto>
+		</soft-line>player’s next turn.)</i>
+	flavor_text: <i-flavor></i-flavor>
+	watermark: custom watermark two
+	power: 3
+	toughness: 3
+	card_stamp: universes beyond
+	illustrator: Abbadon
+	additional_credit_2: Kill Six Billion Demons
+	additional_credit_brush_2: flavor
+	card_code_text: — 3rd party card.
+	card_code_text_2: — 3rd party card.
+	card_code_text_3: — 3rd party card.
+	copyright: 
+	copyright_2: 
+	copyright_3: 
