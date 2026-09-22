@@ -2,26 +2,25 @@
 card:
 	has_styling: false
 	notes: 
-	time_created: 2026-09-21 22:27:27
-	time_modified: 2026-09-21 22:35:11
-	card_color: artifact
+	time_created: 2026-09-21 22:34:40
+	time_modified: 2026-09-21 22:49:30
 	name: . WIP
-	casting_cost: X2
 	image: 
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
-	super_type: <word-list-type-en>◌̵  Artefact</word-list-type-en>
+	super_type: <word-list-type-en>◌̵  </word-list-type-en>
 	super_type_2: <word-list-type-en></word-list-type-en>
 	super_type_3: <word-list-type-en></word-list-type-en>
 	super_type_4: <word-list-type-en></word-list-type-en>
-	sub_type: Equipment
+	sub_type: 
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
 	rule_text:
-		<kw-0><nospellcheck><key><b>Ravenous</key></nospellcheck></kw-0> Hone</b> <i-auto>(This Artefact enters with X Hone counters. ↦ As long as X is 5 or more ⇨ When it enters; Draw a card. Each Hone counter on an Equipment grants +1/+0 to Equipped Creature.)</i-auto>
-		Equip
+		<b>This permanent enters tapped</b>
+		<b><kw-a><nospellcheck><key>Ravenous</key></nospellcheck></kw-a> Stun</b> <i-auto>(This Artefact enters with X <kw-a><nospellcheck><key>Stun counte<param-*s>rs</param-*s></key></nospellcheck></kw-a>. As long as X is 5 or more ↦ When it enters; Draw a card. If a permanent with a <kw-a><nospellcheck><key>Stun counte<param-*s>r</param-*s></key></nospellcheck></kw-a> would become untapped ⇨ Remove one from it instead.)</i-auto>
+		As long as <atom-cardname><nospellcheck>. WIP</nospellcheck></atom-cardname> is tapped ↦ some benefit
 	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 
 	card_code_text_2: 

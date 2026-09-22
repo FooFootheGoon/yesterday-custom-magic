@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.7
+card:
+	has_styling: false
+	notes: 
+	time_created: 2026-09-22 08:56:41
+	time_modified: 2026-09-22 21:45:26
+	name: . WIP / Banal Banshee
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>◌̵  Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Spirit</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<b>Bandit</b>
+		<kw-a><nospellcheck><key>Banding</key></nospellcheck></kw-a>
+		When ...; Ban target card in a graveyard. Its owner creates a <u>Bane token</u>.
+		When <atom-cardname><nospellcheck>. WIP / Banal Banshee</nospellcheck></atom-cardname> dies; Bank it.
+	flavor_text: <i-flavor></i-flavor>
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

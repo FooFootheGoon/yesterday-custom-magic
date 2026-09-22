@@ -51,6 +51,13 @@ styling:
 	magic-m15-future:
 		text_box_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
+	magic-m15-leveler:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	magic-m15-leveler-improved:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
 	magic-m15-mainframe-dfc:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
@@ -442,7 +449,7 @@ include_file: card they what became observers
 include_file: card mountain desert town
 include_file: card wip.1
 include_file: card reveal the story of your evil deeds
-include_file: card wip.2
+include_file: card ox beast avatar
 include_file: card unmaking and remaking yourself as god
 include_file: card they what became bulwarks
 include_file: card achilles bartrax
@@ -459,7 +466,7 @@ include_file: card briammos that one pegasus
 include_file: card contaminous segovian octoskull
 include_file: card encroaching stormlands
 include_file: card overseer of scales
-include_file: card wip.3
+include_file: card wip.2
 include_file: card hastet-om
 include_file: card dimly-lit walkway
 include_file: card mysteriously-shaped fungus
@@ -473,7 +480,7 @@ include_file: card gog-agog bearer of the word beast
 include_file: card wip gog-agogs ult
 include_file: card incubus
 include_file: card jadis
-include_file: card wip.4
+include_file: card wip.3
 include_file: card jagganoth
 include_file: card lucky felicia door opener
 include_file: card xand  nxor painter  bodyguard
@@ -514,17 +521,18 @@ include_file: card monkey
 include_file: card etlin da
 include_file: card firestorm the artist
 include_file: card alien demon cat
+include_file: card wip.4
+include_file: card wip  they what
 include_file: card wip.5
-include_file: card they what
 include_file: card wip.6
 include_file: card wip.7
 include_file: card wip.8
 include_file: card wip.9
 include_file: card wip.10
 include_file: card wip.11
+include_file: card wip  they what.1
+include_file: card wip  they what.2
 include_file: card wip.12
-include_file: card they what.1
-include_file: card they what.2
 include_file: card wip.13
 include_file: card wip.14
 include_file: card wip.15
@@ -533,6 +541,11 @@ include_file: card wip.17
 include_file: card wip.18
 include_file: card wip.19
 include_file: card wip.20
+include_file: card wip.21
+include_file: card wip.22
+include_file: card wip  banal banshee
+include_file: card wip  ghost in the machine ii
+include_file: card wip.23
 keyword:
 	keyword: 
 	match: 

@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.7
+card:
+	stylesheet: m15-leveler
+	stylesheet_version: 2024-06-07
+	has_styling: false
+	notes: 
+	time_created: 2026-09-22 09:27:36
+	time_modified: 2026-09-22 11:46:25
+	name: . WIP
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>◌̵  </word-list-type-en>
+	sub_type: 
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: Increment Level <i-auto>(As long as the amount of mana spent to cast a spell is greater than this Creature’s level|Whenever you cast that spell; Put a level counter on this Creature)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	power_2: 2
+	power_3: 3
+	toughness: 1
+	toughness_2: 2
+	toughness_3: 3
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

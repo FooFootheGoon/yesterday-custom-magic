@@ -2,15 +2,14 @@
 card:
 	has_styling: false
 	notes: 
-	time_created: 2026-09-21 22:47:45
-	time_modified: 2026-09-21 22:52:20
+	time_created: 2026-09-21 22:54:30
+	time_modified: 2026-09-21 22:56:02
 	name: . WIP
-	casting_cost: 1WBG
 	image: 
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
-	super_type: <word-list-type-en>◌̵  Kindred, Sorcery</word-list-type-en>
+	super_type: <word-list-type-en>◌̵  Creature</word-list-type-en>
 	super_type_2: <word-list-type-en></word-list-type-en>
 	super_type_3: <word-list-type-en></word-list-type-en>
 	super_type_4: <word-list-type-en></word-list-type-en>
@@ -19,9 +18,9 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rule_text:
-		<kw-a><nospellcheck><key>Prowl <param-cost><sym-auto>1W</sym-auto></param-cost></key></nospellcheck></kw-a>
-		<kw-a><nospellcheck><key>Freerunning <param-cost><sym-auto>1BG</sym-auto></param-cost></key></nospellcheck></kw-a>
-		Destroy target non-Land permanent.
+		<kw-1><nospellcheck><key>Undaunted</key></nospellcheck><atom-reminder-expert> <i-auto>(This spell costs <sym>1</sym> less to cast for each opponent.)</i-auto></atom-reminder-expert></kw-1>
+		Daunt
+		Whenever this Creature attacks; Until end of turn|Target Creature gets -X/-0, where X is the number of opponents you have.
 	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 
 	card_code_text_2: 

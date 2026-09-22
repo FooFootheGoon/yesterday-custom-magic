@@ -11,7 +11,7 @@ card:
 		overlay: 
 	notes: https://www.deviantart.com/mr-ripley/art/Awakening-642267538
 	time_created: 2023-11-19 21:53:21
-	time_modified: 2026-02-24 22:12:58
+	time_modified: 2026-09-22 21:50:15
 	card_color: white, artifact, horizontal
 	name: Haunted House
 	casting_cost: 3W
@@ -24,7 +24,7 @@ card:
 	rarity: rare
 	rule_text:
 		When this Artefact enters; Tap all Creatures.
-		Whenever a Creature becomes tapped; It becomes Exerted. <i-auto>(During the next untap step of an Exerted permanent’s controller ↦⇨ The Exerted permanent won’t untap.)</i-auto>
+		Whenever a Creature becomes tapped; It becomes Exerted. <i-auto>(During the next untap step of an Exerted permanent’s controller ↦ The Exerted permanent won’t untap.)</i-auto>
 		<sym-auto>3W</sym-auto>: Untap target Creature. Activate at sorcery speed.>
 	flavor_text:
 		<i-flavor>It leaves all the local kiddies in fright.<soft-line>

@@ -12,7 +12,7 @@ card:
 		overlay: 
 	notes: https://www.youtube.com/watch?v=U2QR88a8Y6s
 	time_created: 2023-11-23 21:43:15
-	time_modified: 2026-02-25 01:57:06
+	time_modified: 2026-09-22 21:50:58
 	card_color: white, blue, red, hybrid, vertical
 	name: Malignant Brainburg
 	casting_cost: UU2/R2/W
@@ -26,7 +26,7 @@ card:
 	rule_text:
 		<kw-a><nospellcheck><key>Defender</key></nospellcheck></kw-a>
 		<i>Befuddling Ballad </i>— When this Creature enters; <kw-0><nospellcheck><key>Goad</key></nospellcheck></kw-0> each untapped Creature which target player controls. <i-auto>(Until your next turn ↦ Those Creatures attack each combat if able, and attack a player other than you if able.)</i-auto>
-		<i>Envelope </i>— Whenever a goaded Creature deals combat damage to one of your opponents; Until this Creature leaves ↦ You may exile that Creature.
+		<i>Envelope </i>— Whenever a Goaded Creature deals combat damage to one of your opponents; Until this Creature leaves ↦ You may exile that Creature.
 	flavor_text:
 		<i-flavor>Sometimes, making intelligence your dump stat isn’t<soft-line>
 		</soft-line>always the best choice.</i-flavor>

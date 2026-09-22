@@ -2,8 +2,8 @@
 card:
 	has_styling: true
 	styling_data:
-		chop_top: 1
-		chop_bottom: 1
+		chop_top: 
+		chop_bottom: 
 		frames: puma, universes beyond
 		other_options: auto nyx crowns
 		font_cap: 10

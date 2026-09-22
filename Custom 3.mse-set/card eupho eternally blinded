@@ -13,7 +13,7 @@ card:
 		https://aldo-art.com/ghostall
 		 
 	time_created: 2025-04-06 13:32:45
-	time_modified: 2026-02-26 17:41:37
+	time_modified: 2026-09-22 21:51:59
 	card_color: blue, multicolor
 	name: Eupho, Eternally Blinded
 	alias: "It What Became Blind", "It What Became Wise".
@@ -33,7 +33,7 @@ card:
 	rarity: rare
 	rule_text:
 		<b>⇨ You may have Eupho enter tapped</b>.
-		During your untap step ↦⇨ Eupho doesn’t untap.
+		During your untap step ↦ Eupho doesn’t untap.
 		<sym>CU</sym>, <sym>Q</sym>, Exile a spell you control <i-auto>(it doesn’t resolve)</i-auto>: Exile target Creature spell.
 		<sym-auto>CU</sym-auto>, <sym-auto>T</sym-auto>, Exile a Creature card from your hand, and from your graveyard: Copy target Sorcery spell. You<soft-line>
 		</soft-line>may choose new targets for the copy.

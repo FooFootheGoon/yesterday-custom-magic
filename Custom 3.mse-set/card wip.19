@@ -2,27 +2,26 @@
 card:
 	has_styling: false
 	notes: 
-	time_created: 2026-09-21 22:56:33
-	time_modified: 2026-09-21 23:00:23
+	time_created: 2026-09-21 23:04:58
+	time_modified: 2026-09-21 23:07:19
 	name: . WIP
+	casting_cost: 3
 	image: 
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
-	super_type: <word-list-type-en>◌̵  Kindred, Land</word-list-type-en>
+	super_type: <word-list-type-en>◌̵  Sorcery</word-list-type-en>
 	super_type_2: <word-list-type-en></word-list-type-en>
 	super_type_3: <word-list-type-en></word-list-type-en>
 	super_type_4: <word-list-type-en></word-list-type-en>
-	sub_type: <word-list-race-en>Town</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type: <word-list-spell></word-list-spell>
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
 	rule_text:
-		<b>Bandit
-		This permanent enters tapped</b>
-		<kw-a><nospellcheck><key>Hideaway <param-number>4</param-number></key></nospellcheck></kw-a>
-		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
-		You may look at the exiled card. As long as it’s a Sorcery card|You may cast it as though it had Flashforward. The Flashforward cost is equal to its mana cost. <i-auto>(You may cast a card from exile for its Flashforward cost. Then put it on the bottom of its owner’s library.)</i-auto>
+		<kw-1><nospellcheck><key>Ripple <param-number>1</param-number></key></nospellcheck><atom-reminder-expert> <i-auto>(When you cast this spell; you may reveal the top<param-number></param-number> card of your library. You may cast any revealed cards with the same name as this spell without paying their mana costs. Put the rest on the bottom of your library.)</i-auto></atom-reminder-expert></kw-1>
+		You lose 1 life.
+		<b>Innumerable </b><i>(A deck can have any number of cards named <u><atom-cardname><nospellcheck>. WIP</nospellcheck></atom-cardname>.</u>)</i>
 	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 
 	card_code_text_2: 

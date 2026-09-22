@@ -2,25 +2,25 @@
 card:
 	has_styling: false
 	notes: 
-	time_created: 2026-09-21 22:34:40
-	time_modified: 2026-09-21 22:49:30
+	time_created: 2026-09-21 22:46:16
+	time_modified: 2026-09-22 08:26:15
 	name: . WIP
+	casting_cost: 0
 	image: 
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
-	super_type: <word-list-type-en>◌̵  </word-list-type-en>
+	super_type: <word-list-type-en>◌̵  Enchantment</word-list-type-en>
 	super_type_2: <word-list-type-en></word-list-type-en>
 	super_type_3: <word-list-type-en></word-list-type-en>
 	super_type_4: <word-list-type-en></word-list-type-en>
-	sub_type: 
+	sub_type: <word-list-enchantment></word-list-enchantment>
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
 	rule_text:
-		<b>This permanent enters tapped</b>
-		<b><kw-a><nospellcheck><key>Ravenous</key></nospellcheck></kw-a> Stun</b> <i-auto>(This Artefact enters with X <kw-a><nospellcheck><key>Stun counte<param-*s>rs</param-*s></key></nospellcheck></kw-a>. As long as X is 5 or more ↦ When it enters; Draw a card. If a permanent with a <kw-a><nospellcheck><key>Stun counte<param-*s>r</param-*s></key></nospellcheck></kw-a> would become untapped ⇨ Remove one from it instead.)</i-auto>
-		As long as <atom-cardname><nospellcheck>. WIP</nospellcheck></atom-cardname> is tapped ↦ some benefit
+		Ephemeral spell <i-auto>(When this spell becomes the target of a spell or ability; Counter it.)</i-auto>
+		<kw-1><nospellcheck><key>Buyback <param-cost><sym-auto>3</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(You may pay an additional <param-mana><sym-auto>3</sym-auto></param-mana> as you cast this spell. If you do, put this card into your hand as it resolves.)</i-auto></atom-reminder-expert></kw-1>
 	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 
 	card_code_text_2: 

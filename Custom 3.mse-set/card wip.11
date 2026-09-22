@@ -2,26 +2,26 @@
 card:
 	has_styling: false
 	notes: 
-	time_created: 2026-09-21 21:20:59
-	time_modified: 2026-09-21 21:24:35
+	time_created: 2026-09-21 21:22:09
+	time_modified: 2026-09-21 22:34:24
 	name: . WIP
-	casting_cost: 2R
+	casting_cost: 2WU
 	image: 
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
-	super_type: <word-list-type-en>◌̵  Sorcery</word-list-type-en>
+	super_type: <word-list-type-en>◌̵  Creature</word-list-type-en>
 	super_type_2: <word-list-type-en></word-list-type-en>
 	super_type_3: <word-list-type-en></word-list-type-en>
 	super_type_4: <word-list-type-en></word-list-type-en>
-	sub_type: <word-list-spell></word-list-spell>
+	sub_type: <word-list-race-en></word-list-race-en>
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
 	rule_text:
-		<kw-a><nospellcheck><key>Cascade</key></nospellcheck></kw-a>
-		<kw-a><i-auto><nospellcheck><key>Hellbent</key></nospellcheck></i-auto></kw-a> — As long as ... Split-second
-		<kw-a><nospellcheck><key>Splice onto <param-name>Creature</param-name> <param-cost><sym-auto>1RRR</sym-auto></param-cost></key></nospellcheck></kw-a>
+		<kw-a><nospellcheck><key>Demonstrate</key></nospellcheck></kw-a>
+		<i>Heaven sent </i>— As long as ... Can’t be countered
+		<kw-a><nospellcheck><key>Splice onto <param-name>Sorcery</param-name> <param-cost><sym-auto>1WWUU</sym-auto></param-cost></key></nospellcheck></kw-a>
 	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 
 	card_code_text_2: 

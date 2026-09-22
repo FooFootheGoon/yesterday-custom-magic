@@ -11,7 +11,7 @@ card:
 		overlay: 
 	notes: https://www.youtube.com/watch?v=rfLkSHXEtTk
 	time_created: 2023-11-23 23:47:07
-	time_modified: 2026-02-25 01:56:00
+	time_modified: 2026-09-22 21:50:33
 	name: G.E.E.S.E. 
 	alias: Gander of Eviscerating Edges, Sword-Enigma
 	casting_cost: 1WW
@@ -25,7 +25,7 @@ card:
 	rule_text:
 		<kw-a><nospellcheck><key>Indestructible</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>First strike</key></nospellcheck></kw-a>
 		Whenever Gander of Eviscerating Edges, Sword-Enigma deals combat damage; Create a <u><kw-a><nospellcheck><key>Food toke<param-*s>n</u></param-*s></key></nospellcheck></kw-a> and put a +1 counter on G.E.E.S.E. <i-auto>(Gander of Eviscerating Edges, Sword-Enigma.)</i-auto>
-		As long as you control a ᵃFood ↦ G.E.E.S.E. loses “<kw-a><nospellcheck><key>Indestructible</key></nospellcheck></kw-a>”. During your untap step ↦⇨ It doesn’t untap.
+		As long as you control a ᵃFood ↦ G.E.E.S.E. loses “<kw-a><nospellcheck><key>Indestructible</key></nospellcheck></kw-a>”. During your untap step ↦ It doesn’t untap.
 	flavor_text: <i-flavor></i-flavor>
 	watermark: custom watermark four
 	power: 1

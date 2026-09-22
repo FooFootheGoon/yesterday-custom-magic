@@ -2,9 +2,10 @@
 card:
 	has_styling: false
 	notes: 
-	time_created: 2026-09-21 21:20:17
-	time_modified: 2026-09-21 21:24:32
+	time_created: 2026-09-21 21:20:59
+	time_modified: 2026-09-21 21:24:35
 	name: . WIP
+	casting_cost: 2R
 	image: 
 	image_2: 
 	mainframe_image: 
@@ -18,8 +19,9 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rule_text:
-		Paradigm
-		<kw-a><i-auto><nospellcheck><key>Paradox</key></nospellcheck></i-auto></kw-a> — For each spell you’ve cast this turn from anywhere other than your hand ...
+		<kw-a><nospellcheck><key>Cascade</key></nospellcheck></kw-a>
+		<kw-a><i-auto><nospellcheck><key>Hellbent</key></nospellcheck></i-auto></kw-a> — As long as ... Split-second
+		<kw-a><nospellcheck><key>Splice onto <param-name>Creature</param-name> <param-cost><sym-auto>1RRR</sym-auto></param-cost></key></nospellcheck></kw-a>
 	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 
 	card_code_text_2: 

@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: https://www.artstation.com/artwork/ZlZdvR
 	time_created: 2026-02-23 16:47:14
-	time_modified: 2026-02-24 22:13:11
+	time_modified: 2026-09-22 21:50:22
 	name: Encroaching Stormlands
 	image: image141.png
 	image_2: 
@@ -20,7 +20,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<b>⇨ This Land enters tapped.</b>
-		During your untap step ↦⇨ This Land doesn’t untap.
+		During your untap step ↦ This Land doesn’t untap.
 		During each opponent’s untap step ↦ Untap this Land.
 		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
 	flavor_text: <i-flavor></i-flavor>

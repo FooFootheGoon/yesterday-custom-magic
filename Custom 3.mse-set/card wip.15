@@ -2,25 +2,26 @@
 card:
 	has_styling: false
 	notes: 
-	time_created: 2026-09-21 22:46:16
-	time_modified: 2026-09-21 22:49:34
+	time_created: 2026-09-21 22:47:45
+	time_modified: 2026-09-21 22:52:20
 	name: . WIP
-	casting_cost: 0
+	casting_cost: 1WBG
 	image: 
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
-	super_type: <word-list-type-en>◌̵  Enchantment</word-list-type-en>
+	super_type: <word-list-type-en>◌̵  Kindred, Sorcery</word-list-type-en>
 	super_type_2: <word-list-type-en></word-list-type-en>
 	super_type_3: <word-list-type-en></word-list-type-en>
 	super_type_4: <word-list-type-en></word-list-type-en>
-	sub_type: <word-list-enchantment></word-list-enchantment>
+	sub_type: <word-list-race-en></word-list-race-en>
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
 	rule_text:
-		Ephemeral spell <i-auto>(When this spell becomes the target of a spell of ability; Counter it.)</i-auto>
-		<kw-1><nospellcheck><key>Buyback <param-cost><sym-auto>3</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(You may pay an additional <param-mana><sym-auto>3</sym-auto></param-mana> as you cast this spell. If you do, put this card into your hand as it resolves.)</i-auto></atom-reminder-expert></kw-1>
+		<kw-a><nospellcheck><key>Prowl <param-cost><sym-auto>1W</sym-auto></param-cost></key></nospellcheck></kw-a>
+		<kw-a><nospellcheck><key>Freerunning <param-cost><sym-auto>1BG</sym-auto></param-cost></key></nospellcheck></kw-a>
+		Destroy target non-Land permanent.
 	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 
 	card_code_text_2: 
