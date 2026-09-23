@@ -11,9 +11,9 @@ card:
 		overlay: 
 	notes: https://www.youtube.com/watch?v=rfLkSHXEtTk
 	time_created: 2023-11-23 23:47:07
-	time_modified: 2026-09-22 21:50:33
+	time_modified: 2026-09-23 10:13:38
 	name: G.E.E.S.E. 
-	alias: Gander of Eviscerating Edges, Sword-Enigma
+	alias: "Gander of Eviscerating Edges, Sword-Enigma"
 	casting_cost: 1WW
 	image: image187
 	image_2: 

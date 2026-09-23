@@ -11,7 +11,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2025-04-06 04:14:12
-	time_modified: 2025-04-24 21:57:28
+	time_modified: 2026-09-22 22:09:17
 	name: Heath, the Hoodwinker
 	casting_cost: 1BB
 	image: image39.png
@@ -28,8 +28,8 @@ card:
 	sub_type_4: 
 	rarity: rare
 	rule_text:
-		<sym>4U</sym>, <sym>T</sym>: <kw-a><nospellcheck><key>Scry <param-number>4</param-number></key></nospellcheck></kw-a>, then <kw-a><nospellcheck><key>clash</key></nospellcheck></kw-a> with an opponent. Activate at sorcery speed.> <i-auto>(Each clashing player reveals the top card of their library, then puts that card on the top or bottom. A player wins if their card had a higher mana value.)</i-auto>
-		Whenever you win a <kw-a><nospellcheck><key>clash</key></nospellcheck></kw-a>; You get an experience counter. Then you draw cards and lose life equal to the number of experience counters you have.
+		<sym>4U</sym>, <sym>T</sym>: <kw-a><nospellcheck><key>Scry <param-number>4</param-number></key></nospellcheck></kw-a>, then <kw-a><nospellcheck><key>Clash</key></nospellcheck></kw-a> with an opponent. Activate at sorcery speed.> <i-auto>(Each Clashing player reveals the top card of their library, then puts that card on the top or bottom. A player wins if their card had a higher mana value.)</i-auto>
+		Whenever you win a <kw-a><nospellcheck><key>Clash</key></nospellcheck></kw-a>; You get an experience counter. Then you draw cards and lose life equal to the number of experience counters you have.
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 2

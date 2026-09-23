@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2026-02-23 16:54:29
-	time_modified: 2026-02-24 12:27:55
+	time_modified: 2026-09-23 10:08:48
 	name: Dimly-Lit Walkway
 	image: image138.png
 	image_2: 
@@ -23,6 +23,6 @@ card:
 		<kw-a><nospellcheck><key>Unearth <param-cost><sym-auto>0</sym-auto></param-cost></key></nospellcheck></kw-a>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Laszlo Pinter (Las Pinter)
-	card_code_text: 
+	card_code_text: — 3rd party card.
 	card_code_text_2: 
 	card_code_text_3: 

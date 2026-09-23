@@ -8,7 +8,7 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 	notes: https://www.avasdemon.com/pages.php#2181
 	time_created: 2023-11-21 16:57:09
-	time_modified: 2025-03-28 09:59:53
+	time_modified: 2026-09-23 09:49:06
 	name: Season of Frost
 	name_2: Season of Death
 	casting_cost: 1W/UW/U
@@ -29,6 +29,7 @@ card:
 		Destroy all tapped Creatures.
 	flavor_text: <i-flavor></i-flavor>
 	flavor_text_2: <i-flavor></i-flavor>
+	watermark_2: custom watermark one
 	card_stamp: universes beyond
 	illustrator: Michelle Fus
 	additional_credit_2: Ava's Demon

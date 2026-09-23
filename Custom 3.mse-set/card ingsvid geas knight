@@ -14,7 +14,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2026-09-19 12:00:00
-	time_modified: 2026-09-20 00:12:58
+	time_modified: 2026-09-23 10:11:02
 	card_color: blue, black, artifact, multicolor, horizontal
 	name: Ingsvid, Geas Knight
 	casting_cost: UB
@@ -35,11 +35,12 @@ card:
 		Whenever you choose names, put name counters on Creatures, or cast a colourless spell; <kw-a><nospellcheck><key>Surveil <param-number>1</param-number></key></nospellcheck></kw-a>.
 		<b><kw-a><nospellcheck><key>Partner</key></nospellcheck></kw-a>—Persuers </b><i>(You can have two Commanders if both have this ability.)</i>
 	flavor_text: <i-flavor></i-flavor>
+	watermark: custom watermark two
 	power: 1
 	toughness: 1
 	illustrator: Abbadon
 	additional_credit_2: Kill Six Billion Demons
 	additional_credit_brush_2: flavor
-	card_code_text: 
+	card_code_text: — 3rd party card.
 	card_code_text_2: 
 	card_code_text_3: 

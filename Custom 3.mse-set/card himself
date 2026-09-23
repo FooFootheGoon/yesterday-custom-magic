@@ -14,7 +14,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2026-08-19 11:00:00
-	time_modified: 2026-05-19 20:02:57
+	time_modified: 2026-09-23 10:10:20
 	card_color: artifact
 	name: Himself
 	casting_cost: CC/BB
@@ -37,11 +37,12 @@ card:
 		<kw-a><nospellcheck><key>Ward—<param-cost>For each counter on Himself, name a card</param-cost></key></nospellcheck></kw-a>
 		Whenever an opponent chooses names, or puts name counters on Creatures; That player loses that much life and you Surveil that many cards.
 	flavor_text: <i-flavor></i-flavor>
+	watermark: custom watermark two
 	power: 13
 	toughness: 13
 	illustrator: Abbadon
 	additional_credit_2: Kill Six Billion Demons
 	additional_credit_brush_2: flavor
-	card_code_text: 
+	card_code_text: — 3rd party card.
 	card_code_text_2: 
 	card_code_text_3: 

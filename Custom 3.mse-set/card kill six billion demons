@@ -8,13 +8,13 @@ card:
 		chop_bottom: 1
 		frames: puma
 		custom_border_source: 
-		other_options: pokemon evobar, auto nyx crowns
+		other_options: auto nyx crowns
 		text_box_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes: 
 	time_created: 2026-08-19 11:30:00
-	time_modified: 2026-09-20 00:18:50
+	time_modified: 2026-09-23 10:10:23
 	name: Kill Six Billion Demons
 	casting_cost: C/WC/WC/BC/B
 	image: image193.png
@@ -35,9 +35,10 @@ card:
 		</soft-line>   ╰ When you do, you win the<soft-line>
 		      </soft-line>game.
 	flavor_text: <i-flavor></i-flavor>
+	watermark: custom watermark two
 	illustrator: Abbadon
 	additional_credit_2: Kill Six Billion Demons
 	additional_credit_brush_2: flavor
-	card_code_text: 
+	card_code_text: — 3rd party card.
 	card_code_text_2: 
 	card_code_text_3: 

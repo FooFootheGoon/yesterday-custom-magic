@@ -8,13 +8,13 @@ card:
 		chop_bottom: 1
 		frames: puma
 		custom_border_source: 
-		other_options: pokemon evobar, auto nyx crowns
+		other_options: auto nyx crowns
 		text_box_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes: 
 	time_created: 2026-04-08 22:35:45
-	time_modified: 2026-09-22 11:29:42
+	time_modified: 2026-09-23 10:09:14
 	card_color: colorless
 	name: . WIP / A Continuous Cutting Motion
 	casting_cost: C/WR/WG/WW/B
@@ -36,9 +36,10 @@ card:
 		</b>Destroy three target Artefacts and/or Creatures.
 		Create a <u><kw-a><nospellcheck><key>Royal Role token</u></key></nospellcheck></kw-a> attached to another target Creature, which you control. <i-auto>(If you control another ᵉRole on it, put that one into the graveyard. Enchanted creature gets +1/+1 and has “<kw-a><nospellcheck><key>Ward <param-cost><sym-auto>1</sym-auto></param-cost></key></nospellcheck></kw-a>”.)</i-auto>
 	flavor_text: <i-flavor></i-flavor>
+	watermark: custom watermark two
 	illustrator: Abbadon
 	additional_credit_2: Kill Six Billion Demons
 	additional_credit_brush_2: flavor
-	card_code_text: 
+	card_code_text: — 3rd party card.
 	card_code_text_2: 
 	card_code_text_3: 

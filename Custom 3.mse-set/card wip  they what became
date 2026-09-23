@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.7
+card:
+	has_styling: false
+	notes: https://www.artstation.com/artwork/Qrnzx
+	time_created: 2026-09-21 20:49:54
+	time_modified: 2026-09-23 10:11:40
+	name: . WIP / They What Became ...
+	image: image197.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>◌̵  Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Shapeshifter,</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Spellshaper</word-list-class-en>  <soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		Power-up — <sym-auto>R</sym-auto>: Put X on this Creature. <i-auto>(Activate each Power-up ability only once. Reduce the cost by its mana cost if it entered this turn.)</i-auto>
+		Exhaust — <sym-auto>R</sym-auto>: <i-auto>(Activate each Exhaust ability only once.)</i-auto>
+		<sym-auto>R</sym-auto>: X Monstrosity N <i-auto>(As long as this Creature isn’t Monstrous ↦ Put N X counters on it, and it becomes Monstrous.)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Aldo Katayanagi
+	card_code_text: — 3rd party card.
+	card_code_text_2: 
+	card_code_text_3: 

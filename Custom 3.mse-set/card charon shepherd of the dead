@@ -14,7 +14,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2026-08-05 11:00:00
-	time_modified: 2026-09-19 21:31:17
+	time_modified: 2026-09-23 10:09:29
 	card_color: colorless
 	name: Charon, Shepherd of the Dead
 	casting_cost: 1B/GB/G
@@ -35,11 +35,12 @@ card:
 		<kw-a><nospellcheck><key><b>Devoid</b></key></nospellcheck></kw-a>, <b>Bandit</b> <i-auto>(In all zones ↦ This card has no colour, and is an <kw-a><nospellcheck><key>Outlaw</key></nospellcheck></kw-a>. ᶜᵏAssassins, ᶜᵏMercenaries, ᶜᵏPirates, ᶜᵏRogues, ᶜᵏVillains, and ᶜᵏWarlocks are also <kw-a><nospellcheck><key>Outlaws</key></nospellcheck></kw-a>.)</i-auto>
 		<i>Wielder of Names —</i> Whenever you choose names, or put name counters on Creatures; Create a <u><kw-a><nospellcheck><key>Treasure toke<param-*s>n</u></param-*s></key></nospellcheck></kw-a>.
 	flavor_text: <i-flavor></i-flavor>
+	watermark: custom watermark two
 	power: 1
 	toughness: 3
 	illustrator: Abbadon
 	additional_credit_2: Kill Six Billion Demons
 	additional_credit_brush_2: flavor
-	card_code_text: 
+	card_code_text: — 3rd party card.
 	card_code_text_2: 
 	card_code_text_3: 

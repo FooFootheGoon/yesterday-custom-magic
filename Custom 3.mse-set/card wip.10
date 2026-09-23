@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2026-09-21 21:20:59
-	time_modified: 2026-09-21 21:24:35
+	time_modified: 2026-09-23 10:12:03
 	name: . WIP
 	casting_cost: 2R
 	image: 
@@ -20,9 +20,9 @@ card:
 	sub_type_4: 
 	rule_text:
 		<kw-a><nospellcheck><key>Cascade</key></nospellcheck></kw-a>
-		<kw-a><i-auto><nospellcheck><key>Hellbent</key></nospellcheck></i-auto></kw-a> — As long as ... Split-second
+		<kw-a><i-auto><nospellcheck><key>Hellbent</key></nospellcheck></i-auto></kw-a> — As long as ... Alacrity
 		<kw-a><nospellcheck><key>Splice onto <param-name>Creature</param-name> <param-cost><sym-auto>1RRR</sym-auto></param-cost></key></nospellcheck></kw-a>
 	flavor_text: <i-flavor></i-flavor>
-	card_code_text: 
+	card_code_text: — 3rd party card.
 	card_code_text_2: 
 	card_code_text_3: 

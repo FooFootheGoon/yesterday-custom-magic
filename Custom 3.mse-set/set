@@ -16,10 +16,10 @@ set_info:
 	automatic_reminder_text: custom
 	card_number_style: 001/099
 	default_stamp: standard
-	custom_watermark_1: data/magic-mainframe-extras/CWM-AvasDemon.png,Not found,Ensure the file name is correct in /data/magic-mainframe-extras and reload
-	custom_watermark_2: CWM-KSBD.png,Not found,Ensure the file name is correct in /data/magic-mainframe-extras and reload
-	custom_watermark_3: CWM-ArmelloLogo.png,Not found,Ensure the file name is correct in /data/magic-mainframe-extras and reload
-	custom_watermark_4: CWM-JessJackdaw.png,Not found,Ensure the file name is correct in /data/magic-mainframe-extras and reload
+	custom_watermark_1: AvasDemonWatermark.png,File found,248x255px
+	custom_watermark_2: KSBDWatermark.png,File found,117x150px
+	custom_watermark_3: ArmelloWatermark.png,File found,205x205px
+	custom_watermark_4: JessJackdawWatermark.png,File found,746x843px
 	custom_super_types: Instant
 	custom_creature_races: Time Lord,,
 styling:
@@ -96,7 +96,7 @@ include_file: card cadaver cadaverer
 include_file: card being watched
 include_file: card sound master byte
 include_file: card make the pact
-include_file: card white chain disembodied
+include_file: card 82 white chain disembodied
 include_file: card stymie
 include_file: card inside and out
 include_file: card divinatory do-over
@@ -251,7 +251,7 @@ include_file: card omukade
 include_file: card madtrip
 include_file: card death shroud
 include_file: card kuo-toa psion
-include_file: card trick tree grick
+include_file: card trick
 include_file: card mourners mire
 include_file: card demon beastmaster
 include_file: card death shroud.1
@@ -479,15 +479,15 @@ include_file: card alma 1 rip-off artist
 include_file: card gog-agog bearer of the word beast
 include_file: card wip gog-agogs ult
 include_file: card incubus
-include_file: card jadis
+include_file: card jadis bearer of the word mind
 include_file: card wip.3
-include_file: card jagganoth
+include_file: card jagganoth bearer of the word blade
 include_file: card lucky felicia door opener
 include_file: card xand  nxor painter  bodyguard
 include_file: card charon shepherd of the dead
 include_file: card suuze the acrobat
 include_file: card cat master obstacle remover
-include_file: card vigilant gaze
+include_file: card 10 vigilant gaze
 include_file: card wip  a continuous cutting motion
 include_file: card princess
 include_file: card yabalchoath
@@ -499,14 +499,14 @@ include_file: card zaid the heir
 include_file: card mammon bearer of the word tower
 include_file: card mottom bearer of the word glory
 include_file: card layla brimstone gun witch
-include_file: card white chain seeker of atonement
+include_file: card 82 white chain seeker of atonement
 include_file: card wip blood flower curse binding of immortal souls
 include_file: card aspected chaos the fool
 include_file: card oscar badstar leader
 include_file: card 1-11 mechanical specialist
 include_file: card kill six billion demons
-include_file: card white chain seeker of atonement.1
-include_file: card white chain in the flesh
+include_file: card 82 white chain seeker of atonement.1
+include_file: card 82 white chain in the flesh
 include_file: card mathangi mantra.1
 include_file: card eris-lo kai
 include_file: card hrotomos
@@ -522,7 +522,7 @@ include_file: card etlin da
 include_file: card firestorm the artist
 include_file: card alien demon cat
 include_file: card wip.4
-include_file: card wip  they what
+include_file: card wip  they what became
 include_file: card wip.5
 include_file: card wip.6
 include_file: card wip.7
@@ -530,8 +530,8 @@ include_file: card wip.8
 include_file: card wip.9
 include_file: card wip.10
 include_file: card wip.11
-include_file: card wip  they what.1
-include_file: card wip  they what.2
+include_file: card wip  they what became.1
+include_file: card they what became everything
 include_file: card wip.12
 include_file: card wip.13
 include_file: card wip.14

@@ -14,7 +14,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2026-08-19 13:30:00
-	time_modified: 2026-05-20 12:55:05
+	time_modified: 2026-09-23 10:10:40
 	name: Zaid, the Heir
 	alias: "Twin Sword Warrior"
 	casting_cost: 2WW
@@ -36,11 +36,12 @@ card:
 		At the beginning of each player’s upkeep; Until end of turn ↦ That player gains control of Zaid, he gains “<kw-a><nospellcheck><key>Haste</key></nospellcheck></kw-a>”, and he can’t attack his owner.
 		Whenever Zaid deals combat damage to a player; Choose target permanent. Zaid’s owner may remove a counter of their choice from it.
 	flavor_text: <i-flavor></i-flavor>
+	watermark: custom watermark two
 	power: 2
 	toughness: 2
 	illustrator: Abbadon
 	additional_credit_2: Kill Six Billion Demons
 	additional_credit_brush_2: flavor
-	card_code_text: 
+	card_code_text: — 3rd party card.
 	card_code_text_2: 
 	card_code_text_3: 

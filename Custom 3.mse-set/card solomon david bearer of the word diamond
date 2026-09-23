@@ -14,7 +14,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2026-08-12 13:30:00
-	time_modified: 2026-09-19 21:41:47
+	time_modified: 2026-09-23 10:10:10
 	name: Solomon David, Bearer of the word Diamond
 	alias: “God Emperor of the Celestial Empire”, “Grand Master of Ki Rata”
 	casting_cost: 2CGWU
@@ -38,11 +38,12 @@ card:
 		<sym-auto>1W</sym-auto>, Sacrifice Solomon David: Put an “<kw-a><nospellcheck><key>Indestructible</key></nospellcheck></kw-a>” counter and a ᶜᵏDemiurge counter on target Creature. <i-auto>(For as long as it has a ᶜᵏDemiurge counter ↦ It’s a ᶜDemiurge in addition to its other subtypes.)</i-auto> It gains “For each counter on this Creature ↦ It<soft-line>
 		</soft-line>gets +1/+1”.
 	flavor_text: <i-flavor></i-flavor>
+	watermark: custom watermark two
 	power: 0
 	toughness: 0
 	illustrator: Abbadon
 	additional_credit_2: Kill Six Billion Demons
 	additional_credit_brush_2: flavor
-	card_code_text: 
+	card_code_text: — 3rd party card.
 	card_code_text_2: 
 	card_code_text_3: 

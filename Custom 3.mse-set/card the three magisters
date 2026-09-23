@@ -14,7 +14,7 @@ card:
 		
 		There’s a bit of a tonal whiplash with this card being a really good counter to most of the KSBD cards, despite the characters being so inconsequential.
 	time_created: 2026-02-23 20:53:55
-	time_modified: 2026-02-25 22:26:57
+	time_modified: 2026-09-23 10:08:56
 	card_color: white, blue, black, multicolor, horizontal
 	name: The Three Magisters
 	alias: "Vax", "Ando", "/placeholder/"
@@ -38,11 +38,12 @@ card:
 		For each Creature card which is exiled with The Three Magisters ↦ Each other Creature has the names of that card <i-auto>(in addition to its other names)</i-auto>.
 		For each name which each Creature has, beyond the first ↦ It gets -1/-1.
 	flavor_text: <i-flavor></i-flavor>
+	watermark: custom watermark two
 	power: 6
 	toughness: 6
 	illustrator: Abbadon
 	additional_credit_2: Kill Six Billion Demons
 	additional_credit_brush_2: flavor
-	card_code_text: 
+	card_code_text: — 3rd party card.
 	card_code_text_2: 
 	card_code_text_3: 

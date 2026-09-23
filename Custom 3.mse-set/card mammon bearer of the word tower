@@ -14,7 +14,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2026-08-12 12:00:00
-	time_modified: 2026-05-19 20:52:59
+	time_modified: 2026-09-23 10:09:52
 	card_color: multicolor
 	name: Mammon, Bearer of the word Tower
 	alias:
@@ -39,11 +39,12 @@ card:
 		Each Artefact and Enchantment is an |Artefact — ᵃTreasure| in addition to its other types and subtypes, and has “<sym-auto>T</sym-auto>, Sacrifice this permanent: Add one mana of any colour”.
 		Whenever a player sacrifices an Artefact, put a count counter on Mammon.
 	flavor_text: <i-flavor></i-flavor>
+	watermark: custom watermark two
 	power: 0
 	toughness: 0
 	illustrator: Abbadon
 	additional_credit_2: Kill Six Billion Demons
 	additional_credit_brush_2: flavor
-	card_code_text: 
+	card_code_text: — 3rd party card.
 	card_code_text_2: 
 	card_code_text_3: 

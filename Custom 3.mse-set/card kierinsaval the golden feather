@@ -14,7 +14,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2026-09-19 12:30:00
-	time_modified: 2026-09-19 23:49:12
+	time_modified: 2026-09-23 10:11:07
 	name: Kierinsaval, the Golden Feather
 	casting_cost: RW
 	image: image187.png
@@ -34,11 +34,12 @@ card:
 		<i>Art of Lying to the Face of God —</i> Whenever you cast a colourless spell; Until end of turn ↦ Target Creature and each Creature that shares a name with it, gain “<kw-a><nospellcheck><key>First Strike</key></nospellcheck></kw-a>”.
 		<b><kw-a><nospellcheck><key>Partner</key></nospellcheck></kw-a>—Persuers </b><i>(You can have two Commanders if both have this ability.)</i>
 	flavor_text: <i-flavor></i-flavor>
+	watermark: custom watermark two
 	power: 2
 	toughness: 2
 	illustrator: Abbadon
 	additional_credit_2: Kill Six Billion Demons
 	additional_credit_brush_2: flavor
-	card_code_text: 
+	card_code_text: — 3rd party card.
 	card_code_text_2: 
 	card_code_text_3: 

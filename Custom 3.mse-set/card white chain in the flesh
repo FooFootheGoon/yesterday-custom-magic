@@ -14,7 +14,7 @@ card:
 		overlay: 
 	notes: Back side of "White Chain, Seeker of Atonement"
 	time_created: 2026-08-20 11:00:00
-	time_modified: 2026-09-19 21:45:49
+	time_modified: 2026-09-23 09:08:40
 	card_color: colorless
 	name: White Chain, in the Flesh
 	alias: "White Chain", "82 White Chain Born in Emptiness Returns to Subdue Evil"
@@ -42,6 +42,7 @@ card:
 		As long as White Chain is renowned ↦ She’s has “<kw-a><nospellcheck><key>Indestructible</key></nospellcheck></kw-a>”.
 		Damage that would be dealt to other Creatures which you control, is dealt to White Chain instead.
 	flavor_text: <i-flavor></i-flavor>
+	watermark: custom watermark two
 	power: 6
 	power_2: 
 	toughness: 8

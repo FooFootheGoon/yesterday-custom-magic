@@ -14,7 +14,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2026-08-19 10:00:00
-	time_modified: 2026-09-19 21:50:06
+	time_modified: 2026-09-23 10:10:13
 	card_color: colorless
 	name: Aspected Chaos: The Fool
 	alias: "Allison", "Cio", "White Chain"
@@ -38,11 +38,12 @@ card:
 		Aspected Chaos has all abilities of each card exiled with her.
 		<i>Cubit Spear </i>— <sym-auto>X</sym-auto>, <sym-auto>T</sym-auto>: Aspected Chaos deals twice X damage to any target.
 	flavor_text: <i-flavor></i-flavor>
+	watermark: custom watermark two
 	power: 9
 	toughness: 8
 	illustrator: Abbadon
 	additional_credit_2: Kill Six Billion Demons
 	additional_credit_brush_2: flavor
-	card_code_text: 
+	card_code_text: — 3rd party card.
 	card_code_text_2: 
 	card_code_text_3: 

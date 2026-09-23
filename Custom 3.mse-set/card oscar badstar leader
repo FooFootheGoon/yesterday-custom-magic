@@ -14,7 +14,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2026-08-05 12:00:00
-	time_modified: 2026-05-19 21:38:57
+	time_modified: 2026-09-23 10:09:34
 	card_color: colorless
 	name: Oscar, Badstar Leader
 	alias: "Dhuutholmel"
@@ -37,11 +37,12 @@ card:
 		When Dhuutholmel enters, and at the beginning of your upkeep; Target player <kw-a><nospellcheck><key><param-mill>mills</param-mill> <param-one_word>9</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>.
 		Whenever you commit a <kw-a><nospellcheck><key>crime</key></nospellcheck></kw-a> for the first time each turn; Look at the top 11 cards of your library. You may reveal an <kw-a><nospellcheck><key>Outlaw</key></nospellcheck></kw-a> card from among them and put it onto the battlefield. <i-auto>(ᶜᵏAssassins, ᶜᵏMercenaries, ᶜᵏPirates, ᶜᵏRogues, ᶜᵏVillains, and ᶜᵏWarlocks are <kw-0><nospellcheck><key>outlaws</key></nospellcheck></kw-0>.)</i-auto> You lose life equal to its mana value. Put the rest into your graveyard. 
 	flavor_text: <i-flavor></i-flavor>
+	watermark: custom watermark two
 	power: 5
 	toughness: 3
 	illustrator: Abbadon
 	additional_credit_2: Kill Six Billion Demons
 	additional_credit_brush_2: flavor
-	card_code_text: 
+	card_code_text: — 3rd party card.
 	card_code_text_2: 
 	card_code_text_3: 

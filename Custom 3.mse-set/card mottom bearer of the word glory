@@ -14,7 +14,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2026-08-12 13:00:00
-	time_modified: 2026-09-18 16:13:00
+	time_modified: 2026-09-23 10:10:06
 	card_color: multicolor
 	name: Mottom, Bearer of the word Glory
 	alias: “Nadia Om”, “The Blood Flower”, “Imperatix of the Gates of Fire”
@@ -37,11 +37,12 @@ card:
 		Each Land is an |Artefact — ᵃFood| in addition to its other types and subtypes, and has “<sym-auto>2</sym-auto>, <sym-auto>T</sym-auto>, Sacrifice this permanent: You gain 3 life”.
 		At the beginning of each player’s end step; That player sacrifices an Artefact, then you put a youth counter on Mottom.
 	flavor_text: <i-flavor></i-flavor>
+	watermark: custom watermark two
 	power: 0
 	toughness: 0
 	illustrator: Abbadon
 	additional_credit_2: Kill Six Billion Demons
 	additional_credit_brush_2: flavor
-	card_code_text: 
+	card_code_text: — 3rd party card.
 	card_code_text_2: 
 	card_code_text_3: 

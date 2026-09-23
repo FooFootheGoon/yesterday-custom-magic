@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2026-09-21 22:34:40
-	time_modified: 2026-09-21 22:49:30
+	time_modified: 2026-09-23 10:12:18
 	name: . WIP
 	image: 
 	image_2: 
@@ -22,6 +22,6 @@ card:
 		<b><kw-a><nospellcheck><key>Ravenous</key></nospellcheck></kw-a> Stun</b> <i-auto>(This Artefact enters with X <kw-a><nospellcheck><key>Stun counte<param-*s>rs</param-*s></key></nospellcheck></kw-a>. As long as X is 5 or more ↦ When it enters; Draw a card. If a permanent with a <kw-a><nospellcheck><key>Stun counte<param-*s>r</param-*s></key></nospellcheck></kw-a> would become untapped ⇨ Remove one from it instead.)</i-auto>
 		As long as <atom-cardname><nospellcheck>. WIP</nospellcheck></atom-cardname> is tapped ↦ some benefit
 	flavor_text: <i-flavor></i-flavor>
-	card_code_text: 
+	card_code_text: — 3rd party card.
 	card_code_text_2: 
 	card_code_text_3: 

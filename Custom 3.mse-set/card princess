@@ -14,7 +14,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2026-08-19 12:00:00
-	time_modified: 2026-09-19 22:55:18
+	time_modified: 2026-09-23 10:10:26
 	card_color: colorless
 	name: Princess
 	alias: “Mamoru”, “Moonshine”, “Jagermeister”, “Jack”, “Jack Daniels”, “Timothy”, “Tim”, “Bill”, “Freddy Mercury”, “Blueberry”, “Luna”, “Esquire”
@@ -37,11 +37,12 @@ card:
 		</b><sym>RG</sym>, Remove a counter from Princess: Until end of turn ↦ They get +2/+2 and gain “<kw-a><nospellcheck><key>Menace</key></nospellcheck></kw-a>”.
 		As long as Princess has only 1 name ↦ They get +6/+6 and have “<kw-a><nospellcheck><key>Menace</key></nospellcheck></kw-a>” and “<kw-a><nospellcheck><key>Trample</key></nospellcheck></kw-a>”.
 	flavor_text: <i-flavor></i-flavor>
+	watermark: custom watermark two
 	power: 1
 	toughness: 1
 	illustrator: Abbadon
 	additional_credit_2: Kill Six Billion Demons
 	additional_credit_brush_2: flavor
-	card_code_text: 
+	card_code_text: — 3rd party card.
 	card_code_text_2: 
 	card_code_text_3: 

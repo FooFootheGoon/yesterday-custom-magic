@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2026-09-21 23:04:58
-	time_modified: 2026-09-21 23:07:19
+	time_modified: 2026-09-23 10:12:36
 	name: . WIP
 	casting_cost: 3
 	image: 
@@ -23,6 +23,6 @@ card:
 		You lose 1 life.
 		<b>Innumerable </b><i>(A deck can have any number of cards named <u><atom-cardname><nospellcheck>. WIP</nospellcheck></atom-cardname>.</u>)</i>
 	flavor_text: <i-flavor></i-flavor>
-	card_code_text: 
+	card_code_text: — 3rd party card.
 	card_code_text_2: 
 	card_code_text_3: 

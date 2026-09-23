@@ -12,7 +12,7 @@ card:
 		overlay: 
 	notes: Front side of "White Chain, in the Flesh"
 	time_created: 2026-08-20 11:00:00
-	time_modified: 2026-05-20 00:21:49
+	time_modified: 2026-09-23 09:08:25
 	card_color: colorless
 	name: White Chain, Seeker of Atonement
 	alias: "White Chain", "82 White Chain Born in Emptiness Returns to Subdue Evil"
@@ -41,6 +41,7 @@ card:
 		     </soft-line>The “Legend rule” doesn’t apply to it.
 		As long as White Chain isn’t a token ↦ When an opponent is dealt damage by 2 different “White Chain” Creatures which you control, including this Creature; Exile them, then return this card to the battlefield, transformed, under your control.</soft-line>
 	flavor_text: <i-flavor></i-flavor>
+	watermark: custom watermark two
 	power: 3
 	power_2: 
 	toughness: 4

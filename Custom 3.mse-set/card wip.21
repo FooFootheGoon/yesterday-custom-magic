@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2026-09-22 08:53:30
-	time_modified: 2026-09-22 09:05:31
+	time_modified: 2026-09-23 10:12:43
 	name: . WIP
 	casting_cost: 2CCCC
 	image: 
@@ -22,6 +22,6 @@ card:
 		<kw-a><i-auto><nospellcheck><key>Chroma</key></nospellcheck></i-auto></kw-a> for colourless
 		<kw-a><i-auto><nospellcheck><key>Radiance</key></nospellcheck></i-auto></kw-a> for colourless
 	flavor_text: <i-flavor></i-flavor>
-	card_code_text: 
+	card_code_text: — 3rd party card.
 	card_code_text_2: 
 	card_code_text_3: 

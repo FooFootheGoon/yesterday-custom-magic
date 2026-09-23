@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2026-09-21 22:27:27
-	time_modified: 2026-09-21 22:35:11
+	time_modified: 2026-09-23 10:12:13
 	card_color: artifact
 	name: . WIP
 	casting_cost: X2
@@ -23,6 +23,6 @@ card:
 		<kw-0><nospellcheck><key><b>Ravenous</key></nospellcheck></kw-0> Hone</b> <i-auto>(This Artefact enters with X Hone counters. ↦ As long as X is 5 or more ⇨ When it enters; Draw a card. Each Hone counter on an Equipment grants +1/+0 to Equipped Creature.)</i-auto>
 		Equip
 	flavor_text: <i-flavor></i-flavor>
-	card_code_text: 
+	card_code_text: — 3rd party card.
 	card_code_text_2: 
 	card_code_text_3: 

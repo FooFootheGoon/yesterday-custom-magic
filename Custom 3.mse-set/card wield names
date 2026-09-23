@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2026-02-25 22:45:21
-	time_modified: 2026-09-20 01:10:07
+	time_modified: 2026-09-23 10:09:02
 	name: Wield Names
 	casting_cost: 3BB
 	image: image145.png
@@ -25,9 +25,10 @@ card:
 		     </soft-line>Creature has beyond the first ↦ Until end<soft-line>
 		     </soft-line>of turn ↦ That Creature gets -1/-1.
 	flavor_text: <i-flavor></i-flavor>
+	watermark: custom watermark two
 	illustrator: Abbadon
 	additional_credit_2: Kill Six Billion Demons
 	additional_credit_brush_2: flavor
-	card_code_text: 
+	card_code_text: — 3rd party card.
 	card_code_text_2: 
 	card_code_text_3: 

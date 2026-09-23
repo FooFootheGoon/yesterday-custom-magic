@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2026-09-21 22:56:33
-	time_modified: 2026-09-21 23:00:23
+	time_modified: 2026-09-23 10:12:33
 	name: . WIP
 	image: 
 	image_2: 
@@ -24,6 +24,6 @@ card:
 		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
 		You may look at the exiled card. As long as it’s a Sorcery card|You may cast it as though it had Flashforward. The Flashforward cost is equal to its mana cost. <i-auto>(You may cast a card from exile for its Flashforward cost. Then put it on the bottom of its owner’s library.)</i-auto>
 	flavor_text: <i-flavor></i-flavor>
-	card_code_text: 
+	card_code_text: — 3rd party card.
 	card_code_text_2: 
 	card_code_text_3: 
