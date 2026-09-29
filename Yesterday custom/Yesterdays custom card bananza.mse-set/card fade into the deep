@@ -1,0 +1,37 @@
+﻿mse_version: 2.5.7
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 1
+		chop_bottom: 1
+		frames: universes beyond
+		other_options: auto nyx crowns
+		text_box_mana_symbols: magic-mana-large.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: https://www.avasdemon.com/pages.php#2030
+	time_created: 2023-11-23 10:41:28
+	time_modified: 2026-02-25 02:03:53
+	name: Fade into the Deep
+	casting_cost: 4UUU
+	image: image151
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>◌̵  Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: uncommon
+	rule_text: Each non-Land permanent which you don’t control, <kw-0><nospellcheck><key>phases out</key></nospellcheck></kw-0>. <i-auto>(Until their controllers’ next turns ↦ Treat them and anything attached to them as though they don’t exist.)</i-auto>
+	flavor_text: <i-flavor>“Does she usually melt into seawater like this?”</i-flavor>
+	watermark: custom watermark one
+	separator: flavor bar
+	card_stamp: flatstamped universes beyond
+	illustrator: Michelle Fus
+	additional_credit_2: Ava's Demon
+	additional_credit_brush_2: flavor
+	card_code_text: — 3rd party card.
+	card_code_text_2: — 3rd party card.
+	card_code_text_3: — 3rd party card.
+	copyright: 
+	copyright_2: 
+	copyright_3: 

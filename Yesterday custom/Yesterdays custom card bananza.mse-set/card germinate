@@ -1,0 +1,39 @@
+﻿mse_version: 2.5.7
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 1
+		chop_bottom: 1
+		frames: 
+		other_options: auto nyx crowns
+		hybrid_name: hybrid
+		text_box_mana_symbols: magic-mana-large.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: https://www.artstation.com/artwork/X3Xrw
+	time_created: 2023-11-19 12:54:21
+	time_modified: 2026-02-23 19:51:41
+	name: Germinate
+	casting_cost: 1G/WG/W
+	transformation: extra comedy
+	image: image68
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>◌̵  Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: uncommon
+	rule_text:
+		<b>Cleave through spell</b> <sym>1GW</sym> <i-auto>(You may cast this spell for its Cleave through spell cost. If you do ⇨ Remove the text in square brackets as you cast it.)</i-auto>
+		<margin:0:0:5>[Choose one —]</margin:0:0:5>
+		<li><bullet>• </bullet>If an opponent controls more Lands than you, tutor a |Basic <b>◌̵ </b> Land| card, then put it onto the battlefield.
+		</li><li><bullet>• </bullet>Each Land you control which entered this turn, becomes a |Creature — Elemental| </sym>2/2<sym>, which has “<kw-a><nospellcheck><key>Haste</key></nospellcheck></kw-a>”. They’re still Lands.</li>
+	flavor_text: <i-flavor></i-flavor>
+	watermark: none
+	illustrator: Ivan Laliashvili
+	card_code_text: — 3rd party card.
+	card_code_text_2: — 3rd party card.
+	card_code_text_3: — 3rd party card.
+	copyright: 
+	copyright_2: 
+	copyright_3: 

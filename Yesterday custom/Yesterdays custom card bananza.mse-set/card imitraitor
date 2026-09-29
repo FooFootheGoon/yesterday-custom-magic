@@ -1,0 +1,41 @@
+﻿mse_version: 2.5.7
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 1
+		chop_bottom: 3
+		frames: 
+		other_options: auto nyx crowns
+		text_box_mana_symbols: magic-mana-large.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: https://www.youtube.com/watch?v=U2QR88a8Y6s
+	time_created: 2023-11-23 22:11:55
+	time_modified: 2026-02-25 01:56:20
+	name: Imitraitor
+	casting_cost: 3RR
+	image: image180
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>◌̵  Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Shapeshifter,</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Devil</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		<kw-0><nospellcheck><key><i>Shadow</key></nospellcheck></kw-0> Step</i> — <kw-a><nospellcheck><key>Menace</key></nospellcheck></kw-a>
+		<i>Magic Resistance</i> — <kw-0><nospellcheck><key>Ward <param-cost><sym-auto>1</sym-auto></param-cost></key></nospellcheck></kw-0><i> <i-auto>(Whenever this Creature becomes the target of a spell or ability an opponent controls; Counter it, unless that player pays <sym-auto>1</sym-auto>.)</i-auto>
+		Optical Shapechanger </i>— Whenever this Creature blocks; Until end of turn ↦ It gets -3/+3 and becomes a Wall.
+	flavor_text: <i-flavor></i-flavor>
+	watermark: custom watermark four
+	power: 4
+	toughness: 1
+	card_stamp: flatstamped universes beyond
+	illustrator: Jess Jackdaw
+	additional_credit_2: Jess Jackdaw
+	additional_credit_brush_2: flavor
+	card_code_text: — 3rd party card.
+	card_code_text_2: — 3rd party card.
+	card_code_text_3: — 3rd party card.
+	copyright: 
+	copyright_2: 
+	copyright_3: 

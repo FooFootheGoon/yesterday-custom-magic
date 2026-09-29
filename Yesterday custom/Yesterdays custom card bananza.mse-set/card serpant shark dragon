@@ -1,0 +1,33 @@
+﻿mse_version: 2.5.7
+card:
+	has_styling: false
+	notes: https://www.artstation.com/artwork/BmBNm6
+	time_created: 2026-09-21 21:22:09
+	time_modified: 2026-09-23 20:22:21
+	name: Serpant Shark Dragon
+	casting_cost: 2WU
+	transformation: extra comedy
+	image: image201.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>◌̵  Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Serpant,</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Shark,</word-list-class-en><atom-sep> </atom-sep><word-list-class-en>Dragon</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: mythic rare
+	rule_text:
+		<kw-a><nospellcheck><key><b>Demonstrate</key></nospellcheck></kw-a>
+		<i>Heaven sent </i>— As long as you have 7 or more cards in hand ↦ This spell can’t be countered.</b>
+		<b><kw-0><nospellcheck><key>Splice onto <param-name>Sorcery</b></param-name> <param-cost><sym-auto>1WWUU</sym-auto></param-cost></key></nospellcheck></kw-0> <i-auto>(As you cast a Sorcery spell ↦ You may reveal this card from your hand and pay <sym-auto>1WWUU</sym-auto>. If you do ⇨ Add this card’s effects to that spell.)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 3
+	illustrator: Katinka Thorondor 
+	card_code_text: — 3rd party card.
+	card_code_text_2: 
+	card_code_text_3: 

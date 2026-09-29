@@ -1,0 +1,25 @@
+﻿mse_version: 2.5.7
+card:
+	stylesheet: m15-mainframe-tokens
+	stylesheet_version: 2025-01-11
+	has_styling: false
+	notes: 
+	time_created: 2025-04-18 12:48:06
+	time_modified: 2026-02-23 16:34:52
+	card_color: artifact
+	name: Food token
+	image: image109.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Token | ◌̵  Artefact</word-list-type-en>
+	sub_type: Food
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: <sym-auto>2</sym-auto>, <sym-auto>T</sym-auto>, Sacrifice this token: You gain 3 life.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Jasmin Habezai-Fekri
+	card_code_text: — 3rd party token.
+	card_code_text_2: 
+	card_code_text_3: 

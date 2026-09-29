@@ -1,0 +1,31 @@
+﻿mse_version: 2.5.7
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-04-06 10:47:26
+	time_modified: 2025-04-25 07:25:32
+	name: Impending Calamity
+	casting_cost: 5WB
+	image: image66.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>◌̵  Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		Exile all Artefacts, Creatures, and Enchantments. Shuffle this spell into its owner’s library, <kw-a><nospellcheck><key><param-prefix>then planes</param-prefix>walk</key></nospellcheck></kw-a>.
+		Whenever a player planeswalks, if this card is in exile; Shuffle this card into its owner’s library.
+		<kw-0><nospellcheck><key>Suspend <param-number>1</param-number> <param-cost><sym-auto>1WB</sym-auto></param-cost></key></nospellcheck></kw-0> Activate only in a planechase game.>
+	flavor_text: <i-flavor></i-flavor>
+	watermark: other magic symbols chaos symbol
+	illustrator: darkzmonsty
+	card_code_text: — 3rd party card.
+	card_code_text_2: 
+	card_code_text_3: 

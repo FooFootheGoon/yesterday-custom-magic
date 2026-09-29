@@ -1,0 +1,35 @@
+﻿mse_version: 2.5.7
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 3
+		chop_bottom: 5
+		frames: 
+		other_options: auto nyx crowns
+		text_box_mana_symbols: magic-mana-large.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: https://www.artstation.com/artwork/v2Bz9O
+	time_created: 2025-02-23 12:19:20
+	time_modified: 2026-02-22 20:16:08
+	name: Fishy Ruins
+	casting_cost: 6
+	image: image219
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>◌̵  Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: mythic rare
+	rule_text:
+		<kw-a><nospellcheck><key><b>Gift a tapped Fish</b></key></nospellcheck></kw-a>
+		If <sym>R</sym> or <sym-auto>WW</sym-auto> were spent to cast this spell, destroy all Artefacts. If <sym>WW</sym> or <sym-auto>B</sym-auto> were spent, destroy all Creatures and Enchantments ↦ If <sym-auto>R</sym-auto> was spent, this spell deals X damage to each player and Planeswalker, where X is the number of Creatures which were destroyed this way ↦ If <sym>R</sym> and <sym>W</sym> were spent ⇨ Prevent the damage this spell would deal to you this way ↦ If <sym>R</sym> and <sym>B</sym> were spent and if a Planeswalker an opponent controls that’s dealt damage this way would die this turn ⇨ Exile it instead. If <sym-auto>B</sym-auto> was spent, exile each opponent’s graveyard. If <sym-auto>B</sym-auto> was spent and <sym>W</sym> wasn’t spent, you lose life equal to the total mana value of Enchantments destroyed this way.
+	flavor_text: <i-flavor>“So... what do you think happened here?”</i-flavor>
+	separator: flavor bar
+	illustrator: Syazani Tahir
+	card_code_text: — 3rd party card.
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

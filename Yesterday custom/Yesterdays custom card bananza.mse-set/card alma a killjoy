@@ -1,0 +1,42 @@
+﻿mse_version: 2.5.7
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 1
+		chop_bottom: 1
+		frames: puma
+		other_options: auto nyx crowns
+		text_box_mana_symbols: magic-mana-large.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: m0queur
+	time_created: 2025-04-06 06:06:59
+	time_modified: 2026-09-20 01:16:20
+	card_color: white, blue, hybrid, vertical
+	name: Alma A, Killjoy
+	casting_cost: WW/U
+	image: image58.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary ◌̵  Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Advisor,</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Nightmare</word-list-class-en> <soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		<kw-0><nospellcheck><key>Ward <param-cost><sym-auto>1</sym-auto></param-cost></key></nospellcheck></kw-0>
+		Non-Ward abilities of Creatures don’t trigger.
+		Creatures don’t cause abilities to trigger.
+	flavor_text: <i-flavor>“What’s the point?”</i-flavor>
+	power: 1
+	toughness: 1
+	separator: flavor bar
+	illustrator: m0queur
+	card_code_text: — 3rd party card.
+	card_code_text_2: 
+	card_code_text_3: 

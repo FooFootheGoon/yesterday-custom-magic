@@ -1,0 +1,42 @@
+﻿mse_version: 2.5.7
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 4
+		chop_bottom: 14
+		frames: universes beyond
+		other_options: auto nyx crowns
+		text_box_mana_symbols: magic-mana-large.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: https://www.youtube.com/watch?v=kisV9pi0miQ
+	time_created: 2023-11-23 18:15:56
+	time_modified: 2026-02-25 01:58:07
+	name: Terraptor
+	casting_cost: 3GG
+	image: image168
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>◌̵  Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Dinosaur,</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Bird</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		<kw-a><nospellcheck><key>Deathtouch</key></nospellcheck></kw-a>
+		<sym-auto>2UU</sym-auto>, <sym-auto>T</sym-auto>: Put a “<kw-a><nospellcheck><key>Defender</key></nospellcheck></kw-a>” counter on target Creature. <i-auto>(A Creature which has “<kw-a><nospellcheck><key>Defender</key></nospellcheck></kw-a>” can’t attack.)</i-auto> Activate at sorcery speed.>
+		<sym-auto>1BB</sym-auto>, <sym-auto>T</sym-auto>: Destroy target Creature which has “<kw-a><nospellcheck><key>Defender</key></nospellcheck></kw-a>”. Activate at sorcery speed.>
+	flavor_text: <i-flavor>Don’t crumble under the pressure, adventurers.</i-flavor>
+	watermark: custom watermark four
+	power: 3
+	toughness: 3
+	separator: flavor bar
+	card_stamp: universes beyond
+	illustrator: Jess Jackdaw
+	additional_credit_2: Jess Jackdaw
+	additional_credit_brush_2: flavor
+	card_code_text: — 3rd party card.
+	card_code_text_2: — 3rd party card.
+	card_code_text_3: — 3rd party card.
+	copyright: 
+	copyright_2: 
+	copyright_3: 

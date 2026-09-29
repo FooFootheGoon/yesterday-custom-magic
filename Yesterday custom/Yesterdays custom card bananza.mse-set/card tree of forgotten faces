@@ -1,0 +1,47 @@
+﻿mse_version: 2.5.7
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 1
+		chop_bottom: 2
+		frames: universes beyond
+		other_options: auto nyx crowns
+		text_box_mana_symbols: magic-mana-large.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		 
+	time_created: 2025-04-06 05:34:53
+	time_modified: 2026-02-25 02:07:47
+	card_color: black, green, artifact, multicolor, horizontal
+	name: Tree of Forgotten Faces
+	casting_cost: 2BG
+	transformation: extra comedy
+	image: image43.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>◌̵  Artefact, Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>ᶜPlant</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		When this permanent enters; You lose 2 life. Tutor a ᴸᵈSwamp card and put it onto the battlefield tapped. <i-auto>(Search your library for that card. Shuffle afterwards.)</i-auto>
+		<kw-0><nospellcheck><key>Myriad</key></nospellcheck></kw-0> <i-auto>(Whenever this permanent attacks; For each opponent other than defending player, you may create a token that’s a copy of this permanent. They enter tapped and attacking that player, a Planeswalker they control, or a Battle they defend. If one or more tokens are created this way ↦ At end of combat; Exile them.)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	watermark: custom watermark one
+	power: 0
+	toughness: 2
+	card_stamp: universes beyond
+	illustrator: Michelle Fus
+	illustrator_brush: art old
+	additional_credit_2: Ava's Demon
+	additional_credit_brush_2: flavor
+	card_code_text: — 3rd party card.
+	card_code_text_2: 
+	card_code_text_3: 

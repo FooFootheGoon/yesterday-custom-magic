@@ -1,0 +1,41 @@
+﻿mse_version: 2.5.7
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 
+		chop_bottom: 
+		frames: puma, universes beyond
+		other_options: auto nyx crowns
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2024-11-03 18:28:18
+	time_modified: 2026-02-25 02:00:56
+	card_color: white, red, green, multicolor, horizontal
+	name: Thane, the Winter Wolf
+	casting_cost: 1RGW
+	image: image197
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary ◌̵  Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Wolf,</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Noble,</word-list-class-en><atom-sep> </atom-sep><word-list-class-en>Hero</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: mythic rare
+	rule_text:
+		<kw-a><nospellcheck><key>Trample</key></nospellcheck></kw-a>
+		<i>Sword Master </i>— Discard a card: Thane gets +1/+0 until end of turn. Damage he deals can’t be prevented this turn. Until end of turn ↦ Each creature blocking Thane loses “<kw-a><nospellcheck><key>Indestructible</key></nospellcheck></kw-a>”, and can’t be Regenerated.
+	flavor_text: <i-flavor></i-flavor>
+	watermark: custom watermark three
+	power: 6
+	toughness: 4
+	card_stamp: universes beyond
+	illustrator: League of Geeks
+	additional_credit_2: Armello
+	additional_credit_brush_2: flavor
+	card_code_text: — 3rd party card.
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

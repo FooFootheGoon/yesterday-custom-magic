@@ -1,0 +1,40 @@
+﻿mse_version: 2.5.7
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 2
+		chop_bottom: 7
+		frames: universes beyond
+		other_options: auto nyx crowns
+		text_box_mana_symbols: magic-mana-large.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: https://killsixbilliondemons.com/comic/ksbd-4-62/
+	time_created: 2023-11-21 13:22:27
+	time_modified: 2026-02-25 01:52:36
+	name: Paper Soldiers form a Wall
+	casting_cost: WWUU
+	image: image144
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary ◌̵  Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: rare
+	rule_text:
+		<i-auto>(You may cast a |Legendary ◌̵  Sorcery| only if you control a |Legendary ◌̵  Creature| or a <soft-line></i-auto>
+		</soft-line><i>|Legendary ◌̵  Planeswalker|.)</i>
+		<b><kw-0><nospellcheck><key>Convoke</b></key></nospellcheck></kw-0> <i-auto>(Your Creatures can help cast this spell. Each Creature you tap while casting this spell pays for <sym>1</sym>, or one mana of that Creature’s colour.)</i-auto>
+		Destroy all tapped Creatures. Then tap all Creatures, and put a <kw-0><nospellcheck><key>Stun counte<param-*s>r</param-*s></key></nospellcheck></kw-0> of each of them.
+	flavor_text: <i-flavor>“... Five paces thick and twice as tall.”</i-flavor>
+	watermark: custom watermark two
+	card_stamp: universes beyond
+	illustrator: Abbadon
+	additional_credit_2: Kill Six Billion Demons
+	additional_credit_brush_2: flavor
+	card_code_text: — 3rd party card.
+	card_code_text_2: — 3rd party card.
+	card_code_text_3: — 3rd party card.
+	copyright: 
+	copyright_2: 
+	copyright_3: 

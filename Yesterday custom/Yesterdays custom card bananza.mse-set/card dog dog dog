@@ -1,0 +1,33 @@
+﻿mse_version: 2.5.7
+card:
+	has_styling: false
+	notes: https://www.artstation.com/artwork/oJNRRJ
+	time_created: 2026-09-21 22:54:30
+	time_modified: 2026-09-27 19:11:41
+	name: Dog Dog Dog 
+	casting_cost: XGU
+	image: image200.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>◌̵  Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Dog,</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Dog,</word-list-class-en><atom-sep> </atom-sep><word-list-class-en>Dog</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		<kw-a><nospellcheck><key><b>Ravenous</b></key></nospellcheck></kw-a> <i-auto>(This Creature enters with X +1 counters. As long as X is 5 or more ↦ When it enters; Draw a card.)</i-auto>
+		<b><kw-0><nospellcheck><key>Undaunted</key></nospellcheck></kw-0> </b><i>(This spell costs <sym-auto>1</sym-auto> less to cast for each opponent.)</i><b>
+		</b>Daunt <i-auto>(This Creature can’t be blocked by Creatures which have power 2 or less.)</i-auto>
+		Whenever this Creature attacks; Until end of turn ↦ Target Creature gets -X/-0, where X is the number of opponents you have.
+	flavor_text: <i-flavor></i-flavor>
+	power: 0
+	toughness: 0
+	illustrator: Katinka Thorondor
+	card_code_text: — 3rd party card.
+	card_code_text_2: 
+	card_code_text_3: 

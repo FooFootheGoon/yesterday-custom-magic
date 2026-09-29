@@ -1,0 +1,32 @@
+﻿mse_version: 2.5.7
+card:
+	has_styling: false
+	notes: https://www.deviantart.com/abeardedartist/art/The-Burned-God-960602208
+	time_created: 2023-11-21 02:41:09
+	time_modified: 2026-02-22 16:25:22
+	name: Witching Hour
+	casting_cost: 1UB
+	image: image115
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>◌̵  Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		<b>As an additional cost to cast this spell, sacrifice a Creature.</b>
+		You may cast a Sorcery card from your graveyard this turn. If you cast a spell this way ⇨ Pay life equal to its mana value rather than paying its mana cost. If that card would be put into your graveyard this turn ⇨ Exile it instead.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: ABeardedArtist
+	card_code_text: — 3rd party card.
+	card_code_text_2: — 3rd party card.
+	card_code_text_3: — 3rd party card.
+	copyright: 
+	copyright_2: 
+	copyright_3: 

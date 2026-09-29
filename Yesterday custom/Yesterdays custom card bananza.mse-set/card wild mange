@@ -1,0 +1,45 @@
+﻿mse_version: 2.5.7
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 2
+		chop_bottom: 
+		frames: universes beyond
+		other_options: auto nyx crowns
+		text_box_mana_symbols: magic-mana-large.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: https://www.youtube.com/watch?v=ztmmNIadF44
+	time_created: 2023-11-23 22:26:43
+	time_modified: 2026-02-25 01:58:44
+	card_color: blue, red, artifact, multicolor, horizontal
+	name: Wild Mange
+	casting_cost: 3UR
+	image: image182
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>◌̵  Artefact, Creature</word-list-type-en>
+	sub_type: <word-list-race-en>ᶜWerewolf,</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>ᶜConstruct</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		<i>Shapechanger</i> — At the beginning of your upkeep; Roll a d6. This permanent’s power becomes equal to the result.
+		<i>Scintillating Strobe </i>— <sym-auto>T</sym-auto>: Tap each Creature which target player controls, which has power less than or equal to this permanent’s power.
+	flavor_text:
+		<i-flavor>Torn between planes, clawing its way through<soft-line>
+		</soft-line>the realms with aberrant bursts of<soft-line>
+		</soft-line>teleportation.</i-flavor>
+	watermark: custom watermark four
+	power: 5
+	toughness: 5
+	separator: flavor bar
+	card_stamp: universes beyond
+	illustrator: Jess Jackdaw
+	additional_credit_2: Jess Jackdaw
+	additional_credit_brush_2: flavor
+	card_code_text: — 3rd party card.
+	card_code_text_2: — 3rd party card.
+	card_code_text_3: — 3rd party card.
+	copyright: 
+	copyright_2: 
+	copyright_3: 

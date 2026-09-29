@@ -1,0 +1,40 @@
+﻿mse_version: 2.5.7
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 1
+		chop_bottom: 3
+		frames: 
+		other_options: auto nyx crowns
+		text_box_mana_symbols: magic-mana-large.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2025-04-06 12:41:25
+	time_modified: 2025-04-25 07:28:40
+	name: Ambitious Graverobber
+	casting_cost: 2BBB
+	image: image76.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>◌̵  Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Human,</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Rogue</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		This Creature can’t block. <i-auto>(It’s too busy robbing graves.)</i-auto>
+		When this Creature dies; Return from your graveyard to your hand any number of other Creature cards, each with the greatest mana value among Creature cards in your graveyard.
+	flavor_text: <i-flavor>He will come at your weakest hour, when no one is around who might rescue you.</i-flavor>
+	power: 0
+	toughness: 2
+	separator: flavor bar
+	illustrator: Julien Delval
+	card_code_text: — 3rd party card.
+	card_code_text_2: 
+	card_code_text_3: 

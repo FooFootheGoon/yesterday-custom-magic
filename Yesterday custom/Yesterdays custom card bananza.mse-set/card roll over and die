@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.7
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-04-06 05:27:05
+	time_modified: 2025-04-24 21:58:23
+	name: Roll Over and Die
+	casting_cost: 1BR
+	image: image45.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>◌̵  Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text: Roll two d6. Destroy each Creature with toughness less than or equal to the total of those results.
+	flavor_text: <i-flavor>He who takes no chances wins nothing.</i-flavor>
+	separator: flavor bar
+	illustrator: ian llanas
+	card_code_text: — 3rd party card.
+	card_code_text_2: 
+	card_code_text_3: 

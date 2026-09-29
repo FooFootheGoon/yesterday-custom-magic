@@ -1,0 +1,39 @@
+﻿mse_version: 2.5.7
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 1
+		chop_bottom: 1
+		frames: universes beyond
+		other_options: auto nyx crowns
+		text_box_mana_symbols: magic-mana-large.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: https://www.avasdemon.com/pages.php#1977
+	time_created: 2023-11-21 05:55:32
+	time_modified: 2026-02-25 02:04:07
+	name: Helping Hand
+	casting_cost: 3WW
+	image: image128
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>◌̵  Enchantment</word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	rarity: uncommon
+	rule_text:
+		<kw-0><nospellcheck><key><b>Assist</b></key></nospellcheck></kw-0> <i-auto>(Another player can pay up to <sym>3</sym> <i>of this spell’s cost.)</i-auto></i>
+		Spells have “<kw-0><nospellcheck><key>Assist</key></nospellcheck></kw-0>”.
+		As long as you spent mana to cast an opponent’s spell ↦ Whenever an opponent casts that spell; Copy that spell, and you may choose new targets for the copy.
+	flavor_text: <i-flavor></i-flavor>
+	watermark: custom watermark one
+	card_stamp: flatstamped universes beyond
+	illustrator: Michelle Fus
+	additional_credit_2: Ava's Demon
+	additional_credit_brush_2: flavor
+	card_code_text: — 3rd party card.
+	card_code_text_2: — 3rd party card.
+	card_code_text_3: — 3rd party card.
+	copyright: 
+	copyright_2: 
+	copyright_3: 

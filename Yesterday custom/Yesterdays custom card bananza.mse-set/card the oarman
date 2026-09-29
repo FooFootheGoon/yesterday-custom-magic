@@ -1,0 +1,42 @@
+﻿mse_version: 2.5.7
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 1
+		chop_bottom: 1
+		frames: universes beyond, vehicle
+		other_options: auto nyx crowns
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2023-11-23 11:17:15
+	time_modified: 2026-02-25 01:58:17
+	card_color: blue, artifact, horizontal
+	name: The Oarman
+	casting_cost: 3U
+	image: image156
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>◌̵  Artefact</word-list-type-en>
+	sub_type: Vehicle 
+	rarity: rare
+	rule_text:
+		<kw-0><nospellcheck><key>Skulk</key></nospellcheck></kw-0> <i-auto>(This permanent can’t be blocked by Creatures with greater power.)</i-auto>
+		Whenever this permanent attacks and isn’t blocked; You may have it assign no combat damage this turn. When you do; Choose target Creature you control that Crewed this permanent this turn. That Creature deals damage equal to its power to the player or permanent which this permanent is attacking.
+		<kw-0><nospellcheck><key>Crew <param-number>2</param-number></key></nospellcheck></kw-0> <i-auto>(Tap any number of Creatures you control with total power 2 or greater: Until end of turn ↦ This permanent becomes an <i>|Artefact, Creature|.)</i-auto></i>
+	flavor_text: <i-flavor></i-flavor>
+	watermark: custom watermark four
+	power: 2
+	toughness: 4
+	card_stamp: universes beyond
+	illustrator: Jess Jackdaw
+	additional_credit_2: Jess Jackdaw
+	additional_credit_brush_2: flavor
+	card_code_text: — 3rd party card.
+	card_code_text_2: — 3rd party card.
+	card_code_text_3: — 3rd party card.
+	copyright: 
+	copyright_2: 
+	copyright_3: 

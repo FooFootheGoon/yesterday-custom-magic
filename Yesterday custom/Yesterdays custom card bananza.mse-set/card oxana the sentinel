@@ -1,0 +1,45 @@
+﻿mse_version: 2.5.7
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 6
+		chop_bottom: 6
+		frames: puma, universes beyond
+		other_options: auto nyx crowns
+		hybrid_name: gold
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: https://www.furaffinity.net/view/37053439/
+	time_created: 2024-11-07 01:19:32
+	time_modified: 2026-02-25 02:02:34
+	card_color: black, red, hybrid, vertical
+	name: Oxana, the Sentinel
+	casting_cost: B/RB/RBB
+	image: image216
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary ◌̵  Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Dragon,</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Knight,</word-list-class-en><atom-sep> </atom-sep><word-list-class-en>Hero</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		<kw-0><nospellcheck><key>Intimidate</key></nospellcheck></kw-0> <i-auto>(This Creature can’t be blocked, except by Creatures that are Artefacts and/or Creatures which share a colour with this Creature.)</i-auto>
+		<i>Flagellant  </i>— Whenever Oxana attacks; Defending player reveals their hand. That player discards a non-Land card, at random.<soft-line>
+		   ╰ </soft-line>When they do; Until end of turn ↦ Oxana<soft-line>
+		       </soft-line>gets +X/+0, where X is that card’s<soft-line>
+		       </soft-line>mana value.
+	flavor_text: <i-flavor></i-flavor>
+	watermark: custom watermark three
+	power: 1
+	toughness: 4
+	card_stamp: universes beyond
+	illustrator: Rhos
+	additional_credit_2: Armello
+	additional_credit_brush_2: flavor
+	card_code_text: — 3rd party card.
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

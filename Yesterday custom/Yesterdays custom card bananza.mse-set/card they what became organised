@@ -1,0 +1,33 @@
+﻿mse_version: 2.5.7
+card:
+	has_styling: false
+	notes: https://www.artstation.com/artwork/JEaVA
+	time_created: 2026-09-28 19:08:39
+	time_modified: 2026-09-28 19:53:06
+	card_color: white, blue, black, red, hybrid, radial
+	name: They What Became Organised
+	casting_cost: R/WR/WU/BU/B
+	image: image205.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>◌̵  Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Shapeshifter,</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Spellshaper</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: uncommon
+	rule_text:
+		<kw-a><nospellcheck><key>Boast</key></nospellcheck></kw-a> — <sym-auto>GG</sym-auto>: This Creature <kw-a><nospellcheck><key>Explores</key></nospellcheck></kw-a>. When it <kw-a><nospellcheck><key>explores</key></nospellcheck></kw-a> a non-Land card this way; It <kw-a><nospellcheck><key>Connives</key></nospellcheck></kw-a>.
+		Whenever this Creature <kw-a><nospellcheck><key>Connives</key></nospellcheck></kw-a> a non-Land card; Recruit.
+		Whenever you Recruit a non-Land card; This Creature <kw-a><nospellcheck><key>Explores</key></nospellcheck></kw-a>.
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 3
+	illustrator: Aldo Katayanagi
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

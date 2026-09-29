@@ -1,0 +1,36 @@
+﻿mse_version: 2.5.7
+card:
+	has_styling: false
+	notes: https://www.artstation.com/artwork/EanwYA?album_id=10653989
+	time_created: 2025-02-23 11:07:11
+	time_modified: 2026-02-22 20:15:03
+	name: The Back of Your Mind
+	casting_cost: 2CG
+	card_symbol: tombstone
+	transformation: extra comedy
+	image: image217
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>◌̵  Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Nightmare</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: uncommon
+	rule_text:
+		<b>When you cast this spell, if <sym-auto>U</sym-auto> was spent to cast it; Draw a card.</b>
+		<b><kw-0><nospellcheck><key>Flashback</b> <param-cost><sym-auto>2C</sym-auto></param-cost></key></nospellcheck></kw-0> <i-auto>(You may cast this card from your graveyard for its Flashback cost. Then exile it instead of putting it onto the battlefield.)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	power: 5
+	toughness: 3
+	illustrator: Pedro Sena
+	card_code_text: — 3rd party card.
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

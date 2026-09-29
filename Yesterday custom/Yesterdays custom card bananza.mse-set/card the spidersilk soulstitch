@@ -1,0 +1,42 @@
+﻿mse_version: 2.5.7
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 1
+		chop_bottom: 1
+		frames: 
+		custom_border_source: 
+		other_options: auto nyx crowns
+		text_box_mana_symbols: magic-mana-large.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: https://www.artstation.com/artwork/bgdWXG
+	time_created: 2026-09-21 22:27:27
+	time_modified: 2026-09-29 11:39:05
+	card_color: artifact
+	name: The Spidersilk Soulstitch
+	casting_cost: X2
+	image: image214.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary ◌̵  Artefact</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: Equipment
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: uncommon
+	rule_text:
+		<kw-0><nospellcheck><key><b>Ravenous</key></nospellcheck></kw-0> Hone</b> <i-auto>(This Artefact enters with X Hone counters. ↦ As long as X is 5 or more ⇨ When it enters; Draw a card. Each Hone counter on an Equipment grants +1/+0 to Equipped Creature.)</i-auto>
+		Job select <i-auto>(When this Equipment enters; Create a token that’s a |Creature — Hero| </sym>1/1<sym>, then attach this Equipment to it.)</i-auto>
+		Equipped Creature is a ᶜSpider in addition to its other Creature subtypes.
+		Whenever this Artefact becomes unattached from a permanent; Sacrifice that permanent.
+		<kw-0><nospellcheck><key>Equip <param-cost><sym-auto>0</sym-auto></param-cost></key></nospellcheck></kw-0>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Andrei Onpyr
+	card_code_text: — 3rd party card.
+	card_code_text_2: 
+	card_code_text_3: 

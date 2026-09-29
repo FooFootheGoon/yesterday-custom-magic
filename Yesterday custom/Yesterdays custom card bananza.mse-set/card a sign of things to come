@@ -1,0 +1,33 @@
+﻿mse_version: 2.5.7
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-04-06 05:59:08
+	time_modified: 2026-02-25 02:03:05
+	name: A Sign of Things to Come
+	casting_cost: 5BB
+	image: image55.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant ◌̵  Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: mythic rare
+	rule_text:
+		Name a non-Basic card. Search target opponent’s graveyard, hand, and library for up to four cards with that name and exile them. That player shuffles, then draws a card for each card exiled from their hand this way.
+		<kw-a><nospellcheck><key>Gravestorm</key></nospellcheck></kw-a> <i-auto>(When you cast this spell; Copy it for each permanent put into a graveyard this turn. You may choose new targets for the copies.)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	watermark: custom watermark one
+	card_stamp: universes beyond
+	illustrator: Michelle Fus
+	additional_credit_2: Ava's Demon
+	additional_credit_brush_2: flavor
+	card_code_text: — 3rd party card.
+	card_code_text_2: 
+	card_code_text_3: 

@@ -1,0 +1,47 @@
+﻿mse_version: 2.5.7
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 1
+		chop_bottom: 1
+		frames: puma
+		custom_border_source: 
+		other_options: auto nyx crowns
+		text_box_mana_symbols: magic-mana-large.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: https://www.artstation.com/artwork/v2rna6
+	time_created: 2026-09-29 12:10:04
+	time_modified: 2026-09-29 12:25:01
+	name: Khiratuman, the End
+	casting_cost: 4GGGG
+	image: image216.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary ◌̵  Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Avatar</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: mythic rare
+	rule_text: 
+	flavor_text:
+		<i-flavor>“Stop all the clocks, cut off the telephone,<soft-line>
+		</soft-line>Prevent the dog from barking with a juicy bone,<soft-line>
+		</soft-line>Silence the pianos and with muffled drum<soft-line>
+		</soft-line>Bring out the coffin, let the mourners come.<soft-line>
+		“</soft-line>The stars are not wanted now; put out every one,<soft-line>
+		</soft-line>Pack up the moon and dismantle the sun,<soft-line>
+		</soft-line>Pour away the ocean and sweep up the wood;<soft-line>
+		</soft-line>For nothing now can ever come to any good.”<soft-line>
+		</soft-line>—W. H. Auden, “Funeral Blues”</i-flavor>
+	power: 20
+	toughness: 20
+	illustrator: angelISKRA
+	card_code_text: — 3rd party card.
+	card_code_text_2: 
+	card_code_text_3: 

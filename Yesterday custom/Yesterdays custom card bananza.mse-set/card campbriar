@@ -1,0 +1,39 @@
+﻿mse_version: 2.5.7
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 3
+		chop_bottom: 8
+		frames: universes beyond
+		other_options: auto nyx crowns
+		text_box_mana_symbols: magic-mana-large.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2023-11-23 20:29:04
+	time_modified: 2026-02-25 01:54:02
+	name: Campbriar
+	casting_cost: 2RR
+	image: image176
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>◌̵  Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Beast</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text: As long as a Creature an opponent controls isn’t being declared as an attacker ↦ Whenever one of those Creatures becomes tapped; This Creature deals 3 damage to it.
+	flavor_text: <i-flavor>Despite their toothy appearance, <error-spelling:en_GB>Campbriars</error-spelling:en_GB> can actually be tamed, and are often found in the arsenal of bandit <error-spelling:en_GB>ambushers</error-spelling:en_GB>. Nothing quite drops gold faster than a fire with teeth.</i-flavor>
+	watermark: custom watermark four
+	power: 2
+	toughness: 2
+	separator: flavor bar
+	card_stamp: universes beyond
+	illustrator: Jess Jackdaw
+	additional_credit_2: Jess Jackdaw
+	additional_credit_brush_2: flavor
+	card_code_text: — 3rd party card.
+	card_code_text_2: — 3rd party card.
+	card_code_text_3: — 3rd party card.
+	copyright: 
+	copyright_2: 
+	copyright_3: 

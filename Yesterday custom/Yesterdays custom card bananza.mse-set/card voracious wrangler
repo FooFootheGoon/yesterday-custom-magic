@@ -1,0 +1,43 @@
+﻿mse_version: 2.5.7
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 10
+		chop_bottom: 10
+		frames: 
+		other_options: auto nyx crowns
+		text_box_mana_symbols: magic-mana-large.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: https://www.instagram.com/p/BjYbjGEFUv1/
+	time_created: 2023-11-17 12:52:53
+	time_modified: 2026-02-24 20:46:34
+	card_color: artifact
+	name: Voracious Wrangler
+	casting_cost: 6
+	transformation: extra comedy
+	image: image18
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>◌̵  Artefact, Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>ᶜScarecrow,</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>ᶜConstruct</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: rare
+	rule_text:
+		<kw-0><nospellcheck><key><b>Cleave</b> <param-cost><sym-auto>6</sym-auto></param-cost></key></nospellcheck></kw-0> <i-auto>(You may cast this spell for its Cleave cost. If you do ⇨ Remove the words in square brackets.<i>)</i-auto></i>
+		<b>⇨ Devour [Artefact] 2</b> <i-auto>(As this permanent enters ↦ You may sacrifice any number of Artefacts. If this spell’s Cleave cost was paid ⇨ Instead you may sacrifice any number of Creatures. This permanent enters with twice that many +1 counters on it.)</i-auto>
+		When this permanent enters; <kw-0><nospellcheck><key>Goad</key></nospellcheck></kw-0> up X target Creatures, where X is this permanent’s power.
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 0
+	illustrator: Ricardo Ow
+	card_code_text: — 3rd party card.
+	card_code_text_2: — 3rd party card.
+	card_code_text_3: — 3rd party card.
+	copyright: 
+	copyright_2: 
+	copyright_3: 

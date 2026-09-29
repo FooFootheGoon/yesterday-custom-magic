@@ -1,0 +1,38 @@
+﻿mse_version: 2.5.7
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 1
+		chop_bottom: 1
+		frames: 
+		other_options: auto nyx crowns
+		text_box_mana_symbols: magic-mana-large.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2025-04-06 05:21:05
+	time_modified: 2026-02-25 16:58:46
+	name: Under the Weather
+	casting_cost: BBBBBB
+	image: image64.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>World ◌̵  Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: mythic rare
+	rule_text:
+		<b>⇨ <kw-0><nospellcheck><key>Vanishing <param-number>2</b></param-number></key></nospellcheck></kw-0>
+		Each Creature gets -4/-4.
+	flavor_text: <i-flavor>To a plane that had never seen the likes before, Alma lamented the collateral implications of introducing such potent acid rain. A little.</i-flavor>
+	separator: flavor bar
+	illustrator: Nereza Works
+	card_code_text: — 3rd party card.
+	card_code_text_2: 
+	card_code_text_3: 

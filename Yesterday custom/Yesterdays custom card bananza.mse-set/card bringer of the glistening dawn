@@ -1,0 +1,43 @@
+﻿mse_version: 2.5.7
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 4
+		chop_bottom: 4
+		frames: 
+		other_options: auto nyx crowns
+		text_box_mana_symbols: magic-mana-large.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2025-04-06 10:18:33
+	time_modified: 2025-04-25 07:24:37
+	card_color: white, blue, black, red, green, multicolor, horizontal
+	name: Bringer of the Glistening Dawn
+	casting_cost: 4H/WH/UH/BH/RH/G
+	transformation: extra tragedy
+	image: image47.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>◌̵  Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Phyrexian,</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Bringer</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: mythic rare
+	rule_text:
+		<i-auto>(<sym>H/WH/UH/BH/RH/G</sym> can each be paid with 2 life, or <sym-auto>W</sym-auto>, <sym-auto>U</sym-auto>, <sym-auto>B</sym-auto>, <sym-auto>R</sym-auto>, or <sym-auto>G</sym-auto>, respectively.)</i-auto>
+		Bringer <i-auto>(You may pay <sym>WUBRG</sym> rather than pay this spell’s mana cost.)</i-auto>
+		For each coloured mana in a cost, pay 2 life rather than pay that mana.
+	flavor_text: <i-flavor>At first, the process of <error-spelling:en_GB>phyresis</error-spelling:en_GB> seems ugly as sin. But once you’ve undergone it, you’ll realise why it should have been welcome as hell.</i-flavor>
+	power: 5
+	toughness: 5
+	separator: flavor bar
+	illustrator: ThemeFinland
+	card_code_text: — 3rd party card.
+	card_code_text_2: 
+	card_code_text_3: 

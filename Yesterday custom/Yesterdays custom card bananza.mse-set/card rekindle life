@@ -1,0 +1,30 @@
+﻿mse_version: 2.5.7
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-04-06 10:36:59
+	time_modified: 2025-04-25 07:25:16
+	name: Rekindle Life
+	casting_cost: 5GW
+	image: image65.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant ◌̵  Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: mythic rare
+	rule_text:
+		<kw-0><nospellcheck><key>Assist</key></nospellcheck></kw-0> <i-auto>(Another player can pay up to <sym>5</sym> of this spell’s cost.)</i-auto>
+		Choose target permanent card that was put into a graveyard from the battlefield this turn. Return to the battlefield under its owner’s control.  
+		<kw-0><nospellcheck><key>Gravestorm</key></nospellcheck></kw-0>. Each copy must target a different card if able. <i-auto>(When you cast this spell; Copy it for each permanent put into a graveyard this turn. You may choose new targets for the copies.)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Cutteroz
+	card_code_text: — 3rd party card.
+	card_code_text_2: 
+	card_code_text_3: 

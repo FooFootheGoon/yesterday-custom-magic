@@ -1,0 +1,42 @@
+﻿mse_version: 2.5.7
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 1
+		chop_bottom: 5
+		frames: universes beyond
+		other_options: auto nyx crowns
+		text_box_mana_symbols: magic-mana-large.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: https://www.youtube.com/watch?v=7FpLmuGXrKs
+	time_created: 2023-11-23 18:37:19
+	time_modified: 2026-02-25 01:56:59
+	card_color: black, red, green, multicolor, horizontal
+	name: Madtrip
+	casting_cost: 3BRG
+	image: image160
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>◌̵  Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Beholder,</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Fungus</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: mythic rare
+	rule_text:
+		<i>Aura of Decay</i> — At the beginning of your end step; Put a -1 counter on each other Creature.
+		<i>Compounded Sickness</i> — If a source would deal damage to a Creature which has a -1 counter on it ⇨ That source deals double that damage to that Creature instead.
+	flavor_text: <i-flavor>A <error-spelling:en_GB>Madtrip’s</error-spelling:en_GB> only love is decay, which it inflicts with voracious delight.</i-flavor>
+	watermark: custom watermark four
+	power: 5
+	toughness: 4
+	separator: flavor bar
+	card_stamp: universes beyond
+	illustrator: Jess Jackdaw
+	additional_credit_2: Jess Jackdaw
+	additional_credit_brush_2: flavor
+	card_code_text: — 3rd party card.
+	card_code_text_2: — 3rd party card.
+	card_code_text_3: — 3rd party card.
+	copyright: 
+	copyright_2: 
+	copyright_3: 

@@ -1,0 +1,30 @@
+﻿mse_version: 2.5.7
+card:
+	has_styling: false
+	notes: 
+	time_created: 2026-09-21 22:56:33
+	time_modified: 2026-09-29 09:48:00
+	name: Street in the University Quarter
+	image: image210.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>◌̵  Kindred, Land</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Town</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		<b>Bandit </b><i>(This card is an <kw-a><nospellcheck><key>Outlaw</key></nospellcheck></kw-a> in all zones. ᶜᵏAssassins, ᶜᵏMercenaries, ᶜᵏPirates, ᶜᵏRogues, ᶜᵏVillains, and ᶜᵏWarlocks are also <kw-a><nospellcheck><key>Outlaws</key></nospellcheck></kw-a>.)</i><b>
+		⇨ This permanent enters tapped.</b>
+		<kw-0><nospellcheck><key>Hideaway <param-number>4</param-number></key></nospellcheck></kw-0>
+		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
+		As long as the exiled card is a Sorcery card ↦ It has Flashforward. The Flashforward cost is equal to its mana cost. <i-auto>(You may cast a card from exile for its Flashforward cost. Then put it on the bottom of its owner’s library.)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	card_code_text: — 3rd party card.
+	card_code_text_2: 
+	card_code_text_3: 

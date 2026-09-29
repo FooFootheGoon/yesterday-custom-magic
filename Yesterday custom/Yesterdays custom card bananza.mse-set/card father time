@@ -1,0 +1,41 @@
+﻿mse_version: 2.5.7
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 
+		chop_bottom: 7
+		frames: puma
+		other_options: auto nyx crowns
+		hybrid_name: gold
+		text_box_mana_symbols: magic-mana-large.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2025-04-06 12:06:06
+	time_modified: 2025-04-25 07:27:23
+	card_color: white, black, hybrid, horizontal
+	name: Father Time
+	casting_cost: 2/WWWBBB
+	image: image73.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary ◌̵  Enchantment, Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>ᶜAvatar</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: mythic rare
+	rule_text:
+		At the beginning of each end step; You gain 2 life.
+		Pay 10 life: End the turn. At the beginning of the next end step; You lose the game. <i-auto>(To end the turn, exile all spells and abilities on the stack. The player whose turn it is discards down to their maximum hand size. Damage wears off, and “this turn” and “until end of turn” effects end.)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	power: 7
+	toughness: 7
+	illustrator: Brent Schreiber
+	card_code_text: — 3rd party card.
+	card_code_text_2: 
+	card_code_text_3: 

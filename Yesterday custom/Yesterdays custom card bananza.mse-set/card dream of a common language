@@ -1,0 +1,36 @@
+﻿mse_version: 2.5.7
+card:
+	has_styling: false
+	notes: https://www.artstation.com/artwork/bgm0av
+	time_created: 2026-09-21 22:46:16
+	time_modified: 2026-09-29 10:54:43
+	name: Dream of a Common Language
+	casting_cost: 0
+	image: image212.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>◌̵  Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: uncommon
+	rule_text:
+		<b>Ephemeral spell</b> <i-auto>(When this spell becomes the target of a spell or ability; Counter it.)</i-auto>
+		<b><kw-1><nospellcheck><key>Buyback</b> <param-cost><sym-auto>3</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(You may pay an additional <param-mana><sym-auto>3</sym-auto></param-mana> as you cast this spell. If you do, put this card into your hand as it resolves.)</i-auto></atom-reminder-expert></kw-1>
+	flavor_text:
+		<i-flavor>My heart is moved by all I cannot save:<soft-line>
+		</soft-line>so much has been destroyed<soft-line>
+		</soft-line>I have to cast my lot with those<soft-line>
+		</soft-line>who age after age, perversely,<soft-line>
+		</soft-line>with no extraordinary power,<soft-line>
+		</soft-line>reconstitute the world.<soft-line>
+		~ Adrienne Rich, natural Resources </soft-line></i-flavor>
+	illustrator: Laszlo Pinter (Las Pinter) 
+	card_code_text: — 3rd party card.
+	card_code_text_2: 
+	card_code_text_3: 

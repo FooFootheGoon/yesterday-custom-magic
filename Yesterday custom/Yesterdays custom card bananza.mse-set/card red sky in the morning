@@ -1,0 +1,27 @@
+﻿mse_version: 2.5.7
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-04-06 04:31:54
+	time_modified: 2026-02-25 15:22:47
+	name: Red Sky in the Morning
+	casting_cost: 3RR
+	image: image40.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>World ◌̵  Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text: When this Enchantment enters, and at the beginning of your upkeep; Put a doom counter on this Enchantment, then it deals damage equal to the number of doom counters on it to everything. <i-auto>(Each Battle, Creature, Planeswalker, and player.)</i-auto>
+	flavor_text: <i-flavor>Everyone’s mourning.</i-flavor>
+	illustrator: apiguide
+	card_code_text: — 3rd party card.
+	card_code_text_2: 
+	card_code_text_3: 

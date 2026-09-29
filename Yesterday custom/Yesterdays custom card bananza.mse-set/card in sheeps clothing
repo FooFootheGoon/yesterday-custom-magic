@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.7
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-04-06 05:31:21
+	time_modified: 2025-04-24 21:58:28
+	name: In Sheep's Clothing
+	casting_cost: 1RG
+	image: image46.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>◌̵  Kindred, Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>ᵏSheep,</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>ᵏWolf</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: common
+	rule_text: <sym-auto>2</sym-auto>: Transform target ᶜᵏWerewolf you control. Activate only if a player cast two or more spells last turn.>
+	flavor_text: <i-flavor>We are not agreed upon a definition of liberty.</i-flavor>
+	separator: flavor bar
+	illustrator: Calicothekat
+	card_code_text: — 3rd party card.
+	card_code_text_2: 
+	card_code_text_3: 

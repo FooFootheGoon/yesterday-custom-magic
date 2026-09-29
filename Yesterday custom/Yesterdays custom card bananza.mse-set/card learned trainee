@@ -1,0 +1,37 @@
+﻿mse_version: 2.5.7
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 3
+		chop_bottom: 6
+		frames: 
+		other_options: auto nyx crowns
+		hybrid_name: hybrid
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: https://www.artstation.com/artwork/kVXRy
+	time_created: 2023-11-19 21:13:58
+	time_modified: 2026-02-24 20:47:08
+	name: Learned Trainee
+	casting_cost: 2R/G
+	image: image97
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>◌̵  Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Bird,</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Warrior</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		<b>⇨ <kw-0><nospellcheck><key>Graft <param-number>1</param-number></key></nospellcheck></kw-0> </b><i>(This Creature enters with a +1 counter on it. Whenever another Creature enters; You may move a +1 counter from this Creature onto it.)</i>
+		<kw-0><nospellcheck><key>Training</key></nospellcheck></kw-0> <i-auto>(Whenever this Creature attacks with another Creature with greater power; Put a +1 counter on this Creature.)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	power: 0
+	toughness: 1
+	illustrator: Cindy Avelino
+	card_code_text: — 3rd party card.
+	card_code_text_2: — 3rd party card.
+	card_code_text_3: — 3rd party card.
+	copyright: 
+	copyright_2: 
+	copyright_3: 

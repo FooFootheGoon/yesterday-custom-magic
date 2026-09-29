@@ -1,0 +1,43 @@
+﻿mse_version: 2.5.7
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 1
+		chop_bottom: 1
+		frames: 
+		other_options: auto nyx crowns
+		font_cap: 12
+		text_box_mana_symbols: magic-mana-large.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		center_text: never
+		overlay: 
+	notes: 
+	time_created: 2025-04-04 17:55:27
+	time_modified: 2025-04-24 21:41:20
+	name: Shadow Exuberance
+	casting_cost: B/R
+	image: image6.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant ◌̵  Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: uncommon
+	rule_text:
+		If <sym-auto>R</sym-auto> was spent to cast this spell, add <b><sym>BB</sym></b>.
+		If <sym-auto>B</sym-auto> was spent to cast this spell, add <sym>RR</sym>.
+	flavor_text: <i-flavor>Floating up and casting his circle of energy, the wizard prepares a dark spell.</i-flavor>
+	separator: flavor bar
+	illustrator: Hex Sharpe
+	illustrator_brush: art old
+	additional_credit_2: Hex Sharpe
+	additional_credit_brush_2: flavor
+	card_code_text: — 3rd party card.
+	card_code_text_2: 
+	card_code_text_3: 

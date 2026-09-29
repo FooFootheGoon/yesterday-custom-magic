@@ -1,0 +1,41 @@
+﻿mse_version: 2.5.7
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 1
+		chop_bottom: 1
+		frames: puma, universes beyond
+		other_options: auto nyx crowns
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: https://www.deviantart.com/monkeyknot/art/Quick-Sargon-Armello-653988961
+	time_created: 2024-11-04 11:31:52
+	time_modified: 2026-02-25 02:01:48
+	border_color: rgb(200,200,200)
+	name: Sargon, the Death Teller
+	casting_cost: UUU
+	image: image205
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary ◌̵  Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Rat,</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Warlock,</word-list-class-en><atom-sep> </atom-sep><word-list-class-en>Hero</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: mythic rare
+	rule_text:
+		When Sargon enters; As long as he remains on the battlefield ↦ Shuffle your library and deal it into three libraries. <i-auto>(If Sargon leaves, shuffle your libraries together.)</i-auto> If anything refers to your library, choose one of your libraries for it.
+		<i>Veil Gazer </i>— You may look at the top card of any of your libraries at any time.
+	flavor_text: <i-flavor></i-flavor>
+	watermark: custom watermark three
+	power: 1
+	toughness: 3
+	card_stamp: universes beyond
+	illustrator: monkeyKnot
+	additional_credit_2: Armello
+	additional_credit_brush_2: flavor
+	card_code_text: — 3rd party card.
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

@@ -1,0 +1,33 @@
+﻿mse_version: 2.5.7
+card:
+	has_styling: false
+	notes: https://www.artstation.com/artwork/Qrnzx
+	time_created: 2026-09-21 20:49:54
+	time_modified: 2026-09-29 08:31:32
+	name: They What Became Divisive
+	casting_cost: 2G/WG/W
+	image: image197.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>◌̵  Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Shapeshifter,</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Spellshaper</word-list-class-en>  <soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: mythic rare
+	rule_text:
+		For each counter on this Creature ↦ It gets +1/+1.
+		Power-up — <sym-auto>W/UW/UW/U</sym-auto>: Put a “<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>” counter on this Creature. <i-auto>(Activate each Power-up ability only once. Reduce the cost by its mana cost if it entered this turn.)</i-auto>
+		<kw-a><nospellcheck><key>Exhaust — <param-cost><sym-auto>W/BW/B</sym-auto></param-cost>: <param-action>Put a “Lifelink” counter on this Creature</param-action>.</key></nospellcheck></kw-a> <i-auto>(Activate each Exhaust ability only once.)</i-auto>
+		<sym-auto>R/W</sym-auto>: <kw-a><nospellcheck><key>First strike</key></nospellcheck></kw-a> <kw-a><nospellcheck><key>Monstrosity <param-number>1</param-number></key></nospellcheck></kw-a> <i-auto>(As long as this Creature isn’t Monstrous ↦ Put a “<kw-a><nospellcheck><key>First strike</key></nospellcheck></kw-a>” counter on it, and it becomes Monstrous.)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 3
+	illustrator: Aldo Katayanagi
+	card_code_text: — 3rd party card.
+	card_code_text_2: 
+	card_code_text_3: 

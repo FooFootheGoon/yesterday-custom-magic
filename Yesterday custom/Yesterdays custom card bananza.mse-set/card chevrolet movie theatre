@@ -1,0 +1,44 @@
+﻿mse_version: 2.5.7
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 2
+		chop_bottom: 3
+		frames: vehicle
+		other_options: auto nyx crowns
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2023-11-18 11:13:27
+	time_modified: 2026-02-23 20:36:02
+	border_color: rgb(200,200,200)
+	card_color: artifact
+	name: Chevrolet™ Movie Theatre
+	casting_cost: 6
+	image: image45
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>◌̵  Artefact</word-list-type-en>
+	sub_type: Vehicle, Chevrolet™
+	rarity: rare
+	rule_text:
+		<kw-a><nospellcheck><key>Start your engines!</key></nospellcheck></kw-a>
+		<kw-a><nospellcheck><key>Haste</key></nospellcheck></kw-a>
+		When this Artefact enters; Create a token named <u>Interior Crocodile Alligator</u>, which is a green |Creature — Crocodile, Alligator| 3/2.
+		Max speed ↦ At the beginning of your end step; Create one of those tokens.
+		<kw-0><nospellcheck><key>Crew <param-number>3</param-number></key></nospellcheck></kw-0>
+	flavor_text:
+		<i-flavor>“It’s an older meme, but it checks out.”<soft-line>
+		</soft-line>—Someone on <error-spelling:en_GB>Reddit</error-spelling:en_GB>, probably</i-flavor>
+	power: 5
+	toughness: 5
+	separator: flavor bar
+	illustrator: socrates471
+	card_code_text: — 3rd party card.
+	card_code_text_2: — 3rd party card.
+	card_code_text_3: — 3rd party card.
+	copyright: 
+	copyright_2: 
+	copyright_3: 

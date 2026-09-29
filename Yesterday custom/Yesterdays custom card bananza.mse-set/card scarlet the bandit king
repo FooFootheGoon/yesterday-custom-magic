@@ -1,0 +1,50 @@
+﻿mse_version: 2.5.7
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 1
+		chop_bottom: 3
+		frames: puma, universes beyond
+		other_options: auto nyx crowns
+		hybrid_name: gold
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		https://www.deviantart.com/infinitedge2u/gallery
+		
+		Seek a Creature card with mana value 3 or less. (Reveal cards from the top of your library until you reveal a Creature card with mana value 3 or less. Put rest of the cards revealed this way on the bottom of your library in a random order.) 
+		(Assassins, Mercenaries, Pirates, Rogues, Villains, and Warlocks are outlaws.)
+	time_created: 2024-11-04 19:04:44
+	time_modified: 2026-02-25 02:01:57
+	card_color: white, black, red, hybrid, vertical, reversed
+	name: Scarlet, the Bandit King
+	casting_cost: 1BBR/W
+	card_symbol: alchemy
+	transformation: extra comedy
+	image: image200
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary ◌̵  Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Fox,</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Rogue,</word-list-class-en><atom-sep> </atom-sep><word-list-class-en>Hero</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		When Scarlet enters; It becomes night.
+		<margin:0:0:5><i>Revolutionary</i> — Whenever a source you control deals lethal damage to a Battle; Choose one. As long as it’s night ↦ Choose up to two instead, and you may choose the same mode more than once —</margin:0:0:5>
+		<li><bullet>• </bullet>Tutor an <kw-a><nospellcheck><key>Outlaw</key></nospellcheck></kw-a> card, then put it into your hand. <i-auto>(Search your library for that card, and reveal it. Shuffle afterwards.)</i-auto>
+		</li><li><bullet>• </bullet>Seek a Creature card which has mana value 3 or less, then you may put an <kw-a><nospellcheck><key>Outlaw</key></nospellcheck></kw-a> card from your hand onto the battlefield. <i-auto>(Reveal cards from the top of your library until you reveal a Creature card which has mana value 3 or less, then put it into your hand. Put the rest of the cards which were revealed this way on the bottom of your library, in a random order.)</i-auto> </li>
+	flavor_text: <i-flavor></i-flavor>
+	watermark: custom watermark three
+	power: 3
+	toughness: 2
+	card_stamp: universes beyond
+	illustrator: infinitedge2u
+	additional_credit_2: Armello
+	additional_credit_brush_2: flavor
+	card_code_text: — 3rd party card.
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

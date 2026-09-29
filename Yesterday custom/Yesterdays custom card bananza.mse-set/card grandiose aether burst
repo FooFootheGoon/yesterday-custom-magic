@@ -1,0 +1,36 @@
+﻿mse_version: 2.5.7
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 1
+		chop_bottom: 1
+		frames: lesson
+		other_options: auto nyx crowns
+		text_box_mana_symbols: magic-mana-large.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: https://www.artstation.com/artwork/0ngZa8
+	time_created: 2023-11-19 20:00:32
+	time_modified: 2026-02-22 15:56:12
+	name: [Grandiose] Aether Burst
+	casting_cost: UUU
+	transformation: extra comedy
+	image: image88
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant ◌̵  Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: rare
+	rule_text:
+		<b>Cleave through spell</b> <sym>1U</sym> <i-auto>(You may cast this spell for its Cleave through spell cost. If you do ⇨ Remove the words in square brackets as you cast it.)</i-auto>
+		Return up to X target Creatures to their owners’ hands, where X is one plus the number of cards with the same name as this spell [plus the number of cards named <u>Aether Burst</u>] in all graveyards as you cast this spell. <i-auto>(If you cast this spell for its cleave through spell cost ⇨ Its name is <u>Aether Burst</u> on the stack.)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	watermark: none
+	illustrator: David Metzger
+	card_code_text: — 3rd party card.
+	card_code_text_2: — 3rd party card.
+	card_code_text_3: — 3rd party card.
+	copyright: 
+	copyright_2: 
+	copyright_3: 
