@@ -2,8 +2,8 @@
 card:
 	has_styling: true
 	styling_data:
-		chop_top: 1
-		chop_bottom: 1
+		chop_top: 
+		chop_bottom: 
 		frames: puma, snow
 		custom_border_source: 
 		other_options: auto nyx crowns
@@ -12,7 +12,7 @@ card:
 		overlay: 
 	notes: https://www.artstation.com/artwork/bgk2mn
 	time_created: 2026-09-21 22:56:25
-	time_modified: 2026-09-29 10:30:59
+	time_modified: 2026-09-29 17:03:40
 	name: Krampus, Kinderschreck
 	casting_cost: SSS
 	card_symbol: tombstone
@@ -30,10 +30,13 @@ card:
 	sub_type_4: 
 	rarity: mythic rare
 	rule_text:
-		<kw-a><nospellcheck><key>Skulk</key></nospellcheck></kw-a>
-		<i>Family gathering</i> — Whenever Krampus deals combat damage; Choose 2 target Creatures which defending player controls. They <kw-a><nospellcheck><key>Fight</key></nospellcheck></kw-a> each other.
+		<kw-a><nospellcheck><key>Fear</key></nospellcheck></kw-a>
+		<i>Family gathering</i> — As long as Krampus is attacking ↦ Whenever Krampus deals combat damage; Choose 2 target Creatures which defending player controls. They <kw-a><nospellcheck><key>Fight</key></nospellcheck></kw-a> each other.
 		<kw-a><i-auto><nospellcheck><key>Bloodrush</key></nospellcheck></i-auto></kw-a> — <sym><b>SSS</sym>, Discard this card:</b> Choose 2 target Creatures which the same player controls. They <kw-a><nospellcheck><key>Fight</key></nospellcheck></kw-a> each other. Activate only while attacking that player.>
-		<b><kw-a><nospellcheck><key>Recover <param-cost></b><sym>SSS</sym></param-cost></key></nospellcheck></kw-a> <i-auto>(When a Creature is put into your graveyard from the battlefield; You may pay <sym-auto>SSS</sym-auto>. If you do, return this card from your graveyard to your hand. Otherwise, exile this card.)</i-auto>
+		<b><kw-a><nospellcheck><key>Recover <param-cost></b><sym>SSS</sym></param-cost></key></nospellcheck></kw-a> <i-auto>(When a Creature is put into your graveyard<soft-line></i-auto>
+		</soft-line><i>from the battlefield; You may pay <sym-auto>SSS</sym-auto>. If you do, return this<soft-line>
+		</soft-line>card from your graveyard to your hand. Otherwise, exile this<soft-line>
+		</soft-line>card.)</i>
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 3

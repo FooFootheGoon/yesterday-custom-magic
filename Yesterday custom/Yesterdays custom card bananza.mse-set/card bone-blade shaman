@@ -3,9 +3,9 @@ card:
 	has_styling: false
 	notes: https://www.artstation.com/artwork/lG3Q1z
 	time_created: 2026-09-21 22:47:45
-	time_modified: 2026-09-29 11:10:38
+	time_modified: 2026-09-29 16:47:10
 	name: Bone-Blade Shaman
-	casting_cost: 1WBG
+	casting_cost: 2WBG
 	image: image213.png
 	image_2: 
 	mainframe_image: 
@@ -20,8 +20,8 @@ card:
 	sub_type_4: 
 	rarity: mythic rare
 	rule_text:
-		<kw-0><nospellcheck><key>Prowl <param-cost><sym-auto>1W</sym-auto></param-cost></key></nospellcheck></kw-0> <i-auto>(As long as you dealt combat damage to a player this turn with a ᶜBird or ᶜShaman ↦ You may cast this for its Prowl cost.)</i-auto>
-		<kw-0><nospellcheck><key>Freerunning <param-cost><sym-auto>1BG</sym-auto></param-cost></key></nospellcheck></kw-0> <i-auto>(As long as you dealt combat damage to a player this turn with an ᶜAssassin or commander ↦ You may cast this for its Freerunning cost.)</i-auto>
+		<kw-0><nospellcheck><key>Prowl <param-cost><sym-auto>2W</sym-auto></param-cost></key></nospellcheck></kw-0> <i-auto>(As long as you dealt combat damage to a player this turn with a ᶜBird or ᶜShaman ↦ You may cast this for its Prowl cost.)</i-auto>
+		<kw-0><nospellcheck><key>Freerunning <param-cost><sym-auto>2BG</sym-auto></param-cost></key></nospellcheck></kw-0> <i-auto>(As long as you dealt combat damage to a player this turn with an ᶜAssassin or commander ↦ You may cast this for its Freerunning cost.)</i-auto>
 		When this Creature enters; Destroy target non-Land permanent.
 	flavor_text: <i-flavor></i-flavor>
 	power: 3
