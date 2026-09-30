@@ -12,7 +12,7 @@ card:
 		overlay: 
 	notes: https://www.artstation.com/artwork/obdLEL
 	time_created: 2023-11-20 01:04:49
-	time_modified: 2026-09-20 14:19:13
+	time_modified: 2026-09-30 09:29:10
 	card_color: white, blue, black, green, hybrid, radial
 	name: Fleshwisp, the Cleansing
 	casting_cost: G/WWU/BB
@@ -30,7 +30,7 @@ card:
 	sub_type_4: 
 	rarity: mythic rare
 	rule_text:
-		<b>⇨ Fleshwisp enters with two -1 counters on it.</b>
+		<b>⇨ Fleshwisp enters with two -1 counters.</b>
 		<kw-0><nospellcheck><key>Backup <param-number>5</param-number></key></nospellcheck></kw-0> <i-auto>(When this Creature enters; Put five +1 counters on target Creature. If that’s another Creature, until end of turn ↦ It gains the following ability.)</i-auto>
 		This Creature gets +2/+2 for each -1 counter on it, and gets -2/-2 for each +1 counter on it.
 	flavor_text: <i-flavor></i-flavor>

@@ -4,19 +4,18 @@ card:
 	styling_data:
 		chop_top: 1
 		chop_bottom: 
-		frames: puma, universes beyond
+		frames: puma, planeshifted, universes beyond
 		other_options: pokemon evobar, auto nyx crowns
 		text_box_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes: https://killsixbilliondemons.com/comic/ksbd-4-68/
 	time_created: 2023-11-17 20:34:22
-	time_modified: 2026-02-25 22:40:48
+	time_modified: 2026-09-30 10:04:16
 	card_color: colorless
 	name: Preem Praman Nand
 	alias: "Preem Praman Nand, Lord Androsphinx of the Gilded Cage"
 	casting_cost: CCBB
-	transformation: extra comedy
 	image: image47
 	image_2: 
 	mainframe_image: 

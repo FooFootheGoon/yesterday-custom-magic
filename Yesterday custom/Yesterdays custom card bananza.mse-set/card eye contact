@@ -1,0 +1,31 @@
+﻿mse_version: 2.5.7
+card:
+	has_styling: false
+	notes: https://www.artstation.com/artwork/9BEGvR
+	time_created: 2026-09-21 21:20:17
+	time_modified: 2026-09-30 08:02:10
+	name: Eye Contact
+	casting_cost: 1UU
+	image: image219.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>◌̵  Kindred, Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>ᵏEye</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: uncommon
+	rule_text:
+		Paradigm <i-auto>(After you first resolve a spell with this name, at the beginning of each of your first main phases; You may cast a copy of it from exile without paying its mana cost.)</i-auto>
+		<kw-a><i-auto><nospellcheck><key>Paradox</key></nospellcheck></i-auto></kw-a> — <kw-a><nospellcheck><key>Scry <param-number>X</param-number></key></nospellcheck></kw-a>, where X is the<soft-line>
+		</soft-line>number of spells you’ve cast this turn,<soft-line>
+		</soft-line>from anywhere other than your hand.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: BlocklyCow
+	card_code_text: — 3rd party card.
+	card_code_text_2: 
+	card_code_text_3: 

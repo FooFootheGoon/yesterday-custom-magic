@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-04-04 17:49:21
-	time_modified: 2026-02-24 20:32:02
+	time_modified: 2026-09-30 09:49:13
 	card_color: land, multicolor
 	name: Open-Door Cottage
 	image: image5.png
@@ -20,7 +20,7 @@ card:
 	sub_type_4: 
 	rarity: uncommon
 	rule_text:
-		<i>Why Don’t I Exist Yet</i> — <b>⇨ This Land enters tapped.</b>
+		<i><b>Why Don’t I Exist Yet</i> — ⇨ This Land enters tapped.</b>
 		<i>No Seriously, It’s Been Over Thirty<soft-line>
 		</soft-line>Years</i> — <sym>T</sym>: Add one mana of any colour.
 	flavor_text: <i-flavor><error-spelling:en_GB>Adhelin</error-spelling:en_GB> returned to rest up after a straining and dangerous hunt.</i-flavor>

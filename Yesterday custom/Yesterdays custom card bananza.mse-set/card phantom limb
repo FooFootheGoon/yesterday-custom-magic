@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-04-06 13:19:18
-	time_modified: 2025-04-25 07:29:05
+	time_modified: 2026-09-30 08:12:22
 	border_color: rgb(200,200,200)
 	name: Phantom Limb
 	casting_cost: 1B
@@ -21,7 +21,7 @@ card:
 	sub_type_4: 
 	rarity: rare
 	rule_text:
-		<kw-a><nospellcheck><key>Enchant <param-name>Creature card in a graveyard</param-name></key></nospellcheck></kw-a>
+		<kw-a><nospellcheck><key><b>Enchant <param-name>Creature card in a graveyard</b></param-name></key></nospellcheck></kw-a>
 		You may activate abilities of the enchanted card as though it were a Creature on the battlefield under your control. Activated abilities of enchanted card cost <sym-auto>TQ</sym-auto> less to activate. Activate each ability this way only on your turn, and no more than once per turn.>
 	flavor_text: <i-flavor>“There’s still life in the old lady yet!”</i-flavor>
 	separator: flavor bar

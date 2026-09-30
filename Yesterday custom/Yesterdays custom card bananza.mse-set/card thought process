@@ -11,10 +11,9 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2025-04-06 05:39:44
-	time_modified: 2026-02-25 01:53:16
+	time_modified: 2026-09-30 08:16:29
 	name: Thought Process
 	casting_cost: 4BBB
-	transformation: extra tragedy
 	image: image49.png
 	image_2: 
 	mainframe_image: 
@@ -29,7 +28,7 @@ card:
 	sub_type_4: 
 	rarity: mythic rare
 	rule_text:
-		<b>When you cast this spell from your hand</b>; Each player may bid life. The high bidder copies this spell and may choose new targets for the copy. <i-auto>(You start the bidding with a bid of any number. In turn order, each player may top the high bid. The bidding ends if the high bid stands. The high bidder loses life equal to the high bid.)</i-auto>
+		<b>When you cast this spell from your hand</b>; Bid life. <i-auto>(You start the bidding with a bid of any number. In turn order, each player may top the high bid. The bidding ends if the high bid stands. The high bidder loses life equal to the high bid.)</i-auto> The high bidder copies this spell and may choose new targets for the copy.
 		Choose target player who hasn’t cast a spell named <u>Thought Process</u> this turn. You control that player during that player’s next turn.
 	flavor_text: <i-flavor></i-flavor>
 	watermark: custom watermark two

@@ -3,7 +3,7 @@ card:
 	has_styling: true
 	styling_data:
 		chop_top: 6
-		chop_bottom: 6
+		chop_bottom: 
 		frames: puma, universes beyond
 		other_options: auto nyx crowns
 		hybrid_name: gold

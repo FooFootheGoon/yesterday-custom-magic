@@ -6,7 +6,7 @@ card:
 	styling_data:
 		chop_top: 1
 		chop_bottom: 1
-		frames: puma
+		frames: puma, universes beyond
 		custom_border_source: 
 		other_options: auto nyx crowns
 		text_box_mana_symbols: magic-mana-large.mse-symbol-font
@@ -14,7 +14,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2026-08-19 13:00:00
-	time_modified: 2026-09-23 10:10:37
+	time_modified: 2026-09-30 09:22:48
 	card_color: colorless
 	name: Yabalchoath
 	casting_cost: 2CBGU
@@ -33,13 +33,14 @@ card:
 	rarity: mythic rare
 	rule_text:
 		<kw-a><nospellcheck><key><b>Devoid</key></nospellcheck></kw-a>
-		<kw-0><nospellcheck><key>Unleash</key></nospellcheck></kw-0> Stalking</b>
-		Fierceness </sym>3<sym>, <kw-a><nospellcheck><key>Ingest</key></nospellcheck></kw-a> 3. <kw-a><nospellcheck><key>Renown <param-number>3</param-number></key></nospellcheck></kw-a>
+		<kw-0><nospellcheck><key>Unleash</key></nospellcheck></kw-0> <kw-0><nospellcheck><key>Fear</key></nospellcheck></kw-0>
+		</b>Fierceness </sym>3<sym>, <kw-a><nospellcheck><key>Ingest</key></nospellcheck></kw-a> </sym>3<sym>, <kw-a><nospellcheck><key>Renown <param-number>3</param-number></key></nospellcheck></kw-a>
 		When <atom-cardname><nospellcheck>Yabalchoath</nospellcheck></atom-cardname> becomes Renowned; Gain control of target Artefact whose controller was dealt combat damage by <atom-cardname><nospellcheck>Yabalchoath</nospellcheck></atom-cardname> this turn. Put a ᶜᵏDemiurge counter on <atom-cardname><nospellcheck>Yabalchoath</nospellcheck></atom-cardname>. <i-auto>(For as long as she has that counter ↦ She’s a ᶜDemiurge in addition to her other subtypes.)</i-auto>
 	flavor_text: <i-flavor></i-flavor>
 	watermark: custom watermark two
 	power: 3
 	toughness: 3
+	card_stamp: universes beyond
 	illustrator: Abbadon
 	additional_credit_2: Kill Six Billion Demons
 	additional_credit_brush_2: flavor

@@ -16,12 +16,11 @@ card:
 		Seek a Creature card with mana value 3 or less. (Reveal cards from the top of your library until you reveal a Creature card with mana value 3 or less. Put rest of the cards revealed this way on the bottom of your library in a random order.) 
 		(Assassins, Mercenaries, Pirates, Rogues, Villains, and Warlocks are outlaws.)
 	time_created: 2024-11-04 19:04:44
-	time_modified: 2026-02-25 02:01:57
+	time_modified: 2026-09-30 09:36:16
 	card_color: white, black, red, hybrid, vertical, reversed
 	name: Scarlet, the Bandit King
 	casting_cost: 1BBR/W
 	card_symbol: alchemy
-	transformation: extra comedy
 	image: image200
 	image_2: 
 	mainframe_image: 

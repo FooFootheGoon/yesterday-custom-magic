@@ -11,11 +11,10 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2025-04-04 18:07:20
-	time_modified: 2026-02-25 02:08:23
+	time_modified: 2026-09-30 08:08:52
 	card_color: blue, artifact, horizontal
 	name: “The Gate to Paradise”
 	casting_cost: 2UU
-	transformation: extra comedy
 	image: image8.png
 	image_2: 
 	mainframe_image: 

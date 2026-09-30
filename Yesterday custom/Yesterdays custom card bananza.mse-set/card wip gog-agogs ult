@@ -6,7 +6,7 @@ card:
 	styling_data:
 		chop_top: 1
 		chop_bottom: 1
-		frames: puma
+		frames: puma, universes beyond
 		custom_border_source: 
 		other_options: auto nyx crowns
 		text_box_mana_symbols: magic-mana-large.mse-symbol-font
@@ -14,7 +14,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2026-04-08 22:35:45
-	time_modified: 2026-09-23 10:09:17
+	time_modified: 2026-09-30 08:52:47
 	name: . WIP /[Gog-Agog’s ult]
 	casting_cost: 2CRWB
 	image: image157.png
@@ -36,9 +36,11 @@ card:
 		   ╰ </soft-line>When you do; This spell deals 2 damage to each non-”Gog-Agog” Creature.
 	flavor_text: <i-flavor></i-flavor>
 	watermark: custom watermark two
+	card_stamp: universes beyond
 	illustrator: Abbadon
 	additional_credit_2: Kill Six Billion Demons
 	additional_credit_brush_2: flavor
+	partition_select: after main set Z
 	card_code_text: — 3rd party card.
 	card_code_text_2: 
 	card_code_text_3: 

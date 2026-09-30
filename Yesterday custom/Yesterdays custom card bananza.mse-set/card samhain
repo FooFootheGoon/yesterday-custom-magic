@@ -14,7 +14,7 @@ card:
 		
 		Working upwards, changing stamps
 	time_created: 2023-11-19 21:59:08
-	time_modified: 2026-02-22 16:10:13
+	time_modified: 2026-09-30 08:14:48
 	name: Samhain
 	casting_cost: 3B
 	image: image104
@@ -25,8 +25,8 @@ card:
 	sub_type: <word-list-enchantment></word-list-enchantment>
 	rarity: rare
 	rule_text:
-		Each Creature you control and Creature card you own in exile has “<kw-a><nospellcheck><key>Haunt</key></nospellcheck></kw-a>”. <i-auto>(When it dies; Exile it, Haunting target Creature.)</i-auto>
-		As long as an opposing Creature is being Haunted by one or more Creature cards you own ↦ Whenever one of those Creatures dies; You may return one of the exiled cards to your hand.
+		Each Creature you control, and Creature card you own in exile, has “<kw-a><nospellcheck><key>Haunt</key></nospellcheck></kw-a>”. <i-auto>(When it dies; Exile it, Haunting target Creature.)</i-auto>
+		As long as an opposing Creature is being Haunted by cards which you own ↦ Whenever one of those Creatures dies; You may return one of the exiled cards to your hand.
 	flavor_text: <i-flavor></i-flavor>
 	separator: flavor bar
 	illustrator: UnidColor

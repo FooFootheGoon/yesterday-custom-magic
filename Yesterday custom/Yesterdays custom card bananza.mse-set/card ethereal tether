@@ -4,14 +4,14 @@ card:
 	styling_data:
 		chop_top: 1
 		chop_bottom: 1
-		frames: universes beyond
+		frames: 
 		other_options: auto nyx crowns
 		text_box_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes: https://www.exocomics.com/110/
 	time_created: 2023-11-23 11:12:08
-	time_modified: 2025-04-15 20:29:09
+	time_modified: 2026-09-30 08:10:52
 	name: Ethereal Tether
 	casting_cost: 2B
 	image: image155
@@ -24,7 +24,6 @@ card:
 	rule_text: When this Enchantment enters; Each player sacrifices an Enchantment.
 	flavor_text: <i-flavor>“This is my tether. There are many like it, but this one is mine.”</i-flavor>
 	separator: flavor bar
-	card_stamp: flatstamped universes beyond
 	illustrator: Li Chen
 	additional_credit_2: Extra Ordinary Comics
 	additional_credit_brush_2: flavor

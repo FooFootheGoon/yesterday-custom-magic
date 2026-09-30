@@ -12,7 +12,7 @@ card:
 		overlay: 
 	notes: https://www.artstation.com/artwork/ZG0kNG
 	time_created: 2026-09-21 19:20:01
-	time_modified: 2026-09-23 10:11:36
+	time_modified: 2026-09-30 08:42:31
 	name: Alien Demon Cat
 	casting_cost: 2GG
 	card_symbol: tombstone
@@ -32,7 +32,7 @@ card:
 	rule_text:
 		<kw-0><nospellcheck><key>Champion <param-a>a</param-a> <param-name>Land</param-name></key></nospellcheck></kw-0> <i-auto>(When this enters; Sacrifice it unless you exile a Land which you control. When this leaves the battlefield; That card returns to the battlefield.)</i-auto>
 		<kw-0><i-auto><nospellcheck><key>Landfall</key></nospellcheck></i-auto></kw-0> — <b>As long as this card is in your graveyard ↦ Whenever a Land which you control enters; You get <sym>TK</sym>, then you may put a sticker on this card.
-		Sacrifice a ᴸᵈSwamp: Return this card from your graveyard to the battlefield, tapped.</b>
+		Sacrifice a ᴸᵈSwamp: </b>Return this card from your graveyard to the battlefield, tapped.
 	flavor_text: <i-flavor></i-flavor>
 	power: 4
 	toughness: 4

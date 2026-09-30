@@ -1,9 +1,18 @@
 ﻿mse_version: 2.5.7
 card:
-	has_styling: false
+	has_styling: true
+	styling_data:
+		chop_top: 1
+		chop_bottom: 1
+		frames: universes beyond
+		custom_border_source: 
+		other_options: auto nyx crowns
+		text_box_mana_symbols: magic-mana-large.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
 	notes: 
 	time_created: 2025-04-06 05:59:08
-	time_modified: 2026-02-25 02:03:05
+	time_modified: 2026-09-30 08:15:17
 	name: A Sign of Things to Come
 	casting_cost: 5BB
 	image: image55.png
@@ -21,7 +30,7 @@ card:
 	rarity: mythic rare
 	rule_text:
 		Name a non-Basic card. Search target opponent’s graveyard, hand, and library for up to four cards with that name and exile them. That player shuffles, then draws a card for each card exiled from their hand this way.
-		<kw-a><nospellcheck><key>Gravestorm</key></nospellcheck></kw-a> <i-auto>(When you cast this spell; Copy it for each permanent put into a graveyard this turn. You may choose new targets for the copies.)</i-auto>
+		<b><kw-a><nospellcheck><key>Gravestorm</b></key></nospellcheck></kw-a> <i-auto>(When you cast this spell; Copy it for each permanent put into a graveyard this turn. You may choose new targets for the copies.)</i-auto>
 	flavor_text: <i-flavor></i-flavor>
 	watermark: custom watermark one
 	card_stamp: universes beyond

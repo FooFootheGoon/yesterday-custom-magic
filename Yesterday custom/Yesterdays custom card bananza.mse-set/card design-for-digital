@@ -13,7 +13,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2025-04-05 16:04:52
-	time_modified: 2026-02-25 02:03:47
+	time_modified: 2026-09-30 08:58:52
 	border_color: rgb(200,200,200)
 	name: Design-for-digital
 	casting_cost: WWWBBBBBB
@@ -32,7 +32,7 @@ card:
 	sub_type_4: 
 	rarity: mythic rare
 	rule_text:
-		Starting intensity 0
+		<b>Starting intensity 0</b>
 		Accept one of Davriel’s offers, then accept one of Davriel’s conditions.
 		Heist target opponent’s library, then you get a one-time boon with “When you cast a spell that didn’t start in your deck; Conjure a copy of that spell into your hand”, and “As long as you have this boon ↦ During the cleanup step ↦ Damage isn’t removed from Creatures which your opponents control “. Seek a card which has “Specialise”, then draft a card from among its specialisations as though it were a spellbook. The next time you cast a spell with that name, you may spend mana as though it were mana of any colour to cast that spell.
 		The top Creature card in you library incorporates <sym>1W</sym>, and perpetually gains “<kw-a><nospellcheck><key>Double team</key></nospellcheck></kw-a>”. If you weren’t the starting player ↦ It perpetually gains “As long as this card is on top of your library ↦ You may look at it, and you may cast this spell from the top of your library”.

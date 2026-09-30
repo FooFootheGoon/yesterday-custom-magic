@@ -12,10 +12,9 @@ card:
 		overlay: 
 	notes: https://www.deviantart.com/adanyacroft/art/Griotte-933890277
 	time_created: 2024-11-05 15:16:00
-	time_modified: 2026-02-25 02:02:12
+	time_modified: 2026-09-30 09:30:35
 	name: Griotte, the Butcher Baroness
 	casting_cost: 2/GG/W2/W
-	transformation: extra comedy
 	image: image209
 	image_2: 
 	mainframe_image: 
@@ -24,7 +23,7 @@ card:
 	sub_type: <word-list-race-en>Rat,</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Noble,</word-list-class-en><atom-sep> </atom-sep><word-list-class-en>Hero</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: rare
 	rule_text:
-		<kw-a><nospellcheck><key>Cleave <param-cost><sym-auto>3G/WG/W</sym-auto></param-cost></key></nospellcheck></kw-a>
+		<kw-a><nospellcheck><key><b>Cleave</b> <param-cost><sym-auto>3G/WG/W</sym-auto></param-cost></key></nospellcheck></kw-a>
 		When Griotte enters; It becomes day. [Then it becomes night].
 		As long as it’s day ↦ Whenever you cast a non-Creature spell; Put a trickery counter on Griotte.
 		As long as it’s night ↦ If you would put one or more +1 counters on Griotte ⇨ Instead put a number of +1 counters on her equal to the number of trickery counters on her.

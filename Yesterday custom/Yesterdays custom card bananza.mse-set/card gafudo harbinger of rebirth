@@ -12,11 +12,10 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2025-04-04 17:04:56
-	time_modified: 2026-02-25 12:16:12
+	time_modified: 2026-09-30 09:29:40
 	card_color: blue, black, green, hybrid, horizontal, reversed
 	name: Gafudo, Harbinger of Rebirth
 	casting_cost: 2U/BG
-	transformation: extra comedy
 	image: image61.png
 	image_2: 
 	mainframe_image: 
@@ -34,7 +33,7 @@ card:
 		<kw-a><nospellcheck><key>Hexproof</key></nospellcheck></kw-a>
 		<kw-a><nospellcheck><key>Exploit</key></nospellcheck></kw-a> <i-auto>(When this Creature enters; You may sacrifice a Creature.)</i-auto>
 		Whenever a Creature exploits a Creature you own other than itself; At the beginning of the next end step; You may return the exploited card from your graveyard to your hand.
-		Whenever one or more Creature cards leave your graveyard; You may tutor a Land card, then put it into your graveyard.
+		Whenever one or more Creature cards leave your graveyard; You may Tutor a Land card, then put it into your graveyard.
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 2

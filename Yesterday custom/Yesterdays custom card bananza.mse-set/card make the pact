@@ -4,7 +4,7 @@ card:
 	styling_data:
 		chop_top: 1
 		chop_bottom: 5
-		frames: 
+		frames: universes beyond
 		other_options: auto nyx crowns
 		hybrid_name: hybrid
 		text_box_mana_symbols: magic-mana-large.mse-symbol-font
@@ -12,7 +12,7 @@ card:
 		overlay: 
 	notes: https://avasdemon.com/pages.php#0215
 	time_created: 2023-11-17 12:23:43
-	time_modified: 2026-02-25 02:04:19
+	time_modified: 2026-09-30 09:32:43
 	name: Make the Pact
 	casting_cost: 2B/RB/RB/R
 	image: image12
@@ -27,7 +27,7 @@ card:
 	sub_type_3: 
 	rarity: mythic rare
 	rule_text:
-		If <sym-auto>B</sym-auto> was spent to cast this spell ↦ You draw four cards and you lose 4 life.
+		If <sym-auto>B</sym-auto> was spent to cast this spell ↦ You draw 4 cards and you lose 4 life.
 		If <sym-auto>R</sym-auto> was spent to cast this spell ↦ Discard any number of cards, then<soft-line>
 		</soft-line>draw that many cards.
 	flavor_text: <i-flavor>“<error-spelling:en_GB>Wh</error-spelling:en_GB>- Wait, I forgot to ask. Are there any dire consequences I should know about?!”</i-flavor>

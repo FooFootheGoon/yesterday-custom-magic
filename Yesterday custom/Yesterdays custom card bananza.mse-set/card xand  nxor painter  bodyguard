@@ -5,8 +5,8 @@ card:
 	has_styling: true
 	styling_data:
 		chop_top: 
-		chop_bottom: 6
-		frames: puma
+		chop_bottom: 
+		frames: puma, universes beyond
 		custom_border_source: 
 		other_options: pokemon evobar, auto nyx crowns
 		text_box_mana_symbols: magic-mana-large.mse-symbol-font
@@ -14,7 +14,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2026-08-05 13:00:00
-	time_modified: 2026-09-23 10:09:39
+	time_modified: 2026-09-30 08:41:20
 	card_color: colorless
 	name: Xand & Nxor, Painter & Bodyguard
 	alias: "Xand", "Nxor"
@@ -36,11 +36,15 @@ card:
 		<kw-a><nospellcheck><key><b>Devoid</b></key></nospellcheck></kw-a>, <b>Bandit</b>
 		<i>Wielder of Names — </i>Whenever you choose names, or put name counters on Creatures; <kw-a><nospellcheck><key>Goad</key></nospellcheck></kw-a> up to 1 target Creature.
 		<sym>WW/BB</sym>, <sym-auto>T</sym-auto>: Destroy target tapped Creature. Activate at sorcery speed.>
-		Whenever a Creature an opponent controls dies; You may pay <sym-auto>CC/UU</sym-auto>. If you do, this Creature becomes a copy of that Creature, except it keeps its base abilities.
+		Whenever a Creature an opponent controls dies;<soft-line>
+		</soft-line>You may pay <sym-auto>CC/UU</sym-auto>. If you do, this Creature becomes<soft-line>
+		</soft-line>a copy of that Creature, except it keeps its base<soft-line>
+		</soft-line>abilities.
 	flavor_text: <i-flavor></i-flavor>
 	watermark: custom watermark two
 	power: 5
 	toughness: 1
+	card_stamp: flatstamped universes beyond
 	illustrator: Abbadon
 	additional_credit_2: Kill Six Billion Demons
 	additional_credit_brush_2: flavor

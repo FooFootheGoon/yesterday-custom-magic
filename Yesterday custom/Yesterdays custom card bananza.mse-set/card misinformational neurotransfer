@@ -1,9 +1,18 @@
 ﻿mse_version: 2.5.7
 card:
-	has_styling: false
+	has_styling: true
+	styling_data:
+		chop_top: 1
+		chop_bottom: 1
+		frames: universes beyond
+		custom_border_source: 
+		other_options: auto nyx crowns
+		text_box_mana_symbols: magic-mana-large.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
 	notes: 
 	time_created: 2025-04-10 12:17:30
-	time_modified: 2026-09-20 13:07:47
+	time_modified: 2026-09-30 09:34:07
 	card_color: blue, black, red, green, hybrid, radial
 	name: Misinformational Neurotransfer
 	casting_cost: U/RU/RB/GB/G
@@ -21,10 +30,11 @@ card:
 	sub_type_4: 
 	rarity: mythic rare
 	rule_text:
-		<kw-a><nospellcheck><key>Cleave <param-cost><sym-auto>U/RU/R</sym-auto></param-cost></key></nospellcheck></kw-a>, Cleft <sym>B/GB/G</sym>, Cloven <sym>UBRG</sym>
+		<kw-a><nospellcheck><key><b>Cleave</b> <param-cost><sym-auto>U/RU/R</sym-auto></param-cost></key></nospellcheck></kw-a>, <b>Cleft</b> <sym>B/GB/G</sym>, <b>Cloven</b> <sym>UBRG</sym>
 		Until end of turn ↦ If a spell or ability which an opponent controls, would cause a [Creature {or] Sorcery} card to leave your graveyard ⇨ Instead of putting it anywhere else, exile it. Then, you may cast it by paying life equal to its mana value, rather than paying its mana cost.
 	flavor_text: <i-flavor></i-flavor>
 	watermark: custom watermark one
+	card_stamp: universes beyond
 	illustrator: Michelle Fus
 	additional_credit_2: Ava's Demon
 	additional_credit_brush_2: flavor

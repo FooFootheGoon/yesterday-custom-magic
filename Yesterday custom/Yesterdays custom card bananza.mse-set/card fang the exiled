@@ -12,7 +12,7 @@ card:
 		overlay: 
 	notes: https://www.deviantart.com/purpleground02/art/Fang-Fanart-737188567
 	time_created: 2024-11-06 22:27:56
-	time_modified: 2026-02-25 02:02:17
+	time_modified: 2026-09-30 09:28:39
 	border_color: rgb(200,200,200)
 	card_color: white, red, hybrid, vertical
 	name: Fang, the Exiled
@@ -25,7 +25,7 @@ card:
 	sub_type: <word-list-race-en>Wolf,</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Berserker,</word-list-class-en><atom-sep> </atom-sep><word-list-class-en>Hero</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: mythic rare
 	rule_text:
-		<b>⇨ Fang enters with a -1 counter on him.</b>
+		<b>⇨ Fang enters with a -1 counter.</b>
 		Creatures have “<kw-0><nospellcheck><key>Last strike</key></nospellcheck></kw-0>”. <i-auto>(They deal combat damage after the regular combat damage step.)</i-auto>
 		Other Creatures can’t have or gain “<kw-0><nospellcheck><key>First strike</key></nospellcheck></kw-0>”, “<kw-a><nospellcheck><key>Double strike</key></nospellcheck></kw-a>”, or “<kw-a><nospellcheck><key>Triple strike</key></nospellcheck></kw-a>”.
 		<i>Berzerker</i> — Whenever Fang attacks; Until end of turn ↦ He loses “<kw-a><nospellcheck><key>Last strike</key></nospellcheck></kw-a>” and gains “<kw-a><nospellcheck><key>Double strike</key></nospellcheck></kw-a>”.

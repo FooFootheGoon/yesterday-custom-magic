@@ -11,11 +11,10 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2025-04-06 12:59:29
-	time_modified: 2026-02-23 19:35:57
+	time_modified: 2026-09-30 09:07:51
 	card_color: white, blue, green, multicolor, horizontal
 	name: Lazarus, the Smoker
 	casting_cost: 1GWU
-	transformation: extra tragedy
 	image: image80.png
 	image_2: 
 	mainframe_image: 

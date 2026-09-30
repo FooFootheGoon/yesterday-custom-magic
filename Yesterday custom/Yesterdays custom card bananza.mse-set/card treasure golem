@@ -12,11 +12,10 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2025-04-05 15:51:45
-	time_modified: 2025-04-24 21:42:55
+	time_modified: 2026-09-30 09:39:59
 	card_color: blue, red, artifact, multicolor, horizontal
 	name: Treasure Golem
 	casting_cost: 3U/R
-	transformation: extra comedy
 	image: image15.png
 	image_2: 
 	mainframe_image: 

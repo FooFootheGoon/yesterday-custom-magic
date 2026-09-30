@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-04-06 05:31:21
-	time_modified: 2025-04-24 21:58:28
+	time_modified: 2026-09-30 09:04:32
 	name: In Sheep's Clothing
 	casting_cost: 1RG
 	image: image46.png
@@ -19,7 +19,7 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rarity: common
-	rule_text: <sym-auto>2</sym-auto>: Transform target ᶜᵏWerewolf you control. Activate only if a player cast two or more spells last turn.>
+	rule_text: <sym-auto>2</sym-auto>: Transform target ᶜᵏWerewolf which you control. Activate only if a player cast 2 or more spells last turn.>
 	flavor_text: <i-flavor>We are not agreed upon a definition of liberty.</i-flavor>
 	separator: flavor bar
 	illustrator: Calicothekat

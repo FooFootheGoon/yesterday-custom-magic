@@ -1,12 +1,20 @@
 ﻿mse_version: 2.5.7
 card:
-	has_styling: false
+	has_styling: true
+	styling_data:
+		chop_top: 1
+		chop_bottom: 1
+		frames: planeshifted
+		custom_border_source: 
+		other_options: auto nyx crowns
+		text_box_mana_symbols: magic-mana-large.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
 	notes: https://www.artstation.com/artwork/BmBNm6
 	time_created: 2026-09-21 21:22:09
-	time_modified: 2026-09-23 20:22:21
+	time_modified: 2026-09-30 09:15:40
 	name: Serpant Shark Dragon
 	casting_cost: 2WU
-	transformation: extra comedy
 	image: image201.png
 	image_2: 
 	mainframe_image: 

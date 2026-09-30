@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-04-06 10:36:59
-	time_modified: 2025-04-25 07:25:16
+	time_modified: 2026-09-30 09:14:15
 	name: Rekindle Life
 	casting_cost: 5GW
 	image: image65.png
@@ -20,9 +20,9 @@ card:
 	sub_type_4: 
 	rarity: mythic rare
 	rule_text:
-		<kw-0><nospellcheck><key>Assist</key></nospellcheck></kw-0> <i-auto>(Another player can pay up to <sym>5</sym> of this spell’s cost.)</i-auto>
+		<kw-0><nospellcheck><key><b>Assist</b></key></nospellcheck></kw-0> <i-auto>(Another player can pay up to <sym>5</sym> of this spell’s cost.)</i-auto>
 		Choose target permanent card that was put into a graveyard from the battlefield this turn. Return to the battlefield under its owner’s control.  
-		<kw-0><nospellcheck><key>Gravestorm</key></nospellcheck></kw-0>. Each copy must target a different card if able. <i-auto>(When you cast this spell; Copy it for each permanent put into a graveyard this turn. You may choose new targets for the copies.)</i-auto>
+		<b><kw-0><nospellcheck><key>Gravestorm</key></nospellcheck></kw-0>. Each copy must target a different card if able.</b> <i-auto>(When you cast this spell; Copy it for each permanent put into a graveyard this turn. You may choose new targets for the copies.)</i-auto>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Cutteroz
 	card_code_text: — 3rd party card.

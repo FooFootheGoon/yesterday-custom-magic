@@ -4,7 +4,7 @@ card:
 	styling_data:
 		chop_top: 1
 		chop_bottom: 1
-		frames: puma
+		frames: puma, universes beyond
 		other_options: pokemon evobar, auto nyx crowns
 		text_box_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
@@ -14,7 +14,7 @@ card:
 		
 		There’s a bit of a tonal whiplash with this card being a really good counter to most of the KSBD cards, despite the characters being so inconsequential.
 	time_created: 2026-02-23 20:53:55
-	time_modified: 2026-09-23 10:08:56
+	time_modified: 2026-09-29 22:45:18
 	card_color: white, blue, black, multicolor, horizontal
 	name: The Three Magisters
 	alias: "Vax", "Ando", "/placeholder/"
@@ -41,6 +41,7 @@ card:
 	watermark: custom watermark two
 	power: 6
 	toughness: 6
+	card_stamp: universes beyond
 	illustrator: Abbadon
 	additional_credit_2: Kill Six Billion Demons
 	additional_credit_brush_2: flavor

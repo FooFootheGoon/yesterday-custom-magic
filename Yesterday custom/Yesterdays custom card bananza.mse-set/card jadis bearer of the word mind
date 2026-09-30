@@ -6,7 +6,7 @@ card:
 	styling_data:
 		chop_top: 1
 		chop_bottom: 1
-		frames: puma
+		frames: puma, universes beyond
 		custom_border_source: 
 		other_options: pokemon evobar, auto nyx crowns
 		text_box_mana_symbols: magic-mana-large.mse-symbol-font
@@ -14,7 +14,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2026-08-12 11:00:00
-	time_modified: 2026-09-23 10:09:50
+	time_modified: 2026-09-29 22:48:38
 	name: Jadis, Bearer of the word Mind
 	alias: ”Bearer of the Shape”, “Lady of Infinite Repose”, “The Witch in Glass”
 	casting_cost: 2UUU
@@ -40,6 +40,7 @@ card:
 	watermark: custom watermark two
 	power: 0
 	toughness: 5
+	card_stamp: universes beyond
 	illustrator: Abbadon
 	additional_credit_2: Kill Six Billion Demons
 	additional_credit_brush_2: flavor

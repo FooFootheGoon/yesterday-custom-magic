@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-04-05 17:22:10
-	time_modified: 2025-04-24 21:44:24
+	time_modified: 2026-09-30 08:37:45
 	name: Riddance 
 	casting_cost: 2RR
 	image: image24.png
@@ -22,7 +22,7 @@ card:
 	rule_text:
 		<kw-a><nospellcheck><key>First strike</key></nospellcheck></kw-a>
 		When this Creature enters; It deals 2 damage to any target.
-		<b><kw-1><nospellcheck><key>Evoke</b>—<param-cost>Exile a red card from your hand</param-cost>.</key></nospellcheck><atom-reminder-expert> <i-auto>(You may cast this spell for its evoke cost. If you do ⇨ When it enters; Sacrifice it.)</i-auto></atom-reminder-expert></kw-1>
+		<b><kw-0><nospellcheck><key>Evoke</b>—<param-cost>Exile a red card from your hand</param-cost>.</key></nospellcheck></kw-0> <i-auto>(You may cast this spell for its Evoke cost. If you do ⇨ When it enters; Sacrifice it.)</i-auto>
 	flavor_text: <i-flavor></i-flavor>
 	power: 3
 	toughness: 2

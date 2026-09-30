@@ -339,7 +339,7 @@ include_file: card pan pan the barbarian
 include_file: card treasure golem
 include_file: card abandoned reserve
 include_file: card design-for-digital
-include_file: card wip  the history book
+include_file: card embellished history book
 include_file: card selkie honour guard
 include_file: card group pet project
 include_file: card feast for the king
@@ -405,7 +405,7 @@ include_file: card haemomancy
 include_file: card persistent slumber
 include_file: card lazarus the smoker
 include_file: card whip of motivation
-include_file: card wip  reverse the order of the stack
+include_file: card reverse the order of the stack
 include_file: card he
 include_file: card phantom limb
 include_file: card ximrod machinator menace
@@ -523,11 +523,7 @@ include_file: card firestorm the artist
 include_file: card alien demon cat
 include_file: card symbiotic symmetry
 include_file: card they what became divisive
-include_file: card wip
-include_file: card wip.1
-include_file: card wip.2
-include_file: card wip.3
-include_file: card wip.4
+include_file: card eye contact
 include_file: card a piece of my mind
 include_file: card serpant shark dragon
 include_file: card they what became masks
@@ -541,13 +537,14 @@ include_file: card krampus kinderschreck
 include_file: card street in the university quarter
 include_file: card slough the self
 include_file: card gusion of the ars goetia
-include_file: card wip.5
+include_file: card wip
 include_file: card moribundevanescence
 include_file: card wip  banal banshee
 include_file: card ghost in the machine ii
-include_file: card wip.6
+include_file: card wip level
 include_file: card they what became organised
 include_file: card khiratuman the end
+include_file: card gnorri
 keyword:
 	keyword: 
 	match: 

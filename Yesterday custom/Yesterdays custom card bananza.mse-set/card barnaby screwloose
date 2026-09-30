@@ -11,10 +11,9 @@ card:
 		overlay: 
 	notes: "Equipment", not "ᵃEquipment", as it’s referring to a card that isn’t a permanent, so the subtype isn’t contingent on the type 
 	time_created: 2024-11-03 19:03:59
-	time_modified: 2026-02-25 01:59:53
+	time_modified: 2026-09-30 08:56:43
 	name: Barnaby, Screwloose
 	casting_cost: 3RW
-	transformation: extra comedy
 	image: image198
 	image_2: 
 	mainframe_image: 

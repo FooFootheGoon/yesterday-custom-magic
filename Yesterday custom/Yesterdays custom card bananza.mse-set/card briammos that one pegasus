@@ -2,11 +2,19 @@
 card:
 	stylesheet: m15-adventure
 	stylesheet_version: 2024-05-27
-	has_styling: false
+	has_styling: true
+	styling_data:
+		chop_main: 
+		chop_adventure: 9
+		frames: universes beyond
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
 	notes: 
 	time_created: 2025-10-16 10:45:00
-	time_modified: 2026-02-23 21:45:14
+	time_modified: 2026-09-30 09:56:02
 	extra_data:
+		magic-m15-adventure:
+			vorthos_box: Asmoth’s Theros
 		magic-m15-altered: vorthos_box: Asmoth’s Theros
 	name: Briammos, That One Pegasus
 	name_2: Consider Using It
