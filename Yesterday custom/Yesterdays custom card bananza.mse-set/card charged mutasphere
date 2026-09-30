@@ -11,7 +11,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2023-11-17 20:10:48
-	time_modified: 2026-02-24 20:46:42
+	time_modified: 2026-09-30 10:37:22
 	card_color: red, artifact, horizontal
 	name: Charged Mutasphere
 	casting_cost: X3R
@@ -22,7 +22,7 @@ card:
 	super_type: <word-list-type-en>◌̵  Artefact</word-list-type-en>
 	sub_type: 
 	rarity: uncommon
-	rule_text: <b>⇨ You may have this Artefact enter as a copy of any Artefact on the battlefield—Except it enters with X additional charge counters on it.</b>
+	rule_text: <b>⇨ You may have this Artefact enter as a copy of any Artefact on the battlefield—Except it enters with X additional charge counters.</b>
 	flavor_text: <i-flavor>The <error-spelling:en_GB>Aevum</error-spelling:en_GB> are highly proud of their knowledge, and it is directly reflected in their Grand Library. Directly situated at the forefront, the <error-spelling:en_GB>mutasphere</error-spelling:en_GB> rests in mid-air, changing the fabric of space-time itself to house the endless number of leather-bounded books.</i-flavor>
 	separator: flavor bar
 	illustrator: Dominik Zdenkovic

@@ -5,7 +5,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2026-09-22 09:27:36
-	time_modified: 2026-09-29 22:58:06
+	time_modified: 2026-09-30 10:29:41
 	name: . WIP level
 	image: 
 	image_2: 
@@ -24,6 +24,7 @@ card:
 	toughness: 1
 	toughness_2: 2
 	toughness_3: 3
+	partition_select: after main set Z
 	card_code_text: — 3rd party card.
 	card_code_text_2: 
 	card_code_text_3: 

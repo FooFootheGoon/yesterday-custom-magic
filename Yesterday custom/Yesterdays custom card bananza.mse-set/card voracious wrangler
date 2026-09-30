@@ -11,7 +11,7 @@ card:
 		overlay: 
 	notes: https://www.instagram.com/p/BjYbjGEFUv1/
 	time_created: 2023-11-17 12:52:53
-	time_modified: 2026-09-30 09:46:29
+	time_modified: 2026-09-30 10:49:57
 	card_color: artifact
 	name: Voracious Wrangler
 	casting_cost: 6
@@ -28,7 +28,7 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-0><nospellcheck><key><b>Cleave</b> <param-cost><sym-auto>6</sym-auto></param-cost></key></nospellcheck></kw-0> <i-auto>(You may cast this spell for its Cleave cost. If you do ⇨ Remove the words in square brackets.<i>)</i-auto></i>
-		<b>⇨ Devour [Artefact] 2</b> <i-auto>(As this permanent enters ↦ You may sacrifice any number of Artefacts. If this spell’s Cleave cost was paid ⇨ Instead you may sacrifice any number of Creatures. This permanent enters with twice that many +1 counters on it.)</i-auto>
+		<b>⇨ Devour [Artefact] 2</b> <i-auto>(As this permanent enters ↦ You may sacrifice any number of Artefacts. If this spell’s Cleave cost was paid ⇨ Instead you may sacrifice any number of Creatures. This permanent enters with twice that many +1 counters.)</i-auto>
 		When this permanent enters; <kw-0><nospellcheck><key>Goad</key></nospellcheck></kw-0> up X target Creatures, where X is this permanent’s power.
 	flavor_text: <i-flavor></i-flavor>
 	power: 1

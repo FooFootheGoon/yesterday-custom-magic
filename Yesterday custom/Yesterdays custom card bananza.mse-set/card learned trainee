@@ -12,7 +12,7 @@ card:
 		overlay: 
 	notes: https://www.artstation.com/artwork/kVXRy
 	time_created: 2023-11-19 21:13:58
-	time_modified: 2026-02-24 20:47:08
+	time_modified: 2026-09-30 10:45:35
 	name: Learned Trainee
 	casting_cost: 2R/G
 	image: image97
@@ -23,7 +23,7 @@ card:
 	sub_type: <word-list-race-en>Bird,</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Warrior</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: uncommon
 	rule_text:
-		<b>⇨ <kw-0><nospellcheck><key>Graft <param-number>1</param-number></key></nospellcheck></kw-0> </b><i>(This Creature enters with a +1 counter on it. Whenever another Creature enters; You may move a +1 counter from this Creature onto it.)</i>
+		<b>⇨ <kw-0><nospellcheck><key>Graft <param-number>1</param-number></key></nospellcheck></kw-0> </b><i>(This Creature enters with a +1 counter. Whenever another Creature enters; You may move a +1 counter from this Creature onto it.)</i>
 		<kw-0><nospellcheck><key>Training</key></nospellcheck></kw-0> <i-auto>(Whenever this Creature attacks with another Creature with greater power; Put a +1 counter on this Creature.)</i-auto>
 	flavor_text: <i-flavor></i-flavor>
 	power: 0

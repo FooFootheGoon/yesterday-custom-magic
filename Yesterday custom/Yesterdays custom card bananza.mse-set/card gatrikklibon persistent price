@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-04-05 17:28:37
-	time_modified: 2026-09-30 09:01:18
+	time_modified: 2026-09-30 10:40:15
 	name: Gatrikk’libon, Persistent Price
 	casting_cost: 3BR
 	image: image26.png
@@ -20,8 +20,8 @@ card:
 	sub_type_4: 
 	rarity: rare
 	rule_text:
-		<b>⇨ Behold amplification 1</b> <i-auto>(As this Creature enters, choose any number of ᶜᵏGoblins and/or ᶜᵏNobles you control, and/or reveal any number of Goblin and/or Noble cards from your hand. This Creature enters with a +1 counter on it for each permanent and/or card Beheld this way.)</i-auto>
-		<kw-a><nospellcheck><key>Persist</key></nospellcheck></kw-a> <i-auto>(When this Creature dies, if it had no -1 counters on it; Return it to the battlefield under its owner’s control with a -1 counter on it.)</i-auto>
+		<b>⇨ Behold amplification 1</b> <i-auto>(As this Creature enters, choose any number of ᶜᵏGoblins and/or ᶜᵏNobles you control, and/or reveal any number of Goblin and/or Noble cards from your hand. This Creature enters with a +1 counter, for each permanent and/or card Beheld this way.)</i-auto>
+		<kw-a><nospellcheck><key>Persist</key></nospellcheck></kw-a> <i-auto>(When this Creature dies, if it had no -1 counters; Return it to the battlefield under its owner’s control with a -1 counter.)</i-auto>
 	flavor_text: <i-flavor></i-flavor>
 	power: -1
 	toughness: -1

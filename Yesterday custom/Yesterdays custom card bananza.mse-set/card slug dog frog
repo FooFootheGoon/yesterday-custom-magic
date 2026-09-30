@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: https://www.artstation.com/artwork/lGwy4k
 	time_created: 2025-02-23 13:49:19
-	time_modified: 2026-09-23 20:41:17
+	time_modified: 2026-09-30 10:51:43
 	name: Slug Dog Frog
 	casting_cost: BG
 	image: image202.png
@@ -21,12 +21,11 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-a><nospellcheck><key><b>Offspring</b> <param-cost><sym>2BG</sym></param-cost></key></nospellcheck></kw-a> <i-auto>(As you cast this spell ↦ You may pay an additional <sym-auto>2BG</sym-auto>. If you do ⇨ When this Creature enters; Create a token that’s a 1/1 copy of it.)</i-auto>
-		<kw-a><nospellcheck><key>First strike</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>Deathtouch</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>Poisonous <param-number>2</param-number></key></nospellcheck></kw-a> <i-auto>(Whenever this Creature deals combat damage to a player; That player gets 2 poison counters. A player with 10 or more poison counters loses the game.)</i-auto>
+		<kw-a><nospellcheck><key>First strike</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>Deathtouch</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>Poisonous <param-number>2</param-number></key></nospellcheck></kw-a> <i-auto>(Whenever this Creature deals combat damage to a player; That player gets 2 Poison counters. A player with 10 or more Poison counters loses the game.)</i-auto>
 	flavor_text: <i-flavor></i-flavor>
 	power: 0
 	toughness: 1
 	illustrator: Katinka Thorondor
-	partition_select: after main set Z
 	card_code_text: — 3rd party card.
 	card_code_text_2: 
 	card_code_text_3: 

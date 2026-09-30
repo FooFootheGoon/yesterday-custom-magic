@@ -11,7 +11,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2025-04-06 13:22:06
-	time_modified: 2026-09-30 09:21:18
+	time_modified: 2026-09-30 10:44:04
 	card_color: blue, red, green, artifact, multicolor, horizontal
 	name: Ximrod, Machinator Menace
 	casting_cost: XGUR
@@ -29,7 +29,7 @@ card:
 	sub_type_4: 
 	rarity: mythic rare
 	rule_text:
-		<b>⇨ Ximrod enters with X +1 counters on it.</b>
+		<b>⇨ Ximrod enters with X +1 counters.</b>
 		Artefact spells you cast with mana value equal to<soft-line>
 		</soft-line>or less than Ximrod’s power can’t be countered.
 		Whenever another non-token Creature or Artefact you control is sent to your graveyard from the battlefield; Choose another target Artefact card which has mana value less than or equal to Ximrod’s power. You may return it from your graveyard to your hand.

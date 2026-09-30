@@ -6,7 +6,7 @@ card:
 		
 		Grazing type (This creature enters the battlefield with five milk counters on it for each Forest and/or Plant you control.)?
 	time_created: 2025-04-24 09:21:15
-	time_modified: 2026-09-23 20:54:09
+	time_modified: 2026-09-30 10:51:46
 	name: Ox Beast Avatar
 	casting_cost: 1RG
 	card_symbol: tombstone
@@ -30,7 +30,6 @@ card:
 	power: 3
 	toughness: 3
 	illustrator: Katinka Thorondor
-	partition_select: after main set Z
 	card_code_text: — 3rd party card.
 	card_code_text_2: 
 	card_code_text_3: 

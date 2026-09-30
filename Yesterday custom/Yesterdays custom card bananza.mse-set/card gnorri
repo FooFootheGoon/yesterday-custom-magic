@@ -12,9 +12,9 @@ card:
 		overlay: 
 	notes: https://www.artstation.com/artwork/6vnq6N
 	time_created: 2026-09-29 23:21:42
-	time_modified: 2026-09-30 07:45:26
+	time_modified: 2026-09-30 10:41:07
 	name: Gnorri 
-	casting_cost: 3UB
+	casting_cost: 2UB
 	image: image221.png
 	image_2: 
 	mainframe_image: 
@@ -32,8 +32,8 @@ card:
 		<kw-a><nospellcheck><key><param-prefix>Island</param-prefix>walk</key></nospellcheck></kw-a>
 		When this Creature enters; Put a Flood counter on target Land. <i-auto>(It’s an ᴸᵈIsland in addition to its other Land subtypes.)</i-auto>
 		At the beginning of each opponent’s upkeep; They lose 1 life for each counter among Lands which they control.
-		<b><kw-a><nospellcheck><key>Squad</b> <param-cost><sym-auto>1UB</sym-auto></param-cost></key></nospellcheck></kw-a> <i-auto>(As an additional cost to cast this spell, you may pay <sym>1UB</sym> any number of times. When this Creature enters; Create that many tokens that are copies of it.)</i-auto>
-		<b><kw-a><nospellcheck><key>Suspend <param-number>1</b></param-number>—<param-cost><sym>3UB</sym> </param-cost></key></nospellcheck></kw-a> <i-auto>(Rather than cast this card from your hand ↦ You may pay <sym-auto>3UB</sym-auto> and exile it with a time counter on it. At the beginning of your upkeep; Remove a time counter. When the last is removed; Cast it without paying its mana cost. It has “<kw-a><nospellcheck><key>Haste</key></nospellcheck></kw-a>”.)</i-auto>
+		<b><kw-a><nospellcheck><key>Squad</b> <param-cost><sym-auto>2UB</sym-auto></param-cost></key></nospellcheck></kw-a> <i-auto>(As an additional cost to cast this spell, you may pay <sym>2UB</sym> any number of times. When this Creature enters; Create that many tokens that are copies of it.)</i-auto>
+		<b><kw-a><nospellcheck><key>Suspend <param-number>1</b></param-number>—<param-cost><sym>2UB</sym> </param-cost></key></nospellcheck></kw-a> <i-auto>(Rather than cast this card from your hand ↦ You may pay <sym-auto>2UB</sym-auto> and exile it with a time counter on it. At the beginning of your upkeep; Remove a time counter. When the last is removed; Cast it without paying its mana cost. It has “<kw-a><nospellcheck><key>Haste</key></nospellcheck></kw-a>”.)</i-auto>
 	flavor_text: <i-flavor></i-flavor>
 	power: 3
 	toughness: 3
