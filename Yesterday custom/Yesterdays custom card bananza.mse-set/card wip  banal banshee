@@ -21,7 +21,7 @@ card:
 	rule_text:
 		<b>Bandit</b>
 		<kw-a><nospellcheck><key>Banding</key></nospellcheck></kw-a>
-		When ...; Ban target card in a graveyard. Its owner creates a <u>Bane token</u> and a <u>Banana token</u>.
+		When ...; Ban target card in a graveyard. Its owner creates a <u>Bane token</u>.
 		When <atom-cardname><nospellcheck>. WIP / Banal Banshee</nospellcheck></atom-cardname> dies; Bank it.
 	flavor_text: <i-flavor></i-flavor>
 	partition_select: after main set Z
