@@ -45,6 +45,10 @@ styling:
 		text_box_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
+	magic-m15-attractions:
+		overlay: 
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 	magic-m15-doublefaced-sparker-exporter:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
@@ -72,6 +76,9 @@ styling:
 	magic-m15-nyx:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
+	magic-m15-punk-show:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
 	magic-m15-saga:
 		chapter_textboxes: three
 		snap_chapter_to_box: 
@@ -81,9 +88,27 @@ styling:
 		custom_chapter_name: 
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
+	magic-m15-showcase-assassins-creed-memory-corridor:
+		overlay: 
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+	magic-m15-showcase-bloomburrow-borderless-anime:
+		overlay: 
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+	magic-m15-showcase-ikoria-crystal:
+		overlay: 
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+	magic-m15-showcase-unfinity:
+		overlay: 
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 	magic-m15-spellbook:
 		remove_from_autocount: yes
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-youtube:
 		overlay: 
 include_file: card honey sucker
 include_file: card taste the knowledge forbidden
@@ -453,7 +478,6 @@ include_file: card ox beast avatar
 include_file: card unmaking and remaking yourself as god
 include_file: card they what became bulwarks
 include_file: card achilles bartrax
-include_file: card wip  zerdal wicsum
 include_file: card wip  wand of wonder
 include_file: card melecles champion of athreos
 include_file: card kleptos champion of miatros
@@ -545,6 +569,104 @@ include_file: card wip level
 include_file: card they what became organised
 include_file: card khiratuman the end
 include_file: card gnorri
+include_file: card whipscrapper-tailed xeno
+include_file: card lifegiver-horned unicorn
+include_file: card watch the world burn
+include_file: card watch the world turn
+include_file: card watch the world churn
+include_file: card be all. end all
+include_file: card no-name
+include_file: card no-name.1
+include_file: card no-name.2
+include_file: card no-name.3
+include_file: card no-name.4
+include_file: card unpolished perfection
+include_file: card no-name.5
+include_file: card no-name.6
+include_file: card no-name.7
+include_file: card no-name.8
+include_file: card no-name.9
+include_file: card no-name.10
+include_file: card no-name.11
+include_file: card no-name.12
+include_file: card no-name.13
+include_file: card no-name.14
+include_file: card no-name.15
+include_file: card no-name.16
+include_file: card blood harvest
+include_file: card no-name.17
+include_file: card no-name.18
+include_file: card no-name.19
+include_file: card xxu
+include_file: card 6 feet under
+include_file: card no-name.20
+include_file: card no-name.21
+include_file: card no-name.22
+include_file: card no-name.23
+include_file: card no-name.24
+include_file: card musical charm
+include_file: card no-name.25
+include_file: card no-name.26
+include_file: card no-name.27
+include_file: card no-name.28
+include_file: card no-name.29
+include_file: card no-name.30
+include_file: card the show must go on
+include_file: card no-name.31
+include_file: card no-name.32
+include_file: card no-name.33
+include_file: card no-name.34
+include_file: card no-name.35
+include_file: card no-name.36
+include_file: card sound blaster byte
+include_file: card matsu koee
+include_file: card movue love
+include_file: card mikki glascie
+include_file: card myelo psye
+include_file: card malaurien derson
+include_file: card mirore blake
+include_file: card ava ire
+include_file: card wrathia bellarmina
+include_file: card ava  wrathia pacted
+include_file: card vial of wrath
+include_file: card erios nimis
+include_file: card tylotung twalnoire
+include_file: card maggie lacivi
+include_file: card tuls tenebrose
+include_file: card maggie  tuls pacted
+include_file: card odin arrow
+include_file: card pedri nanezgani
+include_file: card gil marverde
+include_file: card nevy nervine
+include_file: card no-name.37
+include_file: card no-name.38
+include_file: card no-name.39
+include_file: card no-name.40
+include_file: card no-name.41
+include_file: card no-name.42
+include_file: card no-name.43
+include_file: card no-name.44
+include_file: card no-name.45
+include_file: card no-name.46
+include_file: card no-name.47
+include_file: card no-name.48
+include_file: card no-name.49
+include_file: card no-name.50
+include_file: card no-name.51
+include_file: card no-name.52
+include_file: card no-name.53
+include_file: card no-name.54
+include_file: card devilish coat of arms
+include_file: card no-name.55
+include_file: card no-name.56
+include_file: card no-name.57
+include_file: card the daily grind
+include_file: card showstopping en-raged kor
+include_file: card under the new moon
+include_file: card no-name.58
+include_file: card mirrorwing sphinx dragon
+include_file: card ghost in the machine iii
+include_file: card brave new world
 keyword:
 	keyword: 
 	match: 

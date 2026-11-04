@@ -11,7 +11,7 @@ card:
 		overlay: 
 	notes: https://sinto619.artstation.com/projects/lbyde
 	time_created: 2024-11-04 10:22:33
-	time_modified: 2026-09-30 09:27:53
+	time_modified: 2026-11-01 22:12:37
 	card_color: white, blue, green, multicolor, vertical
 	name: Elyssia, the Wardress of Warrens
 	casting_cost: 2GW/U
@@ -23,7 +23,7 @@ card:
 	sub_type: <word-list-race-en>Rabbit,</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Advisor,</word-list-class-en><atom-sep> </atom-sep><word-list-class-en>Hero</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: rare
 	rule_text:
-		If you tap a Fortified Land for mana ⇨ It produces twice as much of that mana instead.
+		If you tap a Fortified Land for mana ⇨ It produces that much mana plus one instead.
 		<i>Architect </i>— At the beginning of your end step; Create a token which is an<soft-line>
 		</soft-line>|Artefact — Fortification|, which has<soft-line>
 		</soft-line>“<kw-a><nospellcheck><key>Fortify <param-cost><sym-auto>W/U</sym-auto></param-cost></key></nospellcheck></kw-a>” and “<kw-a><nospellcheck><key>Umbra armor</key></nospellcheck></kw-a>”. You may attach it to an untapped Land which you control.

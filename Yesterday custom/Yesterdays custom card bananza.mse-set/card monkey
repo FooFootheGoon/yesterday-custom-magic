@@ -14,7 +14,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2026-09-19 14:00:00
-	time_modified: 2026-09-29 22:47:02
+	time_modified: 2026-11-01 22:14:45
 	name: Monkey
 	casting_cost: WB
 	image: image155.png
@@ -31,7 +31,7 @@ card:
 	sub_type_4: 
 	rarity: uncommon
 	rule_text:
-		Whenever you choose names, put name counters on Creatures, or cast a colourless spell; Until end of turn ↦ Target Creature and each Creature that shares a name with it, gain “<kw-a><nospellcheck><key>Training</key></nospellcheck></kw-a>” and “<kw-a><nospellcheck><key>Mentor</key></nospellcheck></kw-a>”.
+		Whenever you choose names, put Name counters on Creatures, or cast a colourless spell; Until end of turn ↦ Target Creature and each Creature that shares a name with it, gain “<kw-a><nospellcheck><key>Training</key></nospellcheck></kw-a>” and “<kw-a><nospellcheck><key>Mentor</key></nospellcheck></kw-a>”.
 		<b><kw-a><nospellcheck><key>Partner</key></nospellcheck></kw-a>—Persuers </b><i>(You can have two Commanders if both have this ability.)</i>
 	flavor_text: <i-flavor></i-flavor>
 	watermark: custom watermark two

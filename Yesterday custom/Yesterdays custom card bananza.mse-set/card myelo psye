@@ -1,0 +1,30 @@
+﻿mse_version: 2.5.7
+card:
+	has_styling: false
+	notes: 
+	time_created: 2026-11-01 14:06:03
+	time_modified: 2026-11-02 00:53:48
+	name: Myelo Psye
+	casting_cost: 2RW
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary ◌̵  Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Alien,</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Bard</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		The “Legend rule” doesn’t apply to Musical tokens which you control.
+		Each Musical permanent card in your graveyard, has Encore. The Encore cost is equal to its mana cost plus <sym>RW</sym>.
+		<kw-a><nospellcheck><key>Encore <param-cost><sym-auto>2RRWW</sym-auto></param-cost></key></nospellcheck></kw-a>
+	flavor_text: <i-flavor></i-flavor>
+	power: 4
+	toughness: 3
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

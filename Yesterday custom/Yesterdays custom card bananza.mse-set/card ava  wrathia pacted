@@ -1,0 +1,33 @@
+﻿mse_version: 2.5.7
+card:
+	has_styling: false
+	notes: 
+	time_created: 2026-11-01 14:09:06
+	time_modified: 2026-11-01 23:42:24
+	name: Ava & Wrathia, Pacted
+	casting_cost: 3BBR
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary ◌̵  Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Demon,</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Avatar,</word-list-class-en><atom-sep> </atom-sep><word-list-class-en>Noble</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		When this Creature enters; Conjure the 7 Deadly Vials into your library, then shuffle.
+		<kw-a><nospellcheck><key>Ward—<param-cost>Exert three tapped Lands which you control</param-cost></key></nospellcheck></kw-a>
+		<kw-a><nospellcheck><key>Haste</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>Menace</key></nospellcheck></kw-a>
+		If a red source which you control would deal damage, it deals that much damage plus 1 instead.
+		<sym-auto>B/R</sym-auto>: Until end of turn—This Creature gets +2/+1.
+		Pay 2 life: Sacrifice a permanent.
+	flavor_text: <i-flavor></i-flavor>
+	power: 4
+	toughness: 6
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

@@ -1,0 +1,27 @@
+﻿mse_version: 2.5.7
+card:
+	has_styling: false
+	notes: 
+	time_created: 2026-11-01 13:40:47
+	time_modified: 2026-11-01 23:30:18
+	casting_cost: 5
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>◌̵  Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<kw-a><nospellcheck><key>Delve</key></nospellcheck></kw-a>
+		Recover <kw-a><nospellcheck><key>Dredge <param-number>2</param-number></key></nospellcheck></kw-a> <i-auto>(If you would draw a card, you may <kw-a><nospellcheck><key><param-mill>mill</param-mill> <param-one_word>two</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a> instead. If you do, return this card from your graveyard to your hand. Otherwise, exile this card.)</i-auto>
+		Draw a card.
+	flavor_text: <i-flavor></i-flavor>
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

@@ -1,0 +1,32 @@
+﻿mse_version: 2.5.7
+card:
+	has_styling: false
+	notes: https://www.artstation.com/artwork/8B4nVR
+	time_created: 2026-11-01 12:30:32
+	time_modified: 2026-11-03 12:25:07
+	name: Lifegiver-Horned Unicorn
+	casting_cost: 4GW
+	image: image223.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>◌̵  Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Unicorn</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: uncommon
+	rule_text:
+		<b>When you cast this spell; It deals 2 damage to target Creature.
+		<kw-0><nospellcheck><key>Squirrellink</key></nospellcheck></kw-0> </b><i>(Damage dealt by this spell or Creature also causes you to create that many tokes that are green |Creature — Squirrel| 1/1s.)</i><b>
+		<kw-0><nospellcheck><key>Splice onto <param-name>Sorcery</param-name> <param-cost><sym>4</b>RR</sym></param-cost></key></nospellcheck></kw-0> <i-auto>(As you cast a Sorcery spell, you may reveal this card from your hand and pay its Splice cost. If you do, add this card’s effects to that spell.)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 3
+	illustrator: Katinka Thorondor
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

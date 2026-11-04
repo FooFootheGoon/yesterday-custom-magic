@@ -1,0 +1,30 @@
+﻿mse_version: 2.5.7
+card:
+	has_styling: false
+	notes: 
+	time_created: 2026-11-01 13:23:32
+	time_modified: 2026-11-01 23:40:05
+	name: xxu
+	casting_cost: XXU
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>◌̵  Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Hydra,</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Octopus</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<kw-a><nospellcheck><key>Ravenous</key></nospellcheck></kw-a>
+		This Creature enters with a Base Power X counter and a Base Toughness X counter.
+		When this Creature dies, you may distribute its counters among up to 2 target Creatures which you control.
+	flavor_text: <i-flavor></i-flavor>
+	power: 0
+	toughness: 0
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

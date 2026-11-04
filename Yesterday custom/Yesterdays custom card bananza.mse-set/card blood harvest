@@ -1,0 +1,38 @@
+﻿mse_version: 2.5.7
+card:
+	has_styling: false
+	notes:
+		https://www.artstation.com/artwork/o00wYL
+		
+		Sorcery reminder:
+		Haemophilia (As long as this card isn’t on the stack ↦ It’s an |Artefact — Blood| in addition to its other types and subtypes. If a non-permanent card would be put onto the battlefield this way ⇨ Instead put it into its owner’s hand.)
+		
+		permanent reminder:
+		Haemophilia (As long as this card isn’t on the stack ↦ It’s an |Artefact — Blood| in addition to its other types and subtypes, and has "T, Sacrifice this permanent, discard a card: Draw a card".)
+	time_created: 2026-11-01 13:14:33
+	time_modified: 2026-11-04 13:32:39
+	card_color: green, artifact, hybrid, vertical
+	name: Blood Harvest
+	casting_cost: 2/G
+	image: image228.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant ◌̵  Kindred, Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>ᵏScarecrow</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: uncommon
+	rule_text:
+		<b>Haemophilia</b> <i-auto>(As long as this card isn’t on the stack ↦ It’s an |Artefact — Blood| in addition to its other types and subtypes. If a Sorcery card which has “Haemophilia” would be put onto the battlefield ⇨ Instead put it into its owner’s hand.)</i-auto>
+		<b><kw-a><nospellcheck><key>Replicate</b> <param-cost><sym-auto>2/G</sym-auto></param-cost></key></nospellcheck></kw-a>
+		Add one mana of any colour.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Ismail Inceoglu
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

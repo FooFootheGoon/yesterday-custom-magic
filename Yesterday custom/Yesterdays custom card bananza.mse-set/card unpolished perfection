@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.7
+card:
+	has_styling: false
+	notes: https://www.artstation.com/artwork/ayywNz
+	time_created: 2026-11-01 12:42:33
+	time_modified: 2026-11-04 13:05:53
+	name: Unpolished Perfection
+	casting_cost: 3UBRRRG
+	image: image227.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>◌̵  Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		If <sym-auto>R</sym-auto> was spent to cast this spell, add five <sym>R</sym>. Otherwise, add <sym-auto>BGU</sym-auto>.
+		Coststorm <i-auto>(When you cast this spell; For each different mana value among other spells and Lands which you’ve played this turn, copy this spell.)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Alexey Virus
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

@@ -1,0 +1,26 @@
+﻿mse_version: 2.5.7
+card:
+	has_styling: false
+	notes: 
+	time_created: 2026-11-01 13:33:56
+	time_modified: 2026-11-01 23:35:19
+	casting_cost: 1R/WR/WG
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>◌̵  Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		At the beginning of your upkeep; You may put a Verse counter on this Enchantment.
+		For each Verse counter on this Enchantment-Each Musical spell you cast costs R/G/W <i-auto>(or <sym-auto>1</sym-auto>)</i-auto> less to cast. <i-auto>(Bards, Performers, Choruses, and permanents with Verse counters, are Musical.)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

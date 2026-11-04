@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.7
+card:
+	has_styling: false
+	notes: 
+	time_created: 2026-11-01 12:31:41
+	time_modified: 2026-11-03 12:33:23
+	name: Watch the World Turn
+	casting_cost: 3GG
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>◌̵  Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<kw-a><i-auto><nospellcheck><key>Strive</key></nospellcheck></i-auto></kw-a> — <b>This spell costs <sym-auto>3G</sym-auto> more to cast for each target beyond the first.</b>
+		Earthbend 3 any number of Lands. <i-auto>(Any number of target Lands which you control, become 0/0 Creatures which have “<kw-a><nospellcheck><key>Haste</key></nospellcheck></kw-a>”, which are still Lands. Put three +1 counters on it. When it dies or is exiled; Return it to the battlefield tapped.)</i-auto>
+		Paradigm <i-auto>(Then exile this spell. After you first resolve a spell with this name, you may cast a copy of it from exile without paying its mana cost at the beginning of each of your first main phases.)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

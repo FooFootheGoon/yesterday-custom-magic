@@ -12,7 +12,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2024-11-07 01:01:00
-	time_modified: 2026-02-25 02:00:33
+	time_modified: 2026-11-01 22:20:17
 	card_color: blue, black, red, hybrid, vertical
 	name: Nazar, the Maniac
 	casting_cost: 1B/RU
@@ -25,7 +25,7 @@ card:
 	rarity: rare
 	rule_text:
 		Whenever Nazar becomes tapped; Create a token that’s a copy of him. As long as Nazar was tapped to declare him as an attacker ↦ Instead ⇨ You may have the token enter tapped and attacking.
-		<i>Deceiver </i>— As long as Nazar is a token ↦ It isn’t Legendary, is an Illusion, and has “Ephemeral”. <i-auto>(When it becomes the target of a spell or ability; Sacrifice it.)</i-auto>
+		<i>Deceiver </i>— As long as Nazar is a token ↦ It isn’t Legendary, is an ᶜIllusion, and has “Ephemeral”. <i-auto>(When it becomes the target of a spell or ability; Sacrifice it.)</i-auto>
 	flavor_text: <i-flavor></i-flavor>
 	watermark: custom watermark three
 	power: 3

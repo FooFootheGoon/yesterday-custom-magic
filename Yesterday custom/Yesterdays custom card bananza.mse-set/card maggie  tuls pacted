@@ -1,0 +1,31 @@
+﻿mse_version: 2.5.7
+card:
+	has_styling: false
+	notes: 
+	time_created: 2026-11-01 14:12:29
+	time_modified: 2026-11-02 00:46:22
+	name: Maggie & Tuls, Pacted
+	casting_cost: 5BG
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary ◌̵  Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Human,</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Demon,</word-list-class-en><atom-sep> </atom-sep><word-list-class-en>Vessel,</word-list-class-en><atom-sep> </atom-sep><word-list-class-en>Avatar</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		As long as Maggie & Tuls are on the battlefield ↦ They’re a |Land - Forest| in addition to their other types and subtypes.
+		As Maggie & Tuls enter; They become Earthbended 4.
+		<kw-a><nospellcheck><key>Soulbond</key></nospellcheck></kw-a>
+		As long as Maggie & Tuls are paired with another Creature ↦ Both Creatures have “<kw-a><nospellcheck><key>Ward—<param-cost>Behold two Enchantments”</param-cost>.</key></nospellcheck></kw-a>
+	flavor_text: <i-flavor></i-flavor>
+	power: 0
+	toughness: 0
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
