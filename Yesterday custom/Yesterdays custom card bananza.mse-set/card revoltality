@@ -1,0 +1,30 @@
+﻿mse_version: 2.5.7
+card:
+	has_styling: false
+	notes: https://www.artstation.com/artwork/WXgwqD
+	time_created: 2026-11-01 12:52:21
+	time_modified: 2026-11-05 00:45:57
+	name: Revoltality
+	casting_cost: 3RG
+	image: image237.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>◌̵  Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: mythic rare
+	rule_text:
+		<b>Sticker <kw-a><nospellcheck><key>kicker</b> <param-cost><sym-auto>3RG</sym-auto></param-cost></key></nospellcheck></kw-a><i> <i-auto>(You may pay an additional <sym>3RG</sym> as you cast this spell. If you do, you get <sym>TK</sym> (a Ticket counter)</i-auto>, then you may put a sticker on it. Note its name as you cast uniquely named card copies, which have “Paradigm”, this way.)</i>
+		Paradigm
+		This spell deals 1 damage to any target. Add one mana of any colour.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Alexey Virus
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

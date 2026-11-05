@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2026-11-01 14:07:57
-	time_modified: 2026-11-01 23:42:09
+	time_modified: 2026-11-05 00:32:58
 	name: Ava Ire
 	casting_cost: 1R
 	image: 
@@ -20,7 +20,7 @@ card:
 	sub_type_4: 
 	rule_text:
 		<kw-a><nospellcheck><key>Ward—<param-cost>Exert a tapped Land which you control</param-cost></key></nospellcheck></kw-a>
-		When Ava dies; You may pay 5 life. If you do, Make the Pact <i-auto>(If you both own and controlled Ava, and you own Wrathia that’s Haunting her -> Exile both, then return them to the battlefield, Perpetually Melded. (They remain Melded for the rest of the game.)</i-auto>)
+		When Ava dies; You may pay 5 life. If you do, Make the Pact <i-auto>(If you both own and controlled Ava, and you own Wrathia that’s Haunting her -> Exile both, then return them to the battlefield, Perpetually Melded. (They remain Melded for the rest of the game.)</i-auto><i>)</i>
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
 	toughness: 2

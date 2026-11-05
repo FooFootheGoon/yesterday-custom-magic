@@ -2,29 +2,35 @@
 card:
 	has_styling: false
 	notes: 
-	time_created: 2026-11-01 13:12:23
-	time_modified: 2026-11-01 23:36:26
-	casting_cost: 2WU
+	time_created: 2026-11-01 13:50:24
+	time_modified: 2026-11-04 23:23:59
+	casting_cost: 1RR
 	image: 
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
-	super_type: <word-list-type-en>Instant ◌̵  Sorcery</word-list-type-en>
+	super_type: <word-list-type-en>Legendary ◌̵  Creature</word-list-type-en>
 	super_type_2: <word-list-type-en></word-list-type-en>
 	super_type_3: <word-list-type-en></word-list-type-en>
 	super_type_4: <word-list-type-en></word-list-type-en>
-	sub_type: <word-list-spell></word-list-spell>
+	sub_type: <word-list-race-en>[species],</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Rigger</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
 	rule_text:
-		As you cast this spell, note <sym-auto>X</sym-auto>, which is the number of spells you’ve cast before it this turn.
-		<kw-a><nospellcheck><key>Ripple <param-number>6</param-number></key></nospellcheck></kw-a>
-		Tiered
-		+<sym-auto>0</sym-auto> — You gain 2 life and draw 2 cards. <i-auto>(An’ sure yuh can bleedin’ forge’ abou’ X.)</i-auto>
-		+<sym-auto>WU</sym-auto> — You gain life and draw cards equal to half <sym-auto>X</sym-auto>, rounded up.
-		+<sym-auto>1WWUU</sym-auto> — You gain life and draw cards equal to twice X.
+		<kw-a><nospellcheck><key>Ward—<param-cost>Sacrifice an Artefact token</param-cost>.</key></nospellcheck></kw-a>
+		<margin:0:0:5>At the beginning of your end step, choose 1 at random that hasn’t been chosen—</margin:0:0:5>
+		<li><bullet>• </bullet>Create a Scrap token. <i-auto>(Promoted to predefined token. The predefinition is that it does nothing.)</i-auto>
+		</li><li><bullet>• </bullet>Create a <kw-a><nospellcheck><key>Map toke<param-*s>n</param-*s></key></nospellcheck></kw-a>.
+		</li><li><bullet>• </bullet>Create a Lander token.
+		</li><li><bullet>• </bullet>Crwate a <kw-a><nospellcheck><key>Junk toke<param-*s>n</param-*s></key></nospellcheck></kw-a>.
+		</li><li><bullet>• </bullet>Create a <kw-a><nospellcheck><key>Powerstone toke<param-*s>n</param-*s></key></nospellcheck></kw-a>.
+		</li><li><bullet>• </bullet>Create a <kw-a><nospellcheck><key>Blood toke<param-*s>n</param-*s></key></nospellcheck></kw-a>.
+		</li><li><bullet>• </bullet>Create a <kw-a><nospellcheck><key>Gold toke<param-*s>n</param-*s></key></nospellcheck></kw-a>.
+		</li><li><bullet>• </bullet>~ <kw-a><nospellcheck><key>assembles</key></nospellcheck></kw-a> 3 Contraptions.</li>
 	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 1
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 

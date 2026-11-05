@@ -1,0 +1,43 @@
+﻿mse_version: 2.5.7
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 0
+		chop_bottom: 0
+		frames: 
+		custom_border_source: 
+		other_options: auto nyx crowns
+		text_box_mana_symbols: magic-mana-large.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: https://www.artstation.com/artwork/E0ywe
+	time_created: 2026-11-01 12:49:53
+	time_modified: 2026-11-05 00:19:36
+	card_color: black, artifact, horizontal
+	name: Desecrated Unity
+	casting_cost: 3BB
+	card_symbol: tombstone
+	image: image233.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>◌̵  Artefact, Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>ᶜCyborg,</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>ᶜZombie,</word-list-class-en><atom-sep> </atom-sep><word-list-class-en>ᶜHorror</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		<i>Disappear</i> — <b>As long as a permanent left the battlefield under your control this turn ↦ When you cast this spell; Target player mills a number<soft-line>
+		</soft-line>of cards equal to the number of cards in your hand.</b>
+		<b>Beam me up</b> <sym>1UU</sym> <i-auto>(You may cast this card from your graveyard for <sym>1UU</sym> if you also return a Creature which you control to its owner’s hand. Then exile this spell (instead of putting it onto the battlefield)</i-auto><i>.)</i>
+	flavor_text: <i-flavor></i-flavor>
+	power: 4
+	toughness: 4
+	illustrator: Alexey Virus
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2026-11-01 14:28:44
-	time_modified: 2026-11-02 00:06:42
+	time_modified: 2026-11-05 00:09:23
 	name: Brave New World
 	casting_cost: 4G
 	image: 
@@ -18,7 +18,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
-	rule_text: <kw-a><i-auto><nospellcheck><key>Constellation</key></nospellcheck></i-auto></kw-a> — Whenever this Enchantment or another Enchantment which you control enters; Create a <u>New Planet token</u>. <i-auto>(It’s from Star Trek and promoted to a named token.)</i-auto> Triggers only once each turn.>
+	rule_text: <kw-a><i-auto><nospellcheck><key>Constellation</key></nospellcheck></i-auto></kw-a> — Whenever this Enchantment or another Enchantment which you control enters; Create a <u>New Planet token</u>. <i-auto>(It’s a tapped token |Land — Planet|, named <u>New Planet</u></i>,<i> which has “<sym-auto>T</sym-auto>: Add one mana of any colour”.)</i-auto> Triggers only once each turn.>
 	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 
 	card_code_text_2: 

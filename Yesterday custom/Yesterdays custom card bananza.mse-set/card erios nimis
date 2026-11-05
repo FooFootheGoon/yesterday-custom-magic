@@ -3,7 +3,8 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2026-11-01 14:10:15
-	time_modified: 2026-11-02 00:50:25
+	time_modified: 2026-11-05 00:29:56
+	card_color: white, blue, black, red, green, multicolor, horizontal
 	name: Erios Nimis
 	casting_cost: WUBRG
 	image: 

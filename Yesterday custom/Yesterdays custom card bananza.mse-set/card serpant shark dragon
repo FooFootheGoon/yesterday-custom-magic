@@ -12,7 +12,7 @@ card:
 		overlay: 
 	notes: https://www.artstation.com/artwork/BmBNm6
 	time_created: 2026-09-21 21:22:09
-	time_modified: 2026-09-30 09:15:40
+	time_modified: 2026-11-04 22:12:20
 	name: Serpant Shark Dragon
 	casting_cost: 2WU
 	image: image201.png
@@ -30,7 +30,7 @@ card:
 	rarity: mythic rare
 	rule_text:
 		<kw-a><nospellcheck><key><b>Demonstrate</key></nospellcheck></kw-a>
-		<i>Heaven sent </i>— As long as you have 7 or more cards in hand ↦ This spell can’t be countered.</b>
+		<i></b>Heaven sent </i>—<b> As long as you have 7 or more cards in hand ↦ This spell can’t be countered.</b>
 		<b><kw-0><nospellcheck><key>Splice onto <param-name>Sorcery</b></param-name> <param-cost><sym-auto>1WWUU</sym-auto></param-cost></key></nospellcheck></kw-0> <i-auto>(As you cast a Sorcery spell ↦ You may reveal this card from your hand and pay <sym-auto>1WWUU</sym-auto>. If you do ⇨ Add this card’s effects to that spell.)</i-auto>
 	flavor_text: <i-flavor></i-flavor>
 	power: 2

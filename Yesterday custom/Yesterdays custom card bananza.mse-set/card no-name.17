@@ -2,29 +2,28 @@
 card:
 	has_styling: false
 	notes: 
-	time_created: 2026-11-01 13:14:48
-	time_modified: 2026-11-02 00:31:56
-	casting_cost: 3GG
+	time_created: 2026-11-01 13:57:32
+	time_modified: 2026-11-04 23:24:51
+	card_color: artifact
 	image: 
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
-	super_type: <word-list-type-en>◌̵  Creature</word-list-type-en>
+	super_type: <word-list-type-en>◌̵  Artefact</word-list-type-en>
 	super_type_2: <word-list-type-en></word-list-type-en>
 	super_type_3: <word-list-type-en></word-list-type-en>
 	super_type_4: <word-list-type-en></word-list-type-en>
-	sub_type: <word-list-race-en></word-list-race-en>
+	sub_type: 
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
 	rule_text:
-		~ enters with 2 +1 counters.
-		As long as ~ is on the battlefield ↦ It’s a |Land - Forest| in addition to its other types and subtypes.
-		Sorcery spells you cast have “Awaken 2”. The Awaken cost is equal to its mana cost plus 1G.
-		0/0
+		<kw-a><nospellcheck><key>Sunburst</key></nospellcheck></kw-a>
+		Charge <kw-a><nospellcheck><key>Backup <param-number>2</param-number></key></nospellcheck></kw-a> <i-auto>(When this Artefact enters; Put 2 charge counters on target Creature. If that’s another permanent, it gains the following abilities until end of turn.)</i-auto>
+		Station
+		<sym-auto>X</sym-auto>, <sym-auto>T</sym-auto>, Remove X charge counters from this permanent: Reassemble up to X target Contraptions which you control.
+		<sym-auto>5</sym-auto>, <sym-auto>T</sym-auto>, Remove 5 charge counters from this permanent: CRANK!
 	flavor_text: <i-flavor></i-flavor>
-	power: 0
-	toughness: 0
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 

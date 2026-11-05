@@ -23,6 +23,25 @@ set_info:
 	custom_super_types: Instant
 	custom_creature_races: Time Lord,,
 styling:
+	magic-cbg-planeswalker:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+	magic-classicshifted:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+	magic-contraption:
+		overlay: 
+		text_box_mana_symbols: magic-mana-cbg.mse-symbol-font
+	magic-crystal:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-doomtown:
+		text_box_mana_symbols: magic-mana-small-doomtown.mse-symbol-font
+		overlay: 
+	magic-dynamic:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-horror:
+		overlay: 
+		text_box_mana_symbols: magic-mana-small-dark.mse-symbol-font
 	magic-m15:
 		color_indicator_dot: yes
 		use_guild_mana_symbols: no
@@ -109,6 +128,13 @@ styling:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
 	magic-m15-youtube:
+		overlay: 
+	magic-new-extra:
+		text_box_mana_symbols: magic-mana-small-extra.mse-symbol-font
+		pt_box_symbols: magic-pt-symbols-extra.mse-symbol-font
+		overlay: 
+	magic-new-god-black:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
 include_file: card honey sucker
 include_file: card taste the knowledge forbidden
@@ -575,49 +601,49 @@ include_file: card watch the world burn
 include_file: card watch the world turn
 include_file: card watch the world churn
 include_file: card be all. end all
+include_file: card the unmade and the decay
+include_file: card the unphased and cut away
 include_file: card no-name
 include_file: card no-name.1
-include_file: card no-name.2
-include_file: card no-name.3
-include_file: card no-name.4
+include_file: card herald of death
 include_file: card unpolished perfection
+include_file: card overbear the organic component
+include_file: card unleash the end-times
+include_file: card no-name.2
+include_file: card desecrated unity
+include_file: card no-name.3
+include_file: card revoltality
+include_file: card deconstructed drone
+include_file: card no-name.4
 include_file: card no-name.5
+include_file: card invariant
+include_file: card the belief system
 include_file: card no-name.6
+include_file: card blood harvest
 include_file: card no-name.7
+include_file: card adventure
+include_file: card omen
+include_file: card xxu
+include_file: card 6 feet under
 include_file: card no-name.8
+include_file: card gressa quickdraught witch
 include_file: card no-name.9
 include_file: card no-name.10
 include_file: card no-name.11
+include_file: card musical charm
 include_file: card no-name.12
+include_file: card process of deconstruction
 include_file: card no-name.13
 include_file: card no-name.14
 include_file: card no-name.15
 include_file: card no-name.16
-include_file: card blood harvest
+include_file: card the show must go on
 include_file: card no-name.17
 include_file: card no-name.18
 include_file: card no-name.19
-include_file: card xxu
-include_file: card 6 feet under
 include_file: card no-name.20
 include_file: card no-name.21
-include_file: card no-name.22
-include_file: card no-name.23
-include_file: card no-name.24
-include_file: card musical charm
-include_file: card no-name.25
-include_file: card no-name.26
-include_file: card no-name.27
-include_file: card no-name.28
-include_file: card no-name.29
-include_file: card no-name.30
-include_file: card the show must go on
-include_file: card no-name.31
-include_file: card no-name.32
-include_file: card no-name.33
-include_file: card no-name.34
-include_file: card no-name.35
-include_file: card no-name.36
+include_file: card creature of capaciousness
 include_file: card sound blaster byte
 include_file: card matsu koee
 include_file: card movue love
@@ -638,32 +664,32 @@ include_file: card odin arrow
 include_file: card pedri nanezgani
 include_file: card gil marverde
 include_file: card nevy nervine
+include_file: card no-name.22
+include_file: card no-name.23
+include_file: card no-name.24
+include_file: card no-name.25
+include_file: card no-name.26
+include_file: card no-name.27
+include_file: card no-name.28
+include_file: card no-name.29
+include_file: card no-name.30
+include_file: card no-name.31
+include_file: card no-name.32
+include_file: card no-name.33
+include_file: card no-name.34
+include_file: card no-name.35
+include_file: card no-name.36
 include_file: card no-name.37
 include_file: card no-name.38
 include_file: card no-name.39
+include_file: card devilish coat of arms
 include_file: card no-name.40
 include_file: card no-name.41
 include_file: card no-name.42
-include_file: card no-name.43
-include_file: card no-name.44
-include_file: card no-name.45
-include_file: card no-name.46
-include_file: card no-name.47
-include_file: card no-name.48
-include_file: card no-name.49
-include_file: card no-name.50
-include_file: card no-name.51
-include_file: card no-name.52
-include_file: card no-name.53
-include_file: card no-name.54
-include_file: card devilish coat of arms
-include_file: card no-name.55
-include_file: card no-name.56
-include_file: card no-name.57
 include_file: card the daily grind
 include_file: card showstopping en-raged kor
-include_file: card under the new moon
-include_file: card no-name.58
+include_file: card hex of the new moon
+include_file: card no-name.43
 include_file: card mirrorwing sphinx dragon
 include_file: card ghost in the machine iii
 include_file: card brave new world

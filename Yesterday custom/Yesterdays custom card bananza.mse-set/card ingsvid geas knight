@@ -14,7 +14,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2026-09-19 12:00:00
-	time_modified: 2026-09-29 22:48:55
+	time_modified: 2026-11-04 22:08:38
 	card_color: blue, black, artifact, multicolor, horizontal
 	name: Ingsvid, Geas Knight
 	casting_cost: UB
@@ -32,7 +32,7 @@ card:
 	sub_type_4: 
 	rarity: uncommon
 	rule_text:
-		Whenever you choose names, put name counters on Creatures, or cast a colourless spell; <kw-a><nospellcheck><key>Surveil <param-number>1</param-number></key></nospellcheck></kw-a>.
+		Whenever you choose names, put Name counters on Creatures, or cast a colourless spell; <kw-a><nospellcheck><key>Surveil <param-number>1</param-number></key></nospellcheck></kw-a>.
 		<b><kw-a><nospellcheck><key>Partner</key></nospellcheck></kw-a>—Persuers </b><i>(You can have two Commanders if both have this ability.)</i>
 	flavor_text: <i-flavor></i-flavor>
 	watermark: custom watermark two

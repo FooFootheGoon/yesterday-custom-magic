@@ -2,27 +2,26 @@
 card:
 	has_styling: false
 	notes: 
-	time_created: 2026-11-01 12:52:41
-	time_modified: 2026-11-01 23:18:10
-	casting_cost: 1GUR
+	time_created: 2026-11-01 13:30:30
+	time_modified: 2026-11-01 23:40:31
+	casting_cost: G
 	image: 
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
-	super_type: <word-list-type-en>◌̵  Creature</word-list-type-en>
+	super_type: <word-list-type-en>◌̵  Sorcery</word-list-type-en>
 	super_type_2: <word-list-type-en></word-list-type-en>
 	super_type_3: <word-list-type-en></word-list-type-en>
 	super_type_4: <word-list-type-en></word-list-type-en>
-	sub_type: <word-list-race-en></word-list-race-en>
+	sub_type: <word-list-spell>Chorus</word-list-spell><soft><atom-sep> </atom-sep></soft><word-list-spell></word-list-spell>
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
 	rule_text:
-		Distorion 1
-		<kw-a><nospellcheck><key>Cascade</key></nospellcheck></kw-a>
+		Starting Intensity 1
+		Put a number of +1 Counters on target Creature, equal to this spell’s Intensity. <i-auto>(This spell’s Intensity is equal to its Starting Intensity plus the number of Verse counters you have.)</i-auto>
+		You get a Verse counter. <i-auto>(This is the erratad, more paper-friendly form of “All Chorus cards you own intensify by 1”.)</i-auto>
 	flavor_text: <i-flavor></i-flavor>
-	power: 1
-	toughness: 1
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 

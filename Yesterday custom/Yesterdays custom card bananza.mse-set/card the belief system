@@ -1,0 +1,43 @@
+﻿mse_version: 2.5.7
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 1
+		chop_bottom: 2
+		frames: puma
+		custom_border_source: 
+		other_options: auto nyx crowns
+		text_box_mana_symbols: magic-mana-large.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: https://www.artstation.com/artwork/14NAPe
+	time_created: 2026-11-01 13:08:51
+	time_modified: 2026-11-04 23:46:23
+	name: The Belief System
+	casting_cost: 4WW
+	card_symbol: tombstone
+	image: image238.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary ◌̵  Enchantment, Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>ᶜGod</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: mythic rare
+	rule_text:
+		Storied
+		As long as you have an Enduring Story ↦ This permanent isn’t a Creature.
+		If a triggered ability of a permanent which you control, which shares a type with this permanent, triggers, that ability triggers an additional time.
+		<b>Fossilise</b> <sym>2RR</sym> <i-auto>(Return this card from your graveyard to the battlefield with a <kw-a><nospellcheck><key>Finality counter</key></nospellcheck></kw-a>. It’s an Artefact (and not an Enchantment or Creature)</i-auto><i>.)</i>
+	flavor_text: <i-flavor></i-flavor>
+	power: 8
+	toughness: 8
+	illustrator: Alexey Virus
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

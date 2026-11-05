@@ -1,0 +1,40 @@
+﻿mse_version: 2.5.7
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 1
+		chop_bottom: 3
+		frames: 
+		custom_border_source: 
+		other_options: auto nyx crowns
+		text_box_mana_symbols: magic-mana-large.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: https://www.artstation.com/artwork/NryJVP
+	time_created: 2026-11-01 12:40:02
+	time_modified: 2026-11-05 01:09:28
+	name: Herald of Death
+	casting_cost: 2B
+	image: image244.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>◌̵  Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Zombie,</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Elk</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: uncommon
+	rule_text:
+		<kw-0><nospellcheck><key><b>Bargain</b></key></nospellcheck></kw-0> <i-auto>(As you cast this spell ↦ You may sacrifice an Artefact, Enchantment, or token)</i-auto>
+		<kw-a><i-auto><nospellcheck><key>Morbid</key></nospellcheck></i-auto></kw-a> - As long as a Creature died this turn ↦ When this Creature enters; Each player sacrifices a Creature. Otherwise ↦ When this Creature enters; Draw a card.
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 2
+	illustrator: Mike Szabados
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

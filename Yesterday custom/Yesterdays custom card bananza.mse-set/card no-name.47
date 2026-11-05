@@ -1,33 +1,30 @@
 ﻿mse_version: 2.5.7
 card:
-	stylesheet: m15-attractions
-	stylesheet_version: 2024-05-20
 	has_styling: false
 	notes: 
-	time_created: 2026-11-01 14:18:34
-	time_modified: 2026-11-02 23:03:04
-	extra_data:
-		magic-m15-attractions:
-			light_2: lit
-			light_3: unlit
-			light_4: lit
-	card_color: artifact
+	time_created: 2026-11-01 14:23:03
+	time_modified: 2026-11-04 23:55:35
+	casting_cost: 1G
+	card_symbol: tombstone
 	image: 
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
-	super_type: <word-list-type-en>◌̵  Artefact</word-list-type-en>
+	super_type: <word-list-type-en>Legendary ◌̵  Planeswalker</word-list-type-en>
 	super_type_2: <word-list-type-en></word-list-type-en>
 	super_type_3: <word-list-type-en></word-list-type-en>
 	super_type_4: <word-list-type-en></word-list-type-en>
-	sub_type: Attraction
+	sub_type: <word-list-planeswalker></word-list-planeswalker>
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
 	rule_text:
-		3/6
-		Visit - This Artefact <kw-a><nospellcheck><key>assembles</key></nospellcheck></kw-a> a ᵃContraption.
+		</sym>+<sym>1: Create a <u><kw-a><nospellcheck><key>Food toke<param-*s>n</u></param-*s></key></nospellcheck></kw-a>.
+		</sym>-<sym>2: Create a token that’s a green |Creature - Squirrel| 1/1.
+		<kw-a><nospellcheck><key>Escape—<param-cost><sym-auto>1G</sym-auto>, Forage</param-cost></key></nospellcheck></kw-a>
 	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 

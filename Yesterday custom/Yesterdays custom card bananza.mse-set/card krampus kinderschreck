@@ -12,7 +12,7 @@ card:
 		overlay: 
 	notes: https://www.artstation.com/artwork/bgk2mn
 	time_created: 2026-09-21 22:56:25
-	time_modified: 2026-09-30 09:53:03
+	time_modified: 2026-11-04 22:13:52
 	name: Krampus, Kinderschreck
 	casting_cost: SSS
 	card_symbol: tombstone
@@ -32,7 +32,7 @@ card:
 	rule_text:
 		<kw-a><nospellcheck><key>Fear</key></nospellcheck></kw-a>
 		<i>Family gathering</i> — As long as Krampus is attacking ↦ Whenever Krampus deals combat damage; Choose 2 target Creatures which defending player controls. They <kw-a><nospellcheck><key>Fight</key></nospellcheck></kw-a> each other.
-		<b><kw-a><i-auto><nospellcheck><key>Bloodrush</key></nospellcheck></i-auto></kw-a> — <sym>SSS</sym>, Discard this card:</b> Choose 2 target Creatures which the same player controls. They <kw-a><nospellcheck><key>Fight</key></nospellcheck></kw-a> each other. Activate only while attacking that player.>
+		<kw-a><i-auto><nospellcheck><key>Bloodrush</key></nospellcheck></i-auto></kw-a> — <b><sym>SSS</sym>, Discard this card:</b> Choose 2 target Creatures which the same player controls. They <kw-a><nospellcheck><key>Fight</key></nospellcheck></kw-a> each other. Activate only while attacking that player.>
 		<b><kw-a><nospellcheck><key>Recover <param-cost></b><sym>SSS</sym></param-cost></key></nospellcheck></kw-a> <i-auto>(When a Creature is put into your graveyard<soft-line></i-auto>
 		</soft-line><i>from the battlefield; You may pay <sym-auto>SSS</sym-auto>. If you do, return this<soft-line>
 		</soft-line>card from your graveyard to your hand. Otherwise, exile this<soft-line>

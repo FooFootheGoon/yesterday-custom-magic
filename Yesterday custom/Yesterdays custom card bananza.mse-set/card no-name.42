@@ -1,26 +1,30 @@
 ﻿mse_version: 2.5.7
 card:
-	stylesheet: m15-showcase-assassins-creed-memory-corridor
-	stylesheet_version: 2024-10-01
 	has_styling: false
 	notes: 
-	time_created: 2026-11-01 14:17:55
-	time_modified: 2026-11-02 01:12:03
-	card_color: artifact
+	time_created: 2026-11-01 14:23:03
+	time_modified: 2026-11-04 23:55:35
+	casting_cost: 1G
+	card_symbol: tombstone
 	image: 
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
-	super_type: <word-list-type-en>◌̵  Artefact</word-list-type-en>
+	super_type: <word-list-type-en>Legendary ◌̵  Planeswalker</word-list-type-en>
 	super_type_2: <word-list-type-en></word-list-type-en>
 	super_type_3: <word-list-type-en></word-list-type-en>
 	super_type_4: <word-list-type-en></word-list-type-en>
-	sub_type: Contraption
+	sub_type: <word-list-planeswalker></word-list-planeswalker>
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
-	rule_text: Whenever you crank this Artefact; You get an experience counter.
+	rule_text:
+		</sym>+<sym>1: Create a <u><kw-a><nospellcheck><key>Food toke<param-*s>n</u></param-*s></key></nospellcheck></kw-a>.
+		</sym>-<sym>2: Create a token that’s a green |Creature - Squirrel| 1/1.
+		<kw-a><nospellcheck><key>Escape—<param-cost><sym-auto>1G</sym-auto>, Forage</param-cost></key></nospellcheck></kw-a>
 	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 

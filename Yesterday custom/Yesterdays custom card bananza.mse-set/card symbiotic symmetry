@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: https://www.artstation.com/artwork/qenPde
 	time_created: 2026-09-21 19:59:25
-	time_modified: 2026-09-28 21:31:05
+	time_modified: 2026-11-04 22:10:59
 	card_color: white, green, multicolor, horizontal
 	name: Symbiotic Symmetry
 	casting_cost: 2/G2/GW
@@ -22,7 +22,7 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-0><nospellcheck><key><b>Assist</key></nospellcheck></kw-0> </b><i>(Another player can pay up to <sym>4</sym> of this spell’s cost.)</i><b>
-		<kw-a><nospellcheck><key>Assist</key></nospellcheck></kw-a> <kw-a><nospellcheck><key>Kicker <param-cost><sym-auto>2/B2/B</sym-auto></param-cost></key></nospellcheck></kw-a> </b><i>(Another player can pay up to <sym>4</sym> of this spell’s Kicker cost. You choose whether to Kick the spell.)</i><b>
+		<kw-a><nospellcheck><key>Assist</key></nospellcheck></kw-a> <kw-a><nospellcheck><key>Kicker <param-cost><sym-auto>2/B2/B</sym-auto></param-cost></key></nospellcheck></kw-a> </b><i>(Another player can pay up to <sym>4</sym> of this spell’s Kicker cost, in increments of <sym>2</sym>. They may not pay <sym-auto>B</sym-auto>. You choose whether to Kick the spell.)</i><b>
 		<kw-0><nospellcheck><key>Demonstrate</b></key></nospellcheck></kw-0> <i-auto>(When you cast this spell; You may copy it. If you do ↦ Choose an opponent to also copy it. Players may choose new targets for their copies.)</i-auto>
 		Return target permanent card in your graveyard, to your hand. If this spell was Kicked ↦ Instead return that card to the battlefield.
 	flavor_text: <i-flavor></i-flavor>

@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2026-11-01 14:15:34
-	time_modified: 2026-11-01 23:43:03
+	time_modified: 2026-11-05 00:30:59
 	name: Gil Marverde
 	casting_cost: 3W
 	image: 
@@ -14,7 +14,7 @@ card:
 	super_type_2: <word-list-type-en></word-list-type-en>
 	super_type_3: <word-list-type-en></word-list-type-en>
 	super_type_4: <word-list-type-en></word-list-type-en>
-	sub_type: <word-list-race-en>Demon,</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Avatar</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type: <word-list-race-en>Alien,</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Cleric,</word-list-class-en><atom-sep> </atom-sep><word-list-class-en>Vessel</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 

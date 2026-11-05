@@ -1,25 +1,25 @@
 ﻿mse_version: 2.5.7
 card:
+	stylesheet: contraption
+	stylesheet_version: 2024-05-30
 	has_styling: false
 	notes: 
-	time_created: 2026-11-01 13:33:56
-	time_modified: 2026-11-01 23:35:19
-	casting_cost: 1R/WR/WG
+	time_created: 2026-11-01 14:17:42
+	time_modified: 2026-11-02 01:11:20
+	card_color: artifact
 	image: 
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
-	super_type: <word-list-type-en>◌̵  Enchantment</word-list-type-en>
+	super_type: <word-list-type-en>◌̵  Artefact</word-list-type-en>
 	super_type_2: <word-list-type-en></word-list-type-en>
 	super_type_3: <word-list-type-en></word-list-type-en>
 	super_type_4: <word-list-type-en></word-list-type-en>
-	sub_type: <word-list-enchantment></word-list-enchantment>
+	sub_type: Contraption
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
-	rule_text:
-		At the beginning of your upkeep; You may put a Verse counter on this Enchantment.
-		For each Verse counter on this Enchantment-Each Musical spell you cast costs R/G/W <i-auto>(or <sym-auto>1</sym-auto>)</i-auto> less to cast. <i-auto>(Bards, Performers, Choruses, and permanents with Verse counters, are Musical.)</i-auto>
+	rule_text: Whenever you crank this Artefact; Roll to visit your ᵃAttractions.
 	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 
 	card_code_text_2: 

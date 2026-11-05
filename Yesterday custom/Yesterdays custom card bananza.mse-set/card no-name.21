@@ -2,28 +2,29 @@
 card:
 	has_styling: false
 	notes: 
-	time_created: 2026-11-01 13:29:28
-	time_modified: 2026-11-01 23:19:09
-	casting_cost: 3RR
+	time_created: 2026-11-01 14:01:45
+	time_modified: 2026-11-04 23:26:52
+	casting_cost: U/B
 	image: 
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
-	super_type: <word-list-type-en>Legendary ◌̵  Creature</word-list-type-en>
+	super_type: <word-list-type-en>◌̵  Creature</word-list-type-en>
 	super_type_2: <word-list-type-en></word-list-type-en>
 	super_type_3: <word-list-type-en></word-list-type-en>
 	super_type_4: <word-list-type-en></word-list-type-en>
-	sub_type: <word-list-race-en></word-list-race-en>
+	sub_type: <word-list-race-en>Illusion</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
 	rule_text:
-		You may look at the top card of your library at any time.
-		You may cast permanent spells from the top of your library as though they had Dash. The Dash cost is equal to their mana costs.
-		You may play Lands from the top of your library. If you do, they gain “<kw-a><nospellcheck><key>Haste</key></nospellcheck></kw-a>” and “At the beginning of the next end step; Return this Land to its owner’s hand”. Each turn, you may play an additional Land this way.
+		When this Creature enters; Put an “Ephemeral” counter on target Creature.
+		Reinforce -2—<sym>3B</sym> <i-auto>(<sym-auto>3B</sym-auto>, Discard this card: Put two -1 counters on target Creature.)</i-auto>
+		Mayhem <sym>1U</sym>
+		<i>Renew</i> — <sym-auto>UB</sym-auto>, Exile this card from your graveyard: Put a -1 counter on target Creature. 
 	flavor_text: <i-flavor></i-flavor>
-	power: 3
-	toughness: 3
+	power: -2
+	toughness: -2
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 

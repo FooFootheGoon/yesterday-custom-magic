@@ -1,6 +1,15 @@
 ﻿mse_version: 2.5.7
 card:
-	has_styling: false
+	has_styling: true
+	styling_data:
+		chop_top: 1
+		chop_bottom: 1
+		frames: planeshifted
+		custom_border_source: 
+		other_options: auto nyx crowns
+		text_box_mana_symbols: magic-mana-large.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
 	notes: https://www.artstation.com/artwork/8B4nVR
 	time_created: 2026-11-01 12:30:32
 	time_modified: 2026-11-03 12:25:07
