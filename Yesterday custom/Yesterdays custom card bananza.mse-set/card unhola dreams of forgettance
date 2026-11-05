@@ -1,0 +1,43 @@
+﻿mse_version: 2.5.7
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 1
+		chop_bottom: 1
+		frames: puma
+		custom_border_source: 
+		other_options: auto nyx crowns
+		text_box_mana_symbols: magic-mana-large.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: https://www.artstation.com/artwork/KR60Vo
+	time_created: 2026-11-01 14:01:45
+	time_modified: 2026-11-06 00:57:54
+	name: Unhola, Dreams of Forgettance
+	casting_cost: U/B
+	card_symbol: tombstone
+	image: image251.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary ◌̵  Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Nightmare</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: mythic rare
+	rule_text:
+		When this Creature enters; Put an “Ephemeral” counter on target Creature.
+		<b>Reinforce -2</b>—<sym>3B</sym> <i-auto>(<sym-auto>3B</sym-auto>, Discard this card: Put two -1 counters on target Creature.)</i-auto>
+		<b>Mayhem</b> <sym>1U</sym>
+		<i>Renew</i> — <sym>UB</sym><b>, Exile this card from your graveyard: Put a -1 counter on target Creature. </b>
+	flavor_text: <i-flavor></i-flavor>
+	power: -2
+	toughness: -2
+	illustrator: Timi Honkanen
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

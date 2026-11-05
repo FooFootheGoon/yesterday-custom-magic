@@ -2,23 +2,27 @@
 card:
 	has_styling: false
 	notes: 
-	time_created: 2026-11-01 13:41:19
-	time_modified: 2026-11-01 23:40:54
-	casting_cost: W
+	time_created: 2026-11-01 13:43:59
+	time_modified: 2026-11-04 23:28:32
+	casting_cost: 1
 	image: 
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
-	super_type: <word-list-type-en>◌̵  Sorcery</word-list-type-en>
+	super_type: <word-list-type-en>Legendary ◌̵  Creature</word-list-type-en>
 	super_type_2: <word-list-type-en></word-list-type-en>
 	super_type_3: <word-list-type-en></word-list-type-en>
 	super_type_4: <word-list-type-en></word-list-type-en>
-	sub_type: <word-list-spell>Chorus</word-list-spell><soft><atom-sep> </atom-sep></soft><word-list-spell></word-list-spell>
+	sub_type: <word-list-race-en></word-list-race-en>
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
-	rule_text: You get a Verse counter.
+	rule_text:
+		<i>Rulebreaker</i> — As long as ~ is your Commander ↦ Before the game begins, choose two colours. This card is the chosen colours.
+		<i>Agenda</i> — You may have a Conspiracy as a second Commander. If that Conspiracy has “<kw-a><nospellcheck><key>Hidden Agenda</key></nospellcheck></kw-a>”, it doesn’t contribute to your deck’s colour identity.
 	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 1
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 

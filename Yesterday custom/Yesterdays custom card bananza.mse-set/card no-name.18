@@ -2,10 +2,9 @@
 card:
 	has_styling: false
 	notes: 
-	time_created: 2026-11-01 13:59:20
-	time_modified: 2026-11-02 01:08:20
-	card_color: artifact
-	casting_cost: 5
+	time_created: 2026-11-01 13:59:39
+	time_modified: 2026-11-02 00:28:59
+	casting_cost: U
 	image: 
 	image_2: 
 	mainframe_image: 
@@ -19,10 +18,9 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rule_text:
-		This Artefact enters with five charge counters.
-		<sym-auto>T</sym-auto>: Move a charge counter from this Artefact onto another target Artefact.
-		<kw-a><i-auto><nospellcheck><key>Bloodrush</key></nospellcheck></i-auto></kw-a> — <sym-auto>5</sym-auto>, Discard this card: Put five charge counters onto target Artefact. At the beginning of the next end step; Remove five charge counters from that Artefact.
-		<i>Renew </i>— <sym-auto>5</sym-auto>, Exile this card from your graveyard: Put five charge counters on target permanent.
+		<kw-a><nospellcheck><key>Replicate <param-cost><sym-auto>3W</sym-auto></param-cost></key></nospellcheck></kw-a>
+		<kw-a><nospellcheck><key>Jump-Start</key></nospellcheck></kw-a> <sym>1RR</sym> <i-auto>(cast for 1rr from graveyard by also discarding -> exile as it resolves instead of puttin onto battlefield.)</i-auto>
+		As long as this permanent is a token ↦ When this Artefact enters; Open an Attraction.
 	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 
 	card_code_text_2: 

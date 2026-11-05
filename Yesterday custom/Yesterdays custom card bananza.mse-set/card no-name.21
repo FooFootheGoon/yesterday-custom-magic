@@ -1,30 +1,26 @@
 ﻿mse_version: 2.5.7
 card:
+	stylesheet: contraption
+	stylesheet_version: 2024-05-30
 	has_styling: false
 	notes: 
-	time_created: 2026-11-01 14:01:45
-	time_modified: 2026-11-04 23:26:52
-	casting_cost: U/B
+	time_created: 2026-11-01 14:17:20
+	time_modified: 2026-11-02 01:11:47
+	card_color: artifact
 	image: 
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
-	super_type: <word-list-type-en>◌̵  Creature</word-list-type-en>
+	super_type: <word-list-type-en>◌̵  Artefact</word-list-type-en>
 	super_type_2: <word-list-type-en></word-list-type-en>
 	super_type_3: <word-list-type-en></word-list-type-en>
 	super_type_4: <word-list-type-en></word-list-type-en>
-	sub_type: <word-list-race-en>Illusion</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type: Contraption
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
-	rule_text:
-		When this Creature enters; Put an “Ephemeral” counter on target Creature.
-		Reinforce -2—<sym>3B</sym> <i-auto>(<sym-auto>3B</sym-auto>, Discard this card: Put two -1 counters on target Creature.)</i-auto>
-		Mayhem <sym>1U</sym>
-		<i>Renew</i> — <sym-auto>UB</sym-auto>, Exile this card from your graveyard: Put a -1 counter on target Creature. 
+	rule_text: Whenever you crank this Artefact; You get two <sym>TKTK</sym>, then you may put a sticker on a permanent which you own.
 	flavor_text: <i-flavor></i-flavor>
-	power: -2
-	toughness: -2
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 

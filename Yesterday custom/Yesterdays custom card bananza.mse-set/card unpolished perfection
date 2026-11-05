@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: https://www.artstation.com/artwork/ayywNz
 	time_created: 2026-11-01 12:42:33
-	time_modified: 2026-11-04 22:30:45
+	time_modified: 2026-11-05 23:03:58
 	card_color: blue, black, red, green, multicolor, horizontal
 	name: Unpolished Perfection
 	casting_cost: 3UBRRRG
@@ -22,7 +22,7 @@ card:
 	rarity: rare
 	rule_text:
 		If <sym-auto>R</sym-auto> was spent to cast this spell, add five <sym>R</sym>. Otherwise, add <sym-auto>BGU</sym-auto>.
-		Coststorm <i-auto>(When you cast this spell; For each different mana value among other spells and Lands which you’ve played this turn, copy this spell.)</i-auto>
+		<b>Coststorm</b> <i-auto>(When you cast this spell; For each different mana value among other spells and Lands which you’ve played this turn, copy this spell.)</i-auto>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Alexey Virus
 	card_code_text: 

@@ -4,8 +4,8 @@ card:
 	stylesheet_version: 2024-05-30
 	has_styling: false
 	notes: 
-	time_created: 2026-11-01 14:18:06
-	time_modified: 2026-11-02 01:12:25
+	time_created: 2026-11-01 14:18:21
+	time_modified: 2026-11-02 22:57:24
 	card_color: artifact
 	image: 
 	image_2: 
@@ -19,7 +19,8 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
-	rule_text: Whenever you crank this Artefact; Reassemble target ᵃContraption which you control. <i-auto>(Move it onto another one of your sprockets.)</i-auto>
+	rarity: mythic rare
+	rule_text: Whenever you crank ~; Sacrifice this Artefact, then CRANK!
 	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 
 	card_code_text_2: 

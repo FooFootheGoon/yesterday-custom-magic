@@ -2,29 +2,29 @@
 card:
 	has_styling: false
 	notes: 
-	time_created: 2026-11-01 14:23:03
-	time_modified: 2026-11-04 23:55:35
-	casting_cost: 1G
-	card_symbol: tombstone
+	time_created: 2026-11-01 14:26:41
+	time_modified: 2026-11-01 23:49:22
+	casting_cost: 2R
 	image: 
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
-	super_type: <word-list-type-en>Legendary ◌̵  Planeswalker</word-list-type-en>
+	super_type: <word-list-type-en>◌̵  Creature</word-list-type-en>
 	super_type_2: <word-list-type-en></word-list-type-en>
 	super_type_3: <word-list-type-en></word-list-type-en>
 	super_type_4: <word-list-type-en></word-list-type-en>
-	sub_type: <word-list-planeswalker></word-list-planeswalker>
+	sub_type: <word-list-race-en>Elemental,</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Performer</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
 	rule_text:
-		</sym>+<sym>1: Create a <u><kw-a><nospellcheck><key>Food toke<param-*s>n</u></param-*s></key></nospellcheck></kw-a>.
-		</sym>-<sym>2: Create a token that’s a green |Creature - Squirrel| 1/1.
-		<kw-a><nospellcheck><key>Escape—<param-cost><sym-auto>1G</sym-auto>, Forage</param-cost></key></nospellcheck></kw-a>
+		<kw-a><nospellcheck><key>Haste</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>Trample</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>Myriad</key></nospellcheck></kw-a>
+		~ gets +1/+0 for each Creature which you control, named ~.
+		At the beginning of the end step; Sacrifice ~.
+		<kw-a><nospellcheck><key>Encore <param-cost><sym-auto>6R</sym-auto></param-cost></key></nospellcheck></kw-a>
 	flavor_text: <i-flavor></i-flavor>
-	power: 1
-	toughness: 
+	power: 0
+	toughness: 1
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 

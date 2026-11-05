@@ -1,0 +1,32 @@
+﻿mse_version: 2.5.7
+card:
+	has_styling: false
+	notes: https://www.artstation.com/artwork/Qxnr68
+	time_created: 2026-11-01 12:53:15
+	time_modified: 2026-11-06 00:44:21
+	card_color: black, red, multicolor, horizontal
+	name: Make an Offering
+	casting_cost: 0
+	card_symbol: tombstone
+	image: image250.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	indicator: black, red, multicolor, horizontal
+	super_type: <word-list-type-en>Instant ◌̵  Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<kw-a><nospellcheck><key><b>Bargain</key></nospellcheck></kw-a>
+		<kw-a><nospellcheck><key>Casualty <param-number>0</b></param-number></key></nospellcheck></kw-a>
+		<b><kw-a><nospellcheck><key>Flashback</b> <param-cost><sym-auto>BR</sym-auto></param-cost></key></nospellcheck></kw-a>
+	flavor_text: <i-flavor>Some questions leave no room for hesitation. In the Unseen War, hesitation can be just as deadly as making the wrong choice.</i-flavor>
+	illustrator: AQ Studio
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
