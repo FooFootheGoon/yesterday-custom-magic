@@ -1,0 +1,31 @@
+﻿mse_version: 2.5.7
+card:
+	has_styling: false
+	notes: https://www.artstation.com/artwork/RKRPGm
+	time_created: 2026-11-06 01:47:18
+	time_modified: 2026-11-06 01:54:12
+	name: Unstable Summoning
+	casting_cost: 2RR
+	image: image254.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>◌̵  Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Elemental</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		<kw-a><nospellcheck><key><b>Storm</key></nospellcheck></kw-a> </b><i>(When you cast this spell; for each spell cast before it this turn ↦ Copy this spell.)</i><b>
+		</b><kw-1><nospellcheck><key>Echo <param-cost><sym-auto>2</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep; sacrifice it unless you pay its echo cost.)</i-auto></atom-reminder-expert></kw-1>
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 2
+	illustrator: Timi Honkanen
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

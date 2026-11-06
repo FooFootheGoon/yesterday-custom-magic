@@ -4,12 +4,12 @@ card:
 	stylesheet_version: 2024-05-20
 	has_styling: false
 	notes: 
-	time_created: 2026-11-01 14:18:34
-	time_modified: 2026-11-02 23:03:04
+	time_created: 2026-11-01 14:18:51
+	time_modified: 2026-11-02 23:01:27
 	extra_data:
 		magic-m15-attractions:
 			light_2: lit
-			light_3: unlit
+			light_3: lit
 			light_4: lit
 	card_color: artifact
 	image: 
@@ -25,8 +25,8 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rule_text:
-		3/6
-		Visit - This Artefact <kw-a><nospellcheck><key>assembles</key></nospellcheck></kw-a> a ᵃContraption.
+		4/6
+		Visit - Reassemble target ᵃContraption which you control.
 	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 
 	card_code_text_2: 

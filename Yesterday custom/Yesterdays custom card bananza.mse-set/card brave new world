@@ -1,12 +1,12 @@
 ﻿mse_version: 2.5.7
 card:
 	has_styling: false
-	notes: 
+	notes: https://www.artstation.com/artwork/elVXxD
 	time_created: 2026-11-01 14:28:44
-	time_modified: 2026-11-05 00:09:23
+	time_modified: 2026-11-06 01:39:48
 	name: Brave New World
 	casting_cost: 4G
-	image: 
+	image: image253.png
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
@@ -18,8 +18,12 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
-	rule_text: <kw-a><i-auto><nospellcheck><key>Constellation</key></nospellcheck></i-auto></kw-a> — Whenever this Enchantment or another Enchantment which you control enters; Create a <u>New Planet token</u>. <i-auto>(It’s a tapped token |Land — Planet|, named <u>New Planet</u></i>,<i> which has “<sym-auto>T</sym-auto>: Add one mana of any colour”.)</i-auto> Triggers only once each turn.>
+	rarity: rare
+	rule_text:
+		<kw-a><i-auto><nospellcheck><key>Constellation</key></nospellcheck></i-auto></kw-a> — Whenever this Enchantment or another Enchantment which you control enters; Create a <u>New Planet token</u>. <i-auto>(It’s a tapped token<soft-line></i-auto>
+		</soft-line><i>|Land — Planet|, named <u>New Planet</u></i>,<i> which has “<sym-auto>T</sym-auto>: Add one mana of any colour”.) </i>Triggers only once each turn.>
 	flavor_text: <i-flavor></i-flavor>
+	illustrator: Timi Honkanen
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 

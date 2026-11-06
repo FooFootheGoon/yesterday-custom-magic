@@ -2,9 +2,11 @@
 card:
 	has_styling: false
 	notes: 
-	time_created: 2026-11-01 13:57:32
-	time_modified: 2026-11-05 23:34:34
+	time_created: 2026-11-01 13:59:20
+	time_modified: 2026-11-05 23:35:19
 	card_color: artifact
+	casting_cost: 5
+	card_symbol: tombstone
 	image: 
 	image_2: 
 	mainframe_image: 
@@ -18,11 +20,10 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rule_text:
-		<kw-a><nospellcheck><key><b>Sunburst</key></nospellcheck></kw-a>
-		</b>Charge <kw-a><nospellcheck><key>Backup <param-number>2</param-number></key></nospellcheck></kw-a> <i-auto>(When this Artefact enters; Put 2 charge counters on target Creature. If that’s another permanent, it gains the following abilities until end of turn.)</i-auto>
-		Station
-		<sym-auto>X</sym-auto>, <sym-auto>T</sym-auto>, Remove X charge counters from this permanent: Reassemble up to X target Contraptions which you control.
-		<sym-auto>5</sym-auto>, <sym-auto>T</sym-auto>, Remove 5 charge counters from this permanent: CRANK!
+		<b>This Artefact enters with five charge counters.</b>
+		<sym-auto>T</sym-auto>: Move a charge counter from this Artefact onto another target Artefact.
+		<kw-a><i-auto><nospellcheck><key>Bloodrush</key></nospellcheck></i-auto></kw-a> — <sym>5</sym><b>, Discard this card: Put five charge counters onto target Artefact. At the beginning of the next end step; Remove five charge counters from that Artefact.</b>
+		<i>Renew </i>— <sym>5</sym><b>, Exile this card from your graveyard: Put five charge counters on target permanent.</b>
 	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 
 	card_code_text_2: 

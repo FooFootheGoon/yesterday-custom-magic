@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.7
+card:
+	has_styling: false
+	notes: https://www.artstation.com/artwork/n0ZDoX
+	time_created: 2026-11-01 12:39:42
+	time_modified: 2026-11-06 02:07:09
+	name: Dreadful Aspect
+	casting_cost: UUU
+	image: image255.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant ◌̵  Kindred, Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>ᵏCleric</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<kw-a><nospellcheck><key>Scry <param-number>1</param-number></key></nospellcheck></kw-a>, then draw a card.
+		<b><kw-0><nospellcheck><key>Flashback</b> <param-cost><sym-auto>1UU</sym-auto></param-cost></key></nospellcheck></kw-0> <i-auto>(You may cast this card from your graveyard for its Flashback cost. Then exile it.)</i-auto>
+		<b>Flashforward</b> <sym>2U</sym> <i-auto>(You may cast this card from exile for its Flashforward cost. Then put it on the bottom of your library.)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Timi Honkanen
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
