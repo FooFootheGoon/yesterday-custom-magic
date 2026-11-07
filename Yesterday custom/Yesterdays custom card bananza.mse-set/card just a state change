@@ -1,0 +1,32 @@
+﻿mse_version: 2.5.7
+card:
+	has_styling: false
+	notes: https://www.artstation.com/artwork/GLW5a
+	time_created: 2026-11-01 14:20:09
+	time_modified: 2026-11-07 14:01:34
+	name: Just a State Change
+	casting_cost: 3R/W
+	image: image126.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>◌̵  Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		You get <sym-auto>EE</sym-auto>, then you may spend any number of <sym>E</sym>. If you do > Choose one—
+		<li><bullet>• </bullet>You get that many <sym>TK</sym> <i-auto>(ticket counters)</i-auto>.
+		</li><li><bullet>• </bullet>You get that many experience counters.
+		</li><li><bullet>• </bullet>You get that many Poison Tolerance counters. <i-auto>(For each Poison Tolerance counter you have ↦ You require 1 more Poison counter to lose the game.)</i-auto>
+		</li><li><bullet>• </bullet>You get that many Poison counters. <i-auto>(Yeah I mean I dunno. Your call I guess.)</i-auto></li>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Timi Honkanen
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

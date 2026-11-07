@@ -1,9 +1,18 @@
 ﻿mse_version: 2.5.7
 card:
-	has_styling: false
+	has_styling: true
+	styling_data:
+		chop_top: 1
+		chop_bottom: 1
+		frames: universes beyond
+		custom_border_source: 
+		other_options: auto nyx crowns
+		text_box_mana_symbols: magic-mana-large.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
 	notes: 
 	time_created: 2026-11-01 14:04:05
-	time_modified: 2026-11-01 23:41:38
+	time_modified: 2026-11-07 11:21:50
 	name: Matsu Koee
 	casting_cost: 1BGU
 	image: 
@@ -22,6 +31,7 @@ card:
 		When ~ enters; You get a Verse counter. <i-auto>(Intensity of |Sorcery - Chorus| spells is determined by adding their Starting Intensity to your Verse counters.)</i-auto>
 		<sym-auto>T</sym-auto>, Sacrifice another Musical permanent: <kw-a><nospellcheck><key>Proliferate</key></nospellcheck></kw-a>. Activate at Sorcery speed.> <i-auto>(Bards, Performers, Choruses, and permanents with Verse counters, are Musical.)</i-auto>
 	flavor_text: <i-flavor></i-flavor>
+	watermark: custom watermark one
 	power: 3
 	toughness: 1
 	card_code_text: 

@@ -2,25 +2,26 @@
 card:
 	has_styling: false
 	notes: 
-	time_created: 2026-11-01 13:41:02
-	time_modified: 2026-11-01 23:40:48
-	casting_cost: 2R
+	time_created: 2026-11-01 13:59:39
+	time_modified: 2026-11-06 20:58:18
+	card_color: blue, artifact, horizontal
+	casting_cost: U
 	image: 
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
-	super_type: <word-list-type-en>◌̵  Sorcery</word-list-type-en>
+	super_type: <word-list-type-en>◌̵  Artefact</word-list-type-en>
 	super_type_2: <word-list-type-en></word-list-type-en>
 	super_type_3: <word-list-type-en></word-list-type-en>
 	super_type_4: <word-list-type-en></word-list-type-en>
-	sub_type: <word-list-spell>Chorus</word-list-spell><soft><atom-sep> </atom-sep></soft><word-list-spell></word-list-spell>
+	sub_type: 
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
 	rule_text:
-		Starting Intensity 1
-		<kw-a><nospellcheck><key>Assemble</key></nospellcheck></kw-a> a number of Contraptions equal to this spell’s Intensity.
-		You get a Verse counter.
+		<kw-a><nospellcheck><key>Replicate <param-cost><sym-auto>3W</sym-auto></param-cost></key></nospellcheck></kw-a>
+		<kw-a><nospellcheck><key>Jump-Start</key></nospellcheck></kw-a> <sym>1RR</sym> <i-auto>(cast for 1rr from graveyard by also discarding -> exile as it resolves instead of puttin onto battlefield.)</i-auto>
+		As long as this permanent is a token ↦ When this Artefact enters; Open an Attraction.
 	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 
 	card_code_text_2: 

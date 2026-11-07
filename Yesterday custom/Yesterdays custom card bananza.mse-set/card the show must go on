@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: https://www.artstation.com/artwork/ZlmdoZ
 	time_created: 2026-11-01 13:52:41
-	time_modified: 2026-11-04 23:23:03
+	time_modified: 2026-11-07 14:19:00
 	card_color: white, blue, red, multicolor, horizontal
 	name: The Show Must Go On
 	casting_cost: 1URW
@@ -22,7 +22,7 @@ card:
 	rarity: rare
 	rule_text:
 		At the beginning of your upkeep; You may put a Verse counter on this permanent.
-		If you would Open an Attraction, <kw-a><nospellcheck><key>Assemble</key></nospellcheck></kw-a> a Contraption, or a Rigger which you control would <kw-a><nospellcheck><key>Assemble</key></nospellcheck></kw-a> a Contraption-Instead you Open an Attraction and this permanent <kw-a><nospellcheck><key>Assembles</key></nospellcheck></kw-a> a Contraption.
+		If you would Open an Attraction, <kw-a><nospellcheck><key>Assemble</key></nospellcheck></kw-a> a Contraption, or a ᶜᵏRigger which you control would <kw-a><nospellcheck><key>Assemble</key></nospellcheck></kw-a> a Contraption ⇨ Instead you Open an Attraction and this permanent <kw-a><nospellcheck><key>Assembles</key></nospellcheck></kw-a> a Contraption.
 		Remove two Verse counters from this permanent, Sacrifice two Artefacts: You get a Verse counter. Activate at sorcery speed, up to once each turn.>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Alexey Virus

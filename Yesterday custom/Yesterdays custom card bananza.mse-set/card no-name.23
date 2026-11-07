@@ -1,11 +1,14 @@
 ﻿mse_version: 2.5.7
 card:
-	stylesheet: contraption
-	stylesheet_version: 2024-05-30
+	stylesheet: m15-attractions
+	stylesheet_version: 2024-05-20
 	has_styling: false
 	notes: 
-	time_created: 2026-11-01 14:17:55
-	time_modified: 2026-11-02 01:12:03
+	time_created: 2026-11-01 14:18:42
+	time_modified: 2026-11-02 23:01:01
+	extra_data:
+		magic-m15-attractions:
+			light_5: lit
 	card_color: artifact
 	image: 
 	image_2: 
@@ -15,11 +18,13 @@ card:
 	super_type_2: <word-list-type-en></word-list-type-en>
 	super_type_3: <word-list-type-en></word-list-type-en>
 	super_type_4: <word-list-type-en></word-list-type-en>
-	sub_type: Contraption
+	sub_type: Attraction
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
-	rule_text: Whenever you crank this Artefact; You get an experience counter.
+	rule_text:
+		2/6
+		Visit - Reassemble target ᵃContraption.
 	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 
 	card_code_text_2: 

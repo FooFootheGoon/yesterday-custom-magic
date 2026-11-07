@@ -2,26 +2,29 @@
 card:
 	has_styling: false
 	notes: 
-	time_created: 2026-11-01 14:22:11
-	time_modified: 2026-11-05 23:39:01
-	casting_cost: G
+	time_created: 2026-11-01 14:23:03
+	time_modified: 2026-11-04 23:55:35
+	casting_cost: 1G
+	card_symbol: tombstone
 	image: 
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
-	super_type: <word-list-type-en>World ◌̵  Enchantment</word-list-type-en>
+	super_type: <word-list-type-en>Legendary ◌̵  Planeswalker</word-list-type-en>
 	super_type_2: <word-list-type-en></word-list-type-en>
 	super_type_3: <word-list-type-en></word-list-type-en>
 	super_type_4: <word-list-type-en></word-list-type-en>
-	sub_type: <word-list-enchantment></word-list-enchantment>
+	sub_type: <word-list-planeswalker></word-list-planeswalker>
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
 	rule_text:
-		<b>Spell <kw-a><nospellcheck><key>Ward</b> <param-cost><sym-auto>1</sym-auto></param-cost></key></nospellcheck></kw-a>
-		<kw-a><nospellcheck><key>Ward <param-cost><sym-auto>1</sym-auto></param-cost></key></nospellcheck></kw-a>
-		For each Base Ward ability among other permanents, which you control ↦ This Enchantment and you each have an instance of that Ward ability.
+		</sym>+<sym>1: Create a <u><kw-a><nospellcheck><key>Food toke<param-*s>n</u></param-*s></key></nospellcheck></kw-a>.
+		</sym>-<sym>2: Create a token that’s a green |Creature - Squirrel| 1/1.
+		<kw-a><nospellcheck><key>Escape—<param-cost><sym-auto>1G</sym-auto>, Forage</param-cost></key></nospellcheck></kw-a>
 	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 

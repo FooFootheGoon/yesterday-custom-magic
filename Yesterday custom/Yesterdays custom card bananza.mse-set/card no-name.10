@@ -2,24 +2,28 @@
 card:
 	has_styling: false
 	notes: 
-	time_created: 2026-11-01 13:33:56
-	time_modified: 2026-11-04 23:29:48
-	casting_cost: 1R/WR/WG
+	time_created: 2026-11-01 13:59:20
+	time_modified: 2026-11-05 23:35:19
+	card_color: artifact
+	casting_cost: 5
+	card_symbol: tombstone
 	image: 
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
-	super_type: <word-list-type-en>◌̵  Enchantment</word-list-type-en>
+	super_type: <word-list-type-en>◌̵  Artefact</word-list-type-en>
 	super_type_2: <word-list-type-en></word-list-type-en>
 	super_type_3: <word-list-type-en></word-list-type-en>
 	super_type_4: <word-list-type-en></word-list-type-en>
-	sub_type: <word-list-enchantment></word-list-enchantment>
+	sub_type: 
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
 	rule_text:
-		At the beginning of your upkeep; You may put a Verse counter on this Enchantment.
-		For each Verse counter on this Enchantment-Each Musical spell you cast costs <sym>R/G/W</sym> <i-auto>(or <sym-auto>1</sym-auto>)</i-auto> less to cast. <i-auto>(Bard, Performer, and Chorus spells, are Musical.)</i-auto>
+		<b>This Artefact enters with five charge counters.</b>
+		<sym-auto>T</sym-auto>: Move a charge counter from this Artefact onto another target Artefact.
+		<kw-a><i-auto><nospellcheck><key>Bloodrush</key></nospellcheck></i-auto></kw-a> — <sym>5</sym><b>, Discard this card: Put five charge counters onto target Artefact. At the beginning of the next end step; Remove five charge counters from that Artefact.</b>
+		<i>Renew </i>— <sym>5</sym><b>, Exile this card from your graveyard: Put five charge counters on target permanent.</b>
 	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 
 	card_code_text_2: 

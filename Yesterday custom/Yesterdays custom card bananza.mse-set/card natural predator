@@ -1,0 +1,41 @@
+﻿mse_version: 2.5.7
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 1
+		chop_bottom: 5
+		frames: 
+		custom_border_source: 
+		other_options: auto nyx crowns
+		text_box_mana_symbols: magic-mana-large.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: https://www.artstation.com/artwork/rR81L2
+	time_created: 2026-11-01 13:14:48
+	time_modified: 2026-11-06 22:26:33
+	name: Natural Predator
+	casting_cost: 2GG
+	image: image256.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>◌̵  Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Plant</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		<b> ⇨ This permanent enters with two +1 counters.</b>
+		As long as this permanent is on the battlefield ↦ It’s a |Land - Forest| in addition to its other types and subtypes.
+		Sorcery spells which you own, have “Awaken 2”. The Awaken cost is equal to its mana cost plus <sym>1G</sym>.
+	flavor_text: <i-flavor>“Much like most anything that lives inside the forests, keep your distance and treat it with respect. If you don’t, then, well, good luck my friend.”</i-flavor>
+	power: 0
+	toughness: 0
+	illustrator: Timi Honkanen
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

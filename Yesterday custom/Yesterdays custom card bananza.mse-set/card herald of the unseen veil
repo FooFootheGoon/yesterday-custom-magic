@@ -1,0 +1,41 @@
+﻿mse_version: 2.5.7
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 1
+		chop_bottom: 1
+		frames: puma
+		custom_border_source: 
+		other_options: auto nyx crowns
+		text_box_mana_symbols: magic-mana-large.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: https://www.artstation.com/artwork/ay8Lq
+	time_created: 2026-11-01 13:30:10
+	time_modified: 2026-11-07 15:30:08
+	name: Herald of the Unseen Veil
+	casting_cost: RRRRR
+	image: image264.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary ◌̵  Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Dragon,</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Sorcerer</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: mythic rare
+	rule_text:
+		<kw-a><nospellcheck><key>Bloodthirst <param-number>X</param-number></key></nospellcheck></kw-a>, where X is the number of  ᵃBloods on the battlefield.
+		Whenever <atom-cardname><nospellcheck>Herald of the Unseen Veil</nospellcheck></atom-cardname> deals combat damage to a player or non-Creature permanent; Create that many <u><kw-a><nospellcheck><key>Blood toke<param-*s>ns</u></param-*s></key></nospellcheck></kw-a>, then sacrifice that many permanents.
+		<kw-a><i-auto><nospellcheck><key>Bloodrush</key></nospellcheck></i-auto></kw-a> — <sym-auto>RRRRR</sym-auto>, <b>Discard this card: Until end of turn ↦ Target attacking Creature get +X/+X, where X is the number of ᵃBloods you control. Until end of turn ↦ Whenever it deals combat damage to a player or non-Creature permanent; Create that many <u><kw-a><nospellcheck><key>Blood toke<param-*s>ns</u></param-*s></key></nospellcheck></kw-a>, then sacrifice that many permanents.</b>
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 2
+	illustrator: Timi Honkanen
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

@@ -1,0 +1,30 @@
+﻿mse_version: 2.5.7
+card:
+	has_styling: false
+	notes: https://www.artstation.com/artwork/xYwkLr
+	time_created: 2026-11-01 14:22:11
+	time_modified: 2026-11-07 13:05:16
+	name: A World in Perspective
+	casting_cost: G
+	image: image261.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>World ◌̵  Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: uncommon
+	rule_text:
+		<b>Spell <kw-0><nospellcheck><key>Ward</b> <param-cost><sym-auto>1</sym-auto></param-cost></key></nospellcheck></kw-0> <i-auto>(Whenever this spell becomes the target of a spell or ability an opponent controls; Counter it unless that player pays <sym-auto>1</sym-auto>.)</i-auto>
+		<kw-a><nospellcheck><key>Ward <param-cost><sym-auto>1</sym-auto></param-cost></key></nospellcheck></kw-a>
+		For each Base Ward ability among other permanents, which you control ↦ This Enchantment and you each have an instance of that Ward ability.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Timi Honkanen
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

@@ -4,8 +4,8 @@ card:
 	stylesheet_version: 2024-05-27
 	has_styling: true
 	styling_data:
-		chop_main: 
-		chop_adventure: 9
+		chop_main: 5
+		chop_adventure: 
 		auto_frames: nyx, vehicle, snow, universes beyond
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 

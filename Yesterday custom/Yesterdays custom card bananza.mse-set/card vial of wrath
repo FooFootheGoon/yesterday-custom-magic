@@ -1,9 +1,18 @@
 ﻿mse_version: 2.5.7
 card:
-	has_styling: false
+	has_styling: true
+	styling_data:
+		chop_top: 1
+		chop_bottom: 1
+		frames: universes beyond
+		custom_border_source: 
+		other_options: auto nyx crowns
+		text_box_mana_symbols: magic-mana-large.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
 	notes: 
 	time_created: 2026-11-01 14:09:46
-	time_modified: 2026-11-05 00:29:16
+	time_modified: 2026-11-07 11:22:33
 	name: Vial of Wrath
 	casting_cost: 2BR
 	image: 
@@ -21,6 +30,7 @@ card:
 	rarity: mythic rare
 	rule_text: <sym-auto>T</sym-auto>, Sacrifice Vial of Wrath: Choose target |Legendary ◌̵  Creature - Demon, Vessel, Avatar|. Put a sin counter on it. It gains “<kw-a><nospellcheck><key>First Strike</key></nospellcheck></kw-a>”, “If this Creature’s power and toughness would increase temporarily -> Instead they increase perpetually”, and “Permanents your opponents control lose “<kw-a><nospellcheck><key>Indestructible</key></nospellcheck></kw-a>” and can’t have or gain it”.
 	flavor_text: <i-flavor></i-flavor>
+	watermark: custom watermark one
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 

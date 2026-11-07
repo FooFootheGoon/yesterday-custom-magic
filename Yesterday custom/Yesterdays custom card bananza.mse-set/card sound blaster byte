@@ -1,9 +1,18 @@
 ﻿mse_version: 2.5.7
 card:
-	has_styling: false
+	has_styling: true
+	styling_data:
+		chop_top: 1
+		chop_bottom: 1
+		frames: universes beyond
+		custom_border_source: 
+		other_options: auto nyx crowns
+		text_box_mana_symbols: magic-mana-large.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
 	notes: 
 	time_created: 2026-11-01 14:03:23
-	time_modified: 2026-11-02 01:10:29
+	time_modified: 2026-11-07 11:21:45
 	name: Sound Blaster Byte
 	casting_cost: 1WUBRG
 	image: 
@@ -24,6 +33,7 @@ card:
 		<kw-a><nospellcheck><key>Ward—<param-cost>Remove 3 counters from among permanents which you control</param-cost></key></nospellcheck></kw-a>
 		<sym-auto>T</sym-auto>, Move any number of counters from target Creature or Enchantment which you control, onto you or another Enchantment which you control. Those counters become Verse counters. <i-auto>(For each Verse counter you have, your Chorus spells have +1 Intensity)</i-auto>
 	flavor_text: <i-flavor></i-flavor>
+	watermark: custom watermark one
 	power: 4/4
 	toughness: 
 	card_code_text: 

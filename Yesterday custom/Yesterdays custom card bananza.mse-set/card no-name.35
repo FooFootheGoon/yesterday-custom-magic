@@ -2,32 +2,25 @@
 card:
 	has_styling: false
 	notes: 
-	time_created: 2026-11-01 14:21:02
-	time_modified: 2026-11-04 23:54:50
-	card_color: blue, black, green, artifact, horizontal
-	casting_cost: 3BG/U
+	time_created: 2026-11-01 14:22:11
+	time_modified: 2026-11-05 23:39:01
+	casting_cost: G
 	image: 
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
-	super_type: <word-list-type-en>◌̵  Artefact</word-list-type-en>
+	super_type: <word-list-type-en>World ◌̵  Enchantment</word-list-type-en>
 	super_type_2: <word-list-type-en></word-list-type-en>
 	super_type_3: <word-list-type-en></word-list-type-en>
 	super_type_4: <word-list-type-en></word-list-type-en>
-	sub_type: 
+	sub_type: <word-list-enchantment></word-list-enchantment>
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
 	rule_text:
-		Each Creature which you control, has each base activated ability of this permanent.
-		<margin:0:0:5>At the beginning of each combat; Each player Blights 1.</margin:0:0:5>
-		<margin:0:0:5><sym-auto>T</sym-auto>, Remove a -1 counter from this permanent: Choose one—</margin:0:0:5>
-		<li><bullet>• </bullet>Put a -1/-0 counter and a -0/-1 counter on this permanent
-		</li><li><bullet>• </bullet>Put two -1/-0 counters on this permanent
-		</li><li><bullet>• </bullet>Put a -2/-0 counter on this permanent
-		</li><li><bullet>• </bullet>Put two -0/-1 counters on this permanent
-		</li><li><bullet>• </bullet>Put a -0/-2 counter on this permanent
-		<margin:0:0:5></li><sym-auto>T</sym-auto>, Remove two -1 counters from this permanent: Put a -2/-2 counter on this permanent.</margin:0:0:5>
+		<b>Spell <kw-a><nospellcheck><key>Ward</b> <param-cost><sym-auto>1</sym-auto></param-cost></key></nospellcheck></kw-a>
+		<kw-a><nospellcheck><key>Ward <param-cost><sym-auto>1</sym-auto></param-cost></key></nospellcheck></kw-a>
+		For each Base Ward ability among other permanents, which you control ↦ This Enchantment and you each have an instance of that Ward ability.
 	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 
 	card_code_text_2: 

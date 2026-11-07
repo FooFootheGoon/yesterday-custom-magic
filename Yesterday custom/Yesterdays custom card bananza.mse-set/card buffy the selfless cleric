@@ -1,0 +1,47 @@
+﻿mse_version: 2.5.7
+card:
+	stylesheet: m15-mainframe-planeswalker
+	stylesheet_version: 2024-09-01
+	has_styling: false
+	notes: https://www.artstation.com/artwork/g2qnax
+	time_created: 2026-11-01 14:23:03
+	time_modified: 2026-11-07 14:17:15
+	special_text:
+		[+1]: <margin:130:0:0>Create a <u><kw-a><nospellcheck><key>Food toke<param-*s>n</u></param-*s></key></nospellcheck></kw-a>.</margin:130:0:0>
+		[-2]: <margin:130:0:0>Create a token that’s a green |Creature - Squirrel| 1/1.</margin:130:0:0>
+		<kw-0><nospellcheck><key><b>Escape</b>—<param-cost><sym-auto>1G</sym-auto>, Forage</param-cost></key></nospellcheck></kw-0> <i-auto>(You may cast this card from your graveyard for its Escape cost.)</i-auto>
+	name: Buffy, the Selfless Cleric
+	casting_cost: 1G
+	card_symbol: tombstone
+	image: image265.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary ◌̵  Planeswalker</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-planeswalker>Buffy</word-list-planeswalker><soft><atom-sep> </atom-sep></soft><word-list-planeswalker></word-list-planeswalker>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: mythic rare
+	rule_text:
+		</sym>+<sym>1: Create a <u><kw-a><nospellcheck><key>Food toke<param-*s>n</u></param-*s></key></nospellcheck></kw-a>.
+		</sym>-<sym>2: Create a token that’s a green |Creature - Squirrel| 1/1.
+		<kw-a><nospellcheck><key>Escape—<param-cost><sym-auto>1G</sym-auto>, Forage</param-cost></key></nospellcheck></kw-a>
+	flavor_text: <i-flavor></i-flavor>
+	loyalty_cost_1: +1
+	loyalty_cost_2: -2
+	loyalty: 1
+	level_1_text: <margin:130:0:0>Create a <u><kw-a><nospellcheck><key>Food toke<param-*s>n</u></param-*s></key></nospellcheck></kw-a>.</margin:130:0:0>
+	level_2_text: <margin:130:0:0>Create a token that’s a green |Creature - Squirrel| 1/1.</margin:130:0:0>
+	level_3_text: <kw-0><nospellcheck><key><b>Escape</b>—<param-cost><sym-auto>1G</sym-auto>, Forage</param-cost></key></nospellcheck></kw-0> <i-auto>(You may cast this card from your graveyard for its Escape cost.)</i-auto>
+	level_4_text: 
+	level_5_text: 
+	power: 1
+	toughness: 
+	illustrator: Andy Aslamov
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

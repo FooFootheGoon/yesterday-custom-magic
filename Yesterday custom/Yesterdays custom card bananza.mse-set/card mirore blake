@@ -1,9 +1,19 @@
 ﻿mse_version: 2.5.7
 card:
-	has_styling: false
+	has_styling: true
+	styling_data:
+		chop_top: 1
+		chop_bottom: 1
+		frames: universes beyond
+		custom_border_source: 
+		other_options: auto nyx crowns
+		hybrid_name: gold
+		text_box_mana_symbols: magic-mana-large.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
 	notes: 
 	time_created: 2026-11-01 14:07:14
-	time_modified: 2026-11-02 00:52:44
+	time_modified: 2026-11-07 11:22:16
 	name: Mirore Blake
 	casting_cost: 3BB/RR
 	image: 
@@ -24,6 +34,7 @@ card:
 		Other Musical spells you own have “<kw-a><nospellcheck><key>Spectacle <param-cost><sym-auto>2BB/RR</sym-auto></param-cost></key></nospellcheck></kw-a>”.
 		Spectacle costs you pay cost <sym-auto>B/R</sym-auto> less to cast.
 	flavor_text: <i-flavor></i-flavor>
+	watermark: custom watermark one
 	power: 1
 	toughness: 4
 	card_code_text: 

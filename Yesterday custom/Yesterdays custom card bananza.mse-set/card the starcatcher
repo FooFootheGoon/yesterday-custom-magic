@@ -1,0 +1,45 @@
+﻿mse_version: 2.5.7
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 
+		chop_bottom: 
+		frames: puma
+		custom_border_source: 
+		other_options: auto nyx crowns
+		text_box_mana_symbols: magic-mana-large.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: https://www.artstation.com/artwork/zD31EL
+	time_created: 2026-11-01 13:43:59
+	time_modified: 2026-11-07 12:09:26
+	card_color: multicolor
+	name: The Starcatcher
+	casting_cost: 1
+	image: image262.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary ◌̵  Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Wolf,</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Cleric</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: mythic rare
+	rule_text:
+		<i>Rulebreaker</i> — As long as <atom-cardname><nospellcheck>The Starcatcher</nospellcheck></atom-cardname> is your Commander ↦ Before the game begins, choose two colours. This card is the chosen colours.
+		<i>Agenda</i> — You may have a Conspiracy as a second Commander. If that Conspiracy has “<kw-a><nospellcheck><key>Hidden Agenda</key></nospellcheck></kw-a>” ⇨ It doesn’t contribute to your deck’s colour identity.
+	flavor_text:
+		<i-flavor>“It is said that the stars disappeared from the sky once.<soft-line>
+		</soft-line>An elk with antlers so large, they scraped the sky,<soft-line>
+		</soft-line>pulling and picking all the stars in their wake during<soft-line>
+		</soft-line>new moon.”</i-flavor>
+	power: 1
+	toughness: 1
+	illustrator: Timi Honkanen
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

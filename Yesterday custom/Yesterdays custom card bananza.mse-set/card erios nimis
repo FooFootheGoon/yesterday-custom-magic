@@ -1,9 +1,18 @@
 ﻿mse_version: 2.5.7
 card:
-	has_styling: false
+	has_styling: true
+	styling_data:
+		chop_top: 1
+		chop_bottom: 1
+		frames: universes beyond
+		custom_border_source: 
+		other_options: auto nyx crowns
+		text_box_mana_symbols: magic-mana-large.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
 	notes: 
 	time_created: 2026-11-01 14:10:15
-	time_modified: 2026-11-05 00:29:56
+	time_modified: 2026-11-07 11:22:37
 	card_color: white, blue, black, red, green, multicolor, horizontal
 	name: Erios Nimis
 	casting_cost: WUBRG
@@ -23,6 +32,7 @@ card:
 		Prismatic
 		Whenever Erios attacks, and whenever you cast a Musical spell; Create a token that’s a copy of target token, which you control.
 	flavor_text: <i-flavor></i-flavor>
+	watermark: custom watermark one
 	power: 3
 	toughness: 3
 	card_code_text: 

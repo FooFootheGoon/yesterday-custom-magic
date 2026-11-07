@@ -1,9 +1,9 @@
 ﻿mse_version: 2.5.7
 card:
 	has_styling: false
-	notes: 
+	notes: https://alexeyvirus.artstation.com/projects/kwEK6z
 	time_created: 2026-11-01 13:40:47
-	time_modified: 2026-11-04 23:19:11
+	time_modified: 2026-11-07 14:54:43
 	name: Process of Deconstruction
 	casting_cost: 5
 	card_symbol: tombstone
@@ -21,9 +21,10 @@ card:
 	sub_type_4: 
 	rule_text:
 		<kw-a><nospellcheck><key><b>Delve</key></nospellcheck></kw-a>
-		Recover <kw-a><nospellcheck><key>Dredge <param-number>2</b></param-number></key></nospellcheck></kw-a> <i-auto>(If you would draw a card-Instead you may <kw-a><nospellcheck><key><param-mill>mill</param-mill> <param-one_word>two</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>. If you do-Return this card from your graveyard to your hand. Otherwise-Exile this card.)</i-auto>
+		Recover <kw-a><nospellcheck><key>Dredge <param-number>2</b></param-number></key></nospellcheck></kw-a> <i-auto>(If you would draw a card ⇨ Instead you may <kw-a><nospellcheck><key><param-mill>mill</param-mill> <param-one_word>two</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>. If you do ⇨ Return this card from your graveyard to your hand. Otherwise ⇨ Exile this card.)</i-auto>
 		Draw a card.
 	flavor_text: <i-flavor></i-flavor>
+	illustrator: Alexey Virus
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 

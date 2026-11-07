@@ -1,0 +1,37 @@
+﻿mse_version: 2.5.7
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 2
+		chop_bottom: 1
+		frames: puma
+		custom_border_source: 
+		other_options: auto nyx crowns
+		text_box_mana_symbols: magic-mana-large.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: https://www.artstation.com/artwork/3qd19A
+	time_created: 2026-11-01 13:24:47
+	time_modified: 2026-11-07 10:44:05
+	card_color: blue, green, artifact, multicolor, horizontal
+	name: The Golden Tree
+	casting_cost: GU
+	image: image258.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary ◌̵  Kindred, Artefact — ᵏConstruct, ᵏPlant</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en></word-list-race-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: mythic rare
+	rule_text: <i>Federation — Cohort</i> — <sym-auto>T</sym-auto>, Tap an untapped Ally which you control: Untap up to X target non-Artefact Creatures which you control, where X is the number of different Creature subtypes among |Creature and/or Kindred —  non-Borg| permanents which you control. Activate at sorcery speed.>
+	flavor_text: <i-flavor>“A monument for the past that I would like to forget, it upsets me. I wish I could bare my fists and grit my teeth and bring it down and we’d be able to forget, but there it stands, mocking us all for what used to be and is no more. A memory on life support.”</i-flavor>
+	illustrator: Timi Honkanen
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

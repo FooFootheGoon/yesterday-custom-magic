@@ -1,9 +1,18 @@
 ﻿mse_version: 2.5.7
 card:
-	has_styling: false
+	has_styling: true
+	styling_data:
+		chop_top: 1
+		chop_bottom: 1
+		frames: universes beyond
+		custom_border_source: 
+		other_options: auto nyx crowns
+		text_box_mana_symbols: magic-mana-large.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
 	notes: 
 	time_created: 2026-11-01 14:14:55
-	time_modified: 2026-11-02 00:22:58
+	time_modified: 2026-11-07 11:23:09
 	name: Pedri Nanezgani
 	casting_cost: 3B
 	image: 
@@ -22,6 +31,7 @@ card:
 		<kw-a><nospellcheck><key>Haunt</key></nospellcheck></kw-a> Odin Arrow <i-auto>(You can have two Commanders if the other is Odin. When Pedri dies: Exile him. As long as you own Odin in a public zone ↦ Pedri is Haunting him.)</i-auto>
 		Pedri and the Creature he Haunts each have “At the beginning of combat on your turn; End the turn”.
 	flavor_text: <i-flavor></i-flavor>
+	watermark: custom watermark one
 	power: 9
 	toughness: 9
 	card_code_text: 

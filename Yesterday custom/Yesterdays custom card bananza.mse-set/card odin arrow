@@ -1,9 +1,18 @@
 ﻿mse_version: 2.5.7
 card:
-	has_styling: false
+	has_styling: true
+	styling_data:
+		chop_top: 1
+		chop_bottom: 1
+		frames: universes beyond
+		custom_border_source: 
+		other_options: auto nyx crowns
+		text_box_mana_symbols: magic-mana-large.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
 	notes: 
 	time_created: 2026-11-01 14:14:17
-	time_modified: 2026-11-01 23:48:03
+	time_modified: 2026-11-07 11:23:04
 	name: Odin Arrow
 	casting_cost: 3U
 	image: 
@@ -22,6 +31,7 @@ card:
 		At the beginning of your end step; <kw-a><nospellcheck><key>Surveil <param-number>2</param-number></key></nospellcheck></kw-a>.
 		<sym-auto>1U</sym-auto>, <sym-auto>T</sym-auto>: Until end of turn—Objects in exile lose all abilities.
 	flavor_text: <i-flavor></i-flavor>
+	watermark: custom watermark one
 	power: 2
 	toughness: 2
 	card_code_text: 

@@ -85,6 +85,9 @@ styling:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
+	magic-m15-mainframe-planeswalker:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
 	magic-m15-mainframe-tokens:
 		shrink_name_text: 
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
@@ -383,7 +386,7 @@ include_file: card the gate to paradise
 include_file: card kizha the spiritual kindling
 include_file: card undercurrent
 include_file: card unco anglerbeast
-include_file: card five-alarm fire
+include_file: card four-alarm fire
 include_file: card concrete jungle assimilator
 include_file: card behemoth bloodsucker
 include_file: card pan pan the barbarian
@@ -504,7 +507,6 @@ include_file: card ox beast avatar
 include_file: card unmaking and remaking yourself as god
 include_file: card they what became bulwarks
 include_file: card achilles bartrax
-include_file: card wip  wand of wonder
 include_file: card melecles champion of athreos
 include_file: card kleptos champion of miatros
 include_file: card tasia champion of ephara
@@ -609,38 +611,38 @@ include_file: card herald of death
 include_file: card unpolished perfection
 include_file: card overbear the organic component
 include_file: card unleash the end-times
-include_file: card no-name.1
+include_file: card dive through
 include_file: card desecrated unity
-include_file: card no-name.2
+include_file: card no-name.1
 include_file: card revoltality
 include_file: card deconstructed drone
-include_file: card no-name.3
+include_file: card no-name.2
 include_file: card make an offering
 include_file: card invariant
 include_file: card the belief system
-include_file: card no-name.4
+include_file: card no-name.3
 include_file: card blood harvest
-include_file: card no-name.5
+include_file: card natural predator
 include_file: card adventure
 include_file: card vampire bat advisor
-include_file: card xxu
+include_file: card tarborn elemental
 include_file: card 6 feet under
-include_file: card no-name.6
+include_file: card the golden tree
 include_file: card gressa quickdraught witch
-include_file: card no-name.7
-include_file: card no-name.8
-include_file: card no-name.9
+include_file: card celestial miasmatic paint rage
+include_file: card herald of the unseen veil
+include_file: card no-name.4
 include_file: card musical charm
-include_file: card no-name.10
+include_file: card no-name.5
 include_file: card process of deconstruction
-include_file: card no-name.11
-include_file: card no-name.12
-include_file: card no-name.13
-include_file: card no-name.14
+include_file: card no-name.6
+include_file: card no-name.7
+include_file: card the starcatcher
+include_file: card no-name.8
 include_file: card the show must go on
-include_file: card no-name.15
-include_file: card no-name.16
-include_file: card no-name.17
+include_file: card no-name.9
+include_file: card no-name.10
+include_file: card no-name.11
 include_file: card reawaken and bend nature
 include_file: card unhola dreams of forgettance
 include_file: card creature of capaciousness
@@ -664,6 +666,12 @@ include_file: card odin arrow
 include_file: card pedri nanezgani
 include_file: card gil marverde
 include_file: card nevy nervine
+include_file: card no-name.12
+include_file: card no-name.13
+include_file: card no-name.14
+include_file: card no-name.15
+include_file: card no-name.16
+include_file: card no-name.17
 include_file: card no-name.18
 include_file: card no-name.19
 include_file: card no-name.20
@@ -672,29 +680,24 @@ include_file: card no-name.22
 include_file: card no-name.23
 include_file: card no-name.24
 include_file: card no-name.25
+include_file: card sigilcraft bloom
+include_file: card just a state change
 include_file: card no-name.26
 include_file: card no-name.27
-include_file: card no-name.28
-include_file: card no-name.29
-include_file: card no-name.30
-include_file: card no-name.31
-include_file: card no-name.32
-include_file: card no-name.33
-include_file: card no-name.34
-include_file: card no-name.35
 include_file: card devilish coat of arms
-include_file: card no-name.36
+include_file: card a world in perspective
 include_file: card oddly humanoid centipede
-include_file: card no-name.37
+include_file: card buffy the selfless cleric
 include_file: card the daily grind
 include_file: card showstopping en-raged kor
 include_file: card hex of the new moon
-include_file: card no-name.38
-include_file: card mirrorwing sphinx dragon
+include_file: card naga flame dancer
+include_file: card mirrorgem sphinx
 include_file: card ghost in the machine iii
 include_file: card brave new world
 include_file: card hypnotic naga
-include_file: card unstable summoning
+include_file: card unstable summon
+include_file: card kami of the energy flow
 keyword:
 	keyword: 
 	match: 

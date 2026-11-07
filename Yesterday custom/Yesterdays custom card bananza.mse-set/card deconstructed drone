@@ -1,9 +1,9 @@
 ﻿mse_version: 2.5.7
 card:
 	has_styling: false
-	notes: 
+	notes: https://alexeyvirus.artstation.com/projects/WX4a6y
 	time_created: 2026-11-01 12:52:41
-	time_modified: 2026-11-05 23:04:35
+	time_modified: 2026-11-07 11:51:07
 	card_color: blue, red, green, artifact, multicolor, horizontal
 	name: Deconstructed Drone
 	casting_cost: 1GUR
@@ -26,6 +26,7 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
 	toughness: 1
+	illustrator: Alexey Virus
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 

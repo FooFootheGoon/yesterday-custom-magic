@@ -1,9 +1,18 @@
 ﻿mse_version: 2.5.7
 card:
-	has_styling: false
+	has_styling: true
+	styling_data:
+		chop_top: 1
+		chop_bottom: 1
+		frames: universes beyond
+		custom_border_source: 
+		other_options: auto nyx crowns
+		text_box_mana_symbols: magic-mana-large.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
 	notes: 
 	time_created: 2026-11-01 14:04:29
-	time_modified: 2026-11-02 00:28:23
+	time_modified: 2026-11-07 11:21:55
 	name: Movue Love
 	casting_cost: 3GWU
 	image: 
@@ -22,6 +31,7 @@ card:
 		Musical permanents which you control, have “<sym-auto>1</sym-auto>: Until end of turn ↦ This permanent becomes the colour of your choice”.
 		As long as you contol a white Musical permanent ↦ Musical spells you cast cost <sym-auto>W</sym-auto> less to cast. The same is true for each other colour.
 	flavor_text: <i-flavor></i-flavor>
+	watermark: custom watermark one
 	power: 2
 	toughness: 2
 	card_code_text: 
